@@ -1,0 +1,897 @@
+- generic [active] [ref=e1]:
+  - navigation "Fandom top navigation" [ref=e2]:
+    - link "Fandom homepage" [ref=e3] [cursor=pointer]:
+      - /url: https://www.fandom.com/
+      - img [ref=e4]
+    - generic [ref=e7]:
+      - textbox "Search" [ref=e8]
+      - img [ref=e9]
+    - generic [ref=e11]:
+      - link "Sign In" [ref=e13] [cursor=pointer]:
+        - /url: https://auth.fandom.com/signin?source=mw&redirect=https%3A%2F%2Fdragon-adventures.fandom.com%2Fwiki%2FAlchemy
+      - link "Register" [ref=e15] [cursor=pointer]:
+        - /url: https://auth.fandom.com/register?source=mw&redirect=https%3A%2F%2Fdragon-adventures.fandom.com%2Fwiki%2FAlchemy
+  - generic "Community navigation" [ref=e16]:
+    - link "Fandom homepage" [ref=e18] [cursor=pointer]:
+      - /url: https://www.fandom.com/
+      - img [ref=e19]
+    - link "Dragon Adventures Wiki" [ref=e21] [cursor=pointer]:
+      - /url: https://dragon-adventures.fandom.com/wiki/Dragon_Adventures_Wiki
+      - img "Dragon Adventures Wiki" [ref=e22]
+    - navigation [ref=e23]:
+      - list [ref=e24]:
+        - listitem [ref=e25]:
+          - generic [ref=e26]:
+            - generic [ref=e27] [cursor=pointer]:
+              - img [ref=e28]
+              - generic [ref=e30]: Explore
+            - img "Expand" [ref=e31]
+        - listitem [ref=e33]:
+          - generic [ref=e34]:
+            - generic [ref=e36] [cursor=pointer]: Dragons
+            - img "Expand" [ref=e37]
+        - listitem [ref=e39]:
+          - generic [ref=e40]:
+            - generic [ref=e42] [cursor=pointer]: Worlds and Events
+            - img "Expand" [ref=e43]
+        - listitem [ref=e45]:
+          - generic [ref=e46]:
+            - generic [ref=e48] [cursor=pointer]: Game Information
+            - img "Expand" [ref=e49]
+        - listitem [ref=e51]:
+          - generic [ref=e52]:
+            - generic [ref=e54] [cursor=pointer]: Community Information
+            - img "Expand" [ref=e55]
+    - button "Open searchbar" [ref=e58] [cursor=pointer]:
+      - img [ref=e59]
+    - generic [ref=e61]:
+      - link "Discuss" [ref=e62] [cursor=pointer]:
+        - /url: /f
+        - img
+      - link "Switch to Light Theme" [ref=e63] [cursor=pointer]:
+        - /url: "#"
+        - img
+    - link "Sign In" [ref=e66] [cursor=pointer]:
+      - /url: https://auth.fandom.com/signin?source=mw&redirect=https%3A%2F%2Fdragon-adventures.fandom.com%2Fwiki%2FAlchemy
+      - generic [ref=e67]:
+        - img
+        - text: Sign In
+  - navigation "Fandom navigation" [ref=e70]:
+    - generic [ref=e71]:
+      - button "Menu" [ref=e73] [cursor=pointer]:
+        - generic [ref=e74]:
+          - img [ref=e76]
+          - generic [ref=e78]: Menu
+      - button "Explore" [ref=e80] [cursor=pointer]:
+        - generic [ref=e81]:
+          - img [ref=e83]
+          - generic [ref=e86]: Explore
+    - generic [ref=e88]:
+      - generic [ref=e89]: Recent
+      - generic [ref=e90]:
+        - link "Mutations" [ref=e93] [cursor=pointer]:
+          - /url: https://dragon-adventures.fandom.com/wiki/Mutations
+          - img "Mutations" [ref=e94]
+        - link "Potions" [ref=e97] [cursor=pointer]:
+          - /url: https://dragon-adventures.fandom.com/wiki/Potions
+          - img "Potions" [ref=e98]
+        - link "Trading" [ref=e101] [cursor=pointer]:
+          - /url: https://dragon-adventures.fandom.com/wiki/Trading
+          - img "Trading" [ref=e102]
+        - link "Stables" [ref=e105] [cursor=pointer]:
+          - /url: https://dragon-adventures.fandom.com/wiki/Stables
+          - img "Stables" [ref=e106]
+        - link "Dragon Seasons" [ref=e109] [cursor=pointer]:
+          - /url: https://dragon-adventures.fandom.com/wiki/Dragon_Seasons
+          - img "Dragon Seasons" [ref=e110]
+    - button "More" [ref=e112] [cursor=pointer]:
+      - generic [ref=e113]:
+        - img [ref=e115]
+        - generic [ref=e117]: More
+  - generic [ref=e118]:
+    - generic [ref=e122]: Advertisement
+    - generic [ref=e124]:
+      - link "Skip to content" [ref=e125] [cursor=pointer]:
+        - /url: "#page-header"
+      - banner [ref=e127]:
+        - link "Dragon Adventures Wiki" [ref=e128] [cursor=pointer]:
+          - /url: https://dragon-adventures.fandom.com/wiki/Dragon_Adventures_Wiki
+          - img "Dragon Adventures Wiki" [ref=e129]
+        - generic [ref=e130]:
+          - link "Dragon Adventures Wiki" [ref=e132] [cursor=pointer]:
+            - /url: https://dragon-adventures.fandom.com/wiki/Dragon_Adventures_Wiki
+          - generic [ref=e133]:
+            - generic [ref=e134]: "828"
+            - generic [ref=e135]: pages
+          - generic [ref=e136]:
+            - link "Discuss" [ref=e137] [cursor=pointer]:
+              - /url: /f
+              - img
+            - link "Switch to Light Theme" [ref=e138] [cursor=pointer]:
+              - /url: "#"
+              - img
+        - navigation [ref=e139]:
+          - list [ref=e140]:
+            - listitem [ref=e141]:
+              - generic [ref=e142]:
+                - generic [ref=e143] [cursor=pointer]:
+                  - img [ref=e144]
+                  - generic [ref=e146]: Explore
+                - img "Expand" [ref=e147]
+            - listitem [ref=e149]:
+              - generic [ref=e150]:
+                - generic [ref=e152] [cursor=pointer]: Dragons
+                - img "Expand" [ref=e153]
+            - listitem [ref=e155]:
+              - generic [ref=e156]:
+                - generic [ref=e158] [cursor=pointer]: Worlds and Events
+                - img "Expand" [ref=e159]
+            - listitem [ref=e161]:
+              - generic [ref=e162]:
+                - generic [ref=e164] [cursor=pointer]: Game Information
+                - img "Expand" [ref=e165]
+            - listitem [ref=e167]:
+              - generic [ref=e168]:
+                - generic [ref=e170] [cursor=pointer]: Community Information
+                - img "Expand" [ref=e171]
+      - generic [ref=e173]:
+        - main [ref=e174]:
+          - link "View source" [ref=e177] [cursor=pointer]:
+            - /url: /wiki/Alchemy?action=edit
+            - img [ref=e178]
+          - generic [ref=e180]:
+            - generic [ref=e183]:
+              - text: "in:"
+              - link "Features" [ref=e184] [cursor=pointer]:
+                - /url: /wiki/Category:Features
+              - text: ","
+              - link "Information" [ref=e185] [cursor=pointer]:
+                - /url: /wiki/Category:Information
+            - generic [ref=e186]:
+              - heading "Alchemy" [level=1] [ref=e188]
+              - generic [ref=e189]:
+                - link "Comments" [ref=e190] [cursor=pointer]:
+                  - /url: "#articleComments"
+                  - generic [ref=e191]: "6"
+                  - img
+                - link "View source" [ref=e192] [cursor=pointer]:
+                  - /url: /wiki/Alchemy?action=edit
+                  - img
+                  - text: View source
+                - button "Page Tools" [ref=e194]:
+                  - img
+          - generic [ref=e199]:
+            - figure "The Alchemy Junkers Potion Brewing Co. building in Origins." [ref=e200]:
+              - link "The Alchemy Junkers Potion Brewing Co. building in Origins. view image" [ref=e201] [cursor=pointer]:
+                - /url: https://static.wikia.nocookie.net/dragon-adventures/images/1/11/Alchemy_stand.jpg/revision/latest?cb=20210504023440
+                - img "The Alchemy Junkers Potion Brewing Co. building in Origins." [ref=e202]
+                - generic "view image" [ref=e205]:
+                  - img [ref=e206]
+              - paragraph [ref=e209]: The Alchemy Junkers Potion Brewing Co. building in Origins.
+            - paragraph [ref=e210]:
+              - text: Alchemy is a feature that allows players to create
+              - link "potions" [ref=e211] [cursor=pointer]:
+                - /url: /wiki/Potions
+              - text: through recycling
+              - link "food" [ref=e212] [cursor=pointer]:
+                - /url: /wiki/Food
+              - text: ","
+              - link "resources" [ref=e213] [cursor=pointer]:
+                - /url: /wiki/Resources
+              - text: ", or other potions. Its associated building, \"Alchemy Junkers,\" can be found to the left of the"
+              - link "Spinner Wheel" [ref=e214] [cursor=pointer]:
+                - /url: /wiki/Spinner_Wheel
+              - text: in
+              - link "Origins" [ref=e215] [cursor=pointer]:
+                - /url: /wiki/Origins
+              - text: .
+            - paragraph [ref=e216]:
+              - text: In the Factory, items can be salvaged to create Alchemy Elixir. The number of resources required for a single Elixir is relative to the item's rarity. Alchemy Elixir can also be obtained through
+              - link "Dragon Season" [ref=e217] [cursor=pointer]:
+                - /url: /wiki/Dragon_Seasons
+              - text: and
+              - link "Daily Login" [ref=e218] [cursor=pointer]:
+                - /url: /wiki/Daily_Login
+              - text: rewards, as well as silver and gold
+              - link "chests" [ref=e219] [cursor=pointer]:
+                - /url: /wiki/Chests
+              - text: .
+            - paragraph [ref=e220]:
+              - text: At the Brewery, there are always ten different potions available for players to brew. Each potion requires a specific amount of Alchemy Elixir, with rarer potions requiring larger amounts. Additionally, all potions require an Empty Bottle, which can be obtained through
+              - link "Weekly Missions" [ref=e221] [cursor=pointer]:
+                - /url: /wiki/Weekly_Missions
+              - text: ", Dragon Season and Daily Login rewards, and silver and gold chests. Alternatively, four empty bottles may be purchased for 350 Robux at the Brewery."
+            - paragraph [ref=e222]:
+              - text: The potions in the Brewery rotate every twenty-four hours along with local chests,
+              - link "Daily Missions" [ref=e223] [cursor=pointer]:
+                - /url: /wiki/Daily_Missions
+              - text: ", and the Spinner Wheel."
+            - figure "The Brewery tab. Ten potions are available to brew each day." [ref=e224]:
+              - link "The Brewery tab. Ten potions are available to brew each day. view image" [ref=e225] [cursor=pointer]:
+                - /url: https://static.wikia.nocookie.net/dragon-adventures/images/2/22/Pts.png/revision/latest?cb=20220106212048
+                - img "The Brewery tab. Ten potions are available to brew each day." [ref=e226]
+                - generic "view image" [ref=e229]:
+                  - img [ref=e230]
+              - paragraph [ref=e233]: The Brewery tab. Ten potions are available to brew each day.
+            - table "Alchemy Rarity & Salvage Chart" [ref=e234]:
+              - caption [ref=e235]: Alchemy Rarity & Salvage Chart
+              - rowgroup [ref=e236]:
+                - row "Rarity Amount Salvaged for Elixir" [ref=e237]:
+                  - columnheader "Rarity" [ref=e238]
+                  - columnheader "Amount Salvaged for Elixir" [ref=e239]
+                - row "Common 250" [ref=e240]:
+                  - cell "Common" [ref=e241]
+                  - cell "250" [ref=e242]
+                - row "Uncommon 50" [ref=e243]:
+                  - cell "Uncommon" [ref=e244]
+                  - cell "50" [ref=e245]
+                - row "Rare 25" [ref=e246]:
+                  - cell "Rare" [ref=e247]
+                  - cell "25" [ref=e248]
+                - row "Epic 10" [ref=e249]:
+                  - cell "Epic" [ref=e250]
+                  - cell "10" [ref=e251]
+                - row "Legendary 1" [ref=e252]:
+                  - cell "Legendary" [ref=e253]
+                  - cell "1" [ref=e254]
+            - heading "Titles" [level=2] [ref=e255]: Titles
+            - figure "The three Alchemy titles in the Titles menu." [ref=e256]:
+              - link "The three Alchemy titles in the Titles menu. view image" [ref=e257] [cursor=pointer]:
+                - /url: https://static.wikia.nocookie.net/dragon-adventures/images/6/66/Titles.png/revision/latest?cb=20210504023201
+                - img "The three Alchemy titles in the Titles menu." [ref=e258]
+                - generic "view image" [ref=e261]:
+                  - img [ref=e262]
+              - paragraph [ref=e265]: The three Alchemy titles in the Titles menu.
+            - paragraph [ref=e266]:
+              - text: Three
+              - link "titles" [ref=e267] [cursor=pointer]:
+                - /url: /wiki/Titles
+              - text: "can be obtained by players from brewing potions with Alchemy:"
+            - list [ref=e268]:
+              - listitem [ref=e269]: 100 Potions Brewed - Apprentice Alchemist
+              - listitem [ref=e270]: 500 Potions Brewed - Adept Alchemist
+              - listitem [ref=e271]: 1,000 Potions Brewed - Supreme Alchemist
+            - heading "Potions" [level=2] [ref=e272]: Potions
+            - figure "The Factory Tab. It displays the number of resources required for a single Elixir." [ref=e273]:
+              - link "The Factory Tab. It displays the number of resources required for a single Elixir. view image" [ref=e274] [cursor=pointer]:
+                - /url: https://static.wikia.nocookie.net/dragon-adventures/images/e/e9/Elixirpotsthing.png/revision/latest?cb=20220106212609
+                - img "The Factory Tab. It displays the number of resources required for a single Elixir." [ref=e275]
+                - generic "view image" [ref=e278]:
+                  - img [ref=e279]
+              - paragraph [ref=e282]: The Factory Tab. It displays the number of resources required for a single Elixir.
+            - paragraph [ref=e283]:
+              - text: Only non-Robux
+              - link "potions" [ref=e284] [cursor=pointer]:
+                - /url: /wiki/Potions
+              - text: that can be bought from the General Store and the Mutation Cure Potion can be brewed at Alchemy.
+            - table [ref=e285]:
+              - rowgroup [ref=e286]:
+                - row "Icon Potion Name Elixir Cost" [ref=e287]:
+                  - columnheader "Icon" [ref=e288]
+                  - columnheader "Potion Name" [ref=e289]
+                  - columnheader "Elixir Cost" [ref=e290]
+                - row "Material Shuffle Potion Icon Material Shuffle Potion Elixir5" [ref=e291]:
+                  - rowheader "Material Shuffle Potion Icon" [ref=e292]:
+                    - link "Material Shuffle Potion Icon" [ref=e294] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/4/49/Material_Shuffle_Potion_Icon.png/revision/latest?cb=20260131015104
+                      - img "Material Shuffle Potion Icon" [ref=e295]
+                  - cell "Material Shuffle Potion" [ref=e296]:
+                    - link "Material Shuffle Potion" [ref=e297] [cursor=pointer]:
+                      - /url: /wiki/Material_Shuffle_Potion
+                  - cell "Elixir5" [ref=e298]:
+                    - link "Elixir" [ref=e300] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/4/43/Elixir.png/revision/latest?cb=20230913032045
+                      - img "Elixir" [ref=e301]
+                    - text: "5"
+                - row "Primary Material Potion Icon Primary Material Potion Elixir15" [ref=e302]:
+                  - rowheader "Primary Material Potion Icon" [ref=e303]:
+                    - link "Primary Material Potion Icon" [ref=e305] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/d/da/Primary_Material_Potion_Icon.png/revision/latest?cb=20260131015106
+                      - img "Primary Material Potion Icon" [ref=e306]
+                  - cell "Primary Material Potion" [ref=e307]:
+                    - link "Primary Material Potion" [ref=e308] [cursor=pointer]:
+                      - /url: /wiki/Primary_Material_Potion
+                  - cell "Elixir15" [ref=e309]:
+                    - link "Elixir" [ref=e311] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/4/43/Elixir.png/revision/latest?cb=20230913032045
+                      - img "Elixir" [ref=e312]
+                    - text: "15"
+                - row "Secondary Material Potion Icon Secondary Material Potion Elixir15" [ref=e313]:
+                  - rowheader "Secondary Material Potion Icon" [ref=e314]:
+                    - link "Secondary Material Potion Icon" [ref=e316] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/0/01/Secondary_Material_Potion_Icon.png/revision/latest?cb=20260131015108
+                      - img "Secondary Material Potion Icon" [ref=e317]
+                  - cell "Secondary Material Potion" [ref=e318]:
+                    - link "Secondary Material Potion" [ref=e319] [cursor=pointer]:
+                      - /url: /wiki/Secondary_Material_Potion
+                  - cell "Elixir15" [ref=e320]:
+                    - link "Elixir" [ref=e322] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/4/43/Elixir.png/revision/latest?cb=20230913032045
+                      - img "Elixir" [ref=e323]
+                    - text: "15"
+                - row "Tertiary Material Potion Icon Tertiary Material Potion Elixir15" [ref=e324]:
+                  - rowheader "Tertiary Material Potion Icon" [ref=e325]:
+                    - link "Tertiary Material Potion Icon" [ref=e327] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/3/31/Tertiary_Material_Potion_Icon.png/revision/latest?cb=20260131015110
+                      - img "Tertiary Material Potion Icon" [ref=e328]
+                  - cell "Tertiary Material Potion" [ref=e329]:
+                    - link "Tertiary Material Potion" [ref=e330] [cursor=pointer]:
+                      - /url: /wiki/Tertiary_Material_Potion
+                  - cell "Elixir15" [ref=e331]:
+                    - link "Elixir" [ref=e333] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/4/43/Elixir.png/revision/latest?cb=20230913032045
+                      - img "Elixir" [ref=e334]
+                    - text: "15"
+                - row "Material Order Potion Material Order Potion Elixir5" [ref=e335]:
+                  - rowheader "Material Order Potion" [ref=e336]:
+                    - link "Material Order Potion" [ref=e338] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/0/0b/Material_Order_Potion.png/revision/latest?cb=20251116043747
+                      - img "Material Order Potion" [ref=e339]
+                  - cell "Material Order Potion" [ref=e340]:
+                    - link "Material Order Potion" [ref=e341] [cursor=pointer]:
+                      - /url: /wiki/Material_Order_Potion
+                  - cell "Elixir5" [ref=e342]:
+                    - link "Elixir" [ref=e344] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/4/43/Elixir.png/revision/latest?cb=20230913032045
+                      - img "Elixir" [ref=e345]
+                    - text: "5"
+                - row "Color Shuffle Potion Icon Color Shuffle Potion Elixir5" [ref=e346]:
+                  - rowheader "Color Shuffle Potion Icon" [ref=e347]:
+                    - link "Color Shuffle Potion Icon" [ref=e349] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/e/e4/Color_Shuffle_Potion_Icon.png/revision/latest?cb=20260131015113
+                      - img "Color Shuffle Potion Icon" [ref=e350]
+                  - cell "Color Shuffle Potion" [ref=e351]:
+                    - link "Color Shuffle Potion" [ref=e352] [cursor=pointer]:
+                      - /url: /wiki/Color_Shuffle_Potion
+                  - cell "Elixir5" [ref=e353]:
+                    - link "Elixir" [ref=e355] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/4/43/Elixir.png/revision/latest?cb=20230913032045
+                      - img "Elixir" [ref=e356]
+                    - text: "5"
+                - row "Primary Color Potion Icon Primary Color Potion Elixir15" [ref=e357]:
+                  - rowheader "Primary Color Potion Icon" [ref=e358]:
+                    - link "Primary Color Potion Icon" [ref=e360] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/9/9a/Primary_Color_Potion_Icon.png/revision/latest?cb=20260131015115
+                      - img "Primary Color Potion Icon" [ref=e361]
+                  - cell "Primary Color Potion" [ref=e362]:
+                    - link "Primary Color Potion" [ref=e363] [cursor=pointer]:
+                      - /url: /wiki/Primary_Color_Potion
+                  - cell "Elixir15" [ref=e364]:
+                    - link "Elixir" [ref=e366] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/4/43/Elixir.png/revision/latest?cb=20230913032045
+                      - img "Elixir" [ref=e367]
+                    - text: "15"
+                - row "Secondary Color Potion Icon Secondary Color Potion Elixir15" [ref=e368]:
+                  - rowheader "Secondary Color Potion Icon" [ref=e369]:
+                    - link "Secondary Color Potion Icon" [ref=e371] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/1/10/Secondary_Color_Potion_Icon.png/revision/latest?cb=20260131015118
+                      - img "Secondary Color Potion Icon" [ref=e372]
+                  - cell "Secondary Color Potion" [ref=e373]:
+                    - link "Secondary Color Potion" [ref=e374] [cursor=pointer]:
+                      - /url: /wiki/Secondary_Color_Potion
+                  - cell "Elixir15" [ref=e375]:
+                    - link "Elixir" [ref=e377] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/4/43/Elixir.png/revision/latest?cb=20230913032045
+                      - img "Elixir" [ref=e378]
+                    - text: "15"
+                - row "Tertiary Color Potion Icon Tertiary Color Potion Elixir15" [ref=e379]:
+                  - rowheader "Tertiary Color Potion Icon" [ref=e380]:
+                    - link "Tertiary Color Potion Icon" [ref=e382] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/6/68/Tertiary_Color_Potion_Icon.png/revision/latest?cb=20260131015120
+                      - img "Tertiary Color Potion Icon" [ref=e383]
+                  - cell "Tertiary Color Potion" [ref=e384]:
+                    - link "Tertiary Color Potion" [ref=e385] [cursor=pointer]:
+                      - /url: /wiki/Tertiary_Color_Potion
+                  - cell "Elixir15" [ref=e386]:
+                    - link "Elixir" [ref=e388] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/4/43/Elixir.png/revision/latest?cb=20230913032045
+                      - img "Elixir" [ref=e389]
+                    - text: "15"
+                - row "Color Order Potion Color Order Potion Elixir5" [ref=e390]:
+                  - rowheader "Color Order Potion" [ref=e391]:
+                    - link "Color Order Potion" [ref=e393] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/2/23/Color_Order_Potion.png/revision/latest?cb=20251116031629
+                      - img "Color Order Potion" [ref=e394]
+                  - cell "Color Order Potion" [ref=e395]:
+                    - link "Color Order Potion" [ref=e396] [cursor=pointer]:
+                      - /url: /wiki/Color_Order_Potion
+                  - cell "Elixir5" [ref=e397]:
+                    - link "Elixir" [ref=e399] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/4/43/Elixir.png/revision/latest?cb=20230913032045
+                      - img "Elixir" [ref=e400]
+                    - text: "5"
+                - row "Pupil Potion Pupil Potion Elixir25" [ref=e401]:
+                  - rowheader "Pupil Potion" [ref=e402]:
+                    - link "Pupil Potion" [ref=e404] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f3/Pupil_Potion.png/revision/latest?cb=20260131013626
+                      - img "Pupil Potion" [ref=e405]
+                  - cell "Pupil Potion" [ref=e406]:
+                    - link "Pupil Potion" [ref=e407] [cursor=pointer]:
+                      - /url: /wiki/Pupil_Potion
+                  - cell "Elixir25" [ref=e408]:
+                    - link "Elixir" [ref=e410] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/4/43/Elixir.png/revision/latest?cb=20230913032045
+                      - img "Elixir" [ref=e411]
+                    - text: "25"
+                - row "Basic Elemental Potion Basic Elemental Potion Elixir5" [ref=e412]:
+                  - rowheader "Basic Elemental Potion" [ref=e413]:
+                    - link "Basic Elemental Potion" [ref=e415] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/5/57/Basic_Elemental_Potion.png/revision/latest?cb=20260131013622
+                      - img "Basic Elemental Potion" [ref=e416]
+                  - cell "Basic Elemental Potion" [ref=e417]:
+                    - link "Basic Elemental Potion" [ref=e418] [cursor=pointer]:
+                      - /url: /wiki/Basic_Elemental_Potion
+                  - cell "Elixir5" [ref=e419]:
+                    - link "Elixir" [ref=e421] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/4/43/Elixir.png/revision/latest?cb=20230913032045
+                      - img "Elixir" [ref=e422]
+                    - text: "5"
+                - row "Personality Potion Personality Potion Elixir25" [ref=e423]:
+                  - rowheader "Personality Potion" [ref=e424]:
+                    - link "Personality Potion" [ref=e426] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/8/82/Personality_Potion.png/revision/latest?cb=20260131013632
+                      - img "Personality Potion" [ref=e427]
+                  - cell "Personality Potion" [ref=e428]
+                  - cell "Elixir25" [ref=e429]:
+                    - link "Elixir" [ref=e431] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/4/43/Elixir.png/revision/latest?cb=20230913032045
+                      - img "Elixir" [ref=e432]
+                    - text: "25"
+                - row "Mutation Potion Mutation Potion Elixir250" [ref=e433]:
+                  - rowheader "Mutation Potion" [ref=e434]:
+                    - link "Mutation Potion" [ref=e436] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/e/ec/Mutation_Potion.png/revision/latest?cb=20260131015048
+                      - img "Mutation Potion" [ref=e437]
+                  - cell "Mutation Potion" [ref=e438]
+                  - cell "Elixir250" [ref=e439]:
+                    - link "Elixir" [ref=e441] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/4/43/Elixir.png/revision/latest?cb=20230913032045
+                      - img "Elixir" [ref=e442]
+                    - text: "250"
+                - row "Mutation Cure Potion Mutation Cure Potion Elixir250" [ref=e443]:
+                  - rowheader "Mutation Cure Potion" [ref=e444]:
+                    - link "Mutation Cure Potion" [ref=e446] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/e/eb/Mutation_Cure_Potion.png/revision/latest?cb=20260131015122
+                      - img "Mutation Cure Potion" [ref=e447]
+                  - cell "Mutation Cure Potion" [ref=e448]
+                  - cell "Elixir250" [ref=e449]:
+                    - link "Elixir" [ref=e451] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/4/43/Elixir.png/revision/latest?cb=20230913032045
+                      - img "Elixir" [ref=e452]
+                    - text: "250"
+                - row "Arctic Material Potion Arctic Material Potion Elixir100" [ref=e453]:
+                  - rowheader "Arctic Material Potion" [ref=e454]:
+                    - link "Arctic Material Potion" [ref=e456] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/b/b0/Arctic_Material_Potion.png/revision/latest?cb=20260131013614
+                      - img "Arctic Material Potion" [ref=e457]
+                  - cell "Arctic Material Potion" [ref=e458]:
+                    - link "Arctic Material Potion" [ref=e459] [cursor=pointer]:
+                      - /url: /wiki/Arctic_Material_Potion
+                  - cell "Elixir100" [ref=e460]:
+                    - link "Elixir" [ref=e462] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/4/43/Elixir.png/revision/latest?cb=20230913032045
+                      - img "Elixir" [ref=e463]
+                    - text: "100"
+                - row "Arid Material Potion Arid Material Potion Elixir100" [ref=e464]:
+                  - rowheader "Arid Material Potion" [ref=e465]:
+                    - link "Arid Material Potion" [ref=e467] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/b/b9/Arid_Material_Potion.png/revision/latest?cb=20260131013616
+                      - img "Arid Material Potion" [ref=e468]
+                  - cell "Arid Material Potion" [ref=e469]:
+                    - link "Arid Material Potion" [ref=e470] [cursor=pointer]:
+                      - /url: /wiki/Arid_Material_Potion
+                  - cell "Elixir100" [ref=e471]:
+                    - link "Elixir" [ref=e473] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/4/43/Elixir.png/revision/latest?cb=20230913032045
+                      - img "Elixir" [ref=e474]
+                    - text: "100"
+                - row "Ash Material Potion Ash Material Potion Elixir100" [ref=e475]:
+                  - rowheader "Ash Material Potion" [ref=e476]:
+                    - link "Ash Material Potion" [ref=e478] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/5/53/Ash_Material_Potion.png/revision/latest?cb=20260131013617
+                      - img "Ash Material Potion" [ref=e479]
+                  - cell "Ash Material Potion" [ref=e480]:
+                    - link "Ash Material Potion" [ref=e481] [cursor=pointer]:
+                      - /url: /wiki/Ash_Material_Potion
+                  - cell "Elixir100" [ref=e482]:
+                    - link "Elixir" [ref=e484] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/4/43/Elixir.png/revision/latest?cb=20230913032045
+                      - img "Elixir" [ref=e485]
+                    - text: "100"
+                - row "Cosmetic Trait Removal Potion Cosmetic Trait Removal Potion Elixir90" [ref=e486]:
+                  - rowheader "Cosmetic Trait Removal Potion" [ref=e487]:
+                    - link "Cosmetic Trait Removal Potion" [ref=e489] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/a/a6/Cosmetic_Trait_Removal_Potion.png/revision/latest?cb=20260102220431
+                      - img "Cosmetic Trait Removal Potion" [ref=e490]
+                  - cell "Cosmetic Trait Removal Potion" [ref=e491]:
+                    - link "Cosmetic Trait Removal Potion" [ref=e492] [cursor=pointer]:
+                      - /url: /wiki/Cosmetic_Trait_Removal_Potion
+                  - cell "Elixir90" [ref=e493]:
+                    - link "Elixir" [ref=e495] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/4/43/Elixir.png/revision/latest?cb=20230913032045
+                      - img "Elixir" [ref=e496]
+                    - text: "90"
+            - heading "Trivia" [level=2] [ref=e497]: Trivia
+            - list [ref=e498]:
+              - listitem [ref=e499]:
+                - text: Alchemy was introduced alongside the third rendition of the Origins
+                - link "world" [ref=e500] [cursor=pointer]:
+                  - /url: /wiki/Worlds
+                - text: .
+              - listitem [ref=e501]:
+                - text: During a
+                - link "Guild War" [ref=e502] [cursor=pointer]:
+                  - /url: /wiki/Guild_Wars
+                - text: ", one of the tasks for players is to alchemy 40 Elixir in the Factory. This task can be completed up to three times, granting 10 Guild Points each. The following list shows the number of resources needed by rarity:"
+                - list [ref=e503]:
+                  - listitem [ref=e504]: 10,000 common resources.
+                  - listitem [ref=e505]: 2,000 uncommon resources.
+                  - listitem [ref=e506]: 1,000 rare resources.
+                  - listitem [ref=e507]: 400 epic resources.
+                  - listitem [ref=e508]: 120 legendary resources.
+            - generic [ref=e509]:
+              - paragraph
+              - generic [ref=e510]: Please refrain from posting your trading offers on this page!
+              - paragraph [ref=e512]:
+                - text: Instead, post them to our
+                - link "discussions" [ref=e513] [cursor=pointer]:
+                  - /url: https://dragon-adventures.fandom.com/f
+                - text: section under the correct category.
+                - text: A list of our categories and what they're used for can be found on the
+                - link "Wiki Rules and Guidelines" [ref=e514] [cursor=pointer]:
+                  - /url: /wiki/Wiki_Rules_and_Guidelines
+                - text: page.
+          - generic [ref=e515]:
+            - generic "Toggle Categories" [ref=e516]:
+              - generic [ref=e517] [cursor=pointer]:
+                - text: Categories
+                - img [ref=e518]
+            - generic [ref=e520]:
+              - text: Community content is available under
+              - link "CC-BY-SA" [ref=e521] [cursor=pointer]:
+                - /url: https://www.fandom.com/licensing
+              - text: unless otherwise noted.
+            - generic [ref=e522]:
+              - generic [ref=e523]:
+                - generic [ref=e524]: More Fandoms
+                - list [ref=e526]:
+                  - listitem [ref=e527]:
+                    - link "Fantasy" [ref=e528] [cursor=pointer]:
+                      - /url: https://www.fandom.com/fancentral/fantasy
+              - generic [ref=e530]:
+                - paragraph [ref=e724]: 6 Comments
+                - generic [ref=e533]:
+                  - img [ref=e726]
+                  - heading "Join the conversation" [level=3] [ref=e728]
+                  - heading "Sign in to read what others are saying and share your thoughts." [level=4] [ref=e729]
+                  - link "SIGN IN" [ref=e730] [cursor=pointer]:
+                    - /url: /login?metadata=anonymous-article-comments-login-source&redirect=https%3A%2F%2Fdragon-adventures.fandom.com%2Fwiki%2FAlchemy%3Fanon-comments-auth-source%3Dlogin%23articleComments
+                  - paragraph [ref=e731]:
+                    - text: Don't have account?
+                    - link "Register now" [ref=e732] [cursor=pointer]:
+                      - /url: /register?metadata=anonymous-article-comments-register-source&redirect=https%3A%2F%2Fdragon-adventures.fandom.com%2Fwiki%2FAlchemy%3Fanon-comments-auth-source%3Dregister%23articleComments
+        - complementary [ref=e539]:
+          - generic [ref=e541]:
+            - generic [ref=e542]:
+              - iframe [ref=e543]:
+                - generic [ref=f215e1]:
+                  - generic [ref=f215e2]:
+                    - link [ref=f215e3] [cursor=pointer]:
+                      - /url: https://discord.com?utm_source=Discord%20Widget&utm_medium=Logo
+                    - generic [ref=f215e4]:
+                      - strong [ref=f215e5]: "101"
+                      - text: Members Online
+                  - generic [ref=f215e7]:
+                    - generic [ref=f215e8]: Members Online
+                    - generic [ref=f215e9]:
+                      - generic [ref=f215e13]: Activeeeeee
+                      - generic [ref=f215e14]:
+                        - generic [ref=f215e17]: Ak.
+                        - generic [ref=f215e18]: Modrinth
+                      - generic [ref=f215e19]:
+                        - generic [ref=f215e22]: AkDaQa
+                        - generic [ref=f215e23]: Valheim (Game Preview)
+                      - generic [ref=f215e27]: apostle of hate
+                      - generic [ref=f215e31]: Artistical Jenius
+                      - generic [ref=f215e35]: AutoReacter
+                      - generic [ref=f215e39]: BarbwireBats
+                      - generic [ref=f215e43]: Beeboibuzz1200
+                      - generic [ref=f215e47]: bipi
+                      - generic [ref=f215e51]: Bluble1234 [Lvl. 29]
+                      - generic [ref=f215e55]: Chip88898
+                      - generic [ref=f215e59]: CookieDoom
+                      - generic [ref=f215e63]: Cynderrina
+                      - generic [ref=f215e64]:
+                        - generic [ref=f215e67]: DatOneWolfeh
+                        - generic [ref=f215e68]: Roblox
+                      - generic [ref=f215e72]: Dirag
+                      - generic [ref=f215e73]:
+                        - generic [ref=f215e76]: e...
+                        - generic [ref=f215e77]: Roblox
+                      - generic [ref=f215e81]: ELYSIAFAN69
+                      - generic [ref=f215e82]:
+                        - generic [ref=f215e85]: Em
+                        - generic [ref=f215e86]: Roblox
+                      - generic [ref=f215e90]: Embed Generator
+                      - generic [ref=f215e94]: EmiliosZK
+                      - generic [ref=f215e98]: Engauge
+                      - generic [ref=f215e102]: erpggf
+                      - generic [ref=f215e106]: Fibo
+                      - generic [ref=f215e110]: FireIceSale
+                      - generic [ref=f215e111]:
+                        - generic [ref=f215e114]: ghorgh
+                        - generic [ref=f215e115]: Roblox
+                      - generic [ref=f215e119]: GhostBrimstone
+                      - generic [ref=f215e123]: GorePaws
+                      - generic [ref=f215e127]: I am random lolz
+                      - generic [ref=f215e131]: Immortality
+                      - generic [ref=f215e135]: IncandescentDreams
+                      - generic [ref=f215e139]: ItzDaVicky
+                      - generic [ref=f215e143]: ivekret.
+                      - generic [ref=f215e147]: Junaiperrrrr
+                      - generic [ref=f215e151]: KapustaLangusta [Lvl. 2]
+                      - generic [ref=f215e155]: Kenzeren
+                      - generic [ref=f215e159]: Kiarav
+                      - generic [ref=f215e160]:
+                        - generic [ref=f215e163]: Kio
+                        - generic [ref=f215e164]: Roblox
+                      - generic [ref=f215e168]: Kqedeee
+                      - generic [ref=f215e172]: Lommiko
+                      - generic [ref=f215e176]: Looky
+                      - generic [ref=f215e180]: Luuuuuuuup.
+                      - generic [ref=f215e184]: Manow
+                      - generic [ref=f215e188]: MerianTheNighthunter [Lvl. 1]
+                      - generic [ref=f215e189]:
+                        - generic [ref=f215e192]: Miku_kratos
+                        - generic [ref=f215e193]: WWE 2K24
+                      - generic [ref=f215e197]: Minnipanther
+                      - generic [ref=f215e201]: mium
+                      - generic [ref=f215e205]: Mizurrin
+                      - generic [ref=f215e209]: Mizzuchi [Lvl. 1]
+                      - generic [ref=f215e213]: Nabi 🦋
+                      - generic [ref=f215e217]: Nerys
+                      - generic [ref=f215e218]:
+                        - generic [ref=f215e221]: Nettitheyetti14
+                        - generic [ref=f215e222]: Minecraft
+                      - generic [ref=f215e226]: nonchalant mhtsakos
+                      - generic [ref=f215e230]: ObsidianSunset
+                      - generic [ref=f215e234]: OKA ITF VmanSam
+                      - generic [ref=f215e238]: Pharmakon
+                      - generic [ref=f215e242]: PressXToDad
+                      - generic [ref=f215e246]: pretzel
+                      - generic [ref=f215e250]: Reaction Roles
+                      - generic [ref=f215e251]:
+                        - generic [ref=f215e254]: Roblox Verification
+                        - generic [ref=f215e255]: /invite | blox.link
+                      - generic [ref=f215e259]: Rocktzys
+                      - generic [ref=f215e263]: Ryuu581
+                      - generic [ref=f215e267]: Sapphire
+                      - generic [ref=f215e271]: Senfino
+                      - generic [ref=f215e275]: SharkenedSchizo
+                      - generic [ref=f215e279]: Sharknautica
+                      - generic [ref=f215e283]: Shunt
+                      - generic [ref=f215e287]: Simon🍁
+                      - generic [ref=f215e291]: SinisterEternity
+                      - generic [ref=f215e295]: Sodapf
+                      - generic [ref=f215e299]: SoLovelyYes
+                      - generic [ref=f215e303]: Spacify
+                      - generic [ref=f215e307]: spiatf
+                      - generic [ref=f215e311]: sudal
+                      - generic [ref=f215e315]: Tac4y0n
+                      - generic [ref=f215e319]: TheMissusOfA
+                      - generic [ref=f215e320]:
+                        - generic [ref=f215e323]: Tickets
+                        - generic [ref=f215e324]: with 758630 tickets
+                      - generic [ref=f215e328]: Tickets v2
+                      - generic [ref=f215e332]: Toppaleaf [Lvl. 0]
+                      - generic [ref=f215e336]: tsaagen
+                      - generic [ref=f215e340]: Twistee77
+                      - generic [ref=f215e344]: Uheailes
+                      - generic [ref=f215e348]: ViviVesper
+                      - generic [ref=f215e352]: Waifumipha4
+                      - generic [ref=f215e356]: Waize
+                      - generic [ref=f215e360]: Wiki-Bot
+                      - generic [ref=f215e364]: Xarusaur
+                      - generic [ref=f215e368]: Xiwa
+                      - generic [ref=f215e369]:
+                        - generic [ref=f215e372]: XthxGhostedd
+                        - generic [ref=f215e373]: Roblox
+                      - generic [ref=f215e377]: Xuriious
+                      - generic [ref=f215e381]: XXNevaAngelXx
+                      - generic [ref=f215e385]: Yuukie
+                      - generic [ref=f215e389]: ˚₊‧꒰ა 刘枭 ໒꒱ ‧₊˚
+                      - generic [ref=f215e393]: ₊˚🦖 ₊˚DeinoRainboo ₊˚ʚ 🌱
+                      - generic [ref=f215e397]: ⊱ ۫ ׅ ✧ Hailey ✧ ۫ ׅ ۫⊱
+                      - generic [ref=f215e401]: ☆𝓩𝓾𝓻𝓲☆
+                      - generic [ref=f215e405]: ✰•.𝑺𝒉𝒍𝒊𝒕𝒉𝒓.•シ
+                      - generic [ref=f215e409]: 𖥻 ⋮ esyra ⌖ ִֶָꜝꜝ⤸
+                      - generic [ref=f215e410]:
+                        - generic [ref=f215e413]: 𝑨𝒔𝒕𝒓𝒂𝒔💭
+                        - generic [ref=f215e414]: League of Legends
+                      - generic [ref=f215e418]: 𝔐𝔞𝔡𝔞𝔪 ℭ𝔞𝔯𝔡𝔦𝔫𝔞𝔩
+                      - generic [ref=f215e422]: 🐾 Stevie 🐾
+                  - generic [ref=f215e424]: Hangout with people who get it
+              - paragraph [ref=e544]: By clicking "Join Discord", you are leaving Fandom to access a third-party site (Discord). Fandom is not responsible for any content, conduct, or policies on external platforms. For questions about the Discord service, please refer to Discord's policies and support center.
+            - generic [ref=e547]:
+              - generic [ref=e548]:
+                - heading "Recent Images" [level=2] [ref=e549]
+                - link [ref=e550] [cursor=pointer]:
+                  - /url: https://www.fandom.com
+                  - img [ref=e553]
+              - generic [ref=e558]:
+                - list [ref=e561]:
+                  - listitem [ref=e562]:
+                    - generic [ref=e564]:
+                      - link "FM Glaq 8.png" [ref=e565] [cursor=pointer]:
+                        - /url: https://dragon-adventures.fandom.com/wiki/Glaquacus
+                        - img "FM Glaq 8.png" [ref=e567]
+                      - generic [ref=e568]:
+                        - link "Glaquacus" [ref=e569] [cursor=pointer]:
+                          - /url: https://dragon-adventures.fandom.com/wiki/Glaquacus
+                          - heading "Glaquacus" [level=3] [ref=e570]
+                        - time [ref=e572]: 10 hours ago
+                  - listitem [ref=e573]:
+                    - generic [ref=e575]:
+                      - link "FM Glaq 7.png" [ref=e576] [cursor=pointer]:
+                        - /url: https://dragon-adventures.fandom.com/wiki/Glaquacus
+                        - img "FM Glaq 7.png" [ref=e578]
+                      - generic [ref=e579]:
+                        - link "Glaquacus" [ref=e580] [cursor=pointer]:
+                          - /url: https://dragon-adventures.fandom.com/wiki/Glaquacus
+                          - heading "Glaquacus" [level=3] [ref=e581]
+                        - time [ref=e583]: 10 hours ago
+                  - listitem [ref=e584]:
+                    - generic [ref=e586]:
+                      - link "FM Glaq 6.png" [ref=e587] [cursor=pointer]:
+                        - /url: https://dragon-adventures.fandom.com/wiki/Glaquacus
+                        - img "FM Glaq 6.png" [ref=e589]
+                      - generic [ref=e590]:
+                        - link "Glaquacus" [ref=e591] [cursor=pointer]:
+                          - /url: https://dragon-adventures.fandom.com/wiki/Glaquacus
+                          - heading "Glaquacus" [level=3] [ref=e592]
+                        - time [ref=e594]: 10 hours ago
+                - button "Go to next slide" [ref=e595] [cursor=pointer]:
+                  - img [ref=e596]
+    - contentinfo [ref=e602]:
+      - generic [ref=e603]:
+        - generic [ref=e604]:
+          - heading "Fandom homepage" [level=2] [ref=e605]:
+            - link "Fandom homepage" [ref=e606] [cursor=pointer]:
+              - /url: https://www.fandom.com/
+              - img "Fandom logo" [ref=e607]
+          - generic [ref=e608]:
+            - heading "Explore properties" [level=3] [ref=e609]
+            - list [ref=e610]:
+              - listitem [ref=e611]:
+                - link "Fandom" [ref=e612] [cursor=pointer]:
+                  - /url: https://www.fandom.com/
+              - listitem [ref=e613]:
+                - link "Fanatical" [ref=e614] [cursor=pointer]:
+                  - /url: https://www.fanatical.com/
+              - listitem [ref=e615]:
+                - link "GameSpot" [ref=e616] [cursor=pointer]:
+                  - /url: https://www.gamespot.com/
+              - listitem [ref=e617]:
+                - link "Metacritic" [ref=e618] [cursor=pointer]:
+                  - /url: https://www.metacritic.com/
+              - listitem [ref=e619]:
+                - link "TV Guide" [ref=e620] [cursor=pointer]:
+                  - /url: https://www.tvguide.com/
+              - listitem [ref=e621]:
+                - link "Honest Entertainment" [ref=e622] [cursor=pointer]:
+                  - /url: https://www.youtube.com/user/screenjunkies
+          - generic [ref=e623]:
+            - heading "Follow Us" [level=3] [ref=e624]
+            - list [ref=e625]:
+              - listitem [ref=e626]:
+                - link "Follow Fandom on Facebook" [ref=e627] [cursor=pointer]:
+                  - /url: https://www.facebook.com/getfandom
+                  - img [ref=e628]
+              - listitem [ref=e630]:
+                - link "Follow Fandom on Twitter" [ref=e631] [cursor=pointer]:
+                  - /url: https://twitter.com/getfandom
+                  - img [ref=e632]
+              - listitem [ref=e634]:
+                - link "Follow Fandom on Youtube" [ref=e635] [cursor=pointer]:
+                  - /url: https://www.youtube.com/fandomentertainment
+                  - img [ref=e636]
+              - listitem [ref=e638]:
+                - link "Follow Fandom on Instagram" [ref=e639] [cursor=pointer]:
+                  - /url: https://www.instagram.com/getfandom/
+                  - img [ref=e640]
+              - listitem [ref=e642]:
+                - link "Follow Fandom on LinkedIn" [ref=e643] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/157252
+                  - img [ref=e644]
+        - generic [ref=e647]:
+          - heading "Overview" [level=3] [ref=e648]
+          - list [ref=e649]:
+            - listitem [ref=e650]:
+              - link "What is Fandom?" [ref=e651] [cursor=pointer]:
+                - /url: https://www.fandom.com/what-is-fandom
+            - listitem [ref=e652]:
+              - link "Essentials" [ref=e653] [cursor=pointer]:
+                - /url: https://www.fandom.com/essentials
+            - listitem [ref=e654]:
+              - link "About" [ref=e655] [cursor=pointer]:
+                - /url: https://www.fandom.com/about
+            - listitem [ref=e656]:
+              - link "Careers" [ref=e657] [cursor=pointer]:
+                - /url: https://www.fandom.com/careers
+            - listitem [ref=e658]:
+              - link "Press" [ref=e659] [cursor=pointer]:
+                - /url: https://www.fandom.com/press
+            - listitem [ref=e660]:
+              - link "Contact" [ref=e661] [cursor=pointer]:
+                - /url: https://www.fandom.com/about#contact
+            - listitem [ref=e662]:
+              - link "Terms of Use" [ref=e663] [cursor=pointer]:
+                - /url: https://www.fandom.com/terms-of-use
+            - listitem [ref=e664]:
+              - link "Privacy Policy" [ref=e665] [cursor=pointer]:
+                - /url: https://www.fandom.com/privacy-policy
+            - listitem [ref=e666]:
+              - link "Digital Services Act" [ref=e667] [cursor=pointer]:
+                - /url: https://www.fandom.com/digital-services-act
+            - listitem [ref=e668]:
+              - link "Global Sitemap" [ref=e669] [cursor=pointer]:
+                - /url: //community.fandom.com/Sitemap
+            - listitem [ref=e670]:
+              - link "Local Sitemap" [ref=e671] [cursor=pointer]:
+                - /url: /wiki/Local_Sitemap
+            - listitem [ref=e672]:
+              - button "Cookies Settings" [ref=e673]
+        - generic [ref=e674]:
+          - generic [ref=e675]:
+            - heading "Community" [level=3] [ref=e676]
+            - list [ref=e677]:
+              - listitem [ref=e678]:
+                - link "Community Central" [ref=e679] [cursor=pointer]:
+                  - /url: //community.fandom.com/wiki/Community_Central
+              - listitem [ref=e680]:
+                - link "Support" [ref=e681] [cursor=pointer]:
+                  - /url: https://fandom.zendesk.com/
+              - listitem [ref=e682]:
+                - link "Help" [ref=e683] [cursor=pointer]:
+                  - /url: //community.fandom.com/wiki/Help:Contents
+          - generic [ref=e684]:
+            - heading "Advertise" [level=3] [ref=e685]
+            - list [ref=e686]:
+              - listitem [ref=e687]:
+                - link "Media Kit" [ref=e688] [cursor=pointer]:
+                  - /url: https://about.fandom.com/mediakit
+              - listitem [ref=e689]:
+                - link "Contact" [ref=e690] [cursor=pointer]:
+                  - /url: https://about.fandom.com/mediakit#contact
+        - generic [ref=e691]:
+          - generic [ref=e692]:
+            - heading "Fandom Apps" [level=3] [ref=e693]
+            - text: Take your favorite fandoms with you and never miss a beat.
+          - generic [ref=e694]:
+            - img "Fandom App logo" [ref=e695]
+            - list [ref=e696]:
+              - listitem [ref=e697]:
+                - link "Fandom's Apple Store" [ref=e698] [cursor=pointer]:
+                  - /url: https://apps.apple.com/us/app/fandom-videos-news-reviews/id1230063803
+                  - img "Store icon" [ref=e699]
+              - listitem [ref=e700]:
+                - link "Fandom's Google Play" [ref=e701] [cursor=pointer]:
+                  - /url: https://play.google.com/store/apps/details?id=com.fandom.app&referrer=utm_source%3Dwikia%26utm_medium%3Dglobalfooter
+                  - img "Store icon" [ref=e702]
+      - generic [ref=e703]:
+        - generic [ref=e704]: Dragon Adventures Wiki is a Fandom Games Community.
+        - button "View Mobile Site" [ref=e706]
+  - generic: Cookies Settings
+  - generic [ref=e710]:
+    - banner [ref=e711]:
+      - img "FandomLogo" [ref=e713]
+      - generic [ref=e714]:
+        - text: Please help us personalize
+        - text: your experience!
+    - generic [ref=e715]:
+      - generic [ref=e716]:
+        - img "adult" [ref=e717]
+        - button "I'm an adult" [ref=e718] [cursor=pointer]
+      - generic [ref=e719]:
+        - img "kid" [ref=e720]
+        - button "I'm a kid" [ref=e721] [cursor=pointer]

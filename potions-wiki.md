@@ -1,0 +1,4684 @@
+- generic [active] [ref=e1]:
+  - navigation "Fandom top navigation" [ref=e2]:
+    - link "Fandom homepage" [ref=e3] [cursor=pointer]:
+      - /url: https://www.fandom.com/
+      - img [ref=e4]
+    - generic [ref=e7]:
+      - textbox "Search" [ref=e8]
+      - img [ref=e9]
+    - generic [ref=e11]:
+      - link "Sign In" [ref=e13] [cursor=pointer]:
+        - /url: https://auth.fandom.com/signin?source=mw&redirect=https%3A%2F%2Fdragon-adventures.fandom.com%2Fwiki%2FPotions
+      - link "Register" [ref=e15] [cursor=pointer]:
+        - /url: https://auth.fandom.com/register?source=mw&redirect=https%3A%2F%2Fdragon-adventures.fandom.com%2Fwiki%2FPotions
+  - generic "Community navigation" [ref=e16]:
+    - link "Fandom homepage" [ref=e18] [cursor=pointer]:
+      - /url: https://www.fandom.com/
+      - img [ref=e19]
+    - link "Dragon Adventures Wiki" [ref=e21] [cursor=pointer]:
+      - /url: https://dragon-adventures.fandom.com/wiki/Dragon_Adventures_Wiki
+      - img "Dragon Adventures Wiki" [ref=e22]
+    - navigation [ref=e23]:
+      - list [ref=e24]:
+        - listitem [ref=e25]:
+          - generic [ref=e26]:
+            - generic [ref=e27] [cursor=pointer]:
+              - img [ref=e28]
+              - generic [ref=e30]: Explore
+            - img "Expand" [ref=e31]
+        - listitem [ref=e33]:
+          - generic [ref=e34]:
+            - generic [ref=e36] [cursor=pointer]: Dragons
+            - img "Expand" [ref=e37]
+        - listitem [ref=e39]:
+          - generic [ref=e40]:
+            - generic [ref=e42] [cursor=pointer]: Worlds and Events
+            - img "Expand" [ref=e43]
+        - listitem [ref=e45]:
+          - generic [ref=e46]:
+            - generic [ref=e48] [cursor=pointer]: Game Information
+            - img "Expand" [ref=e49]
+        - listitem [ref=e51]:
+          - generic [ref=e52]:
+            - generic [ref=e54] [cursor=pointer]: Community Information
+            - img "Expand" [ref=e55]
+    - button "Open searchbar" [ref=e58] [cursor=pointer]:
+      - img [ref=e59]
+    - generic [ref=e61]:
+      - link "Discuss" [ref=e62] [cursor=pointer]:
+        - /url: /f
+        - img
+      - link "Switch to Light Theme" [ref=e63] [cursor=pointer]:
+        - /url: "#"
+        - img
+    - link "Sign In" [ref=e66] [cursor=pointer]:
+      - /url: https://auth.fandom.com/signin?source=mw&redirect=https%3A%2F%2Fdragon-adventures.fandom.com%2Fwiki%2FPotions
+      - generic [ref=e67]:
+        - img
+        - text: Sign In
+  - navigation "Fandom navigation" [ref=e70]:
+    - generic [ref=e71]:
+      - button "Menu" [ref=e73] [cursor=pointer]:
+        - generic [ref=e74]:
+          - img [ref=e76]
+          - generic [ref=e78]: Menu
+      - button "Explore" [ref=e80] [cursor=pointer]:
+        - generic [ref=e81]:
+          - img [ref=e83]
+          - generic [ref=e86]: Explore
+    - generic [ref=e88]:
+      - generic [ref=e89]: Recent
+      - generic [ref=e90]:
+        - link "Trading" [ref=e93] [cursor=pointer]:
+          - /url: https://dragon-adventures.fandom.com/wiki/Trading
+          - img "Trading" [ref=e94]
+        - link "Stables" [ref=e97] [cursor=pointer]:
+          - /url: https://dragon-adventures.fandom.com/wiki/Stables
+          - img "Stables" [ref=e98]
+        - link "Dragon Seasons" [ref=e101] [cursor=pointer]:
+          - /url: https://dragon-adventures.fandom.com/wiki/Dragon_Seasons
+          - img "Dragon Seasons" [ref=e102]
+        - link [ref=e104]:
+          - /url: https://dragon-adventures.fandom.com/wiki/Official_Dragons
+          - img [ref=e107]
+        - link "Worlds" [ref=e112] [cursor=pointer]:
+          - /url: https://dragon-adventures.fandom.com/wiki/Worlds
+          - img "Worlds" [ref=e113]
+    - button "More" [ref=e115] [cursor=pointer]:
+      - generic [ref=e116]:
+        - img [ref=e118]
+        - generic [ref=e120]: More
+  - generic [ref=e121]:
+    - generic [ref=e125]: Advertisement
+    - generic [ref=e127]:
+      - link "Skip to content" [ref=e128] [cursor=pointer]:
+        - /url: "#page-header"
+      - banner [ref=e130]:
+        - link "Dragon Adventures Wiki" [ref=e131] [cursor=pointer]:
+          - /url: https://dragon-adventures.fandom.com/wiki/Dragon_Adventures_Wiki
+          - img "Dragon Adventures Wiki" [ref=e132]
+        - generic [ref=e133]:
+          - link "Dragon Adventures Wiki" [ref=e135] [cursor=pointer]:
+            - /url: https://dragon-adventures.fandom.com/wiki/Dragon_Adventures_Wiki
+          - generic [ref=e136]:
+            - generic [ref=e137]: "828"
+            - generic [ref=e138]: pages
+          - generic [ref=e139]:
+            - link "Discuss" [ref=e140] [cursor=pointer]:
+              - /url: /f
+              - img
+            - link "Switch to Light Theme" [ref=e141] [cursor=pointer]:
+              - /url: "#"
+              - img
+        - navigation [ref=e142]:
+          - list [ref=e143]:
+            - listitem [ref=e144]:
+              - generic [ref=e145]:
+                - generic [ref=e146] [cursor=pointer]:
+                  - img [ref=e147]
+                  - generic [ref=e149]: Explore
+                - img "Expand" [ref=e150]
+            - listitem [ref=e152]:
+              - generic [ref=e153]:
+                - generic [ref=e155] [cursor=pointer]: Dragons
+                - img "Expand" [ref=e156]
+            - listitem [ref=e158]:
+              - generic [ref=e159]:
+                - generic [ref=e161] [cursor=pointer]: Worlds and Events
+                - img "Expand" [ref=e162]
+            - listitem [ref=e164]:
+              - generic [ref=e165]:
+                - generic [ref=e167] [cursor=pointer]: Game Information
+                - img "Expand" [ref=e168]
+            - listitem [ref=e170]:
+              - generic [ref=e171]:
+                - generic [ref=e173] [cursor=pointer]: Community Information
+                - img "Expand" [ref=e174]
+      - generic [ref=e176]:
+        - main [ref=e177]:
+          - generic [ref=e179]:
+            - generic "Contents" [ref=e180]:
+              - button "Contents" [ref=e181] [cursor=pointer]:
+                - img [ref=e182]
+              - text: . . . . . . . . .
+            - link "View source" [ref=e184] [cursor=pointer]:
+              - /url: /wiki/Potions?action=edit
+              - img [ref=e185]
+          - generic [ref=e187]:
+            - generic [ref=e190]:
+              - text: "in:"
+              - link "Items" [ref=e191] [cursor=pointer]:
+                - /url: /wiki/Category:Items
+            - generic [ref=e192]:
+              - heading "Potions" [level=1] [ref=e194]
+              - generic [ref=e195]:
+                - link "Comments" [ref=e196] [cursor=pointer]:
+                  - /url: "#articleComments"
+                  - generic [ref=e197]: 4k
+                  - img
+                - link "View source" [ref=e198] [cursor=pointer]:
+                  - /url: /wiki/Potions?action=edit
+                  - img
+                  - text: View source
+                - button "Page Tools" [ref=e200]:
+                  - img
+          - generic [ref=e205]:
+            - generic [ref=e206]:
+              - strong [ref=e209]: Potions
+              - link "History" [ref=e212] [cursor=pointer]:
+                - /url: /wiki/Potions/History
+            - paragraph [ref=e213]:
+              - generic [ref=e214]:
+                - text: "See also:"
+                - link "Presets" [ref=e215] [cursor=pointer]:
+                  - /url: /wiki/Presets
+            - figure "Potion icon" [ref=e216]:
+              - link "Potion icon view image" [ref=e217] [cursor=pointer]:
+                - /url: https://static.wikia.nocookie.net/dragon-adventures/images/7/70/Special_Item.png/revision/latest?cb=20211011072316
+                - img "Potion icon" [ref=e218]
+                - generic "view image" [ref=e221]:
+                  - img [ref=e222]
+              - paragraph [ref=e225]: Potion icon
+            - paragraph [ref=e226]:
+              - text: Potions are
+              - link "items" [ref=e227] [cursor=pointer]:
+                - /url: /wiki/Category:Items
+              - text: with various ways of obtainment and are used to alter
+              - link "dragons" [ref=e228] [cursor=pointer]:
+                - /url: /wiki/Official_Dragons
+              - text: in a variety of ways. Potions may be
+              - link "salvaged" [ref=e229] [cursor=pointer]:
+                - /url: /wiki/Alchemy
+              - text: ", sold, and"
+              - link "traded" [ref=e230] [cursor=pointer]:
+                - /url: /wiki/Trading
+              - text: as well. Potions may be viewed in the player's
+              - link "inventory" [ref=e231] [cursor=pointer]:
+                - /url: /wiki/Inventory
+              - text: underneath the Potions tab.
+            - paragraph [ref=e232]:
+              - text: Each potion has a maximum capacity of 100 (150 if the Big Backpack
+              - link "gamepass" [ref=e233] [cursor=pointer]:
+                - /url: /wiki/Premium_Shop#Gamepasses
+              - text: is owned). With no upgrades, 10 potions may also be stored at the
+              - link "Bank" [ref=e234] [cursor=pointer]:
+                - /url: /wiki/Bank
+              - text: .
+            - navigation "Contents" [ref=e235]:
+              - button "show" [ref=e236]
+              - generic [ref=e237]:
+                - heading "Contents" [level=2] [ref=e238]:
+                  - img [ref=e239]
+                  - text: Contents
+                - generic [ref=e241]:
+                  - text: "["
+                  - generic "show" [ref=e242] [cursor=pointer]: hide
+                  - text: "]"
+              - list [ref=e243]:
+                - listitem [ref=e244]:
+                  - link "1. Obtainment & Usage" [ref=e245] [cursor=pointer]:
+                    - /url: "#Obtainment_&_Usage"
+                    - generic [ref=e246]: "1."
+                    - generic [ref=e247]: Obtainment & Usage
+                - listitem [ref=e248]:
+                  - link "2. List of Potions" [ref=e249] [cursor=pointer]:
+                    - /url: "#List_of_Potions"
+                    - generic [ref=e250]: "2."
+                    - generic [ref=e251]: List of Potions
+                  - list [ref=e252]:
+                    - listitem [ref=e253]:
+                      - link "2.1. Regular Potions" [ref=e254] [cursor=pointer]:
+                        - /url: "#Regular_Potions"
+                        - generic [ref=e255]: 2.1.
+                        - generic [ref=e256]: Regular Potions
+                    - listitem [ref=e257]:
+                      - link "2.2. Limited Potions" [ref=e258] [cursor=pointer]:
+                        - /url: "#Limited_Potions"
+                        - generic [ref=e259]: 2.2.
+                        - generic [ref=e260]: Limited Potions
+                      - list [ref=e261]:
+                        - listitem [ref=e262]:
+                          - link "2.2.1. Event Material Potions" [ref=e263] [cursor=pointer]:
+                            - /url: "#Event_Material_Potions"
+                            - generic [ref=e264]: 2.2.1.
+                            - generic [ref=e265]: Event Material Potions
+                        - listitem [ref=e266]:
+                          - link "2.2.2. Trait Potions" [ref=e267] [cursor=pointer]:
+                            - /url: "#Trait_Potions"
+                            - generic [ref=e268]: 2.2.2.
+                            - generic [ref=e269]: Trait Potions
+                        - listitem [ref=e270]:
+                          - link "2.2.3. Premium Shop Potions" [ref=e271] [cursor=pointer]:
+                            - /url: "#Premium_Shop_Potions"
+                            - generic [ref=e272]: 2.2.3.
+                            - generic [ref=e273]: Premium Shop Potions
+                    - listitem [ref=e274]:
+                      - link "2.3. Special Element Potions" [ref=e275] [cursor=pointer]:
+                        - /url: "#Special_Element_Potions"
+                        - generic [ref=e276]: 2.3.
+                        - generic [ref=e277]: Special Element Potions
+                - listitem [ref=e278]:
+                  - link "3. References" [ref=e279] [cursor=pointer]:
+                    - /url: "#References"
+                    - generic [ref=e280]: "3."
+                    - generic [ref=e281]: References
+            - heading "Obtainment & Usage" [level=2] [ref=e282]: Obtainment & Usage
+            - paragraph [ref=e283]:
+              - text: Potions can be obtained in various ways. Most regular potions are obtainable from
+              - link "chests" [ref=e284] [cursor=pointer]:
+                - /url: /wiki/Chests
+              - text: ", through"
+              - link "Alchemy" [ref=e285] [cursor=pointer]:
+                - /url: /wiki/Alchemy
+              - text: ", and"
+              - link "Spinner Wheels" [ref=e286] [cursor=pointer]:
+                - /url: /wiki/Spinner_Wheel
+              - text: . Potions are also purchasable from the General Store and the
+              - link "Player Market" [ref=e287] [cursor=pointer]:
+                - /url: /wiki/Player_Market
+              - text: in the
+              - link "Undercity" [ref=e288] [cursor=pointer]:
+                - /url: /wiki/Undercity
+              - text: . Some potions are able to be
+              - link "fished" [ref=e289] [cursor=pointer]:
+                - /url: /wiki/Fishing
+              - text: ", won from"
+              - link "Tundra" [ref=e290] [cursor=pointer]:
+                - /url: /wiki/Tundra
+              - link "races" [ref=e291] [cursor=pointer]:
+                - /url: /wiki/Tundra#Races
+              - text: ", or won from defeating"
+              - link "bosses" [ref=e292] [cursor=pointer]:
+                - /url: /wiki/Bosses
+              - text: .
+            - paragraph [ref=e293]:
+              - text: Potions are also obtainable from the
+              - link "Daily Login" [ref=e294] [cursor=pointer]:
+                - /url: /wiki/Daily_Login
+              - text: and
+              - link "Daily Task" [ref=e295] [cursor=pointer]:
+                - /url: /wiki/Daily_Tasks
+              - text: rewards, in some
+              - link "Weekly Missions" [ref=e296] [cursor=pointer]:
+                - /url: /wiki/Weekly_Missions
+              - text: ", and in the free and Dragon Pass rewards during"
+              - link "Dragon Seasons" [ref=e297] [cursor=pointer]:
+                - /url: /wiki/Dragon_Seasons
+              - text: . Event potions are usually purchasable from event stores or can be obtained through other means.
+            - paragraph [ref=e298]:
+              - text: The player can use a potion on a
+              - link "dragon" [ref=e299] [cursor=pointer]:
+                - /url: /wiki/Official_Dragons
+              - text: by accessing its "Feed" menu in the
+              - link "Lair" [ref=e300] [cursor=pointer]:
+                - /url: /wiki/Lair
+              - text: or through its interaction menu and then navigating to the "Potions" tab. The player can then select any available and applicable potion to use on the dragon.
+            - heading "List of Potions" [level=2] [ref=e301]: List of Potions
+            - heading "Regular Potions" [level=3] [ref=e302]: Regular Potions
+            - table [ref=e303]:
+              - rowgroup [ref=e304]:
+                - row "Icon Potion Obtainment Effect" [ref=e305]:
+                  - columnheader "Icon" [ref=e306]
+                  - columnheader "Potion" [ref=e307] [cursor=pointer]
+                  - columnheader "Obtainment" [ref=e308]
+                  - columnheader "Effect" [ref=e309]
+              - rowgroup [ref=e310]:
+                - row "Advanced Potion Advanced Potion General Store [▼] Changes the dragon's visual model to the advanced model." [ref=e311]:
+                  - columnheader "Advanced Potion" [ref=e312]:
+                    - link "Advanced Potion" [ref=e314] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/a/a9/Advanced_Potion.png/revision/latest?cb=20260131013610
+                      - img "Advanced Potion" [ref=e315]
+                  - rowheader "Advanced Potion" [ref=e316]:
+                    - link "Advanced Potion" [ref=e317] [cursor=pointer]:
+                      - /url: /wiki/Advanced_Potion
+                  - cell "General Store [▼]" [ref=e318]:
+                    - list [ref=e319]:
+                      - listitem [ref=e320]:
+                        - text: General Store
+                        - button "[▼]" [ref=e321] [cursor=pointer]
+                  - cell "Changes the dragon's visual model to the advanced model." [ref=e322]
+                - row "Legacy Potion Legacy Potion General Store [▼] Changes the dragon's visual model to the legacy model." [ref=e323]:
+                  - columnheader "Legacy Potion" [ref=e324]:
+                    - link "Legacy Potion" [ref=e326] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/4/44/Legacy_Potion.png/revision/latest?cb=20260131013612
+                      - img "Legacy Potion" [ref=e327]
+                  - rowheader "Legacy Potion" [ref=e328]:
+                    - link "Legacy Potion" [ref=e329] [cursor=pointer]:
+                      - /url: /wiki/Legacy_Potion
+                  - cell "General Store [▼]" [ref=e330]:
+                    - list [ref=e331]:
+                      - listitem [ref=e332]:
+                        - text: General Store
+                        - button "[▼]" [ref=e333] [cursor=pointer]
+                  - cell "Changes the dragon's visual model to the legacy model." [ref=e334]
+                - row "Arctic Material Potion Arctic Material Potion General Store [▼] Alchemy [▼] Weekly Missions Tundra races Daily Login [▼] Spinner Wheel [▼] Season Passes Changes the material in the chosen slot (primary, secondary, or tertiary) randomly into Glacier, Snow, or Mud." [ref=e335]:
+                  - columnheader "Arctic Material Potion" [ref=e336]:
+                    - link "Arctic Material Potion" [ref=e338] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/b/b0/Arctic_Material_Potion.png/revision/latest?cb=20260131013614
+                      - img "Arctic Material Potion" [ref=e339]
+                  - rowheader "Arctic Material Potion" [ref=e340]:
+                    - link "Arctic Material Potion" [ref=e341] [cursor=pointer]:
+                      - /url: /wiki/Arctic_Material_Potion
+                  - cell "General Store [▼] Alchemy [▼] Weekly Missions Tundra races Daily Login [▼] Spinner Wheel [▼] Season Passes" [ref=e342]:
+                    - list [ref=e343]:
+                      - listitem [ref=e344]:
+                        - text: General Store
+                        - button "[▼]" [ref=e345] [cursor=pointer]
+                      - listitem [ref=e346]:
+                        - link "Alchemy" [ref=e348] [cursor=pointer]:
+                          - /url: /wiki/Alchemy
+                        - button "[▼]" [ref=e349] [cursor=pointer]
+                      - listitem [ref=e350]:
+                        - link "Weekly Missions" [ref=e352] [cursor=pointer]:
+                          - /url: /wiki/Weekly_Missions
+                      - listitem [ref=e353]:
+                        - link "Tundra races" [ref=e355] [cursor=pointer]:
+                          - /url: /wiki/Tundra#Races
+                      - listitem [ref=e356]:
+                        - link "Daily Login" [ref=e358] [cursor=pointer]:
+                          - /url: /wiki/Daily_Login
+                        - button "[▼]" [ref=e359] [cursor=pointer]
+                      - listitem [ref=e360]:
+                        - link "Spinner Wheel" [ref=e362] [cursor=pointer]:
+                          - /url: /wiki/Spinner_Wheel
+                        - button "[▼]" [ref=e363] [cursor=pointer]
+                      - listitem [ref=e364]:
+                        - link "Season Passes" [ref=e366] [cursor=pointer]:
+                          - /url: /wiki/Dragon_Seasons
+                  - cell "Changes the material in the chosen slot (primary, secondary, or tertiary) randomly into Glacier, Snow, or Mud." [ref=e367]
+                - row "Arid Material Potion Arid Material Potion General Store [▼] Alchemy [▼] Weekly Missions Daily Login [▼] Spinner Wheel [▼] Lunar New Year Event 2024 [▼] Season Passes Changes the material in the chosen slot (primary, secondary, or tertiary) randomly into Sandstone, Asphalt, or Salt." [ref=e368]:
+                  - columnheader "Arid Material Potion" [ref=e369]:
+                    - link "Arid Material Potion" [ref=e371] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/b/b9/Arid_Material_Potion.png/revision/latest?cb=20260131013616
+                      - img "Arid Material Potion" [ref=e372]
+                  - rowheader "Arid Material Potion" [ref=e373]:
+                    - link "Arid Material Potion" [ref=e374] [cursor=pointer]:
+                      - /url: /wiki/Arid_Material_Potion
+                  - cell "General Store [▼] Alchemy [▼] Weekly Missions Daily Login [▼] Spinner Wheel [▼] Lunar New Year Event 2024 [▼] Season Passes" [ref=e375]:
+                    - list [ref=e376]:
+                      - listitem [ref=e377]:
+                        - text: General Store
+                        - button "[▼]" [ref=e378] [cursor=pointer]
+                      - listitem [ref=e379]:
+                        - link "Alchemy" [ref=e381] [cursor=pointer]:
+                          - /url: /wiki/Alchemy
+                        - button "[▼]" [ref=e382] [cursor=pointer]
+                      - listitem [ref=e383]:
+                        - link "Weekly Missions" [ref=e385] [cursor=pointer]:
+                          - /url: /wiki/Weekly_Missions
+                      - listitem [ref=e386]:
+                        - link "Daily Login" [ref=e388] [cursor=pointer]:
+                          - /url: /wiki/Daily_Login
+                        - button "[▼]" [ref=e389] [cursor=pointer]
+                      - listitem [ref=e390]:
+                        - link "Spinner Wheel" [ref=e392] [cursor=pointer]:
+                          - /url: /wiki/Spinner_Wheel
+                        - button "[▼]" [ref=e393] [cursor=pointer]
+                      - listitem [ref=e394]:
+                        - link "Lunar New Year Event 2024" [ref=e396] [cursor=pointer]:
+                          - /url: /wiki/Lunar_New_Year_Event_2024
+                        - button "[▼]" [ref=e397] [cursor=pointer]
+                      - listitem [ref=e398]:
+                        - link "Season Passes" [ref=e400] [cursor=pointer]:
+                          - /url: /wiki/Dragon_Seasons
+                  - cell "Changes the material in the chosen slot (primary, secondary, or tertiary) randomly into Sandstone, Asphalt, or Salt." [ref=e401]
+                - row "Ash Material Potion Ash Material Potion General Store [▼] Alchemy [▼] Weekly Missions Daily Login [▼] Spinner Wheel [▼] Lunar New Year Event 2024 [▼] Season Passes Changes the material in the chosen slot (primary, secondary, or tertiary) randomly into Basalt, Cracked Lava, or Limestone." [ref=e402]:
+                  - columnheader "Ash Material Potion" [ref=e403]:
+                    - link "Ash Material Potion" [ref=e405] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/5/53/Ash_Material_Potion.png/revision/latest?cb=20260131013617
+                      - img "Ash Material Potion" [ref=e406]
+                  - rowheader "Ash Material Potion" [ref=e407]:
+                    - link "Ash Material Potion" [ref=e408] [cursor=pointer]:
+                      - /url: /wiki/Ash_Material_Potion
+                  - cell "General Store [▼] Alchemy [▼] Weekly Missions Daily Login [▼] Spinner Wheel [▼] Lunar New Year Event 2024 [▼] Season Passes" [ref=e409]:
+                    - list [ref=e410]:
+                      - listitem [ref=e411]:
+                        - text: General Store
+                        - button "[▼]" [ref=e412] [cursor=pointer]
+                      - listitem [ref=e413]:
+                        - link "Alchemy" [ref=e415] [cursor=pointer]:
+                          - /url: /wiki/Alchemy
+                        - button "[▼]" [ref=e416] [cursor=pointer]
+                      - listitem [ref=e417]:
+                        - link "Weekly Missions" [ref=e419] [cursor=pointer]:
+                          - /url: /wiki/Weekly_Missions
+                      - listitem [ref=e420]:
+                        - link "Daily Login" [ref=e422] [cursor=pointer]:
+                          - /url: /wiki/Daily_Login
+                        - button "[▼]" [ref=e423] [cursor=pointer]
+                      - listitem [ref=e424]:
+                        - link "Spinner Wheel" [ref=e426] [cursor=pointer]:
+                          - /url: /wiki/Spinner_Wheel
+                        - button "[▼]" [ref=e427] [cursor=pointer]
+                      - listitem [ref=e428]:
+                        - link "Lunar New Year Event 2024" [ref=e430] [cursor=pointer]:
+                          - /url: /wiki/Lunar_New_Year_Event_2024
+                        - button "[▼]" [ref=e431] [cursor=pointer]
+                      - listitem [ref=e432]:
+                        - link "Season Passes" [ref=e434] [cursor=pointer]:
+                          - /url: /wiki/Dragon_Seasons
+                  - cell "Changes the material in the chosen slot (primary, secondary, or tertiary) randomly into Basalt, Cracked Lava, or Limestone." [ref=e435]
+                - row "Baby Potion Baby Potion General Store [▼] Changes a dragon's age to 0." [ref=e436]:
+                  - columnheader "Baby Potion" [ref=e437]:
+                    - link "Baby Potion" [ref=e439] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/9/94/Baby_Potion.png/revision/latest?cb=20260131013620
+                      - img "Baby Potion" [ref=e440]
+                  - rowheader "Baby Potion" [ref=e441]:
+                    - link "Baby Potion" [ref=e442] [cursor=pointer]:
+                      - /url: /wiki/Baby_Potion
+                  - cell "General Store [▼]" [ref=e443]:
+                    - list [ref=e444]:
+                      - listitem [ref=e445]:
+                        - text: General Store
+                        - button "[▼]" [ref=e446] [cursor=pointer]
+                  - cell "Changes a dragon's age to 0." [ref=e447]
+                - row "Growth Potion Growth Potion General Store [▼] Bosses [▼] Daily Tasks [▼] Season Passes Changes a dragon's age to 99." [ref=e448]:
+                  - columnheader "Growth Potion" [ref=e449]:
+                    - link "Growth Potion" [ref=e452] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/b/b4/Growth_Potion.png/revision/latest?cb=20250329024531
+                      - img "Growth Potion" [ref=e453]
+                  - rowheader "Growth Potion" [ref=e454]:
+                    - link "Growth Potion" [ref=e455] [cursor=pointer]:
+                      - /url: /wiki/Growth_Potion
+                  - cell "General Store [▼] Bosses [▼] Daily Tasks [▼] Season Passes" [ref=e456]:
+                    - list [ref=e457]:
+                      - listitem [ref=e458]:
+                        - text: General Store
+                        - button "[▼]" [ref=e459] [cursor=pointer]
+                      - listitem [ref=e460]:
+                        - link "Bosses" [ref=e462] [cursor=pointer]:
+                          - /url: /wiki/Bosses
+                        - button "[▼]" [ref=e463] [cursor=pointer]
+                      - listitem [ref=e464]:
+                        - link "Daily Tasks" [ref=e466] [cursor=pointer]:
+                          - /url: /wiki/Daily_Tasks
+                        - button "[▼]" [ref=e467] [cursor=pointer]
+                      - listitem [ref=e468]:
+                        - link "Season Passes" [ref=e470] [cursor=pointer]:
+                          - /url: /wiki/Dragon_Seasons
+                  - cell "Changes a dragon's age to 99." [ref=e471]
+                - row "Basic Elemental Potion Basic Elemental Potion General Store [▼] Bosses [▼] Chests Changes a dragon's element to Fire, Grass, or Water." [ref=e472]:
+                  - columnheader "Basic Elemental Potion" [ref=e473]:
+                    - link "Basic Elemental Potion" [ref=e475] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/5/57/Basic_Elemental_Potion.png/revision/latest?cb=20260131013622
+                      - img "Basic Elemental Potion" [ref=e476]
+                  - rowheader "Basic Elemental Potion" [ref=e477]:
+                    - link "Basic Elemental Potion" [ref=e478] [cursor=pointer]:
+                      - /url: /wiki/Basic_Elemental_Potion
+                  - cell "General Store [▼] Bosses [▼] Chests" [ref=e479]:
+                    - list [ref=e480]:
+                      - listitem [ref=e481]:
+                        - text: General Store
+                        - button "[▼]" [ref=e482] [cursor=pointer]
+                      - listitem [ref=e483]:
+                        - link "Bosses" [ref=e485] [cursor=pointer]:
+                          - /url: /wiki/Bosses
+                        - button "[▼]" [ref=e486] [cursor=pointer]
+                      - listitem [ref=e487]:
+                        - link "Chests" [ref=e489] [cursor=pointer]:
+                          - /url: /wiki/Chests
+                  - cell "Changes a dragon's element to Fire, Grass, or Water." [ref=e490]:
+                    - text: Changes a dragon's
+                    - link "element" [ref=e491] [cursor=pointer]:
+                      - /url: /wiki/Elements
+                    - text: to Fire, Grass, or Water.
+                - row "Elemental Potion Elemental Potion General Store [▼] Chests Daily Tasks [▼] Season Passes Changes a dragon's element to any breedable element that is not Fire, Grass, or Water." [ref=e492]:
+                  - columnheader "Elemental Potion" [ref=e493]:
+                    - link "Elemental Potion" [ref=e495] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/e/ee/Elemental_Potion.png/revision/latest?cb=20260131013624
+                      - img "Elemental Potion" [ref=e496]
+                  - rowheader "Elemental Potion" [ref=e497]:
+                    - link "Elemental Potion" [ref=e498] [cursor=pointer]:
+                      - /url: /wiki/Elemental_Potion
+                  - cell "General Store [▼] Chests Daily Tasks [▼] Season Passes" [ref=e499]:
+                    - list [ref=e500]:
+                      - listitem [ref=e501]:
+                        - text: General Store
+                        - button "[▼]" [ref=e502] [cursor=pointer]
+                      - listitem [ref=e503]:
+                        - link "Chests" [ref=e505] [cursor=pointer]:
+                          - /url: /wiki/Chests
+                      - listitem [ref=e506]:
+                        - link "Daily Tasks" [ref=e508] [cursor=pointer]:
+                          - /url: /wiki/Daily_Tasks
+                        - button "[▼]" [ref=e509] [cursor=pointer]
+                      - listitem [ref=e510]:
+                        - link "Season Passes" [ref=e512] [cursor=pointer]:
+                          - /url: /wiki/Dragon_Seasons
+                  - cell "Changes a dragon's element to any breedable element that is not Fire, Grass, or Water." [ref=e513]:
+                    - text: Changes a dragon's
+                    - link "element" [ref=e514] [cursor=pointer]:
+                      - /url: /wiki/Elements
+                    - text: to any breedable element that is not Fire, Grass, or Water.
+                - row "Pupil Potion Pupil Potion General Store [▼] Alchemy [▼] Spinner Wheel [▼] Bosses [▼] Season Passes Gives the dragon a random pupil type. 14.3% for each pupil." [ref=e515]:
+                  - columnheader "Pupil Potion" [ref=e516]:
+                    - link "Pupil Potion" [ref=e518] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f3/Pupil_Potion.png/revision/latest?cb=20260131013626
+                      - img "Pupil Potion" [ref=e519]
+                  - rowheader "Pupil Potion" [ref=e520]:
+                    - link "Pupil Potion" [ref=e521] [cursor=pointer]:
+                      - /url: /wiki/Pupil_Potion
+                  - cell "General Store [▼] Alchemy [▼] Spinner Wheel [▼] Bosses [▼] Season Passes" [ref=e522]:
+                    - list [ref=e523]:
+                      - listitem [ref=e524]:
+                        - text: General Store
+                        - button "[▼]" [ref=e525] [cursor=pointer]
+                      - listitem [ref=e526]:
+                        - link "Alchemy" [ref=e528] [cursor=pointer]:
+                          - /url: /wiki/Alchemy
+                        - button "[▼]" [ref=e529] [cursor=pointer]
+                      - listitem [ref=e530]:
+                        - link "Spinner Wheel" [ref=e532] [cursor=pointer]:
+                          - /url: /wiki/Spinner_Wheel
+                        - button "[▼]" [ref=e533] [cursor=pointer]
+                      - listitem [ref=e534]:
+                        - link "Bosses" [ref=e536] [cursor=pointer]:
+                          - /url: /wiki/Bosses
+                        - button "[▼]" [ref=e537] [cursor=pointer]
+                      - listitem [ref=e538]:
+                        - link "Season Passes" [ref=e540] [cursor=pointer]:
+                          - /url: /wiki/Dragon_Seasons
+                  - cell "Gives the dragon a random pupil type. 14.3% for each pupil." [ref=e541]:
+                    - text: Gives the dragon a random
+                    - link "pupil" [ref=e542] [cursor=pointer]:
+                      - /url: /wiki/Pupils
+                    - text: type. 14.3% for each pupil.
+                - row "Basic Personality Potion Basic Personality Potion General Store [▼] Alchemy [▼] Bosses [▼] Chests Changes the personality of a dragon. 50% chance for a bad personality and 50% chance for a neutral personality." [ref=e543]:
+                  - columnheader "Basic Personality Potion" [ref=e544]:
+                    - link "Basic Personality Potion" [ref=e546] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/a/a7/Basic_Personality_Potion.png/revision/latest?cb=20260131013629
+                      - img "Basic Personality Potion" [ref=e547]
+                  - rowheader "Basic Personality Potion" [ref=e548]:
+                    - link "Basic Personality Potion" [ref=e549] [cursor=pointer]:
+                      - /url: /wiki/Basic_Personality_Potion
+                  - cell "General Store [▼] Alchemy [▼] Bosses [▼] Chests" [ref=e550]:
+                    - list [ref=e551]:
+                      - listitem [ref=e552]:
+                        - text: General Store
+                        - button "[▼]" [ref=e553] [cursor=pointer]
+                      - listitem [ref=e554]:
+                        - link "Alchemy" [ref=e556] [cursor=pointer]:
+                          - /url: /wiki/Alchemy
+                        - button "[▼]" [ref=e557] [cursor=pointer]
+                      - listitem [ref=e558]:
+                        - link "Bosses" [ref=e560] [cursor=pointer]:
+                          - /url: /wiki/Bosses
+                        - button "[▼]" [ref=e561] [cursor=pointer]
+                      - listitem [ref=e562]:
+                        - link "Chests" [ref=e564] [cursor=pointer]:
+                          - /url: /wiki/Chests
+                  - cell "Changes the personality of a dragon. 50% chance for a bad personality and 50% chance for a neutral personality." [ref=e565]:
+                    - text: Changes the
+                    - link "personality" [ref=e566] [cursor=pointer]:
+                      - /url: /wiki/Personalities
+                    - text: of a dragon. 50% chance for a bad personality and 50% chance for a neutral personality.
+                - row "Personality Potion Personality Potion General Store [▼] Alchemy [▼] Spinner Wheel [▼] Bosses [▼] Chests Daily Tasks [▼] Season Passes Changes the personality of a dragon. 50% chance for a good personality and 50% chance for a neutral personality." [ref=e567]:
+                  - columnheader "Personality Potion" [ref=e568]:
+                    - link "Personality Potion" [ref=e570] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/8/82/Personality_Potion.png/revision/latest?cb=20260131013632
+                      - img "Personality Potion" [ref=e571]
+                  - rowheader "Personality Potion" [ref=e572]:
+                    - link "Personality Potion" [ref=e573] [cursor=pointer]:
+                      - /url: /wiki/Personality_Potion
+                  - cell "General Store [▼] Alchemy [▼] Spinner Wheel [▼] Bosses [▼] Chests Daily Tasks [▼] Season Passes" [ref=e574]:
+                    - list [ref=e575]:
+                      - listitem [ref=e576]:
+                        - text: General Store
+                        - button "[▼]" [ref=e577] [cursor=pointer]
+                      - listitem [ref=e578]:
+                        - link "Alchemy" [ref=e580] [cursor=pointer]:
+                          - /url: /wiki/Alchemy
+                        - button "[▼]" [ref=e581] [cursor=pointer]
+                      - listitem [ref=e582]:
+                        - link "Spinner Wheel" [ref=e584] [cursor=pointer]:
+                          - /url: /wiki/Spinner_Wheel
+                        - button "[▼]" [ref=e585] [cursor=pointer]
+                      - listitem [ref=e586]:
+                        - link "Bosses" [ref=e588] [cursor=pointer]:
+                          - /url: /wiki/Bosses
+                        - button "[▼]" [ref=e589] [cursor=pointer]
+                      - listitem [ref=e590]:
+                        - link "Chests" [ref=e592] [cursor=pointer]:
+                          - /url: /wiki/Chests
+                      - listitem [ref=e593]:
+                        - link "Daily Tasks" [ref=e595] [cursor=pointer]:
+                          - /url: /wiki/Daily_Tasks
+                        - button "[▼]" [ref=e596] [cursor=pointer]
+                      - listitem [ref=e597]:
+                        - link "Season Passes" [ref=e599] [cursor=pointer]:
+                          - /url: /wiki/Dragon_Seasons
+                  - cell "Changes the personality of a dragon. 50% chance for a good personality and 50% chance for a neutral personality." [ref=e600]:
+                    - text: Changes the
+                    - link "personality" [ref=e601] [cursor=pointer]:
+                      - /url: /wiki/Personalities
+                    - text: of a dragon. 50% chance for a good personality and 50% chance for a neutral personality.
+                - row "Breeding Cooldown Potion Breeding Cooldown Potion General Store [▼] Season Passes Removes a dragon's breeding cooldown as a one-time use." [ref=e602]:
+                  - columnheader "Breeding Cooldown Potion" [ref=e603]:
+                    - link "Breeding Cooldown Potion" [ref=e605] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/4/4d/Breeding_Cooldown_Potion.png/revision/latest?cb=20260131013634
+                      - img "Breeding Cooldown Potion" [ref=e606]
+                  - rowheader "Breeding Cooldown Potion" [ref=e607]
+                  - cell "General Store [▼] Season Passes" [ref=e608]:
+                    - list [ref=e609]:
+                      - listitem [ref=e610]:
+                        - text: General Store
+                        - button "[▼]" [ref=e611] [cursor=pointer]
+                      - listitem [ref=e612]:
+                        - link "Season Passes" [ref=e614] [cursor=pointer]:
+                          - /url: /wiki/Dragon_Seasons
+                  - cell "Removes a dragon's breeding cooldown as a one-time use." [ref=e615]:
+                    - text: Removes a dragon's
+                    - link "breeding cooldown" [ref=e616] [cursor=pointer]:
+                      - /url: /wiki/Breeding#Breeding_Cooldown
+                    - text: as a one-time use.
+                - row "Gender Potion Gender Potion General Store [▼] Alchemy [▼] Chests Season Passes Swaps the dragon's gender." [ref=e617]:
+                  - columnheader "Gender Potion" [ref=e618]:
+                    - link "Gender Potion" [ref=e620] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/7/79/Gender_Potion.png/revision/latest?cb=20260131015058
+                      - img "Gender Potion" [ref=e621]
+                  - rowheader "Gender Potion" [ref=e622]:
+                    - link "Gender Potion" [ref=e623] [cursor=pointer]:
+                      - /url: /wiki/Gender_Potion
+                  - cell "General Store [▼] Alchemy [▼] Chests Season Passes" [ref=e624]:
+                    - list [ref=e625]:
+                      - listitem [ref=e626]:
+                        - text: General Store
+                        - button "[▼]" [ref=e627] [cursor=pointer]
+                      - listitem [ref=e628]:
+                        - link "Alchemy" [ref=e630] [cursor=pointer]:
+                          - /url: /wiki/Alchemy
+                        - button "[▼]" [ref=e631] [cursor=pointer]
+                      - listitem [ref=e632]:
+                        - link "Chests" [ref=e634] [cursor=pointer]:
+                          - /url: /wiki/Chests
+                      - listitem [ref=e635]:
+                        - link "Season Passes" [ref=e637] [cursor=pointer]:
+                          - /url: /wiki/Dragon_Seasons
+                  - cell "Swaps the dragon's gender." [ref=e638]
+                - row "Color Shuffle Potion Icon Color Shuffle Potion General Store [▼] Alchemy [▼] Fishing [▼] Bosses [▼] Season Passes Chests Season Passes Shuffles all the colors on a dragon." [ref=e639]:
+                  - columnheader "Color Shuffle Potion Icon" [ref=e640]:
+                    - link "Color Shuffle Potion Icon" [ref=e642] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/e/e4/Color_Shuffle_Potion_Icon.png/revision/latest?cb=20260131015113
+                      - img "Color Shuffle Potion Icon" [ref=e643]
+                  - rowheader "Color Shuffle Potion" [ref=e644]:
+                    - link "Color Shuffle Potion" [ref=e645] [cursor=pointer]:
+                      - /url: /wiki/Color_Shuffle_Potion
+                  - cell "General Store [▼] Alchemy [▼] Fishing [▼] Bosses [▼] Season Passes Chests Season Passes" [ref=e646]:
+                    - list [ref=e647]:
+                      - listitem [ref=e648]:
+                        - text: General Store
+                        - button "[▼]" [ref=e649] [cursor=pointer]
+                      - listitem [ref=e650]:
+                        - link "Alchemy" [ref=e652] [cursor=pointer]:
+                          - /url: /wiki/Alchemy
+                        - button "[▼]" [ref=e653] [cursor=pointer]
+                      - listitem [ref=e654]:
+                        - link "Fishing" [ref=e656] [cursor=pointer]:
+                          - /url: /wiki/Fishing
+                        - button "[▼]" [ref=e657] [cursor=pointer]
+                      - listitem [ref=e658]:
+                        - link "Bosses" [ref=e660] [cursor=pointer]:
+                          - /url: /wiki/Bosses
+                        - button "[▼]" [ref=e661] [cursor=pointer]
+                      - listitem [ref=e662]:
+                        - link "Season Passes" [ref=e664] [cursor=pointer]:
+                          - /url: /wiki/Dragon_Seasons
+                      - listitem [ref=e665]:
+                        - link "Chests" [ref=e667] [cursor=pointer]:
+                          - /url: /wiki/Chests
+                      - listitem [ref=e668]:
+                        - link "Season Passes" [ref=e670] [cursor=pointer]:
+                          - /url: /wiki/Dragon_Seasons
+                  - cell "Shuffles all the colors on a dragon." [ref=e671]
+                - row "Color Order Potion Color Order Potion General Store [▼] Alchemy [▼] Chests Season Passes Shuffles the color order of a dragon." [ref=e672]:
+                  - columnheader "Color Order Potion" [ref=e673]:
+                    - link "Color Order Potion" [ref=e676] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/2/23/Color_Order_Potion.png/revision/latest?cb=20251116031629
+                      - img "Color Order Potion" [ref=e677]
+                  - rowheader "Color Order Potion" [ref=e678]:
+                    - link "Color Order Potion" [ref=e679] [cursor=pointer]:
+                      - /url: /wiki/Color_Order_Potion
+                  - cell "General Store [▼] Alchemy [▼] Chests Season Passes" [ref=e680]:
+                    - list [ref=e681]:
+                      - listitem [ref=e682]:
+                        - text: General Store
+                        - button "[▼]" [ref=e683] [cursor=pointer]
+                      - listitem [ref=e684]:
+                        - link "Alchemy" [ref=e686] [cursor=pointer]:
+                          - /url: /wiki/Alchemy
+                        - button "[▼]" [ref=e687] [cursor=pointer]
+                      - listitem [ref=e688]:
+                        - link "Chests" [ref=e690] [cursor=pointer]:
+                          - /url: /wiki/Chests
+                      - listitem [ref=e691]:
+                        - link "Season Passes" [ref=e693] [cursor=pointer]:
+                          - /url: /wiki/Dragon_Seasons
+                  - cell "Shuffles the color order of a dragon." [ref=e694]
+                - row "Primary Color Potion Icon Primary Color Potion General Store [▼] Alchemy [▼] Spinner Wheel [▼] Fishing [▼] Season Passes Chests Season Passes Shuffles the primary slot's color." [ref=e695]:
+                  - columnheader "Primary Color Potion Icon" [ref=e696]:
+                    - link "Primary Color Potion Icon" [ref=e698] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/9/9a/Primary_Color_Potion_Icon.png/revision/latest?cb=20260131015115
+                      - img "Primary Color Potion Icon" [ref=e699]
+                  - rowheader "Primary Color Potion" [ref=e700]:
+                    - link "Primary Color Potion" [ref=e701] [cursor=pointer]:
+                      - /url: /wiki/Primary_Color_Potion
+                  - cell "General Store [▼] Alchemy [▼] Spinner Wheel [▼] Fishing [▼] Season Passes Chests Season Passes" [ref=e702]:
+                    - list [ref=e703]:
+                      - listitem [ref=e704]:
+                        - text: General Store
+                        - button "[▼]" [ref=e705] [cursor=pointer]
+                      - listitem [ref=e706]:
+                        - link "Alchemy" [ref=e708] [cursor=pointer]:
+                          - /url: /wiki/Alchemy
+                        - button "[▼]" [ref=e709] [cursor=pointer]
+                      - listitem [ref=e710]:
+                        - link "Spinner Wheel" [ref=e712] [cursor=pointer]:
+                          - /url: /wiki/Spinner_Wheel
+                        - button "[▼]" [ref=e713] [cursor=pointer]
+                      - listitem [ref=e714]:
+                        - link "Fishing" [ref=e716] [cursor=pointer]:
+                          - /url: /wiki/Fishing
+                        - button "[▼]" [ref=e717] [cursor=pointer]
+                      - listitem [ref=e718]:
+                        - link "Season Passes" [ref=e720] [cursor=pointer]:
+                          - /url: /wiki/Dragon_Seasons
+                      - listitem [ref=e721]:
+                        - link "Chests" [ref=e723] [cursor=pointer]:
+                          - /url: /wiki/Chests
+                      - listitem [ref=e724]:
+                        - link "Season Passes" [ref=e726] [cursor=pointer]:
+                          - /url: /wiki/Dragon_Seasons
+                  - cell "Shuffles the primary slot's color." [ref=e727]
+                - row "Secondary Color Potion Icon Secondary Color Potion General Store [▼] Alchemy [▼] Spinner Wheel [▼] Fishing [▼] Season Passes Chests Season Passes Shuffles the secondary slot's color." [ref=e728]:
+                  - columnheader "Secondary Color Potion Icon" [ref=e729]:
+                    - link "Secondary Color Potion Icon" [ref=e731] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/1/10/Secondary_Color_Potion_Icon.png/revision/latest?cb=20260131015118
+                      - img "Secondary Color Potion Icon" [ref=e732]
+                  - rowheader "Secondary Color Potion" [ref=e733]:
+                    - link "Secondary Color Potion" [ref=e734] [cursor=pointer]:
+                      - /url: /wiki/Secondary_Color_Potion
+                  - cell "General Store [▼] Alchemy [▼] Spinner Wheel [▼] Fishing [▼] Season Passes Chests Season Passes" [ref=e735]:
+                    - list [ref=e736]:
+                      - listitem [ref=e737]:
+                        - text: General Store
+                        - button "[▼]" [ref=e738] [cursor=pointer]
+                      - listitem [ref=e739]:
+                        - link "Alchemy" [ref=e741] [cursor=pointer]:
+                          - /url: /wiki/Alchemy
+                        - button "[▼]" [ref=e742] [cursor=pointer]
+                      - listitem [ref=e743]:
+                        - link "Spinner Wheel" [ref=e745] [cursor=pointer]:
+                          - /url: /wiki/Spinner_Wheel
+                        - button "[▼]" [ref=e746] [cursor=pointer]
+                      - listitem [ref=e747]:
+                        - link "Fishing" [ref=e749] [cursor=pointer]:
+                          - /url: /wiki/Fishing
+                        - button "[▼]" [ref=e750] [cursor=pointer]
+                      - listitem [ref=e751]:
+                        - link "Season Passes" [ref=e753] [cursor=pointer]:
+                          - /url: /wiki/Dragon_Seasons
+                      - listitem [ref=e754]:
+                        - link "Chests" [ref=e756] [cursor=pointer]:
+                          - /url: /wiki/Chests
+                      - listitem [ref=e757]:
+                        - link "Season Passes" [ref=e759] [cursor=pointer]:
+                          - /url: /wiki/Dragon_Seasons
+                  - cell "Shuffles the secondary slot's color." [ref=e760]
+                - row "Tertiary Color Potion Icon Tertiary Color Potion General Store [▼] Alchemy [▼] Spinner Wheel [▼] Fishing [▼] Season Passes Chests Season Passes Shuffles the tertiary slot's color." [ref=e761]:
+                  - columnheader "Tertiary Color Potion Icon" [ref=e762]:
+                    - link "Tertiary Color Potion Icon" [ref=e764] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/6/68/Tertiary_Color_Potion_Icon.png/revision/latest?cb=20260131015120
+                      - img "Tertiary Color Potion Icon" [ref=e765]
+                  - rowheader "Tertiary Color Potion" [ref=e766]:
+                    - link "Tertiary Color Potion" [ref=e767] [cursor=pointer]:
+                      - /url: /wiki/Tertiary_Color_Potion
+                  - cell "General Store [▼] Alchemy [▼] Spinner Wheel [▼] Fishing [▼] Season Passes Chests Season Passes" [ref=e768]:
+                    - list [ref=e769]:
+                      - listitem [ref=e770]:
+                        - text: General Store
+                        - button "[▼]" [ref=e771] [cursor=pointer]
+                      - listitem [ref=e772]:
+                        - link "Alchemy" [ref=e774] [cursor=pointer]:
+                          - /url: /wiki/Alchemy
+                        - button "[▼]" [ref=e775] [cursor=pointer]
+                      - listitem [ref=e776]:
+                        - link "Spinner Wheel" [ref=e778] [cursor=pointer]:
+                          - /url: /wiki/Spinner_Wheel
+                        - button "[▼]" [ref=e779] [cursor=pointer]
+                      - listitem [ref=e780]:
+                        - link "Fishing" [ref=e782] [cursor=pointer]:
+                          - /url: /wiki/Fishing
+                        - button "[▼]" [ref=e783] [cursor=pointer]
+                      - listitem [ref=e784]:
+                        - link "Season Passes" [ref=e786] [cursor=pointer]:
+                          - /url: /wiki/Dragon_Seasons
+                      - listitem [ref=e787]:
+                        - link "Chests" [ref=e789] [cursor=pointer]:
+                          - /url: /wiki/Chests
+                      - listitem [ref=e790]:
+                        - link "Season Passes" [ref=e792] [cursor=pointer]:
+                          - /url: /wiki/Dragon_Seasons
+                  - cell "Shuffles the tertiary slot's color." [ref=e793]
+                - row "Partial Pure Color Potion Partial Pure Color Potion General Store [▼] Bosses [▼] Season Passes Changes two of the dragon's colors to one color." [ref=e794]:
+                  - columnheader "Partial Pure Color Potion" [ref=e795]:
+                    - link "Partial Pure Color Potion" [ref=e797] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/a/a1/Partial_Pure_Color_Potion.png/revision/latest?cb=20260131013638
+                      - img "Partial Pure Color Potion" [ref=e798]
+                  - rowheader "Partial Pure Color Potion" [ref=e799]
+                  - cell "General Store [▼] Bosses [▼] Season Passes" [ref=e800]:
+                    - list [ref=e801]:
+                      - listitem [ref=e802]:
+                        - text: General Store
+                        - button "[▼]" [ref=e803] [cursor=pointer]
+                      - listitem [ref=e804]:
+                        - link "Bosses" [ref=e806] [cursor=pointer]:
+                          - /url: /wiki/Bosses
+                        - button "[▼]" [ref=e807] [cursor=pointer]
+                      - listitem [ref=e808]:
+                        - link "Season Passes" [ref=e810] [cursor=pointer]:
+                          - /url: /wiki/Dragon_Seasons
+                  - cell "Changes two of the dragon's colors to one color." [ref=e811]
+                - row "Pure Color Potion Pure Color Potion General Store [▼] Spinner Wheel [▼] Bosses [▼] Season Passes Changes all of the dragon's colors into one random color." [ref=e812]:
+                  - columnheader "Pure Color Potion" [ref=e813]:
+                    - link "Pure Color Potion" [ref=e815] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/2/25/Pure_Color_Potion.png/revision/latest?cb=20260131013640
+                      - img "Pure Color Potion" [ref=e816]
+                  - rowheader "Pure Color Potion" [ref=e817]
+                  - cell "General Store [▼] Spinner Wheel [▼] Bosses [▼] Season Passes" [ref=e818]:
+                    - list [ref=e819]:
+                      - listitem [ref=e820]:
+                        - text: General Store
+                        - button "[▼]" [ref=e821] [cursor=pointer]
+                      - listitem [ref=e822]:
+                        - link "Spinner Wheel" [ref=e824] [cursor=pointer]:
+                          - /url: /wiki/Spinner_Wheel
+                        - button "[▼]" [ref=e825] [cursor=pointer]
+                      - listitem [ref=e826]:
+                        - link "Bosses" [ref=e828] [cursor=pointer]:
+                          - /url: /wiki/Bosses
+                        - button "[▼]" [ref=e829] [cursor=pointer]
+                      - listitem [ref=e830]:
+                        - link "Season Passes" [ref=e832] [cursor=pointer]:
+                          - /url: /wiki/Dragon_Seasons
+                  - cell "Changes all of the dragon's colors into one random color." [ref=e833]
+                - row "Material Shuffle Potion Icon Material Shuffle Potion General Store [▼] Alchemy [▼] Fishing [▼] Bosses [▼] Season Passes Chests Season Passes Shuffles all the materials on a dragon." [ref=e834]:
+                  - columnheader "Material Shuffle Potion Icon" [ref=e835]:
+                    - link "Material Shuffle Potion Icon" [ref=e837] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/4/49/Material_Shuffle_Potion_Icon.png/revision/latest?cb=20260131015104
+                      - img "Material Shuffle Potion Icon" [ref=e838]
+                  - rowheader "Material Shuffle Potion" [ref=e839]:
+                    - link "Material Shuffle Potion" [ref=e840] [cursor=pointer]:
+                      - /url: /wiki/Material_Shuffle_Potion
+                  - cell "General Store [▼] Alchemy [▼] Fishing [▼] Bosses [▼] Season Passes Chests Season Passes" [ref=e841]:
+                    - list [ref=e842]:
+                      - listitem [ref=e843]:
+                        - text: General Store
+                        - button "[▼]" [ref=e844] [cursor=pointer]
+                      - listitem [ref=e845]:
+                        - link "Alchemy" [ref=e847] [cursor=pointer]:
+                          - /url: /wiki/Alchemy
+                        - button "[▼]" [ref=e848] [cursor=pointer]
+                      - listitem [ref=e849]:
+                        - link "Fishing" [ref=e851] [cursor=pointer]:
+                          - /url: /wiki/Fishing
+                        - button "[▼]" [ref=e852] [cursor=pointer]
+                      - listitem [ref=e853]:
+                        - link "Bosses" [ref=e855] [cursor=pointer]:
+                          - /url: /wiki/Bosses
+                        - button "[▼]" [ref=e856] [cursor=pointer]
+                      - listitem [ref=e857]:
+                        - link "Season Passes" [ref=e859] [cursor=pointer]:
+                          - /url: /wiki/Dragon_Seasons
+                      - listitem [ref=e860]:
+                        - link "Chests" [ref=e862] [cursor=pointer]:
+                          - /url: /wiki/Chests
+                      - listitem [ref=e863]:
+                        - link "Season Passes" [ref=e865] [cursor=pointer]:
+                          - /url: /wiki/Dragon_Seasons
+                  - cell "Shuffles all the materials on a dragon." [ref=e866]:
+                    - text: Shuffles all the
+                    - link "materials" [ref=e867] [cursor=pointer]:
+                      - /url: /wiki/Materials
+                    - text: on a dragon.
+                - row "Material Order Potion Material Order Potion General Store [▼] Alchemy [▼] Chests Season Passes Shuffles the material order of a dragon." [ref=e868]:
+                  - columnheader "Material Order Potion" [ref=e869]:
+                    - link "Material Order Potion" [ref=e872] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/0/0b/Material_Order_Potion.png/revision/latest?cb=20251116043747
+                      - img "Material Order Potion" [ref=e873]
+                  - rowheader "Material Order Potion" [ref=e874]:
+                    - link "Material Order Potion" [ref=e875] [cursor=pointer]:
+                      - /url: /wiki/Material_Order_Potion
+                  - cell "General Store [▼] Alchemy [▼] Chests Season Passes" [ref=e876]:
+                    - list [ref=e877]:
+                      - listitem [ref=e878]:
+                        - text: General Store
+                        - button "[▼]" [ref=e879] [cursor=pointer]
+                      - listitem [ref=e880]:
+                        - link "Alchemy" [ref=e882] [cursor=pointer]:
+                          - /url: /wiki/Alchemy
+                        - button "[▼]" [ref=e883] [cursor=pointer]
+                      - listitem [ref=e884]:
+                        - link "Chests" [ref=e886] [cursor=pointer]:
+                          - /url: /wiki/Chests
+                      - listitem [ref=e887]:
+                        - link "Season Passes" [ref=e889] [cursor=pointer]:
+                          - /url: /wiki/Dragon_Seasons
+                  - cell "Shuffles the material order of a dragon." [ref=e890]
+                - row "Primary Material Potion Icon Primary Material Potion General Store [▼] Alchemy [▼] Spinner Wheel [▼] Fishing [▼] Season Passes Chests Season Passes Shuffles the primary slot's material." [ref=e891]:
+                  - columnheader "Primary Material Potion Icon" [ref=e892]:
+                    - link "Primary Material Potion Icon" [ref=e894] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/d/da/Primary_Material_Potion_Icon.png/revision/latest?cb=20260131015106
+                      - img "Primary Material Potion Icon" [ref=e895]
+                  - rowheader "Primary Material Potion" [ref=e896]:
+                    - link "Primary Material Potion" [ref=e897] [cursor=pointer]:
+                      - /url: /wiki/Primary_Material_Potion
+                  - cell "General Store [▼] Alchemy [▼] Spinner Wheel [▼] Fishing [▼] Season Passes Chests Season Passes" [ref=e898]:
+                    - list [ref=e899]:
+                      - listitem [ref=e900]:
+                        - text: General Store
+                        - button "[▼]" [ref=e901] [cursor=pointer]
+                      - listitem [ref=e902]:
+                        - link "Alchemy" [ref=e904] [cursor=pointer]:
+                          - /url: /wiki/Alchemy
+                        - button "[▼]" [ref=e905] [cursor=pointer]
+                      - listitem [ref=e906]:
+                        - link "Spinner Wheel" [ref=e908] [cursor=pointer]:
+                          - /url: /wiki/Spinner_Wheel
+                        - button "[▼]" [ref=e909] [cursor=pointer]
+                      - listitem [ref=e910]:
+                        - link "Fishing" [ref=e912] [cursor=pointer]:
+                          - /url: /wiki/Fishing
+                        - button "[▼]" [ref=e913] [cursor=pointer]
+                      - listitem [ref=e914]:
+                        - link "Season Passes" [ref=e916] [cursor=pointer]:
+                          - /url: /wiki/Dragon_Seasons
+                      - listitem [ref=e917]:
+                        - link "Chests" [ref=e919] [cursor=pointer]:
+                          - /url: /wiki/Chests
+                      - listitem [ref=e920]:
+                        - link "Season Passes" [ref=e922] [cursor=pointer]:
+                          - /url: /wiki/Dragon_Seasons
+                  - cell "Shuffles the primary slot's material." [ref=e923]
+                - row "Secondary Material Potion Icon Secondary Material Potion General Store [▼] Alchemy [▼] Spinner Wheel [▼] Fishing [▼] Season Passes Chests Season Passes Shuffles the secondary slot's material." [ref=e924]:
+                  - columnheader "Secondary Material Potion Icon" [ref=e925]:
+                    - link "Secondary Material Potion Icon" [ref=e927] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/0/01/Secondary_Material_Potion_Icon.png/revision/latest?cb=20260131015108
+                      - img "Secondary Material Potion Icon" [ref=e928]
+                  - rowheader "Secondary Material Potion" [ref=e929]:
+                    - link "Secondary Material Potion" [ref=e930] [cursor=pointer]:
+                      - /url: /wiki/Secondary_Material_Potion
+                  - cell "General Store [▼] Alchemy [▼] Spinner Wheel [▼] Fishing [▼] Season Passes Chests Season Passes" [ref=e931]:
+                    - list [ref=e932]:
+                      - listitem [ref=e933]:
+                        - text: General Store
+                        - button "[▼]" [ref=e934] [cursor=pointer]
+                      - listitem [ref=e935]:
+                        - link "Alchemy" [ref=e937] [cursor=pointer]:
+                          - /url: /wiki/Alchemy
+                        - button "[▼]" [ref=e938] [cursor=pointer]
+                      - listitem [ref=e939]:
+                        - link "Spinner Wheel" [ref=e941] [cursor=pointer]:
+                          - /url: /wiki/Spinner_Wheel
+                        - button "[▼]" [ref=e942] [cursor=pointer]
+                      - listitem [ref=e943]:
+                        - link "Fishing" [ref=e945] [cursor=pointer]:
+                          - /url: /wiki/Fishing
+                        - button "[▼]" [ref=e946] [cursor=pointer]
+                      - listitem [ref=e947]:
+                        - link "Season Passes" [ref=e949] [cursor=pointer]:
+                          - /url: /wiki/Dragon_Seasons
+                      - listitem [ref=e950]:
+                        - link "Chests" [ref=e952] [cursor=pointer]:
+                          - /url: /wiki/Chests
+                      - listitem [ref=e953]:
+                        - link "Season Passes" [ref=e955] [cursor=pointer]:
+                          - /url: /wiki/Dragon_Seasons
+                  - cell "Shuffles the secondary slot's material." [ref=e956]
+                - row "Tertiary Material Potion Icon Tertiary Material Potion General Store [▼] Alchemy [▼] Spinner Wheel [▼] Fishing [▼] Season Passes Chests Season Passes Shuffles the tertiary slot's material." [ref=e957]:
+                  - columnheader "Tertiary Material Potion Icon" [ref=e958]:
+                    - link "Tertiary Material Potion Icon" [ref=e960] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/3/31/Tertiary_Material_Potion_Icon.png/revision/latest?cb=20260131015110
+                      - img "Tertiary Material Potion Icon" [ref=e961]
+                  - rowheader "Tertiary Material Potion" [ref=e962]:
+                    - link "Tertiary Material Potion" [ref=e963] [cursor=pointer]:
+                      - /url: /wiki/Tertiary_Material_Potion
+                  - cell "General Store [▼] Alchemy [▼] Spinner Wheel [▼] Fishing [▼] Season Passes Chests Season Passes" [ref=e964]:
+                    - list [ref=e965]:
+                      - listitem [ref=e966]:
+                        - text: General Store
+                        - button "[▼]" [ref=e967] [cursor=pointer]
+                      - listitem [ref=e968]:
+                        - link "Alchemy" [ref=e970] [cursor=pointer]:
+                          - /url: /wiki/Alchemy
+                        - button "[▼]" [ref=e971] [cursor=pointer]
+                      - listitem [ref=e972]:
+                        - link "Spinner Wheel" [ref=e974] [cursor=pointer]:
+                          - /url: /wiki/Spinner_Wheel
+                        - button "[▼]" [ref=e975] [cursor=pointer]
+                      - listitem [ref=e976]:
+                        - link "Fishing" [ref=e978] [cursor=pointer]:
+                          - /url: /wiki/Fishing
+                        - button "[▼]" [ref=e979] [cursor=pointer]
+                      - listitem [ref=e980]:
+                        - link "Season Passes" [ref=e982] [cursor=pointer]:
+                          - /url: /wiki/Dragon_Seasons
+                      - listitem [ref=e983]:
+                        - link "Chests" [ref=e985] [cursor=pointer]:
+                          - /url: /wiki/Chests
+                      - listitem [ref=e986]:
+                        - link "Season Passes" [ref=e988] [cursor=pointer]:
+                          - /url: /wiki/Dragon_Seasons
+                  - cell "Shuffles the tertiary slot's material." [ref=e989]
+                - row "Partial Pure Material Potion Partial Pure Material Potion General Store [▼] Bosses [▼] Changes two of the dragon's materials to one material." [ref=e990]:
+                  - columnheader "Partial Pure Material Potion" [ref=e991]:
+                    - link "Partial Pure Material Potion" [ref=e993] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/a/a3/Partial_Pure_Material_Potion.png/revision/latest?cb=20260131013649
+                      - img "Partial Pure Material Potion" [ref=e994]
+                  - rowheader "Partial Pure Material Potion" [ref=e995]
+                  - cell "General Store [▼] Bosses [▼]" [ref=e996]:
+                    - list [ref=e997]:
+                      - listitem [ref=e998]:
+                        - text: General Store
+                        - button "[▼]" [ref=e999] [cursor=pointer]
+                      - listitem [ref=e1000]:
+                        - link "Bosses" [ref=e1002] [cursor=pointer]:
+                          - /url: /wiki/Bosses
+                        - button "[▼]" [ref=e1003] [cursor=pointer]
+                  - cell "Changes two of the dragon's materials to one material." [ref=e1004]
+                - row "Pure Material Potion Pure Material Potion General Store [▼] Spinner Wheel [▼] Bosses [▼] Season Passes Changes all of the dragon's materials into one random material." [ref=e1005]:
+                  - columnheader "Pure Material Potion" [ref=e1006]:
+                    - link "Pure Material Potion" [ref=e1008] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/0/04/Pure_Material_Potion.png/revision/latest?cb=20260131013653
+                      - img "Pure Material Potion" [ref=e1009]
+                  - rowheader "Pure Material Potion" [ref=e1010]
+                  - cell "General Store [▼] Spinner Wheel [▼] Bosses [▼] Season Passes" [ref=e1011]:
+                    - list [ref=e1012]:
+                      - listitem [ref=e1013]:
+                        - text: General Store
+                        - button "[▼]" [ref=e1014] [cursor=pointer]
+                      - listitem [ref=e1015]:
+                        - link "Spinner Wheel" [ref=e1017] [cursor=pointer]:
+                          - /url: /wiki/Spinner_Wheel
+                        - button "[▼]" [ref=e1018] [cursor=pointer]
+                      - listitem [ref=e1019]:
+                        - link "Bosses" [ref=e1021] [cursor=pointer]:
+                          - /url: /wiki/Bosses
+                        - button "[▼]" [ref=e1022] [cursor=pointer]
+                      - listitem [ref=e1023]:
+                        - link "Season Passes" [ref=e1025] [cursor=pointer]:
+                          - /url: /wiki/Dragon_Seasons
+                  - cell "Changes all of the dragon's materials into one random material." [ref=e1026]
+                - row "Mutation Potion Mutation Potion General Store [▼] Alchemy [▼] Silver and gold chests Bosses [▼] Daily Tasks [▼] Season Passes Lunar New Year Event 2024 [▼] Lunar New Year Event 2026 [▼] Season Passes Gives a random mutation to a dragon. 20% chance for each mutation." [ref=e1027]:
+                  - columnheader "Mutation Potion" [ref=e1028]:
+                    - link "Mutation Potion" [ref=e1030] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/e/ec/Mutation_Potion.png/revision/latest?cb=20260131015048
+                      - img "Mutation Potion" [ref=e1031]
+                  - rowheader "Mutation Potion" [ref=e1032]
+                  - cell "General Store [▼] Alchemy [▼] Silver and gold chests Bosses [▼] Daily Tasks [▼] Season Passes Lunar New Year Event 2024 [▼] Lunar New Year Event 2026 [▼] Season Passes" [ref=e1033]:
+                    - list [ref=e1034]:
+                      - listitem [ref=e1035]:
+                        - text: General Store
+                        - button "[▼]" [ref=e1036] [cursor=pointer]
+                      - listitem [ref=e1037]:
+                        - link "Alchemy" [ref=e1039] [cursor=pointer]:
+                          - /url: /wiki/Alchemy
+                        - button "[▼]" [ref=e1040] [cursor=pointer]
+                      - listitem [ref=e1041]:
+                        - generic [ref=e1042]:
+                          - text: Silver and gold
+                          - link "chests" [ref=e1043] [cursor=pointer]:
+                            - /url: /wiki/Chests
+                      - listitem [ref=e1044]:
+                        - link "Bosses" [ref=e1046] [cursor=pointer]:
+                          - /url: /wiki/Bosses
+                        - button "[▼]" [ref=e1047] [cursor=pointer]
+                      - listitem [ref=e1048]:
+                        - link "Daily Tasks" [ref=e1050] [cursor=pointer]:
+                          - /url: /wiki/Daily_Tasks
+                        - button "[▼]" [ref=e1051] [cursor=pointer]
+                      - listitem [ref=e1052]:
+                        - link "Season Passes" [ref=e1054] [cursor=pointer]:
+                          - /url: /wiki/Dragon_Seasons
+                      - listitem [ref=e1055]:
+                        - link "Lunar New Year Event 2024" [ref=e1057] [cursor=pointer]:
+                          - /url: /wiki/Lunar_New_Year_Event_2024
+                        - button "[▼]" [ref=e1058] [cursor=pointer]
+                      - listitem [ref=e1059]:
+                        - link "Lunar New Year Event 2026" [ref=e1061] [cursor=pointer]:
+                          - /url: /wiki/Lunar_New_Year_Event_2026
+                        - button "[▼]" [ref=e1062] [cursor=pointer]
+                      - listitem [ref=e1063]:
+                        - link "Season Passes" [ref=e1065] [cursor=pointer]:
+                          - /url: /wiki/Dragon_Seasons
+                  - cell "Gives a random mutation to a dragon. 20% chance for each mutation." [ref=e1066]:
+                    - text: Gives a random
+                    - link "mutation" [ref=e1067] [cursor=pointer]:
+                      - /url: /wiki/Mutations
+                    - text: to a dragon. 20% chance for each mutation.
+                - row "Mutation Cure Potion Mutation Cure Potion Alchemy [▼] Silver and gold chests Lunar New Year Event 2024 [▼] Cures a random mutation to a dragon. 20% chance for each mutation to be cured." [ref=e1068]:
+                  - columnheader "Mutation Cure Potion" [ref=e1069]:
+                    - link "Mutation Cure Potion" [ref=e1071] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/e/eb/Mutation_Cure_Potion.png/revision/latest?cb=20260131015122
+                      - img "Mutation Cure Potion" [ref=e1072]
+                  - rowheader "Mutation Cure Potion" [ref=e1073]
+                  - cell "Alchemy [▼] Silver and gold chests Lunar New Year Event 2024 [▼]" [ref=e1074]:
+                    - list [ref=e1075]:
+                      - listitem [ref=e1076]:
+                        - link "Alchemy" [ref=e1078] [cursor=pointer]:
+                          - /url: /wiki/Alchemy
+                        - button "[▼]" [ref=e1079] [cursor=pointer]
+                      - listitem [ref=e1080]:
+                        - generic [ref=e1081]:
+                          - text: Silver and gold
+                          - link "chests" [ref=e1082] [cursor=pointer]:
+                            - /url: /wiki/Chests
+                      - listitem [ref=e1083]:
+                        - link "Lunar New Year Event 2024" [ref=e1085] [cursor=pointer]:
+                          - /url: /wiki/Lunar_New_Year_Event_2024
+                        - button "[▼]" [ref=e1086] [cursor=pointer]
+                  - cell "Cures a random mutation to a dragon. 20% chance for each mutation to be cured." [ref=e1087]:
+                    - text: Cures a random
+                    - link "mutation" [ref=e1088] [cursor=pointer]:
+                      - /url: /wiki/Mutations
+                    - text: to a dragon. 20% chance for each mutation to be cured.
+                - row "Potion Of Bonding Potion Of Bonding General Store [▼] Gives the dragon Bond Skill Experience" [ref=e1089]:
+                  - columnheader "Potion Of Bonding" [ref=e1090]:
+                    - link "Potion Of Bonding" [ref=e1093] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/b/b3/Potion_Of_Bonding.png/revision/latest?cb=20250815214732
+                      - img "Potion Of Bonding" [ref=e1094]
+                  - rowheader "Potion Of Bonding" [ref=e1095]:
+                    - link "Potion Of Bonding" [ref=e1096] [cursor=pointer]:
+                      - /url: /wiki/Potion_Of_Bonding
+                  - cell "General Store [▼]" [ref=e1097]:
+                    - list [ref=e1098]:
+                      - listitem [ref=e1099]:
+                        - text: General Store
+                        - button "[▼]" [ref=e1100] [cursor=pointer]
+                  - cell "Gives the dragon Bond Skill Experience" [ref=e1101]:
+                    - text: Gives the dragon
+                    - link "Bond Skill" [ref=e1102] [cursor=pointer]:
+                      - /url: /wiki/Sub-Skills#Bond
+                    - text: Experience
+                - row "Potion Of Combat Potion Of Combat General Store [▼] Gives the dragon Combat Skill Experience" [ref=e1103]:
+                  - columnheader "Potion Of Combat" [ref=e1104]:
+                    - link "Potion Of Combat" [ref=e1107] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/4/46/Potion_Of_Combat.png/revision/latest?cb=20250815200032
+                      - img "Potion Of Combat" [ref=e1108]
+                  - rowheader "Potion Of Combat" [ref=e1109]:
+                    - link "Potion Of Combat" [ref=e1110] [cursor=pointer]:
+                      - /url: /wiki/Potion_Of_Combat
+                  - cell "General Store [▼]" [ref=e1111]:
+                    - list [ref=e1112]:
+                      - listitem [ref=e1113]:
+                        - text: General Store
+                        - button "[▼]" [ref=e1114] [cursor=pointer]
+                  - cell "Gives the dragon Combat Skill Experience" [ref=e1115]:
+                    - text: Gives the dragon
+                    - link "Combat Skill" [ref=e1116] [cursor=pointer]:
+                      - /url: /wiki/Sub-Skills#Combat
+                    - text: Experience
+                - row "Potion Of Riding Potion Of Riding General Store [▼] Gives the dragon Riding Skill Experience" [ref=e1117]:
+                  - columnheader "Potion Of Riding" [ref=e1118]:
+                    - link "Potion Of Riding" [ref=e1121] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/4/41/Potion_Of_Riding.png/revision/latest?cb=20250815200047
+                      - img "Potion Of Riding" [ref=e1122]
+                  - rowheader "Potion Of Riding" [ref=e1123]:
+                    - link "Potion Of Riding" [ref=e1124] [cursor=pointer]:
+                      - /url: /wiki/Potion_Of_Riding
+                  - cell "General Store [▼]" [ref=e1125]:
+                    - list [ref=e1126]:
+                      - listitem [ref=e1127]:
+                        - text: General Store
+                        - button "[▼]" [ref=e1128] [cursor=pointer]
+                  - cell "Gives the dragon Riding Skill Experience" [ref=e1129]:
+                    - text: Gives the dragon
+                    - link "Riding Skill" [ref=e1130] [cursor=pointer]:
+                      - /url: /wiki/Sub-Skills#Riding
+                    - text: Experience
+                - row "Potion Of Tracking Potion Of Tracking General Store [▼] Gives the dragon Tracking Skill Experience" [ref=e1131]:
+                  - columnheader "Potion Of Tracking" [ref=e1132]:
+                    - link "Potion Of Tracking" [ref=e1135] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/a/ac/Potion_Of_Tracking.png/revision/latest?cb=20250815195828
+                      - img "Potion Of Tracking" [ref=e1136]
+                  - rowheader "Potion Of Tracking" [ref=e1137]:
+                    - link "Potion Of Tracking" [ref=e1138] [cursor=pointer]:
+                      - /url: /wiki/Potion_Of_Tracking
+                  - cell "General Store [▼]" [ref=e1139]:
+                    - list [ref=e1140]:
+                      - listitem [ref=e1141]:
+                        - text: General Store
+                        - button "[▼]" [ref=e1142] [cursor=pointer]
+                  - cell "Gives the dragon Tracking Skill Experience" [ref=e1143]:
+                    - text: Gives the dragon
+                    - link "Tracking Skill" [ref=e1144] [cursor=pointer]:
+                      - /url: /wiki/Sub-Skills#Tracking
+                    - text: Experience
+                - row "Cosmetic Trait Removal Potion Cosmetic Trait Removal Potion General Store [▼] Alchemy [▼] Season Passes Removes the cosmetic trait from the dragon." [ref=e1145]:
+                  - columnheader "Cosmetic Trait Removal Potion" [ref=e1146]:
+                    - link "Cosmetic Trait Removal Potion" [ref=e1149] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/a/a6/Cosmetic_Trait_Removal_Potion.png/revision/latest?cb=20260102220431
+                      - img "Cosmetic Trait Removal Potion" [ref=e1150]
+                  - rowheader "Cosmetic Trait Removal Potion" [ref=e1151]:
+                    - link "Cosmetic Trait Removal Potion" [ref=e1152] [cursor=pointer]:
+                      - /url: /wiki/Cosmetic_Trait_Removal_Potion
+                  - cell "General Store [▼] Alchemy [▼] Season Passes" [ref=e1153]:
+                    - list [ref=e1154]:
+                      - listitem [ref=e1155]:
+                        - text: General Store
+                        - button "[▼]" [ref=e1156] [cursor=pointer]
+                      - listitem [ref=e1157]:
+                        - link "Alchemy" [ref=e1159] [cursor=pointer]:
+                          - /url: /wiki/Alchemy
+                        - button "[▼]" [ref=e1160] [cursor=pointer]
+                      - listitem [ref=e1161]:
+                        - link "Season Passes" [ref=e1163] [cursor=pointer]:
+                          - /url: /wiki/Dragon_Seasons
+                  - cell "Removes the cosmetic trait from the dragon." [ref=e1164]:
+                    - text: Removes the
+                    - link "cosmetic trait" [ref=e1165] [cursor=pointer]:
+                      - /url: /wiki/Cosmetic_traits
+                    - text: from the dragon.
+              - rowgroup
+            - heading "Limited Potions" [level=3] [ref=e1166]: Limited Potions
+            - paragraph [ref=e1167]:
+              - text: The following potions are only available for a limited time, usually during
+              - link "events" [ref=e1168] [cursor=pointer]:
+                - /url: /wiki/Events
+              - text: .
+            - table [ref=e1169]:
+              - rowgroup [ref=e1170]:
+                - row "Icon Potion Obtainment Effect" [ref=e1171]:
+                  - columnheader "Icon" [ref=e1172]
+                  - columnheader "Potion" [ref=e1173] [cursor=pointer]
+                  - columnheader "Obtainment" [ref=e1174]
+                  - columnheader "Effect" [ref=e1175]
+              - rowgroup [ref=e1176]:
+                - row "Legendary Color Potion Legendary Color Potion Limited Shop [▼] Black Friday 2021 [▼] Fishing Frenzy Mini Event 2022 [▼] Black Friday 2022 [▼] Guild Wars [▼] Black Friday 2023 [▼] Black Friday 2024 [▼] Lunar New Year Event 2024 [▼] Black Friday 2025 [▼] Season Passes Changes the color in the chosen slot (primary, secondary, or tertiary) into Legendary. The color(s) the Legendary slot shifts to are dependent on the dragon's element." [ref=e1177]:
+                  - columnheader "Legendary Color Potion" [ref=e1178]:
+                    - link "Legendary Color Potion" [ref=e1180] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/4/4f/Legendary_Color_Potion.png/revision/latest?cb=20260131015054
+                      - img "Legendary Color Potion" [ref=e1181]
+                  - rowheader "Legendary Color Potion" [ref=e1182]:
+                    - link "Legendary Color Potion" [ref=e1183] [cursor=pointer]:
+                      - /url: /wiki/Legendary_Color_Potion
+                  - cell "Limited Shop [▼] Black Friday 2021 [▼] Fishing Frenzy Mini Event 2022 [▼] Black Friday 2022 [▼] Guild Wars [▼] Black Friday 2023 [▼] Black Friday 2024 [▼] Lunar New Year Event 2024 [▼] Black Friday 2025 [▼] Season Passes" [ref=e1184]:
+                    - list [ref=e1185]:
+                      - listitem [ref=e1186]:
+                        - text: Limited Shop
+                        - button "[▼]" [ref=e1187] [cursor=pointer]
+                      - listitem [ref=e1188]:
+                        - text: Black Friday 2021
+                        - button "[▼]" [ref=e1189] [cursor=pointer]
+                      - listitem [ref=e1190]:
+                        - text: Fishing Frenzy Mini Event 2022
+                        - button "[▼]" [ref=e1191] [cursor=pointer]
+                      - listitem [ref=e1192]:
+                        - text: Black Friday 2022
+                        - button "[▼]" [ref=e1193] [cursor=pointer]
+                      - listitem [ref=e1194]:
+                        - link "Guild Wars" [ref=e1196] [cursor=pointer]:
+                          - /url: /wiki/Guild_Wars
+                        - button "[▼]" [ref=e1197] [cursor=pointer]
+                      - listitem [ref=e1198]:
+                        - text: Black Friday 2023
+                        - button "[▼]" [ref=e1199] [cursor=pointer]
+                      - listitem [ref=e1200]:
+                        - text: Black Friday 2024
+                        - button "[▼]" [ref=e1201] [cursor=pointer]
+                      - listitem [ref=e1202]:
+                        - link "Lunar New Year Event 2024" [ref=e1204] [cursor=pointer]:
+                          - /url: /wiki/Lunar_New_Year_Event_2024
+                        - button "[▼]" [ref=e1205] [cursor=pointer]
+                      - listitem [ref=e1206]:
+                        - text: Black Friday 2025
+                        - button "[▼]" [ref=e1207] [cursor=pointer]
+                      - listitem [ref=e1208]:
+                        - link "Season Passes" [ref=e1210] [cursor=pointer]:
+                          - /url: /wiki/Dragon_Seasons
+                  - cell "Changes the color in the chosen slot (primary, secondary, or tertiary) into Legendary. The color(s) the Legendary slot shifts to are dependent on the dragon's element." [ref=e1211]:
+                    - text: Changes the color in the chosen slot (primary, secondary, or tertiary) into Legendary.
+                    - text: The color(s) the Legendary slot shifts to are dependent on the dragon's element.
+                - row "Legendary Pupil Potion Legendary Pupil Potion Halloween Event 2020 [▼] Limited Shop [▼] Black Friday 2021 [▼] Fishing Frenzy Mini Event 2022 [▼] Black Friday 2022 [▼] Guild Wars [▼] Black Friday 2023 [▼] Lunar New Year Event 2024 [▼] Black Friday 2024 [▼] Black Friday 2025 [▼] Season Passes Gives the dragon the Legendary pupil type. The Legendary pupil makes the dragon's entire eye Neon material. The color(s) the pupil shifts to are dependent on the dragon's element." [ref=e1212]:
+                  - columnheader "Legendary Pupil Potion" [ref=e1213]:
+                    - link "Legendary Pupil Potion" [ref=e1215] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f9/Legendary_Pupil_Potion.png/revision/latest?cb=20260131015056
+                      - img "Legendary Pupil Potion" [ref=e1216]
+                  - rowheader "Legendary Pupil Potion" [ref=e1217]:
+                    - link "Legendary Pupil Potion" [ref=e1218] [cursor=pointer]:
+                      - /url: /wiki/Legendary_Pupil_Potion
+                  - cell "Halloween Event 2020 [▼] Limited Shop [▼] Black Friday 2021 [▼] Fishing Frenzy Mini Event 2022 [▼] Black Friday 2022 [▼] Guild Wars [▼] Black Friday 2023 [▼] Lunar New Year Event 2024 [▼] Black Friday 2024 [▼] Black Friday 2025 [▼] Season Passes" [ref=e1219]:
+                    - list [ref=e1220]:
+                      - listitem [ref=e1221]:
+                        - link "Halloween Event 2020" [ref=e1223] [cursor=pointer]:
+                          - /url: /wiki/Halloween_Event_2020
+                        - button "[▼]" [ref=e1224] [cursor=pointer]
+                      - listitem [ref=e1225]:
+                        - text: Limited Shop
+                        - button "[▼]" [ref=e1226] [cursor=pointer]
+                      - listitem [ref=e1227]:
+                        - text: Black Friday 2021
+                        - button "[▼]" [ref=e1228] [cursor=pointer]
+                      - listitem [ref=e1229]:
+                        - text: Fishing Frenzy Mini Event 2022
+                        - button "[▼]" [ref=e1230] [cursor=pointer]
+                      - listitem [ref=e1231]:
+                        - text: Black Friday 2022
+                        - button "[▼]" [ref=e1232] [cursor=pointer]
+                      - listitem [ref=e1233]:
+                        - link "Guild Wars" [ref=e1235] [cursor=pointer]:
+                          - /url: /wiki/Guild_Wars
+                        - button "[▼]" [ref=e1236] [cursor=pointer]
+                      - listitem [ref=e1237]:
+                        - text: Black Friday 2023
+                        - button "[▼]" [ref=e1238] [cursor=pointer]
+                      - listitem [ref=e1239]:
+                        - link "Lunar New Year Event 2024" [ref=e1241] [cursor=pointer]:
+                          - /url: /wiki/Lunar_New_Year_Event_2024
+                        - button "[▼]" [ref=e1242] [cursor=pointer]
+                      - listitem [ref=e1243]:
+                        - text: Black Friday 2024
+                        - button "[▼]" [ref=e1244] [cursor=pointer]
+                      - listitem [ref=e1245]:
+                        - text: Black Friday 2025
+                        - button "[▼]" [ref=e1246] [cursor=pointer]
+                      - listitem [ref=e1247]:
+                        - link "Season Passes" [ref=e1249] [cursor=pointer]:
+                          - /url: /wiki/Dragon_Seasons
+                  - cell "Gives the dragon the Legendary pupil type. The Legendary pupil makes the dragon's entire eye Neon material. The color(s) the pupil shifts to are dependent on the dragon's element." [ref=e1250]:
+                    - text: Gives the dragon the Legendary
+                    - link "pupil" [ref=e1251] [cursor=pointer]:
+                      - /url: /wiki/Pupils
+                    - text: type.
+                    - text: The Legendary pupil makes the dragon's entire eye Neon
+                    - link "material" [ref=e1252] [cursor=pointer]:
+                      - /url: /wiki/Materials
+                    - text: . The color(s) the pupil shifts to are dependent on the dragon's
+                    - link "element" [ref=e1253] [cursor=pointer]:
+                      - /url: /wiki/Elements
+                    - text: .
+                - row "Paranox Conversion Potion Paranox Conversion Potion Halloween Event 2025 [▼] Converts Paranox to Nightmare Paranox." [ref=e1254]:
+                  - columnheader "Paranox Conversion Potion" [ref=e1255]:
+                    - link "Paranox Conversion Potion" [ref=e1257] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/7/7f/Paranox_Conversion_Potion.png/revision/latest?cb=20251108010120
+                      - img "Paranox Conversion Potion" [ref=e1258]
+                  - rowheader "Paranox Conversion Potion" [ref=e1259]:
+                    - link "Paranox Conversion Potion" [ref=e1260] [cursor=pointer]:
+                      - /url: /wiki/Paranox_Conversion_Potion
+                  - cell "Halloween Event 2025 [▼]" [ref=e1261]:
+                    - list [ref=e1262]:
+                      - listitem [ref=e1263]:
+                        - link "Halloween Event 2025" [ref=e1265] [cursor=pointer]:
+                          - /url: /wiki/Halloween_Event_2025
+                        - button "[▼]" [ref=e1266] [cursor=pointer]
+                  - cell "Converts Paranox to Nightmare Paranox." [ref=e1267]:
+                    - text: Converts
+                    - link "Paranox" [ref=e1268] [cursor=pointer]:
+                      - /url: /wiki/Paranox
+                    - text: to
+                    - link "Nightmare Paranox" [ref=e1269] [cursor=pointer]:
+                      - /url: /wiki/Nightmare_Paranox
+                    - text: .
+                - 'row "Riyu Mutation Potion Riyu Mutation Potion Lego Ninjago: Dragon''s Rising Collaboration Event [▼] Gives a random mutation to Riyu. 20% chance for each mutation." [ref=e1270]':
+                  - columnheader "Riyu Mutation Potion" [ref=e1271]:
+                    - link "Riyu Mutation Potion" [ref=e1273] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/9/94/Riyu_Mutation_Potion.png/revision/latest?cb=20250919234407
+                      - img "Riyu Mutation Potion" [ref=e1274]
+                  - rowheader "Riyu Mutation Potion" [ref=e1275]
+                  - 'cell "Lego Ninjago: Dragon''s Rising Collaboration Event [▼]" [ref=e1276]':
+                    - list [ref=e1277]:
+                      - listitem [ref=e1278]:
+                        - 'link "Lego Ninjago: Dragon''s Rising Collaboration Event" [ref=e1280] [cursor=pointer]':
+                          - /url: /wiki/Lego_Ninjago:_Dragon%27s_Rising_Collaboration_Event
+                        - button "[▼]" [ref=e1281] [cursor=pointer]
+                  - cell "Gives a random mutation to Riyu. 20% chance for each mutation." [ref=e1282]:
+                    - text: Gives a random
+                    - link "mutation" [ref=e1283] [cursor=pointer]:
+                      - /url: /wiki/Mutations
+                    - text: to
+                    - link "Riyu" [ref=e1284] [cursor=pointer]:
+                      - /url: /wiki/Riyu
+                    - text: . 20% chance for each mutation.
+                - 'row "Shinrins Blessing Potion Shinrins Blessing Potion Lego Ninjago: Dragon''s Rising Collaboration Event [▼] Instantly boosts a Dragon''s Level to 20." [ref=e1285]':
+                  - columnheader "Shinrins Blessing Potion" [ref=e1286]:
+                    - link "Shinrins Blessing Potion" [ref=e1288] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/e/e2/Shinrins_Blessing_Potion.png/revision/latest?cb=20250912203034
+                      - img "Shinrins Blessing Potion" [ref=e1289]
+                  - rowheader "Shinrins Blessing Potion" [ref=e1290]:
+                    - link "Shinrins Blessing Potion" [ref=e1291] [cursor=pointer]:
+                      - /url: /wiki/Shinrins_Blessing_Potion
+                  - 'cell "Lego Ninjago: Dragon''s Rising Collaboration Event [▼]" [ref=e1292]':
+                    - list [ref=e1293]:
+                      - listitem [ref=e1294]:
+                        - 'link "Lego Ninjago: Dragon''s Rising Collaboration Event" [ref=e1296] [cursor=pointer]':
+                          - /url: /wiki/Lego_Ninjago:_Dragon%27s_Rising_Collaboration_Event
+                        - button "[▼]" [ref=e1297] [cursor=pointer]
+                  - cell "Instantly boosts a Dragon's Level to 20." [ref=e1298]:
+                    - text: Instantly boosts a Dragon's
+                    - link "Level" [ref=e1299] [cursor=pointer]:
+                      - /url: /wiki/Dragon_Leveling
+                    - text: to 20.
+                - 'row "Source Dragon Of Energy Mutation Potion Source Dragon Of Energy Mutation Potion Lego Ninjago: Dragon''s Rising Collaboration Event [▼] Gives a random mutation to the Source Dragon of Energy. 20% chance for each mutation." [ref=e1300]':
+                  - columnheader "Source Dragon Of Energy Mutation Potion" [ref=e1301]:
+                    - link "Source Dragon Of Energy Mutation Potion" [ref=e1303] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f5/Source_Dragon_Of_Energy_Mutation_Potion.png/revision/latest?cb=20251003212307
+                      - img "Source Dragon Of Energy Mutation Potion" [ref=e1304]
+                  - rowheader "Source Dragon Of Energy Mutation Potion" [ref=e1305]
+                  - 'cell "Lego Ninjago: Dragon''s Rising Collaboration Event [▼]" [ref=e1306]':
+                    - list [ref=e1307]:
+                      - listitem [ref=e1308]:
+                        - 'link "Lego Ninjago: Dragon''s Rising Collaboration Event" [ref=e1310] [cursor=pointer]':
+                          - /url: /wiki/Lego_Ninjago:_Dragon%27s_Rising_Collaboration_Event
+                        - button "[▼]" [ref=e1311] [cursor=pointer]
+                  - cell "Gives a random mutation to the Source Dragon of Energy. 20% chance for each mutation." [ref=e1312]:
+                    - text: Gives a random
+                    - link "mutation" [ref=e1313] [cursor=pointer]:
+                      - /url: /wiki/Mutations
+                    - text: to the
+                    - link "Source Dragon of Energy" [ref=e1314] [cursor=pointer]:
+                      - /url: /wiki/Source_Dragon_of_Energy
+                    - text: . 20% chance for each mutation.
+                - 'row "Source Dragon Of Motion Mutation Potion Source Dragon Of Motion Mutation Potion Lego Ninjago: Dragon''s Rising Collaboration Event [▼] Gives a random mutation to the Source Dragon of Motion. 20% chance for each mutation." [ref=e1315]':
+                  - columnheader "Source Dragon Of Motion Mutation Potion" [ref=e1316]:
+                    - link "Source Dragon Of Motion Mutation Potion" [ref=e1318] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/d/d5/Source_Dragon_Of_Motion_Mutation_Potion.png/revision/latest?cb=20251003212315
+                      - img "Source Dragon Of Motion Mutation Potion" [ref=e1319]
+                  - rowheader "Source Dragon Of Motion Mutation Potion" [ref=e1320]
+                  - 'cell "Lego Ninjago: Dragon''s Rising Collaboration Event [▼]" [ref=e1321]':
+                    - list [ref=e1322]:
+                      - listitem [ref=e1323]:
+                        - 'link "Lego Ninjago: Dragon''s Rising Collaboration Event" [ref=e1325] [cursor=pointer]':
+                          - /url: /wiki/Lego_Ninjago:_Dragon%27s_Rising_Collaboration_Event
+                        - button "[▼]" [ref=e1326] [cursor=pointer]
+                  - cell "Gives a random mutation to the Source Dragon of Motion. 20% chance for each mutation." [ref=e1327]:
+                    - text: Gives a random
+                    - link "mutation" [ref=e1328] [cursor=pointer]:
+                      - /url: /wiki/Mutations
+                    - text: to the
+                    - link "Source Dragon of Motion" [ref=e1329] [cursor=pointer]:
+                      - /url: /wiki/Source_Dragon_of_Motion
+                    - text: . 20% chance for each mutation.
+              - rowgroup
+            - heading "Event Material Potions" [level=4] [ref=e1330]: Event Material Potions
+            - table [ref=e1331]:
+              - rowgroup [ref=e1332]:
+                - row "Icon Potion Obtainment Effect" [ref=e1333]:
+                  - columnheader "Icon" [ref=e1334]
+                  - columnheader "Potion" [ref=e1335] [cursor=pointer]
+                  - columnheader "Obtainment" [ref=e1336]
+                  - columnheader "Effect" [ref=e1337]
+              - rowgroup [ref=e1338]:
+                - row "ChristmasMaterialPotion Christmas Material Potion Winter Event 2023 [▼] Winter Event 2024 [▼] Winter Event 2025 [▼] Changes the material in the chosen slot (primary, secondary, or tertiary) randomly into Wrapping Paper, Star Paper, or Wall Paper." [ref=e1339]:
+                  - columnheader "ChristmasMaterialPotion" [ref=e1340]:
+                    - link "ChristmasMaterialPotion" [ref=e1343] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/c/c3/ChristmasMaterialPotion.png/revision/latest?cb=20260131015050
+                      - img "ChristmasMaterialPotion" [ref=e1344]
+                  - rowheader "Christmas Material Potion" [ref=e1345]:
+                    - link "Christmas Material Potion" [ref=e1346] [cursor=pointer]:
+                      - /url: /wiki/Christmas_Material_Potion
+                  - cell "Winter Event 2023 [▼] Winter Event 2024 [▼] Winter Event 2025 [▼]" [ref=e1347]:
+                    - list [ref=e1348]:
+                      - listitem [ref=e1349]:
+                        - link "Winter Event 2023" [ref=e1351] [cursor=pointer]:
+                          - /url: /wiki/Winter_Event_2023
+                        - button "[▼]" [ref=e1352] [cursor=pointer]
+                      - listitem [ref=e1353]:
+                        - link "Winter Event 2024" [ref=e1355] [cursor=pointer]:
+                          - /url: /wiki/Winter_Event_2024
+                        - button "[▼]" [ref=e1356] [cursor=pointer]
+                      - listitem [ref=e1357]:
+                        - link "Winter Event 2025" [ref=e1359] [cursor=pointer]:
+                          - /url: /wiki/Winter_Event_2025
+                        - button "[▼]" [ref=e1360] [cursor=pointer]
+                  - cell "Changes the material in the chosen slot (primary, secondary, or tertiary) randomly into Wrapping Paper, Star Paper, or Wall Paper." [ref=e1361]:
+                    - text: Changes the
+                    - link "material" [ref=e1362] [cursor=pointer]:
+                      - /url: /wiki/Materials
+                    - text: in the chosen slot (primary, secondary, or tertiary) randomly into Wrapping Paper, Star Paper, or Wall Paper.
+                - row "Cloves Material Potion Icon Cloves Material Potion St. Patrick's Day Event 2024 [▼] St. Patrick's Day Event 2025 [▼] Season 3 [▼] Changes the material in the chosen slot (primary, secondary, or tertiary) randomly into Clovers, Gemstone, or Pasture." [ref=e1363]:
+                  - columnheader "Cloves Material Potion Icon" [ref=e1364]:
+                    - link "Cloves Material Potion Icon" [ref=e1366] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/2/25/Cloves_Material_Potion_Icon.png/revision/latest?cb=20260131015100
+                      - img "Cloves Material Potion Icon" [ref=e1367]
+                  - rowheader "Cloves Material Potion" [ref=e1368]:
+                    - link "Cloves Material Potion" [ref=e1369] [cursor=pointer]:
+                      - /url: /wiki/Cloves_Material_Potion
+                  - cell "St. Patrick's Day Event 2024 [▼] St. Patrick's Day Event 2025 [▼] Season 3 [▼]" [ref=e1370]:
+                    - list [ref=e1371]:
+                      - listitem [ref=e1372]:
+                        - link "St. Patrick's Day Event 2024" [ref=e1374] [cursor=pointer]:
+                          - /url: /wiki/St._Patrick%27s_Day_Event_2024
+                        - button "[▼]" [ref=e1375] [cursor=pointer]
+                      - listitem [ref=e1376]:
+                        - link "St. Patrick's Day Event 2025" [ref=e1378] [cursor=pointer]:
+                          - /url: /wiki/St._Patrick%27s_Day_Event_2025
+                        - button "[▼]" [ref=e1379] [cursor=pointer]
+                      - listitem [ref=e1380]:
+                        - link "Season 3" [ref=e1382] [cursor=pointer]:
+                          - /url: /wiki/Dragon_Seasons#Season_3
+                        - button "[▼]" [ref=e1383] [cursor=pointer]
+                  - cell "Changes the material in the chosen slot (primary, secondary, or tertiary) randomly into Clovers, Gemstone, or Pasture." [ref=e1384]:
+                    - text: Changes the
+                    - link "material" [ref=e1385] [cursor=pointer]:
+                      - /url: /wiki/Materials
+                    - text: in the chosen slot (primary, secondary, or tertiary) randomly into Clovers, Gemstone, or Pasture.
+                - row "Ghoul Material Potion Icon Ghoul Material Potion Halloween Event 2024 [▼] Halloween Event 2025 [▼] Changes the material in the chosen slot (primary, secondary, or tertiary) randomly into Cursed, Plagued, or Pumpkin." [ref=e1386]:
+                  - columnheader "Ghoul Material Potion Icon" [ref=e1387]:
+                    - link "Ghoul Material Potion Icon" [ref=e1389] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/c/c8/Ghoul_Material_Potion_Icon.png/revision/latest?cb=20260131015052
+                      - img "Ghoul Material Potion Icon" [ref=e1390]
+                  - rowheader "Ghoul Material Potion" [ref=e1391]:
+                    - link "Ghoul Material Potion" [ref=e1392] [cursor=pointer]:
+                      - /url: /wiki/Ghoul_Material_Potion
+                  - cell "Halloween Event 2024 [▼] Halloween Event 2025 [▼]" [ref=e1393]:
+                    - list [ref=e1394]:
+                      - listitem [ref=e1395]:
+                        - link "Halloween Event 2024" [ref=e1397] [cursor=pointer]:
+                          - /url: /wiki/Halloween_Event_2024
+                        - button "[▼]" [ref=e1398] [cursor=pointer]
+                      - listitem [ref=e1399]:
+                        - link "Halloween Event 2025" [ref=e1401] [cursor=pointer]:
+                          - /url: /wiki/Halloween_Event_2025
+                        - button "[▼]" [ref=e1402] [cursor=pointer]
+                  - cell "Changes the material in the chosen slot (primary, secondary, or tertiary) randomly into Cursed, Plagued, or Pumpkin." [ref=e1403]:
+                    - text: Changes the
+                    - link "material" [ref=e1404] [cursor=pointer]:
+                      - /url: /wiki/Materials
+                    - text: in the chosen slot (primary, secondary, or tertiary) randomly into Cursed, Plagued, or Pumpkin.
+                - row "Valentines Material Potion Valentines Material Potion Valentines Event 2026 [▼] Changes the material in the chosen slot (primary, secondary, or tertiary) randomly into Hearts, Velvet, or Diamonds." [ref=e1405]:
+                  - columnheader "Valentines Material Potion" [ref=e1406]:
+                    - link "Valentines Material Potion" [ref=e1408] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/3/34/Valentines_Material_Potion.png/revision/latest?cb=20260307235908
+                      - img "Valentines Material Potion" [ref=e1409]
+                  - rowheader "Valentines Material Potion" [ref=e1410]:
+                    - link "Valentines Material Potion" [ref=e1411] [cursor=pointer]:
+                      - /url: /wiki/Valentines_Material_Potion
+                  - cell "Valentines Event 2026 [▼]" [ref=e1412]:
+                    - list [ref=e1413]:
+                      - listitem [ref=e1414]:
+                        - link "Valentines Event 2026" [ref=e1416] [cursor=pointer]:
+                          - /url: /wiki/Valentines_Event_2026
+                        - button "[▼]" [ref=e1417] [cursor=pointer]
+                  - cell "Changes the material in the chosen slot (primary, secondary, or tertiary) randomly into Hearts, Velvet, or Diamonds." [ref=e1418]:
+                    - text: Changes the
+                    - link "material" [ref=e1419] [cursor=pointer]:
+                      - /url: /wiki/Materials
+                    - text: in the chosen slot (primary, secondary, or tertiary) randomly into Hearts, Velvet, or Diamonds.
+                - row "Wood Plank Material Potion Wood Plank Material Potion Wagon Adventures Event [▼] Veidreki Adventures Event [▼] April Fools' Day Event 2024 [▼] April Fools' Day Event 2025 [▼] Dragon Seasons Changes one of the dragon's materials to Wood Planks." [ref=e1420]:
+                  - columnheader "Wood Plank Material Potion" [ref=e1421]:
+                    - link "Wood Plank Material Potion" [ref=e1423] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/2/22/Wood_Plank_Material_Potion.png/revision/latest?cb=20260131015930
+                      - img "Wood Plank Material Potion" [ref=e1424]
+                  - rowheader "Wood Plank Material Potion" [ref=e1425]:
+                    - link "Wood Plank Material Potion" [ref=e1426] [cursor=pointer]:
+                      - /url: /wiki/Wood_Plank_Material_Potion
+                  - cell "Wagon Adventures Event [▼] Veidreki Adventures Event [▼] April Fools' Day Event 2024 [▼] April Fools' Day Event 2025 [▼] Dragon Seasons" [ref=e1427]:
+                    - list [ref=e1428]:
+                      - listitem [ref=e1429]:
+                        - link "Wagon Adventures Event" [ref=e1431] [cursor=pointer]:
+                          - /url: /wiki/Wagon_Adventures_Event
+                        - button "[▼]" [ref=e1432] [cursor=pointer]
+                      - listitem [ref=e1433]:
+                        - link "Veidreki Adventures Event" [ref=e1435] [cursor=pointer]:
+                          - /url: /wiki/Veidreki_Adventures_Event
+                        - button "[▼]" [ref=e1436] [cursor=pointer]
+                      - listitem [ref=e1437]:
+                        - link "April Fools' Day Event 2024" [ref=e1439] [cursor=pointer]:
+                          - /url: /wiki/April_Fools%27_Day_Event_2024
+                        - button "[▼]" [ref=e1440] [cursor=pointer]
+                      - listitem [ref=e1441]:
+                        - link "April Fools' Day Event 2025" [ref=e1443] [cursor=pointer]:
+                          - /url: /wiki/April_Fools%27_Day_Event_2025
+                        - button "[▼]" [ref=e1444] [cursor=pointer]
+                      - listitem [ref=e1445]:
+                        - link "Dragon Seasons" [ref=e1447] [cursor=pointer]:
+                          - /url: /wiki/Dragon_Seasons
+                  - cell "Changes one of the dragon's materials to Wood Planks." [ref=e1448]:
+                    - text: Changes one of the dragon's
+                    - link "materials" [ref=e1449] [cursor=pointer]:
+                      - /url: /wiki/Materials
+                    - text: to Wood Planks.
+              - rowgroup
+            - heading "Trait Potions" [level=4] [ref=e1450]: Trait Potions
+            - table [ref=e1451]:
+              - rowgroup [ref=e1452]:
+                - row "Icon Potion Obtainment Effect" [ref=e1453]:
+                  - columnheader "Icon" [ref=e1454]
+                  - columnheader "Potion" [ref=e1455] [cursor=pointer]
+                  - columnheader "Obtainment" [ref=e1456]
+                  - columnheader "Effect" [ref=e1457]
+              - rowgroup [ref=e1458]:
+                - row "Bat Swarm Trait Potion Bat Swarm Trait Potion Halloween Event 2025 [▼] Gives the dragon the Bat Swarm cosmetic trait." [ref=e1459]:
+                  - columnheader "Bat Swarm Trait Potion" [ref=e1460]:
+                    - link "Bat Swarm Trait Potion" [ref=e1462] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/b/bc/Bat_Swarm_Trait_Potion.png/revision/latest?cb=20251024210928
+                      - img "Bat Swarm Trait Potion" [ref=e1463]
+                  - rowheader "Bat Swarm Trait Potion" [ref=e1464]:
+                    - link "Bat Swarm Trait Potion" [ref=e1465] [cursor=pointer]:
+                      - /url: /wiki/Bat_Swarm_Trait_Potion
+                  - cell "Halloween Event 2025 [▼]" [ref=e1466]:
+                    - list [ref=e1467]:
+                      - listitem [ref=e1468]:
+                        - link "Halloween Event 2025" [ref=e1470] [cursor=pointer]:
+                          - /url: /wiki/Halloween_Event_2025
+                        - button "[▼]" [ref=e1471] [cursor=pointer]
+                  - cell "Gives the dragon the Bat Swarm cosmetic trait." [ref=e1472]:
+                    - text: Gives the dragon the Bat Swarm
+                    - link "cosmetic trait" [ref=e1473] [cursor=pointer]:
+                      - /url: /wiki/Traits#Event_cosmetic_traits
+                    - text: .
+                - row "Blizzard Trait Potion Blizzard Trait Potion Winter Event 2025 [▼] Gives the dragon the Blizzard cosmetic trait." [ref=e1474]:
+                  - columnheader "Blizzard Trait Potion" [ref=e1475]:
+                    - link "Blizzard Trait Potion" [ref=e1477] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/c/cc/Blizzard_Trait_Potion.png/revision/latest?cb=20251212224225
+                      - img "Blizzard Trait Potion" [ref=e1478]
+                  - rowheader "Blizzard Trait Potion" [ref=e1479]:
+                    - link "Blizzard Trait Potion" [ref=e1480] [cursor=pointer]:
+                      - /url: /wiki/Blizzard_Trait_Potion
+                  - cell "Winter Event 2025 [▼]" [ref=e1481]:
+                    - list [ref=e1482]:
+                      - listitem [ref=e1483]:
+                        - link "Winter Event 2025" [ref=e1485] [cursor=pointer]:
+                          - /url: /wiki/Winter_Event_2025
+                        - button "[▼]" [ref=e1486] [cursor=pointer]
+                  - cell "Gives the dragon the Blizzard cosmetic trait." [ref=e1487]:
+                    - text: Gives the dragon the Blizzard
+                    - link "cosmetic trait" [ref=e1488] [cursor=pointer]:
+                      - /url: /wiki/Traits#Event_cosmetic_traits
+                    - text: .
+                - row "Blossoming Aura Trait Potion Blossoming Aura Trait Potion Valentines Event 2025 [▼] Bundles [▼] Season 2 [▼] Gives the dragon the Blossoming Aura cosmetic trait." [ref=e1489]:
+                  - columnheader "Blossoming Aura Trait Potion" [ref=e1490]:
+                    - link "Blossoming Aura Trait Potion" [ref=e1492] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/8/88/Blossoming_Aura_Trait_Potion.png/revision/latest?cb=20251116045155
+                      - img "Blossoming Aura Trait Potion" [ref=e1493]
+                  - rowheader "Blossoming Aura Trait Potion" [ref=e1494]:
+                    - link "Blossoming Aura Trait Potion" [ref=e1495] [cursor=pointer]:
+                      - /url: /wiki/Blossoming_Aura_Trait_Potion
+                  - cell "Valentines Event 2025 [▼] Bundles [▼] Season 2 [▼]" [ref=e1496]:
+                    - list [ref=e1497]:
+                      - listitem [ref=e1498]:
+                        - link "Valentines Event 2025" [ref=e1500] [cursor=pointer]:
+                          - /url: /wiki/Valentines_Event_2025
+                        - button "[▼]" [ref=e1501] [cursor=pointer]
+                      - listitem [ref=e1502]:
+                        - link "Bundles" [ref=e1504] [cursor=pointer]:
+                          - /url: /wiki/Bundles
+                        - button "[▼]" [ref=e1505] [cursor=pointer]
+                      - listitem [ref=e1506]:
+                        - link "Season 2" [ref=e1508] [cursor=pointer]:
+                          - /url: /wiki/Dragon_Seasons#Season_2
+                        - button "[▼]" [ref=e1509] [cursor=pointer]
+                  - cell "Gives the dragon the Blossoming Aura cosmetic trait." [ref=e1510]:
+                    - text: Gives the dragon the Blossoming Aura
+                    - link "cosmetic trait" [ref=e1511] [cursor=pointer]:
+                      - /url: /wiki/Traits#Event_cosmetic_traits
+                    - text: .
+                - row "Chilly Trait Potion Chilly Trait Potion Winter Event 2025 [▼] Gives the dragon the Chilly cosmetic trait." [ref=e1512]:
+                  - columnheader "Chilly Trait Potion" [ref=e1513]:
+                    - link "Chilly Trait Potion" [ref=e1515] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/d/d8/Chilly_Trait_Potion.png/revision/latest?cb=20251226212650
+                      - img "Chilly Trait Potion" [ref=e1516]
+                  - rowheader "Chilly Trait Potion" [ref=e1517]:
+                    - link "Chilly Trait Potion" [ref=e1518] [cursor=pointer]:
+                      - /url: /wiki/Chilly_Trait_Potion
+                  - cell "Winter Event 2025 [▼]" [ref=e1519]:
+                    - list [ref=e1520]:
+                      - listitem [ref=e1521]:
+                        - link "Winter Event 2025" [ref=e1523] [cursor=pointer]:
+                          - /url: /wiki/Winter_Event_2025
+                        - button "[▼]" [ref=e1524] [cursor=pointer]
+                  - cell "Gives the dragon the Chilly cosmetic trait." [ref=e1525]:
+                    - text: Gives the dragon the Chilly
+                    - link "cosmetic trait" [ref=e1526] [cursor=pointer]:
+                      - /url: /wiki/Traits#Event_cosmetic_traits
+                    - text: .
+                - row "Christmas Lights Trait Potion Christmas Lights Trait Potion Winter Event 2024 [▼] Winter Event 2025 [▼] Gives the dragon the Christmas Lights cosmetic trait." [ref=e1527]:
+                  - columnheader "Christmas Lights Trait Potion" [ref=e1528]:
+                    - link "Christmas Lights Trait Potion" [ref=e1530] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/8/85/Christmas_Lights_Trait_Potion.png/revision/latest?cb=20260131015102
+                      - img "Christmas Lights Trait Potion" [ref=e1531]
+                  - rowheader "Christmas Lights Trait Potion" [ref=e1532]:
+                    - link "Christmas Lights Trait Potion" [ref=e1533] [cursor=pointer]:
+                      - /url: /wiki/Christmas_Lights_Trait_Potion
+                  - cell "Winter Event 2024 [▼] Winter Event 2025 [▼]" [ref=e1534]:
+                    - list [ref=e1535]:
+                      - listitem [ref=e1536]:
+                        - link "Winter Event 2024" [ref=e1538] [cursor=pointer]:
+                          - /url: /wiki/Winter_Event_2024
+                        - button "[▼]" [ref=e1539] [cursor=pointer]
+                      - listitem [ref=e1540]:
+                        - link "Winter Event 2025" [ref=e1542] [cursor=pointer]:
+                          - /url: /wiki/Winter_Event_2025
+                        - button "[▼]" [ref=e1543] [cursor=pointer]
+                  - cell "Gives the dragon the Christmas Lights cosmetic trait." [ref=e1544]:
+                    - text: Gives the dragon the Christmas Lights
+                    - link "cosmetic trait" [ref=e1545] [cursor=pointer]:
+                      - /url: /wiki/Traits#Event_cosmetic_traits
+                    - text: .
+                - row "Easter Egg Aura Trait Potion Easter Egg Aura Trait Potion Easter Event 2025 [▼] Season 3 [▼] Gives the dragon the Easter Egg Aura cosmetic trait." [ref=e1546]:
+                  - columnheader "Easter Egg Aura Trait Potion" [ref=e1547]:
+                    - link "Easter Egg Aura Trait Potion" [ref=e1549] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/e/ec/Easter_Egg_Aura_Trait_Potion.png/revision/latest?cb=20251116045250
+                      - img "Easter Egg Aura Trait Potion" [ref=e1550]
+                  - rowheader "Easter Egg Aura Trait Potion" [ref=e1551]:
+                    - link "Easter Egg Aura Trait Potion" [ref=e1552] [cursor=pointer]:
+                      - /url: /wiki/Easter_Egg_Aura_Trait_Potion
+                  - cell "Easter Event 2025 [▼] Season 3 [▼]" [ref=e1553]:
+                    - list [ref=e1554]:
+                      - listitem [ref=e1555]:
+                        - link "Easter Event 2025" [ref=e1557] [cursor=pointer]:
+                          - /url: /wiki/Easter_Event_2025
+                        - button "[▼]" [ref=e1558] [cursor=pointer]
+                      - listitem [ref=e1559]:
+                        - link "Season 3" [ref=e1561] [cursor=pointer]:
+                          - /url: /wiki/Dragon_Seasons#Season_3
+                        - button "[▼]" [ref=e1562] [cursor=pointer]
+                  - cell "Gives the dragon the Easter Egg Aura cosmetic trait." [ref=e1563]:
+                    - text: Gives the dragon the Easter Egg Aura
+                    - link "cosmetic trait" [ref=e1564] [cursor=pointer]:
+                      - /url: /wiki/Traits#Event_cosmetic_traits
+                    - text: .
+                - row "Electric Trait Potion Electric Trait Potion Season 1 [▼] Gives the dragon the Electric cosmetic trait." [ref=e1565]:
+                  - columnheader "Electric Trait Potion" [ref=e1566]:
+                    - link "Electric Trait Potion" [ref=e1568] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/5/55/Electric_Trait_Potion.png/revision/latest?cb=20260110000549
+                      - img "Electric Trait Potion" [ref=e1569]
+                  - rowheader "Electric Trait Potion" [ref=e1570]:
+                    - link "Electric Trait Potion" [ref=e1571] [cursor=pointer]:
+                      - /url: /wiki/Electric_Trait_Potion
+                  - cell "Season 1 [▼]" [ref=e1572]:
+                    - list [ref=e1573]:
+                      - listitem [ref=e1574]:
+                        - link "Season 1" [ref=e1576] [cursor=pointer]:
+                          - /url: /wiki/Dragon_Seasons#Season_1
+                        - button "[▼]" [ref=e1577] [cursor=pointer]
+                  - cell "Gives the dragon the Electric cosmetic trait." [ref=e1578]:
+                    - text: Gives the dragon the Electric
+                    - link "cosmetic trait" [ref=e1579] [cursor=pointer]:
+                      - /url: /wiki/Traits#Cosmetic_traits
+                    - text: .
+                - row "Golden Shimmer Trait Potion Golden Shimmer Trait Potion Lunar New Year Event 2024 [▼] Lunar New Year Event 2026 [▼] Gives the dragon the Golden Shimmer cosmetic trait." [ref=e1580]:
+                  - columnheader "Golden Shimmer Trait Potion" [ref=e1581]:
+                    - link "Golden Shimmer Trait Potion" [ref=e1583] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/5/59/Golden_Shimmer_Trait_Potion.png/revision/latest?cb=20251116045302
+                      - img "Golden Shimmer Trait Potion" [ref=e1584]
+                  - rowheader "Golden Shimmer Trait Potion" [ref=e1585]:
+                    - link "Golden Shimmer Trait Potion" [ref=e1586] [cursor=pointer]:
+                      - /url: /wiki/Golden_Shimmer_Trait_Potion
+                  - cell "Lunar New Year Event 2024 [▼] Lunar New Year Event 2026 [▼]" [ref=e1587]:
+                    - list [ref=e1588]:
+                      - listitem [ref=e1589]:
+                        - link "Lunar New Year Event 2024" [ref=e1591] [cursor=pointer]:
+                          - /url: /wiki/Lunar_New_Year_Event_2024
+                        - button "[▼]" [ref=e1592] [cursor=pointer]
+                      - listitem [ref=e1593]:
+                        - link "Lunar New Year Event 2026" [ref=e1595] [cursor=pointer]:
+                          - /url: /wiki/Lunar_New_Year_Event_2026
+                        - button "[▼]" [ref=e1596] [cursor=pointer]
+                  - cell "Gives the dragon the Golden Shimmer cosmetic trait." [ref=e1597]:
+                    - text: Gives the dragon the Golden Shimmer
+                    - link "cosmetic trait" [ref=e1598] [cursor=pointer]:
+                      - /url: /wiki/Traits#Event_cosmetic_traits
+                    - text: .
+                - row "Guiding Star Trait Potion Guiding Star Trait Potion Winter Event 2025 [▼] Gives the dragon the Guiding Star cosmetic trait." [ref=e1599]:
+                  - columnheader "Guiding Star Trait Potion" [ref=e1600]:
+                    - link "Guiding Star Trait Potion" [ref=e1602] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/c/ce/Guiding_Star_Trait_Potion.png/revision/latest?cb=20251219214618
+                      - img "Guiding Star Trait Potion" [ref=e1603]
+                  - rowheader "Guiding Star Trait Potion" [ref=e1604]:
+                    - link "Guiding Star Trait Potion" [ref=e1605] [cursor=pointer]:
+                      - /url: /wiki/Guiding_Star_Trait_Potion
+                  - cell "Winter Event 2025 [▼]" [ref=e1606]:
+                    - list [ref=e1607]:
+                      - listitem [ref=e1608]:
+                        - link "Winter Event 2025" [ref=e1610] [cursor=pointer]:
+                          - /url: /wiki/Winter_Event_2025
+                        - button "[▼]" [ref=e1611] [cursor=pointer]
+                  - cell "Gives the dragon the Guiding Star cosmetic trait." [ref=e1612]:
+                    - text: Gives the dragon the Guiding Star
+                    - link "cosmetic trait" [ref=e1613] [cursor=pointer]:
+                      - /url: /wiki/Traits#Event_cosmetic_traits
+                    - text: .
+                - row "Heartbreak Aura Trait Potion Heartbreak Aura Trait Potion Valentines Event 2026 [▼] Gives the dragon the Heartbreak Aura cosmetic trait." [ref=e1614]:
+                  - columnheader "Heartbreak Aura Trait Potion" [ref=e1615]:
+                    - link "Heartbreak Aura Trait Potion" [ref=e1617] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/9/93/Heartbreak_Aura_Trait_Potion.png/revision/latest?cb=20260220210820
+                      - img "Heartbreak Aura Trait Potion" [ref=e1618]
+                  - rowheader "Heartbreak Aura Trait Potion" [ref=e1619]:
+                    - link "Heartbreak Aura Trait Potion" [ref=e1620] [cursor=pointer]:
+                      - /url: /wiki/Heartbreak_Aura_Trait_Potion
+                  - cell "Valentines Event 2026 [▼]" [ref=e1621]:
+                    - list [ref=e1622]:
+                      - listitem [ref=e1623]:
+                        - link "Valentines Event 2026" [ref=e1625] [cursor=pointer]:
+                          - /url: /wiki/Valentines_Event_2026
+                        - button "[▼]" [ref=e1626] [cursor=pointer]
+                  - cell "Gives the dragon the Heartbreak Aura cosmetic trait." [ref=e1627]:
+                    - text: Gives the dragon the Heartbreak Aura
+                    - link "cosmetic trait" [ref=e1628] [cursor=pointer]:
+                      - /url: /wiki/Traits#Event_cosmetic_traits
+                    - text: .
+                - row "Inflamed Trait Potion Inflamed Trait Potion Season 2 [▼] Gives the dragon the Inflamed cosmetic trait." [ref=e1629]:
+                  - columnheader "Inflamed Trait Potion" [ref=e1630]:
+                    - link "Inflamed Trait Potion" [ref=e1632] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/7/7f/Inflamed_Trait_Potion.png/revision/latest?cb=20260207010312
+                      - img "Inflamed Trait Potion" [ref=e1633]
+                  - rowheader "Inflamed Trait Potion" [ref=e1634]:
+                    - link "Inflamed Trait Potion" [ref=e1635] [cursor=pointer]:
+                      - /url: /wiki/Inflamed_Trait_Potion
+                  - cell "Season 2 [▼]" [ref=e1636]:
+                    - list [ref=e1637]:
+                      - listitem [ref=e1638]:
+                        - link "Season 2" [ref=e1640] [cursor=pointer]:
+                          - /url: /wiki/Dragon_Seasons#Season_2
+                        - button "[▼]" [ref=e1641] [cursor=pointer]
+                  - cell "Gives the dragon the Inflamed cosmetic trait." [ref=e1642]:
+                    - text: Gives the dragon the Inflamed
+                    - link "cosmetic trait" [ref=e1643] [cursor=pointer]:
+                      - /url: /wiki/Traits#Cosmetic_traits
+                    - text: .
+                - row "Northern Lights Trait Potion Northern Lights Trait Potion Winter Event 2025 [▼] Gives the dragon the Northern Lights cosmetic trait." [ref=e1644]:
+                  - columnheader "Northern Lights Trait Potion" [ref=e1645]:
+                    - link "Northern Lights Trait Potion" [ref=e1647] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/0/0d/Northern_Lights_Trait_Potion.png/revision/latest?cb=20251223235940
+                      - img "Northern Lights Trait Potion" [ref=e1648]
+                  - rowheader "Northern Lights Trait Potion" [ref=e1649]:
+                    - link "Northern Lights Trait Potion" [ref=e1650] [cursor=pointer]:
+                      - /url: /wiki/Northern_Lights_Trait_Potion
+                  - cell "Winter Event 2025 [▼]" [ref=e1651]:
+                    - list [ref=e1652]:
+                      - listitem [ref=e1653]:
+                        - link "Winter Event 2025" [ref=e1655] [cursor=pointer]:
+                          - /url: /wiki/Winter_Event_2025
+                        - button "[▼]" [ref=e1656] [cursor=pointer]
+                  - cell "Gives the dragon the Northern Lights cosmetic trait." [ref=e1657]:
+                    - text: Gives the dragon the Northern Lights
+                    - link "cosmetic trait" [ref=e1658] [cursor=pointer]:
+                      - /url: /wiki/Traits#Event_cosmetic_traits
+                    - text: .
+                - row "Ribbon Trait Potion Ribbon Trait Potion Winter Event 2025 [▼] Gives the dragon the Ribbon cosmetic trait." [ref=e1659]:
+                  - columnheader "Ribbon Trait Potion" [ref=e1660]:
+                    - link "Ribbon Trait Potion" [ref=e1662] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/a/ac/Ribbon_Trait_Potion.png/revision/latest?cb=20251226212706
+                      - img "Ribbon Trait Potion" [ref=e1663]
+                  - rowheader "Ribbon Trait Potion" [ref=e1664]:
+                    - link "Ribbon Trait Potion" [ref=e1665] [cursor=pointer]:
+                      - /url: /wiki/Ribbon_Trait_Potion
+                  - cell "Winter Event 2025 [▼]" [ref=e1666]:
+                    - list [ref=e1667]:
+                      - listitem [ref=e1668]:
+                        - link "Winter Event 2025" [ref=e1670] [cursor=pointer]:
+                          - /url: /wiki/Winter_Event_2025
+                        - button "[▼]" [ref=e1671] [cursor=pointer]
+                  - cell "Gives the dragon the Ribbon cosmetic trait." [ref=e1672]:
+                    - text: Gives the dragon the Ribbon
+                    - link "cosmetic trait" [ref=e1673] [cursor=pointer]:
+                      - /url: /wiki/Traits#Event_cosmetic_traits
+                    - text: .
+                - row "Ring Of Fire Trait Potion Ring Of Fire Trait Potion Season 2 [▼] Gives the dragon the Ring Of Fire cosmetic trait." [ref=e1674]:
+                  - columnheader "Ring Of Fire Trait Potion" [ref=e1675]:
+                    - link "Ring Of Fire Trait Potion" [ref=e1677] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/d/de/Ring_Of_Fire_Trait_Potion.png/revision/latest?cb=20260207010342
+                      - img "Ring Of Fire Trait Potion" [ref=e1678]
+                  - rowheader "Ring Of Fire Trait Potion" [ref=e1679]:
+                    - link "Ring Of Fire Trait Potion" [ref=e1680] [cursor=pointer]:
+                      - /url: /wiki/Ring_Of_Fire_Trait_Potion
+                  - cell "Season 2 [▼]" [ref=e1681]:
+                    - list [ref=e1682]:
+                      - listitem [ref=e1683]:
+                        - link "Season 2" [ref=e1685] [cursor=pointer]:
+                          - /url: /wiki/Dragon_Seasons#Season_2
+                        - button "[▼]" [ref=e1686] [cursor=pointer]
+                  - cell "Gives the dragon the Ring Of Fire cosmetic trait." [ref=e1687]:
+                    - text: Gives the dragon the Ring Of Fire
+                    - link "cosmetic trait" [ref=e1688] [cursor=pointer]:
+                      - /url: /wiki/Traits#Event_cosmetic_traits
+                    - text: .
+                - row "Seashell Trait Potion Seashell Trait Potion Season 3 [▼] Gives the dragon the Seashell cosmetic trait." [ref=e1689]:
+                  - columnheader "Seashell Trait Potion" [ref=e1690]:
+                    - link "Seashell Trait Potion" [ref=e1692] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/3/33/Seashell_Trait_Potion.png/revision/latest?cb=20260307012829
+                      - img "Seashell Trait Potion" [ref=e1693]
+                  - rowheader "Seashell Trait Potion" [ref=e1694]:
+                    - link "Seashell Trait Potion" [ref=e1695] [cursor=pointer]:
+                      - /url: /wiki/Seashell_Trait_Potion
+                  - cell "Season 3 [▼]" [ref=e1696]:
+                    - list [ref=e1697]:
+                      - listitem [ref=e1698]:
+                        - link "Season 3" [ref=e1700] [cursor=pointer]:
+                          - /url: /wiki/Dragon_Seasons#Season_3
+                        - button "[▼]" [ref=e1701] [cursor=pointer]
+                  - cell "Gives the dragon the Seashell cosmetic trait." [ref=e1702]:
+                    - text: Gives the dragon the Seashell
+                    - link "cosmetic trait" [ref=e1703] [cursor=pointer]:
+                      - /url: /wiki/Traits
+                    - text: .
+                - row "Snowman Trait Potion Snowman Trait Potion Winter Event 2025 [▼] Gives the dragon the Snowman cosmetic trait." [ref=e1704]:
+                  - columnheader "Snowman Trait Potion" [ref=e1705]:
+                    - link "Snowman Trait Potion" [ref=e1707] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/a/ad/Snowman_Trait_Potion.png/revision/latest?cb=20251223235930
+                      - img "Snowman Trait Potion" [ref=e1708]
+                  - rowheader "Snowman Trait Potion" [ref=e1709]:
+                    - link "Snowman Trait Potion" [ref=e1710] [cursor=pointer]:
+                      - /url: /wiki/Snowman_Trait_Potion
+                  - cell "Winter Event 2025 [▼]" [ref=e1711]:
+                    - list [ref=e1712]:
+                      - listitem [ref=e1713]:
+                        - link "Winter Event 2025" [ref=e1715] [cursor=pointer]:
+                          - /url: /wiki/Winter_Event_2025
+                        - button "[▼]" [ref=e1716] [cursor=pointer]
+                  - cell "Gives the dragon the Snowman cosmetic trait." [ref=e1717]:
+                    - text: Gives the dragon the Snowman
+                    - link "cosmetic trait" [ref=e1718] [cursor=pointer]:
+                      - /url: /wiki/Traits#Event_cosmetic_traits
+                    - text: .
+                - row "Storm Surge Trait Potion Storm Surge Trait Potion Season 1 [▼] Gives the dragon the Storm Surge cosmetic trait." [ref=e1719]:
+                  - columnheader "Storm Surge Trait Potion" [ref=e1720]:
+                    - link "Storm Surge Trait Potion" [ref=e1722] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/4/4a/Storm_Surge_Trait_Potion.png/revision/latest?cb=20260110000601
+                      - img "Storm Surge Trait Potion" [ref=e1723]
+                  - rowheader "Storm Surge Trait Potion" [ref=e1724]:
+                    - link "Storm Surge Trait Potion" [ref=e1725] [cursor=pointer]:
+                      - /url: /wiki/Storm_Surge_Trait_Potion
+                  - cell "Season 1 [▼]" [ref=e1726]:
+                    - list [ref=e1727]:
+                      - listitem [ref=e1728]:
+                        - link "Season 1" [ref=e1730] [cursor=pointer]:
+                          - /url: /wiki/Dragon_Seasons#Season_1
+                        - button "[▼]" [ref=e1731] [cursor=pointer]
+                  - cell "Gives the dragon the Storm Surge cosmetic trait." [ref=e1732]:
+                    - text: Gives the dragon the Storm Surge
+                    - link "cosmetic trait" [ref=e1733] [cursor=pointer]:
+                      - /url: /wiki/Traits#Event_cosmetic_traits
+                    - text: .
+                - row "Supercharged Trait Potion Supercharged Trait Potion Galaxy Event 2025 [▼] Bundles [▼] Gives the dragon the Supercharged cosmetic trait." [ref=e1734]:
+                  - columnheader "Supercharged Trait Potion" [ref=e1735]:
+                    - link "Supercharged Trait Potion" [ref=e1737] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/9/95/Supercharged_Trait_Potion.png/revision/latest?cb=20250627210723
+                      - img "Supercharged Trait Potion" [ref=e1738]
+                  - rowheader "Supercharged Trait Potion" [ref=e1739]:
+                    - link "Supercharged Trait Potion" [ref=e1740] [cursor=pointer]:
+                      - /url: /wiki/Supercharged_Trait_Potion
+                  - cell "Galaxy Event 2025 [▼] Bundles [▼]" [ref=e1741]:
+                    - list [ref=e1742]:
+                      - listitem [ref=e1743]:
+                        - link "Galaxy Event 2025" [ref=e1745] [cursor=pointer]:
+                          - /url: /wiki/Galaxy_Event_2025
+                        - button "[▼]" [ref=e1746] [cursor=pointer]
+                      - listitem [ref=e1747]:
+                        - link "Bundles" [ref=e1749] [cursor=pointer]:
+                          - /url: /wiki/Bundles
+                        - button "[▼]" [ref=e1750] [cursor=pointer]
+                  - cell "Gives the dragon the Supercharged cosmetic trait." [ref=e1751]:
+                    - text: Gives the dragon the Supercharged
+                    - link "cosmetic trait" [ref=e1752] [cursor=pointer]:
+                      - /url: /wiki/Traits#Event_cosmetic_traits
+                    - text: .
+                - row "Virus Trait Potion Virus Trait Potion Galaxy Event 2025 [▼] Gives the dragon the Virus cosmetic trait." [ref=e1753]:
+                  - columnheader "Virus Trait Potion" [ref=e1754]:
+                    - link "Virus Trait Potion" [ref=e1756] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/4/45/Virus_Trait_Potion.png/revision/latest?cb=20250620232308
+                      - img "Virus Trait Potion" [ref=e1757]
+                  - rowheader "Virus Trait Potion" [ref=e1758]:
+                    - link "Virus Trait Potion" [ref=e1759] [cursor=pointer]:
+                      - /url: /wiki/Virus_Trait_Potion
+                  - cell "Galaxy Event 2025 [▼]" [ref=e1760]:
+                    - list [ref=e1761]:
+                      - listitem [ref=e1762]:
+                        - link "Galaxy Event 2025" [ref=e1764] [cursor=pointer]:
+                          - /url: /wiki/Galaxy_Event_2025
+                        - button "[▼]" [ref=e1765] [cursor=pointer]
+                  - cell "Gives the dragon the Virus cosmetic trait." [ref=e1766]:
+                    - text: Gives the dragon the Virus
+                    - link "cosmetic trait" [ref=e1767] [cursor=pointer]:
+                      - /url: /wiki/Traits#Event_cosmetic_traits
+                    - text: .
+              - rowgroup
+            - heading "Premium Shop Potions" [level=4] [ref=e1768]: Premium Shop Potions
+            - table [ref=e1769]:
+              - rowgroup [ref=e1770]:
+                - row "Icon Potion Obtainment Effect" [ref=e1771]:
+                  - columnheader "Icon" [ref=e1772]
+                  - columnheader "Potion" [ref=e1773] [cursor=pointer]
+                  - columnheader "Obtainment" [ref=e1774]
+                  - columnheader "Effect" [ref=e1775]
+              - rowgroup [ref=e1776]:
+                - row "Ace of Cards Trait Pot Ace of Cards Trait Potion Valentines Event 2026 [▼] Gives the dragon the Ace of Cards cosmetic trait." [ref=e1777]:
+                  - columnheader "Ace of Cards Trait Pot" [ref=e1778]:
+                    - link "Ace of Cards Trait Pot" [ref=e1780] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/2/2c/Ace_of_Cards_Trait_Pot.png/revision/latest?cb=20260218142654
+                      - img "Ace of Cards Trait Pot" [ref=e1781]
+                  - rowheader "Ace of Cards Trait Potion" [ref=e1782]:
+                    - link "Ace of Cards Trait Potion" [ref=e1783] [cursor=pointer]:
+                      - /url: /wiki/Ace_of_Cards_Trait_Potion
+                  - cell "Valentines Event 2026 [▼]" [ref=e1784]:
+                    - list [ref=e1785]:
+                      - listitem [ref=e1786]:
+                        - link "Valentines Event 2026" [ref=e1788] [cursor=pointer]:
+                          - /url: /wiki/Valentines_Event_2026
+                        - button "[▼]" [ref=e1789] [cursor=pointer]
+                  - cell "Gives the dragon the Ace of Cards cosmetic trait." [ref=e1790]:
+                    - text: Gives the dragon the Ace of Cards
+                    - link "cosmetic trait" [ref=e1791] [cursor=pointer]:
+                      - /url: /wiki/Traits#Merch-exclusive_cosmetic_traits
+                    - text: .
+                - row "Astrologic Trait Potion Astrologic Trait Potion Premium Shop [▼] Gives the dragon the Astrologic Aura cosmetic trait." [ref=e1792]:
+                  - columnheader "Astrologic Trait Potion" [ref=e1793]:
+                    - link "Astrologic Trait Potion" [ref=e1795] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/b/b9/Astrologic_Trait_Potion.png/revision/latest?cb=20250307223059
+                      - img "Astrologic Trait Potion" [ref=e1796]
+                  - rowheader "Astrologic Trait Potion" [ref=e1797]:
+                    - link "Astrologic Trait Potion" [ref=e1798] [cursor=pointer]:
+                      - /url: /wiki/Astrologic_Trait_Potion
+                  - cell "Premium Shop [▼]" [ref=e1799]:
+                    - list [ref=e1800]:
+                      - listitem [ref=e1801]:
+                        - link "Premium Shop" [ref=e1803] [cursor=pointer]:
+                          - /url: /wiki/Premium_Shop
+                        - button "[▼]" [ref=e1804] [cursor=pointer]
+                  - cell "Gives the dragon the Astrologic Aura cosmetic trait." [ref=e1805]:
+                    - text: Gives the dragon the Astrologic Aura
+                    - link "cosmetic trait" [ref=e1806] [cursor=pointer]:
+                      - /url: /wiki/Traits#Merch-exclusive_cosmetic_traits
+                    - text: .
+                - row "Cozy Campfire Trait Potion Cozy Campfire Trait Potion Winter Event 2025 [▼] Gives the dragon the Cozy Campfire cosmetic trait." [ref=e1807]:
+                  - columnheader "Cozy Campfire Trait Potion" [ref=e1808]:
+                    - link "Cozy Campfire Trait Potion" [ref=e1810] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/e/eb/Cozy_Campfire_Trait_Potion.png/revision/latest?cb=20251213044052
+                      - img "Cozy Campfire Trait Potion" [ref=e1811]
+                  - rowheader "Cozy Campfire Trait Potion" [ref=e1812]:
+                    - link "Cozy Campfire Trait Potion" [ref=e1813] [cursor=pointer]:
+                      - /url: /wiki/Cozy_Campfire_Trait_Potion
+                  - cell "Winter Event 2025 [▼]" [ref=e1814]:
+                    - list [ref=e1815]:
+                      - listitem [ref=e1816]:
+                        - link "Winter Event 2025" [ref=e1818] [cursor=pointer]:
+                          - /url: /wiki/Winter_Event_2025
+                        - button "[▼]" [ref=e1819] [cursor=pointer]
+                  - cell "Gives the dragon the Cozy Campfire cosmetic trait." [ref=e1820]:
+                    - text: Gives the dragon the Cozy Campfire
+                    - link "cosmetic trait" [ref=e1821] [cursor=pointer]:
+                      - /url: /wiki/Traits#Merch-exclusive_cosmetic_traits
+                    - text: .
+                - row "Fluttering Trait Potion Fluttering Trait Potion Premium Shop [▼] Gives the dragon the Fluttering Aura cosmetic trait." [ref=e1822]:
+                  - columnheader "Fluttering Trait Potion" [ref=e1823]:
+                    - link "Fluttering Trait Potion" [ref=e1825] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/0/0d/Fluttering_Trait_Potion.png/revision/latest?cb=20250307223106
+                      - img "Fluttering Trait Potion" [ref=e1826]
+                  - rowheader "Fluttering Trait Potion" [ref=e1827]:
+                    - link "Fluttering Trait Potion" [ref=e1828] [cursor=pointer]:
+                      - /url: /wiki/Fluttering_Trait_Potion
+                  - cell "Premium Shop [▼]" [ref=e1829]:
+                    - list [ref=e1830]:
+                      - listitem [ref=e1831]:
+                        - link "Premium Shop" [ref=e1833] [cursor=pointer]:
+                          - /url: /wiki/Premium_Shop
+                        - button "[▼]" [ref=e1834] [cursor=pointer]
+                  - cell "Gives the dragon the Fluttering Aura cosmetic trait." [ref=e1835]:
+                    - text: Gives the dragon the Fluttering Aura
+                    - link "cosmetic trait" [ref=e1836] [cursor=pointer]:
+                      - /url: /wiki/Traits#Merch-exclusive_cosmetic_traits
+                    - text: .
+                - row "Golden Coin Potion Golden Coin Potion Lunar New Year Event 2026 [▼] Gives the dragon the Golden Coin element." [ref=e1837]:
+                  - columnheader "Golden Coin Potion" [ref=e1838]:
+                    - link "Golden Coin Potion" [ref=e1840] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/8/8c/Golden_Coin_Potion.png/revision/latest?cb=20260201184412
+                      - img "Golden Coin Potion" [ref=e1841]
+                  - rowheader "Golden Coin Potion" [ref=e1842]
+                  - cell "Lunar New Year Event 2026 [▼]" [ref=e1843]:
+                    - list [ref=e1844]:
+                      - listitem [ref=e1845]:
+                        - link "Lunar New Year Event 2026" [ref=e1847] [cursor=pointer]:
+                          - /url: /wiki/Lunar_New_Year_Event_2026
+                        - button "[▼]" [ref=e1848] [cursor=pointer]
+                  - cell "Gives the dragon the Golden Coin element." [ref=e1849]:
+                    - text: Gives the dragon the Golden Coin
+                    - link "element" [ref=e1850] [cursor=pointer]:
+                      - /url: /wiki/Elements
+                    - text: .
+                - row "Holly Berry Potion Holly Berry Potion Winter Event 2025 [▼] Gives the dragon the Holly Berry element." [ref=e1851]:
+                  - columnheader "Holly Berry Potion" [ref=e1852]:
+                    - link "Holly Berry Potion" [ref=e1854] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f2/Holly_Berry_Potion.png/revision/latest?cb=20260110045905
+                      - img "Holly Berry Potion" [ref=e1855]
+                  - rowheader "Holly Berry Potion" [ref=e1856]
+                  - cell "Winter Event 2025 [▼]" [ref=e1857]:
+                    - list [ref=e1858]:
+                      - listitem [ref=e1859]:
+                        - link "Winter Event 2025" [ref=e1861] [cursor=pointer]:
+                          - /url: /wiki/Winter_Event_2025
+                        - button "[▼]" [ref=e1862] [cursor=pointer]
+                  - cell "Gives the dragon the Holly Berry element." [ref=e1863]:
+                    - text: Gives the dragon the Holly Berry
+                    - link "element" [ref=e1864] [cursor=pointer]:
+                      - /url: /wiki/Elements
+                    - text: .
+                - row "Icicle Trait Potion Icicle Trait Potion Winter Event 2025 [▼] Gives the dragon the Icicle cosmetic trait." [ref=e1865]:
+                  - columnheader "Icicle Trait Potion" [ref=e1866]:
+                    - link "Icicle Trait Potion" [ref=e1868] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/7/7a/Icicle_Trait_Potion.png/revision/latest?cb=20260110042016
+                      - img "Icicle Trait Potion" [ref=e1869]
+                  - rowheader "Icicle Trait Potion" [ref=e1870]:
+                    - link "Icicle Trait Potion" [ref=e1871] [cursor=pointer]:
+                      - /url: /wiki/Icicle_Trait_Potion
+                  - cell "Winter Event 2025 [▼]" [ref=e1872]:
+                    - list [ref=e1873]:
+                      - listitem [ref=e1874]:
+                        - link "Winter Event 2025" [ref=e1876] [cursor=pointer]:
+                          - /url: /wiki/Winter_Event_2025
+                        - button "[▼]" [ref=e1877] [cursor=pointer]
+                  - cell "Gives the dragon the Icicle cosmetic trait." [ref=e1878]:
+                    - text: Gives the dragon the Icicle
+                    - link "cosmetic trait" [ref=e1879] [cursor=pointer]:
+                      - /url: /wiki/Traits#Merch-exlusive_cosmetic_traits
+                    - text: .
+                - row "Prickly Rose Potion Prickly Rose Potion Valentines Event 2026 [▼] Gives the dragon the Prickly Rose element." [ref=e1880]:
+                  - columnheader "Prickly Rose Potion" [ref=e1881]:
+                    - link "Prickly Rose Potion" [ref=e1883] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/6/69/Prickly_Rose_Potion.png/revision/latest?cb=20260316003142
+                      - img "Prickly Rose Potion" [ref=e1884]
+                  - rowheader "Prickly Rose Potion" [ref=e1885]
+                  - cell "Valentines Event 2026 [▼]" [ref=e1886]:
+                    - list [ref=e1887]:
+                      - listitem [ref=e1888]:
+                        - link "Valentines Event 2026" [ref=e1890] [cursor=pointer]:
+                          - /url: /wiki/Valentines_Event_2026
+                        - button "[▼]" [ref=e1891] [cursor=pointer]
+                  - cell "Gives the dragon the Prickly Rose element." [ref=e1892]:
+                    - text: Gives the dragon the Prickly Rose
+                    - link "element" [ref=e1893] [cursor=pointer]:
+                      - /url: /wiki/Elements
+                    - text: .
+                - row "Snowflakes Material Potion Snowflakes Material Potion Winter Event 2025 [▼] Changes one of the dragon's materials to Snowflakes." [ref=e1894]:
+                  - columnheader "Snowflakes Material Potion" [ref=e1895]:
+                    - link "Snowflakes Material Potion" [ref=e1897] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f3/Snowflakes_Material_Potion.png/revision/latest?cb=20251213044044
+                      - img "Snowflakes Material Potion" [ref=e1898]
+                  - rowheader "Snowflakes Material Potion" [ref=e1899]:
+                    - link "Snowflakes Material Potion" [ref=e1900] [cursor=pointer]:
+                      - /url: /wiki/Snowflakes_Material_Potion
+                  - cell "Winter Event 2025 [▼]" [ref=e1901]:
+                    - list [ref=e1902]:
+                      - listitem [ref=e1903]:
+                        - link "Winter Event 2025" [ref=e1905] [cursor=pointer]:
+                          - /url: /wiki/Winter_Event_2025
+                        - button "[▼]" [ref=e1906] [cursor=pointer]
+                  - cell "Changes one of the dragon's materials to Snowflakes." [ref=e1907]:
+                    - text: Changes one of the dragon's
+                    - link "materials" [ref=e1908] [cursor=pointer]:
+                      - /url: /wiki/Materials
+                    - text: to Snowflakes.
+                - row "Storm Circuit Trait Potion Storm Circuit Trait Potion Veidreki Live Event [▼] Gives the dragon the Storm Circuit cosmetic trait." [ref=e1909]:
+                  - columnheader "Storm Circuit Trait Potion" [ref=e1910]:
+                    - link "Storm Circuit Trait Potion" [ref=e1912] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/7/72/Storm_Circuit_Trait_Potion.png/revision/latest?cb=20260314021404
+                      - img "Storm Circuit Trait Potion" [ref=e1913]
+                  - rowheader "Storm Circuit Trait Potion" [ref=e1914]:
+                    - link "Storm Circuit Trait Potion" [ref=e1915] [cursor=pointer]:
+                      - /url: /wiki/Storm_Circuit_Trait_Potion
+                  - cell "Veidreki Live Event [▼]" [ref=e1916]:
+                    - list [ref=e1917]:
+                      - listitem [ref=e1918]:
+                        - link "Veidreki Live Event" [ref=e1920] [cursor=pointer]:
+                          - /url: /wiki/Veidreki_Live_Event
+                        - button "[▼]" [ref=e1921] [cursor=pointer]
+                  - cell "Gives the dragon the Storm Circuit cosmetic trait." [ref=e1922]:
+                    - text: Gives the dragon the Storm Circuit
+                    - link "cosmetic trait" [ref=e1923] [cursor=pointer]:
+                      - /url: /wiki/Traits#Merch-exclusive_cosmetic_traits
+                    - text: .
+                - row "Tempest Potion Tempest Potion Veidreki Live Event [▼] Gives the dragon the Tempest element." [ref=e1924]:
+                  - columnheader "Tempest Potion" [ref=e1925]:
+                    - link "Tempest Potion" [ref=e1927] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/b/b9/Tempest_Potion.png/revision/latest?cb=20260314152417
+                      - img "Tempest Potion" [ref=e1928]
+                  - rowheader "Tempest Potion" [ref=e1929]
+                  - cell "Veidreki Live Event [▼]" [ref=e1930]:
+                    - list [ref=e1931]:
+                      - listitem [ref=e1932]:
+                        - link "Veidreki Live Event" [ref=e1934] [cursor=pointer]:
+                          - /url: /wiki/Veidreki_Live_Event
+                        - button "[▼]" [ref=e1935] [cursor=pointer]
+                  - cell "Gives the dragon the Tempest element." [ref=e1936]:
+                    - text: Gives the dragon the Tempest
+                    - link "element" [ref=e1937] [cursor=pointer]:
+                      - /url: /wiki/Elements
+                    - text: .
+              - rowgroup
+            - heading "Special Element Potions" [level=3] [ref=e1938]: Special Element Potions
+            - table [ref=e1939]:
+              - rowgroup [ref=e1940]:
+                - row "Icon Potion Obtainment Effect" [ref=e1941]:
+                  - columnheader "Icon" [ref=e1942]
+                  - columnheader "Potion" [ref=e1943] [cursor=pointer]
+                  - columnheader "Obtainment" [ref=e1944]
+                  - columnheader "Effect" [ref=e1945]
+              - rowgroup [ref=e1946]:
+                - row "Ashfall Potion Ashfall Potion Season 2 [▼] Changes a dragon's element to Ashfall." [ref=e1947]:
+                  - columnheader "Ashfall Potion" [ref=e1948]:
+                    - link "Ashfall Potion" [ref=e1950] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/9/91/Ashfall_Potion.png/revision/latest?cb=20260207010405
+                      - img "Ashfall Potion" [ref=e1951]
+                  - rowheader "Ashfall Potion" [ref=e1952]
+                  - cell "Season 2 [▼]" [ref=e1953]:
+                    - list [ref=e1954]:
+                      - listitem [ref=e1955]:
+                        - link "Season 2" [ref=e1957] [cursor=pointer]:
+                          - /url: /wiki/Dragon_Seasons#Season_2
+                        - button "[▼]" [ref=e1958] [cursor=pointer]
+                  - cell "Changes a dragon's element to Ashfall." [ref=e1959]:
+                    - text: Changes a dragon's
+                    - link "element" [ref=e1960] [cursor=pointer]:
+                      - /url: /wiki/Elements
+                    - text: to Ashfall.
+                - row "Aurora Borealis Potion Aurora Borealis Potion Winter Event 2019 [▼] Legacy Season 15 [▼] Winter Event 2022 [▼] Legacy Season 27 [▼] Winter Event 2023 [▼] Legacy Season 39 [▼] Winter Event 2024 [▼] Winter Event 2025 [▼] Bundles [▼] Changes a dragon's element to Aurora Borealis." [ref=e1961]:
+                  - columnheader "Aurora Borealis Potion" [ref=e1962]:
+                    - link "Aurora Borealis Potion" [ref=e1964] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f1/Aurora_Borealis_Potion.png/revision/latest?cb=20260131021804
+                      - img "Aurora Borealis Potion" [ref=e1965]
+                  - rowheader "Aurora Borealis Potion" [ref=e1966]
+                  - cell "Winter Event 2019 [▼] Legacy Season 15 [▼] Winter Event 2022 [▼] Legacy Season 27 [▼] Winter Event 2023 [▼] Legacy Season 39 [▼] Winter Event 2024 [▼] Winter Event 2025 [▼] Bundles [▼]" [ref=e1967]:
+                    - list [ref=e1968]:
+                      - listitem [ref=e1969]:
+                        - link "Winter Event 2019" [ref=e1971] [cursor=pointer]:
+                          - /url: /wiki/Winter_Event_2019
+                        - button "[▼]" [ref=e1972] [cursor=pointer]
+                      - listitem [ref=e1973]:
+                        - link "Legacy Season 15" [ref=e1975] [cursor=pointer]:
+                          - /url: /wiki/Dragon_Seasons/2022
+                        - button "[▼]" [ref=e1976] [cursor=pointer]
+                      - listitem [ref=e1977]:
+                        - link "Winter Event 2022" [ref=e1979] [cursor=pointer]:
+                          - /url: /wiki/Winter_Event_2022
+                        - button "[▼]" [ref=e1980] [cursor=pointer]
+                      - listitem [ref=e1981]:
+                        - link "Legacy Season 27" [ref=e1983] [cursor=pointer]:
+                          - /url: /wiki/Dragon_Seasons/2023
+                        - button "[▼]" [ref=e1984] [cursor=pointer]
+                      - listitem [ref=e1985]:
+                        - link "Winter Event 2023" [ref=e1987] [cursor=pointer]:
+                          - /url: /wiki/Winter_Event_2023
+                        - button "[▼]" [ref=e1988] [cursor=pointer]
+                      - listitem [ref=e1989]:
+                        - link "Legacy Season 39" [ref=e1991] [cursor=pointer]:
+                          - /url: /wiki/Dragon_Seasons/2024
+                        - button "[▼]" [ref=e1992] [cursor=pointer]
+                      - listitem [ref=e1993]:
+                        - link "Winter Event 2024" [ref=e1995] [cursor=pointer]:
+                          - /url: /wiki/Winter_Event_2024
+                        - button "[▼]" [ref=e1996] [cursor=pointer]
+                      - listitem [ref=e1997]:
+                        - link "Winter Event 2025" [ref=e1999] [cursor=pointer]:
+                          - /url: /wiki/Winter_Event_2025
+                        - button "[▼]" [ref=e2000] [cursor=pointer]
+                      - listitem [ref=e2001]:
+                        - link "Bundles" [ref=e2003] [cursor=pointer]:
+                          - /url: /wiki/Bundles
+                        - button "[▼]" [ref=e2004] [cursor=pointer]
+                  - cell "Changes a dragon's element to Aurora Borealis." [ref=e2005]:
+                    - text: Changes a dragon's
+                    - link "element" [ref=e2006] [cursor=pointer]:
+                      - /url: /wiki/Elements
+                    - text: to Aurora Borealis.
+                - row "Battle Potion Battle Potion Guild Wars [▼] Changes a dragon's element to Battle." [ref=e2007]:
+                  - columnheader "Battle Potion" [ref=e2008]:
+                    - link "Battle Potion" [ref=e2010] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/7/7c/Battle_Potion.png/revision/latest?cb=20260131021803
+                      - img "Battle Potion" [ref=e2011]
+                  - rowheader "Battle Potion" [ref=e2012]
+                  - cell "Guild Wars [▼]" [ref=e2013]:
+                    - list [ref=e2014]:
+                      - listitem [ref=e2015]:
+                        - link "Guild Wars" [ref=e2017] [cursor=pointer]:
+                          - /url: /wiki/Guild_Wars
+                        - button "[▼]" [ref=e2018] [cursor=pointer]
+                  - cell "Changes a dragon's element to Battle." [ref=e2019]:
+                    - text: Changes a dragon's
+                    - link "element" [ref=e2020] [cursor=pointer]:
+                      - /url: /wiki/Elements
+                    - text: to Battle.
+                - row "Binary Potion Icon Binary Potion Galaxy Event 2024 [▼] Galaxy Event 2025 [▼] Changes a dragon's element to Binary." [ref=e2021]:
+                  - columnheader "Binary Potion Icon" [ref=e2022]:
+                    - link "Binary Potion Icon" [ref=e2024] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/0/0a/Binary_Potion_Icon.png/revision/latest?cb=20260131021800
+                      - img "Binary Potion Icon" [ref=e2025]
+                  - rowheader "Binary Potion" [ref=e2026]
+                  - cell "Galaxy Event 2024 [▼] Galaxy Event 2025 [▼]" [ref=e2027]:
+                    - list [ref=e2028]:
+                      - listitem [ref=e2029]:
+                        - link "Galaxy Event 2024" [ref=e2031] [cursor=pointer]:
+                          - /url: /wiki/Galaxy_Event_2024
+                        - button "[▼]" [ref=e2032] [cursor=pointer]
+                      - listitem [ref=e2033]:
+                        - link "Galaxy Event 2025" [ref=e2035] [cursor=pointer]:
+                          - /url: /wiki/Galaxy_Event_2025
+                        - button "[▼]" [ref=e2036] [cursor=pointer]
+                  - cell "Changes a dragon's element to Binary." [ref=e2037]:
+                    - text: Changes a dragon's
+                    - link "element" [ref=e2038] [cursor=pointer]:
+                      - /url: /wiki/Elements
+                    - text: to Binary.
+                - row "Biohazard Potion Icon Biohazard Potion Exclusive [▼] Season 1 [▼] Changes a dragon's element to Biohazard." [ref=e2039]:
+                  - columnheader "Biohazard Potion Icon" [ref=e2040]:
+                    - link "Biohazard Potion Icon" [ref=e2042] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/6/65/Biohazard_Potion_Icon.png/revision/latest?cb=20260131015942
+                      - img "Biohazard Potion Icon" [ref=e2043]
+                  - rowheader "Biohazard Potion" [ref=e2044]
+                  - cell "Exclusive [▼] Season 1 [▼]" [ref=e2045]:
+                    - list [ref=e2046]:
+                      - listitem [ref=e2047]:
+                        - text: Exclusive
+                        - button "[▼]" [ref=e2048] [cursor=pointer]
+                      - listitem [ref=e2049]:
+                        - link "Season 1" [ref=e2051] [cursor=pointer]:
+                          - /url: /wiki/Dragon_Seasons#Season_1
+                        - button "[▼]" [ref=e2052] [cursor=pointer]
+                  - cell "Changes a dragon's element to Biohazard." [ref=e2053]:
+                    - text: Changes a dragon's
+                    - link "element" [ref=e2054] [cursor=pointer]:
+                      - /url: /wiki/Elements
+                    - text: to Biohazard.
+                - row "Black Hole Potion Black Hole Potion Solstice Event 2025 [▼] Changes a dragon's element to Messier." [ref=e2055]:
+                  - columnheader "Black Hole Potion" [ref=e2056]:
+                    - link "Black Hole Potion" [ref=e2058] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/a/a1/Black_Hole_Potion.png/revision/latest?cb=20250822201825
+                      - img "Black Hole Potion" [ref=e2059]
+                  - rowheader "Black Hole Potion" [ref=e2060]
+                  - cell "Solstice Event 2025 [▼]" [ref=e2061]:
+                    - list [ref=e2062]:
+                      - listitem [ref=e2063]:
+                        - link "Solstice Event 2025" [ref=e2065] [cursor=pointer]:
+                          - /url: /wiki/Solstice_Event_2025
+                        - button "[▼]" [ref=e2066] [cursor=pointer]
+                  - cell "Changes a dragon's element to Messier." [ref=e2067]:
+                    - text: Changes a dragon's
+                    - link "element" [ref=e2068] [cursor=pointer]:
+                      - /url: /wiki/Elements
+                    - text: to Messier.
+                - row "Bone Potion Icon Bone Potion Halloween Event 2024 [▼] Halloween Event 2025 [▼] Changes a dragon's element to Bone." [ref=e2069]:
+                  - columnheader "Bone Potion Icon" [ref=e2070]:
+                    - link "Bone Potion Icon" [ref=e2072] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/9/94/Bone_Potion_Icon.png/revision/latest?cb=20260131021759
+                      - img "Bone Potion Icon" [ref=e2073]
+                  - rowheader "Bone Potion" [ref=e2074]
+                  - cell "Halloween Event 2024 [▼] Halloween Event 2025 [▼]" [ref=e2075]:
+                    - list [ref=e2076]:
+                      - listitem [ref=e2077]:
+                        - link "Halloween Event 2024" [ref=e2079] [cursor=pointer]:
+                          - /url: /wiki/Halloween_Event_2024
+                        - button "[▼]" [ref=e2080] [cursor=pointer]
+                      - listitem [ref=e2081]:
+                        - link "Halloween Event 2025" [ref=e2083] [cursor=pointer]:
+                          - /url: /wiki/Halloween_Event_2025
+                        - button "[▼]" [ref=e2084] [cursor=pointer]
+                  - cell "Changes a dragon's element to Bone." [ref=e2085]:
+                    - text: Changes a dragon's
+                    - link "element" [ref=e2086] [cursor=pointer]:
+                      - /url: /wiki/Elements
+                    - text: to Bone.
+                - row "Bubble Potion Bubble Potion Season 3 [▼] Changes a dragon's element to Bubble." [ref=e2087]:
+                  - columnheader "Bubble Potion" [ref=e2088]:
+                    - link "Bubble Potion" [ref=e2090] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/6/60/Bubble_Potion.png/revision/latest?cb=20260307005417
+                      - img "Bubble Potion" [ref=e2091]
+                  - rowheader "Bubble Potion" [ref=e2092]
+                  - cell "Season 3 [▼]" [ref=e2093]:
+                    - list [ref=e2094]:
+                      - listitem [ref=e2095]:
+                        - link "Season 3" [ref=e2097] [cursor=pointer]:
+                          - /url: /wiki/Dragon_Seasons#Season_3
+                        - button "[▼]" [ref=e2098] [cursor=pointer]
+                  - cell "Changes a dragon's element to Bubble." [ref=e2099]:
+                    - text: Changes a dragon's
+                    - link "element" [ref=e2100] [cursor=pointer]:
+                      - /url: /wiki/Elements
+                    - text: to Bubble.
+                - row "Campfire Tales Potion Campfire Tales Potion Role exclusive [▼] Changes a dragon's element to Campfire Tales." [ref=e2101]:
+                  - columnheader "Campfire Tales Potion" [ref=e2102]:
+                    - link "Campfire Tales Potion" [ref=e2104] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/0/04/Campfire_Tales_Potion.png/revision/latest?cb=20260131015953
+                      - img "Campfire Tales Potion" [ref=e2105]
+                  - rowheader "Campfire Tales Potion" [ref=e2106]
+                  - cell "Role exclusive [▼]" [ref=e2107]:
+                    - list [ref=e2108]:
+                      - listitem [ref=e2109]:
+                        - text: Role exclusive
+                        - button "[▼]" [ref=e2110] [cursor=pointer]
+                  - cell "Changes a dragon's element to Campfire Tales." [ref=e2111]:
+                    - text: Changes a dragon's
+                    - link "element" [ref=e2112] [cursor=pointer]:
+                      - /url: /wiki/Elements
+                    - text: to Campfire Tales.
+                - row "Celestial Potion Celestial Potion Meteor Shower Event [▼] Galaxy Event 2022 [▼] Galaxy Event 2023 [▼] Changes a dragon's element to Celestial." [ref=e2113]:
+                  - columnheader "Celestial Potion" [ref=e2114]:
+                    - link "Celestial Potion" [ref=e2116] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/7/78/Celestial_Potion.png/revision/latest?cb=20260131021757
+                      - img "Celestial Potion" [ref=e2117]
+                  - rowheader "Celestial Potion" [ref=e2118]
+                  - cell "Meteor Shower Event [▼] Galaxy Event 2022 [▼] Galaxy Event 2023 [▼]" [ref=e2119]:
+                    - list [ref=e2120]:
+                      - listitem [ref=e2121]:
+                        - link "Meteor Shower Event" [ref=e2123] [cursor=pointer]:
+                          - /url: /wiki/Meteor_Shower_Event
+                        - button "[▼]" [ref=e2124] [cursor=pointer]
+                      - listitem [ref=e2125]:
+                        - link "Galaxy Event 2022" [ref=e2127] [cursor=pointer]:
+                          - /url: /wiki/Galaxy_Event_2022
+                        - button "[▼]" [ref=e2128] [cursor=pointer]
+                      - listitem [ref=e2129]:
+                        - link "Galaxy Event 2023" [ref=e2131] [cursor=pointer]:
+                          - /url: /wiki/Galaxy_Event_2023
+                        - button "[▼]" [ref=e2132] [cursor=pointer]
+                  - cell "Changes a dragon's element to Celestial." [ref=e2133]:
+                    - text: Changes a dragon's
+                    - link "element" [ref=e2134] [cursor=pointer]:
+                      - /url: /wiki/Elements
+                    - text: to Celestial.
+                - row "Chitin Potion Chitin Potion Legacy Season 49 [▼] Changes a dragon's element to Chitin." [ref=e2135]:
+                  - columnheader "Chitin Potion" [ref=e2136]:
+                    - link "Chitin Potion" [ref=e2138] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/5/55/Chitin_Potion.png/revision/latest?cb=20251001002304
+                      - img "Chitin Potion" [ref=e2139]
+                  - rowheader "Chitin Potion" [ref=e2140]
+                  - cell "Legacy Season 49 [▼]" [ref=e2141]:
+                    - list [ref=e2142]:
+                      - listitem [ref=e2143]:
+                        - link "Legacy Season 49" [ref=e2145] [cursor=pointer]:
+                          - /url: /wiki/Dragon_Seasons/2025
+                        - button "[▼]" [ref=e2146] [cursor=pointer]
+                  - cell "Changes a dragon's element to Chitin." [ref=e2147]:
+                    - text: Changes a dragon's
+                    - link "element" [ref=e2148] [cursor=pointer]:
+                      - /url: /wiki/Elements
+                    - text: to Chitin.
+                - row "Chocolate Potion Chocolate Potion Valentines Event 2025 [▼] Valentines Event 2026 [▼] Changes a dragon's element to Chocolate." [ref=e2149]:
+                  - columnheader "Chocolate Potion" [ref=e2150]:
+                    - link "Chocolate Potion" [ref=e2153] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/5/5a/Chocolate_Potion.png/revision/latest?cb=20250329030942
+                      - img "Chocolate Potion" [ref=e2154]
+                  - rowheader "Chocolate Potion" [ref=e2155]
+                  - cell "Valentines Event 2025 [▼] Valentines Event 2026 [▼]" [ref=e2156]:
+                    - list [ref=e2157]:
+                      - listitem [ref=e2158]:
+                        - link "Valentines Event 2025" [ref=e2160] [cursor=pointer]:
+                          - /url: /wiki/Valentines_Event_2025
+                        - button "[▼]" [ref=e2161] [cursor=pointer]
+                      - listitem [ref=e2162]:
+                        - link "Valentines Event 2026" [ref=e2164] [cursor=pointer]:
+                          - /url: /wiki/Valentines_Event_2026
+                        - button "[▼]" [ref=e2165] [cursor=pointer]
+                  - cell "Changes a dragon's element to Chocolate." [ref=e2166]:
+                    - text: Changes a dragon's
+                    - link "element" [ref=e2167] [cursor=pointer]:
+                      - /url: /wiki/Elements
+                    - text: to Chocolate.
+                - row "Chocolate Strawberry Potion Chocolate Strawberry Potion Legacy Season 48 [▼] Changes a dragon's element to Chocolate Strawberry." [ref=e2168]:
+                  - columnheader "Chocolate Strawberry Potion" [ref=e2169]:
+                    - link "Chocolate Strawberry Potion" [ref=e2172] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/c/c7/Chocolate_Strawberry_Potion.png/revision/latest?cb=20250901021340
+                      - img "Chocolate Strawberry Potion" [ref=e2173]
+                  - rowheader "Chocolate Strawberry Potion" [ref=e2174]
+                  - cell "Legacy Season 48 [▼]" [ref=e2175]:
+                    - list [ref=e2176]:
+                      - listitem [ref=e2177]:
+                        - link "Legacy Season 48" [ref=e2179] [cursor=pointer]:
+                          - /url: /wiki/Dragon_Seasons
+                        - button "[▼]" [ref=e2180] [cursor=pointer]
+                  - cell "Changes a dragon's element to Chocolate Strawberry." [ref=e2181]:
+                    - text: Changes a dragon's
+                    - link "element" [ref=e2182] [cursor=pointer]:
+                      - /url: /wiki/Elements
+                    - text: to Chocolate Strawberry.
+                - row "ChristmasPotion Christmas Potion Winter Event 2023 [▼] Winter Event 2024 [▼] Winter Event 2025 [▼] Changes a dragon's element to Christmas." [ref=e2183]:
+                  - columnheader "ChristmasPotion" [ref=e2184]:
+                    - link "ChristmasPotion" [ref=e2187] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/d/df/ChristmasPotion.png/revision/latest?cb=20250329030944
+                      - img "ChristmasPotion" [ref=e2188]
+                  - rowheader "Christmas Potion" [ref=e2189]
+                  - cell "Winter Event 2023 [▼] Winter Event 2024 [▼] Winter Event 2025 [▼]" [ref=e2190]:
+                    - list [ref=e2191]:
+                      - listitem [ref=e2192]:
+                        - link "Winter Event 2023" [ref=e2194] [cursor=pointer]:
+                          - /url: /wiki/Winter_Event_2023
+                        - button "[▼]" [ref=e2195] [cursor=pointer]
+                      - listitem [ref=e2196]:
+                        - link "Winter Event 2024" [ref=e2198] [cursor=pointer]:
+                          - /url: /wiki/Winter_Event_2024
+                        - button "[▼]" [ref=e2199] [cursor=pointer]
+                      - listitem [ref=e2200]:
+                        - link "Winter Event 2025" [ref=e2202] [cursor=pointer]:
+                          - /url: /wiki/Winter_Event_2025
+                        - button "[▼]" [ref=e2203] [cursor=pointer]
+                  - cell "Changes a dragon's element to Christmas." [ref=e2204]:
+                    - text: Changes a dragon's
+                    - link "element" [ref=e2205] [cursor=pointer]:
+                      - /url: /wiki/Elements
+                    - text: to Christmas.
+                - row "Classic Potion Icon Classic Potion Roblox Classic Event [▼] Changes a dragon's element to Classic." [ref=e2206]:
+                  - columnheader "Classic Potion Icon" [ref=e2207]:
+                    - link "Classic Potion Icon" [ref=e2209] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/8/8c/Classic_Potion_Icon.png/revision/latest?cb=20260131021755
+                      - img "Classic Potion Icon" [ref=e2210]
+                  - rowheader "Classic Potion" [ref=e2211]
+                  - cell "Roblox Classic Event [▼]" [ref=e2212]:
+                    - list [ref=e2213]:
+                      - listitem [ref=e2214]:
+                        - link "Roblox Classic Event" [ref=e2216] [cursor=pointer]:
+                          - /url: /wiki/Roblox_Classic_Event
+                        - button "[▼]" [ref=e2217] [cursor=pointer]
+                  - cell "Changes a dragon's element to Classic." [ref=e2218]:
+                    - text: Changes a dragon's
+                    - link "element" [ref=e2219] [cursor=pointer]:
+                      - /url: /wiki/Elements
+                    - text: to Classic.
+                - row "Clover Potion Clover Potion Leprechaun Event [▼] Legacy Season 6 [▼] St. Patrick's Day Event 2023 [▼] St. Patrick's Day Event 2024 [▼] St. Patrick's Day Event 2025 [▼] Season 3 [▼] Changes a dragon's element to Clover." [ref=e2220]:
+                  - columnheader "Clover Potion" [ref=e2221]:
+                    - link "Clover Potion" [ref=e2223] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/c/c8/Clover_Potion.png/revision/latest?cb=20260131021753
+                      - img "Clover Potion" [ref=e2224]
+                  - rowheader "Clover Potion" [ref=e2225]
+                  - cell "Leprechaun Event [▼] Legacy Season 6 [▼] St. Patrick's Day Event 2023 [▼] St. Patrick's Day Event 2024 [▼] St. Patrick's Day Event 2025 [▼] Season 3 [▼]" [ref=e2226]:
+                    - list [ref=e2227]:
+                      - listitem [ref=e2228]:
+                        - link "Leprechaun Event" [ref=e2230] [cursor=pointer]:
+                          - /url: /wiki/Leprechaun_Event
+                        - button "[▼]" [ref=e2231] [cursor=pointer]
+                      - listitem [ref=e2232]:
+                        - link "Legacy Season 6" [ref=e2234] [cursor=pointer]:
+                          - /url: /wiki/Dragon_Seasons/2022
+                        - button "[▼]" [ref=e2235] [cursor=pointer]
+                      - listitem [ref=e2236]:
+                        - link "St. Patrick's Day Event 2023" [ref=e2238] [cursor=pointer]:
+                          - /url: /wiki/St._Patrick%27s_Day_Event_2023
+                        - button "[▼]" [ref=e2239] [cursor=pointer]
+                      - listitem [ref=e2240]:
+                        - link "St. Patrick's Day Event 2024" [ref=e2242] [cursor=pointer]:
+                          - /url: /wiki/St._Patrick%27s_Day_Event_2024
+                        - button "[▼]" [ref=e2243] [cursor=pointer]
+                      - listitem [ref=e2244]:
+                        - link "St. Patrick's Day Event 2025" [ref=e2246] [cursor=pointer]:
+                          - /url: /wiki/St._Patrick%27s_Day_Event_2025
+                        - button "[▼]" [ref=e2247] [cursor=pointer]
+                      - listitem [ref=e2248]:
+                        - link "Season 3" [ref=e2250] [cursor=pointer]:
+                          - /url: /wiki/Dragon_Seasons#Season_3
+                        - button "[▼]" [ref=e2251] [cursor=pointer]
+                  - cell "Changes a dragon's element to Clover." [ref=e2252]:
+                    - text: Changes a dragon's
+                    - link "element" [ref=e2253] [cursor=pointer]:
+                      - /url: /wiki/Elements
+                    - text: to Clover.
+                - row "Coded Void Potion Coded Void Potion Bundles [▼] Changes a dragon's element to Coded Void." [ref=e2254]:
+                  - columnheader "Coded Void Potion" [ref=e2255]:
+                    - link "Coded Void Potion" [ref=e2257] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/e/e6/Coded_Void_Potion.png/revision/latest?cb=20250622161422
+                      - img "Coded Void Potion" [ref=e2258]
+                  - rowheader "Coded Void Potion" [ref=e2259]
+                  - cell "Bundles [▼]" [ref=e2260]:
+                    - list [ref=e2261]:
+                      - listitem [ref=e2262]:
+                        - link "Bundles" [ref=e2264] [cursor=pointer]:
+                          - /url: /wiki/Bundles
+                        - button "[▼]" [ref=e2265] [cursor=pointer]
+                  - cell "Changes a dragon's element to Coded Void." [ref=e2266]:
+                    - text: Changes a dragon's
+                    - link "element" [ref=e2267] [cursor=pointer]:
+                      - /url: /wiki/Elements
+                    - text: to Coded Void.
+                - row "Confetti Potion Confetti Potion Legacy Season 7 [▼] Legacy Season 19 [▼] Legacy Season 31 [▼] Legacy Season 43 [▼] Changes a dragon's element to Confetti." [ref=e2268]:
+                  - columnheader "Confetti Potion" [ref=e2269]:
+                    - link "Confetti Potion" [ref=e2271] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/8/8e/Confetti_Potion.png/revision/latest?cb=20260131021411
+                      - img "Confetti Potion" [ref=e2272]
+                  - rowheader "Confetti Potion" [ref=e2273]
+                  - cell "Legacy Season 7 [▼] Legacy Season 19 [▼] Legacy Season 31 [▼] Legacy Season 43 [▼]" [ref=e2274]:
+                    - list [ref=e2275]:
+                      - listitem [ref=e2276]:
+                        - link "Legacy Season 7" [ref=e2278] [cursor=pointer]:
+                          - /url: /wiki/Dragon_Seasons/2022
+                        - button "[▼]" [ref=e2279] [cursor=pointer]
+                      - listitem [ref=e2280]:
+                        - link "Legacy Season 19" [ref=e2282] [cursor=pointer]:
+                          - /url: /wiki/Dragon_Seasons/2023
+                        - button "[▼]" [ref=e2283] [cursor=pointer]
+                      - listitem [ref=e2284]:
+                        - link "Legacy Season 31" [ref=e2286] [cursor=pointer]:
+                          - /url: /wiki/Dragon_Seasons/2024
+                        - button "[▼]" [ref=e2287] [cursor=pointer]
+                      - listitem [ref=e2288]:
+                        - link "Legacy Season 43" [ref=e2290] [cursor=pointer]:
+                          - /url: /wiki/Dragon_Seasons/2025
+                        - button "[▼]" [ref=e2291] [cursor=pointer]
+                  - cell "Changes a dragon's element to Confetti." [ref=e2292]:
+                    - text: Changes a dragon's
+                    - link "element" [ref=e2293] [cursor=pointer]:
+                      - /url: /wiki/Elements
+                    - text: to Confetti.
+                - row "Cotton Potion Cotton Potion Bundles [▼] Changes a dragon's element to Cotton." [ref=e2294]:
+                  - columnheader "Cotton Potion" [ref=e2295]:
+                    - link "Cotton Potion" [ref=e2298] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/d/de/Cotton_Potion.png/revision/latest?cb=20250329030950
+                      - img "Cotton Potion" [ref=e2299]
+                  - rowheader "Cotton Potion" [ref=e2300]
+                  - cell "Bundles [▼]" [ref=e2301]:
+                    - list [ref=e2302]:
+                      - listitem [ref=e2303]:
+                        - link "Bundles" [ref=e2305] [cursor=pointer]:
+                          - /url: /wiki/Bundles
+                        - button "[▼]" [ref=e2306] [cursor=pointer]
+                  - cell "Changes a dragon's element to Cotton." [ref=e2307]:
+                    - text: Changes a dragon's
+                    - link "element" [ref=e2308] [cursor=pointer]:
+                      - /url: /wiki/Elements
+                    - text: to Cotton.
+                - row "Debug Potion Debug Potion Role exclusive [▼] Changes a dragon's element to Debug." [ref=e2309]:
+                  - columnheader "Debug Potion" [ref=e2310]:
+                    - link "Debug Potion" [ref=e2313] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/b/b7/Debug_Potion.png/revision/latest?cb=20241203002834
+                      - img "Debug Potion" [ref=e2314]
+                  - rowheader "Debug Potion" [ref=e2315]
+                  - cell "Role exclusive [▼]" [ref=e2316]:
+                    - list [ref=e2317]:
+                      - listitem [ref=e2318]:
+                        - text: Role exclusive
+                        - button "[▼]" [ref=e2319] [cursor=pointer]
+                  - cell "Changes a dragon's element to Debug." [ref=e2320]:
+                    - text: Changes a dragon's
+                    - link "element" [ref=e2321] [cursor=pointer]:
+                      - /url: /wiki/Elements
+                    - text: to Debug.
+                - row "Deepwood Potion Deepwood Potion Bundles [▼] Changes a dragon's element to Deepwood." [ref=e2322]:
+                  - columnheader "Deepwood Potion" [ref=e2323]:
+                    - link "Deepwood Potion" [ref=e2325] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/d/dd/Deepwood_Potion.png/revision/latest?cb=20260131021409
+                      - img "Deepwood Potion" [ref=e2326]
+                  - rowheader "Deepwood Potion" [ref=e2327]
+                  - cell "Bundles [▼]" [ref=e2328]:
+                    - list [ref=e2329]:
+                      - listitem [ref=e2330]:
+                        - link "Bundles" [ref=e2332] [cursor=pointer]:
+                          - /url: /wiki/Bundles
+                        - button "[▼]" [ref=e2333] [cursor=pointer]
+                  - cell "Changes a dragon's element to Deepwood." [ref=e2334]:
+                    - text: Changes a dragon's
+                    - link "element" [ref=e2335] [cursor=pointer]:
+                      - /url: /wiki/Elements
+                    - text: to Deepwood.
+                - row "Deep Sea Potion Deep Sea Potion Legacy Season 10 [▼] Legacy Season 22 [▼] Legacy Season 34 [▼] Legacy Season 46 [▼] Changes a dragon's element to Deep Sea." [ref=e2336]:
+                  - columnheader "Deep Sea Potion" [ref=e2337]:
+                    - link "Deep Sea Potion" [ref=e2340] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/b/bb/Deep_Sea_Potion.png/revision/latest?cb=20251116050836
+                      - img "Deep Sea Potion" [ref=e2341]
+                  - rowheader "Deep Sea Potion" [ref=e2342]
+                  - cell "Legacy Season 10 [▼] Legacy Season 22 [▼] Legacy Season 34 [▼] Legacy Season 46 [▼]" [ref=e2343]:
+                    - list [ref=e2344]:
+                      - listitem [ref=e2345]:
+                        - link "Legacy Season 10" [ref=e2347] [cursor=pointer]:
+                          - /url: /wiki/Dragon_Seasons/2022
+                        - button "[▼]" [ref=e2348] [cursor=pointer]
+                      - listitem [ref=e2349]:
+                        - link "Legacy Season 22" [ref=e2351] [cursor=pointer]:
+                          - /url: /wiki/Dragon_Seasons/2023
+                        - button "[▼]" [ref=e2352] [cursor=pointer]
+                      - listitem [ref=e2353]:
+                        - link "Legacy Season 34" [ref=e2355] [cursor=pointer]:
+                          - /url: /wiki/Dragon_Seasons/2024
+                        - button "[▼]" [ref=e2356] [cursor=pointer]
+                      - listitem [ref=e2357]:
+                        - link "Legacy Season 46" [ref=e2359] [cursor=pointer]:
+                          - /url: /wiki/Dragon_Seasons/2025
+                        - button "[▼]" [ref=e2360] [cursor=pointer]
+                  - cell "Changes a dragon's element to Deep Sea." [ref=e2361]:
+                    - text: Changes a dragon's
+                    - link "element" [ref=e2362] [cursor=pointer]:
+                      - /url: /wiki/Elements
+                    - text: to Deep Sea.
+                - row "Diamond Potion Diamond Potion Million Mini Update [▼] Black Friday 2022 [▼] Black Friday 2023 [▼] Black Friday 2024 [▼] Black Friday 2025 [▼] Bundles [▼] Changes a dragon's element to Diamond." [ref=e2363]:
+                  - columnheader "Diamond Potion" [ref=e2364]:
+                    - link "Diamond Potion" [ref=e2367] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/8/8f/Diamond_Potion.png/revision/latest?cb=20230801222542
+                      - img "Diamond Potion" [ref=e2368]
+                  - rowheader "Diamond Potion" [ref=e2369]
+                  - cell "Million Mini Update [▼] Black Friday 2022 [▼] Black Friday 2023 [▼] Black Friday 2024 [▼] Black Friday 2025 [▼] Bundles [▼]" [ref=e2370]:
+                    - list [ref=e2371]:
+                      - listitem [ref=e2372]:
+                        - link "Million Mini Update" [ref=e2374] [cursor=pointer]:
+                          - /url: /wiki/Mini-Events#Million_Mini_Update
+                        - button "[▼]" [ref=e2375] [cursor=pointer]
+                      - listitem [ref=e2376]:
+                        - link "Black Friday 2022" [ref=e2378] [cursor=pointer]:
+                          - /url: /wiki/Mini-Events#Black_Friday_2022
+                        - button "[▼]" [ref=e2379] [cursor=pointer]
+                      - listitem [ref=e2380]:
+                        - link "Black Friday 2023" [ref=e2382] [cursor=pointer]:
+                          - /url: /wiki/Mini-Events#Black_Friday_2023
+                        - button "[▼]" [ref=e2383] [cursor=pointer]
+                      - listitem [ref=e2384]:
+                        - link "Black Friday 2024" [ref=e2386] [cursor=pointer]:
+                          - /url: /wiki/Mini-Events#Black_Friday_2024
+                        - button "[▼]" [ref=e2387] [cursor=pointer]
+                      - listitem [ref=e2388]:
+                        - link "Black Friday 2025" [ref=e2390] [cursor=pointer]:
+                          - /url: /wiki/Mini-Events#Black_Friday_2025
+                        - button "[▼]" [ref=e2391] [cursor=pointer]
+                      - listitem [ref=e2392]:
+                        - link "Bundles" [ref=e2394] [cursor=pointer]:
+                          - /url: /wiki/Bundles
+                        - button "[▼]" [ref=e2395] [cursor=pointer]
+                  - cell "Changes a dragon's element to Diamond." [ref=e2396]:
+                    - text: Changes a dragon's
+                    - link "element" [ref=e2397] [cursor=pointer]:
+                      - /url: /wiki/Elements
+                    - text: to Diamond.
+                - row "Dragonseer Potion Dragonseer Potion Role exclusive [▼] Changes a dragon's element to Dragonseer." [ref=e2398]:
+                  - columnheader "Dragonseer Potion" [ref=e2399]:
+                    - link "Dragonseer Potion" [ref=e2401] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/9/9a/Dragonseer_Potion.png/revision/latest?cb=20260131015951
+                      - img "Dragonseer Potion" [ref=e2402]
+                  - rowheader "Dragonseer Potion" [ref=e2403]
+                  - cell "Role exclusive [▼]" [ref=e2404]:
+                    - list [ref=e2405]:
+                      - listitem [ref=e2406]:
+                        - text: Role exclusive
+                        - button "[▼]" [ref=e2407] [cursor=pointer]
+                  - cell "Changes a dragon's element to Dragonseer." [ref=e2408]:
+                    - text: Changes a dragon's
+                    - link "element" [ref=e2409] [cursor=pointer]:
+                      - /url: /wiki/Elements
+                    - text: to Dragonseer.
+                - row "Dream Potion Dream Potion Accessory Island minigames Undercity fishing Changes a dragon's element to Dream." [ref=e2410]:
+                  - columnheader "Dream Potion" [ref=e2411]:
+                    - link "Dream Potion" [ref=e2413] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/7/7b/Dream_Potion.png/revision/latest?cb=20260131021407
+                      - img "Dream Potion" [ref=e2414]
+                  - rowheader "Dream Potion" [ref=e2415]
+                  - cell "Accessory Island minigames Undercity fishing" [ref=e2416]:
+                    - list [ref=e2417]:
+                      - listitem [ref=e2418]:
+                        - generic [ref=e2419]:
+                          - link "Accessory Island" [ref=e2420] [cursor=pointer]:
+                            - /url: /wiki/Accessory_Island
+                          - text: minigames
+                      - listitem [ref=e2421]:
+                        - generic [ref=e2422]:
+                          - link "Undercity" [ref=e2423] [cursor=pointer]:
+                            - /url: /wiki/Undercity
+                          - link "fishing" [ref=e2424] [cursor=pointer]:
+                            - /url: /wiki/Fishing
+                  - cell "Changes a dragon's element to Dream." [ref=e2425]:
+                    - text: Changes a dragon's
+                    - link "element" [ref=e2426] [cursor=pointer]:
+                      - /url: /wiki/Elements
+                    - text: to Dream.
+                - row "Drill Potion Drill Potion Galaxy Event 2022 [▼] Galaxy Event 2023 [▼] Galaxy Event 2024 [▼] Galaxy Event 2025 [▼] Changes a dragon's element to Mining Drill." [ref=e2427]:
+                  - columnheader "Drill Potion" [ref=e2428]:
+                    - link "Drill Potion" [ref=e2431] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/2/22/Drill_Potion.png/revision/latest?cb=20250329031304
+                      - img "Drill Potion" [ref=e2432]
+                  - rowheader "Drill Potion" [ref=e2433]
+                  - cell "Galaxy Event 2022 [▼] Galaxy Event 2023 [▼] Galaxy Event 2024 [▼] Galaxy Event 2025 [▼]" [ref=e2434]:
+                    - list [ref=e2435]:
+                      - listitem [ref=e2436]:
+                        - link "Galaxy Event 2022" [ref=e2438] [cursor=pointer]:
+                          - /url: /wiki/Galaxy_Event_2022
+                        - button "[▼]" [ref=e2439] [cursor=pointer]
+                      - listitem [ref=e2440]:
+                        - link "Galaxy Event 2023" [ref=e2442] [cursor=pointer]:
+                          - /url: /wiki/Galaxy_Event_2023
+                        - button "[▼]" [ref=e2443] [cursor=pointer]
+                      - listitem [ref=e2444]:
+                        - link "Galaxy Event 2024" [ref=e2446] [cursor=pointer]:
+                          - /url: /wiki/Galaxy_Event_2024
+                        - button "[▼]" [ref=e2447] [cursor=pointer]
+                      - listitem [ref=e2448]:
+                        - link "Galaxy Event 2025" [ref=e2450] [cursor=pointer]:
+                          - /url: /wiki/Galaxy_Event_2025
+                        - button "[▼]" [ref=e2451] [cursor=pointer]
+                  - cell "Changes a dragon's element to Mining Drill." [ref=e2452]:
+                    - text: Changes a dragon's
+                    - link "element" [ref=e2453] [cursor=pointer]:
+                      - /url: /wiki/Elements
+                    - text: to Mining Drill.
+                - row "Eclipse Potion Eclipse Potion Solstice Event 2022 [▼] Solstice Event 2023 [▼] Solstice Event 2024 [▼] Solstice Event 2025 [▼] Changes a dragon's element to Eclipse." [ref=e2454]:
+                  - columnheader "Eclipse Potion" [ref=e2455]:
+                    - link "Eclipse Potion" [ref=e2458] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/2/2d/Eclipse_Potion.png/revision/latest?cb=20251116050855
+                      - img "Eclipse Potion" [ref=e2459]
+                  - rowheader "Eclipse Potion" [ref=e2460]
+                  - cell "Solstice Event 2022 [▼] Solstice Event 2023 [▼] Solstice Event 2024 [▼] Solstice Event 2025 [▼]" [ref=e2461]:
+                    - list [ref=e2462]:
+                      - listitem [ref=e2463]:
+                        - link "Solstice Event 2022" [ref=e2465] [cursor=pointer]:
+                          - /url: /wiki/Solstice_Event_2022
+                        - button "[▼]" [ref=e2466] [cursor=pointer]
+                      - listitem [ref=e2467]:
+                        - link "Solstice Event 2023" [ref=e2469] [cursor=pointer]:
+                          - /url: /wiki/Solstice_Event_2023
+                        - button "[▼]" [ref=e2470] [cursor=pointer]
+                      - listitem [ref=e2471]:
+                        - link "Solstice Event 2024" [ref=e2473] [cursor=pointer]:
+                          - /url: /wiki/Solstice_Event_2024
+                        - button "[▼]" [ref=e2474] [cursor=pointer]
+                      - listitem [ref=e2475]:
+                        - link "Solstice Event 2025" [ref=e2477] [cursor=pointer]:
+                          - /url: /wiki/Solstice_Event_2025
+                        - button "[▼]" [ref=e2478] [cursor=pointer]
+                  - cell "Changes a dragon's element to Eclipse." [ref=e2479]:
+                    - text: Changes a dragon's
+                    - link "element" [ref=e2480] [cursor=pointer]:
+                      - /url: /wiki/Elements
+                    - text: to Eclipse.
+                - row "Eternal Potion Eternal Potion Easter Event 2022 [▼] Easter Event 2023 [▼] Easter Event 2024 [▼] Easter Event 2025 [▼] Changes a dragon's element to Eternal." [ref=e2481]:
+                  - columnheader "Eternal Potion" [ref=e2482]:
+                    - link "Eternal Potion" [ref=e2484] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/9/9e/Eternal_Potion.png/revision/latest?cb=20260131021404
+                      - img "Eternal Potion" [ref=e2485]
+                  - rowheader "Eternal Potion" [ref=e2486]
+                  - cell "Easter Event 2022 [▼] Easter Event 2023 [▼] Easter Event 2024 [▼] Easter Event 2025 [▼]" [ref=e2487]:
+                    - list [ref=e2488]:
+                      - listitem [ref=e2489]:
+                        - link "Easter Event 2022" [ref=e2491] [cursor=pointer]:
+                          - /url: /wiki/Easter_Event_2022
+                        - button "[▼]" [ref=e2492] [cursor=pointer]
+                      - listitem [ref=e2493]:
+                        - link "Easter Event 2023" [ref=e2495] [cursor=pointer]:
+                          - /url: /wiki/Easter_Event_2023
+                        - button "[▼]" [ref=e2496] [cursor=pointer]
+                      - listitem [ref=e2497]:
+                        - link "Easter Event 2024" [ref=e2499] [cursor=pointer]:
+                          - /url: /wiki/Easter_Event_2024
+                        - button "[▼]" [ref=e2500] [cursor=pointer]
+                      - listitem [ref=e2501]:
+                        - link "Easter Event 2025" [ref=e2503] [cursor=pointer]:
+                          - /url: /wiki/Easter_Event_2025
+                        - button "[▼]" [ref=e2504] [cursor=pointer]
+                  - cell "Changes a dragon's element to Eternal." [ref=e2505]:
+                    - text: Changes a dragon's
+                    - link "element" [ref=e2506] [cursor=pointer]:
+                      - /url: /wiki/Elements
+                    - text: to Eternal.
+                - row "Explorer Potion Explorer Potion Heroes League [▼] Changes a dragon's element to Explorer." [ref=e2507]:
+                  - columnheader "Explorer Potion" [ref=e2508]:
+                    - link "Explorer Potion" [ref=e2510] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/8/82/Explorer_Potion.png/revision/latest?cb=20250404221346
+                      - img "Explorer Potion" [ref=e2511]
+                  - rowheader "Explorer Potion" [ref=e2512]
+                  - cell "Heroes League [▼]" [ref=e2513]:
+                    - list [ref=e2514]:
+                      - listitem [ref=e2515]:
+                        - link "Heroes League" [ref=e2517] [cursor=pointer]:
+                          - /url: /wiki/Heroes_League
+                        - button "[▼]" [ref=e2518] [cursor=pointer]
+                  - cell "Changes a dragon's element to Explorer." [ref=e2519]:
+                    - text: Changes a dragon's
+                    - link "element" [ref=e2520] [cursor=pointer]:
+                      - /url: /wiki/Elements
+                    - text: to Explorer.
+                - row "FearPotion Fear Potion Halloween Event 2023 [▼] Halloween Event 2024 [▼] Halloween Event 2025 [▼] Changes a dragon's element to Fear." [ref=e2521]:
+                  - columnheader "FearPotion" [ref=e2522]:
+                    - link "FearPotion" [ref=e2524] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/e/e8/FearPotion.png/revision/latest?cb=20260131021402
+                      - img "FearPotion" [ref=e2525]
+                  - rowheader "Fear Potion" [ref=e2526]
+                  - cell "Halloween Event 2023 [▼] Halloween Event 2024 [▼] Halloween Event 2025 [▼]" [ref=e2527]:
+                    - list [ref=e2528]:
+                      - listitem [ref=e2529]:
+                        - link "Halloween Event 2023" [ref=e2531] [cursor=pointer]:
+                          - /url: /wiki/Halloween_Event_2023
+                        - button "[▼]" [ref=e2532] [cursor=pointer]
+                      - listitem [ref=e2533]:
+                        - link "Halloween Event 2024" [ref=e2535] [cursor=pointer]:
+                          - /url: /wiki/Halloween_Event_2024
+                        - button "[▼]" [ref=e2536] [cursor=pointer]
+                      - listitem [ref=e2537]:
+                        - link "Halloween Event 2025" [ref=e2539] [cursor=pointer]:
+                          - /url: /wiki/Halloween_Event_2025
+                        - button "[▼]" [ref=e2540] [cursor=pointer]
+                  - cell "Changes a dragon's element to Fear." [ref=e2541]:
+                    - text: Changes a dragon's
+                    - link "element" [ref=e2542] [cursor=pointer]:
+                      - /url: /wiki/Elements
+                    - text: to Fear.
+                - row "Film Star Potion Film Star Potion Role exclusive [▼] Changes a dragon's element to Film Star." [ref=e2543]:
+                  - columnheader "Film Star Potion" [ref=e2544]:
+                    - link "Film Star Potion" [ref=e2546] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/3/31/Film_Star_Potion.png/revision/latest?cb=20260131015940
+                      - img "Film Star Potion" [ref=e2547]
+                  - rowheader "Film Star Potion" [ref=e2548]
+                  - cell "Role exclusive [▼]" [ref=e2549]:
+                    - list [ref=e2550]:
+                      - listitem [ref=e2551]:
+                        - text: Role exclusive
+                        - button "[▼]" [ref=e2552] [cursor=pointer]
+                  - cell "Changes a dragon's element to Film Star." [ref=e2553]:
+                    - text: Changes a dragon's
+                    - link "element" [ref=e2554] [cursor=pointer]:
+                      - /url: /wiki/Elements
+                    - text: to Film Star.
+                - row "Fireworks Potion Fireworks Potion Legacy Season 5 [▼] Legacy Season 17 [▼] Legacy Season 29 [▼] Legacy Season 41 [▼] Lunar New Year Event 2024 [▼] Lunar New Year Event 2025 [▼] Bundles [▼] Changes a dragon's element to Fireworks." [ref=e2555]:
+                  - columnheader "Fireworks Potion" [ref=e2556]:
+                    - link "Fireworks Potion" [ref=e2558] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/e/e7/Fireworks_Potion.png/revision/latest?cb=20260131021400
+                      - img "Fireworks Potion" [ref=e2559]
+                  - rowheader "Fireworks Potion" [ref=e2560]
+                  - cell "Legacy Season 5 [▼] Legacy Season 17 [▼] Legacy Season 29 [▼] Legacy Season 41 [▼] Lunar New Year Event 2024 [▼] Lunar New Year Event 2025 [▼] Bundles [▼]" [ref=e2561]:
+                    - list [ref=e2562]:
+                      - listitem [ref=e2563]:
+                        - link "Legacy Season 5" [ref=e2565] [cursor=pointer]:
+                          - /url: /wiki/Dragon_Seasons/2022
+                        - button "[▼]" [ref=e2566] [cursor=pointer]
+                      - listitem [ref=e2567]:
+                        - link "Legacy Season 17" [ref=e2569] [cursor=pointer]:
+                          - /url: /wiki/Dragon_Seasons/2023
+                        - button "[▼]" [ref=e2570] [cursor=pointer]
+                      - listitem [ref=e2571]:
+                        - link "Legacy Season 29" [ref=e2573] [cursor=pointer]:
+                          - /url: /wiki/Dragon_Seasons/2024
+                        - button "[▼]" [ref=e2574] [cursor=pointer]
+                      - listitem [ref=e2575]:
+                        - link "Legacy Season 41" [ref=e2577] [cursor=pointer]:
+                          - /url: /wiki/Dragon_Seasons/2025
+                        - button "[▼]" [ref=e2578] [cursor=pointer]
+                      - listitem [ref=e2579]:
+                        - link "Lunar New Year Event 2024" [ref=e2581] [cursor=pointer]:
+                          - /url: /wiki/Lunar_New_Year_Event_2024
+                        - button "[▼]" [ref=e2582] [cursor=pointer]
+                      - listitem [ref=e2583]:
+                        - link "Lunar New Year Event 2025" [ref=e2585] [cursor=pointer]:
+                          - /url: /wiki/Lunar_New_Year_Event_2025
+                        - button "[▼]" [ref=e2586] [cursor=pointer]
+                      - listitem [ref=e2587]:
+                        - link "Bundles" [ref=e2589] [cursor=pointer]:
+                          - /url: /wiki/Bundles
+                        - button "[▼]" [ref=e2590] [cursor=pointer]
+                  - cell "Changes a dragon's element to Fireworks." [ref=e2591]:
+                    - text: Changes a dragon's
+                    - link "element" [ref=e2592] [cursor=pointer]:
+                      - /url: /wiki/Elements
+                    - text: to Fireworks.
+                - row "Floral Potion Floral Potion Easter Event 2025 [▼] Changes a dragon's element to Floral." [ref=e2593]:
+                  - columnheader "Floral Potion" [ref=e2594]:
+                    - link "Floral Potion" [ref=e2597] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/a/a5/Floral_Potion.png/revision/latest?cb=20250430011854
+                      - img "Floral Potion" [ref=e2598]
+                  - rowheader "Floral Potion" [ref=e2599]
+                  - cell "Easter Event 2025 [▼]" [ref=e2600]:
+                    - list [ref=e2601]:
+                      - listitem [ref=e2602]:
+                        - link "Easter Event 2025" [ref=e2604] [cursor=pointer]:
+                          - /url: /wiki/Easter_Event_2025
+                        - button "[▼]" [ref=e2605] [cursor=pointer]
+                  - cell "Changes a dragon's element to Floral." [ref=e2606]:
+                    - text: Changes a dragon's
+                    - link "element" [ref=e2607] [cursor=pointer]:
+                      - /url: /wiki/Elements
+                    - text: to Floral.
+                - row "Frostbite Potion Frostbite Potion Winter Event 2019 [▼] Winter Event 2021 [▼] Winter Event 2022 [▼] Winter Event 2023 [▼] Winter Event 2024 [▼] Winter Event 2025 [▼] Bundles [▼] Changes a dragon's element to Frostbite." [ref=e2608]:
+                  - columnheader "Frostbite Potion" [ref=e2609]:
+                    - link "Frostbite Potion" [ref=e2611] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/6/6a/Frostbite_Potion.png/revision/latest?cb=20260131021358
+                      - img "Frostbite Potion" [ref=e2612]
+                  - rowheader "Frostbite Potion" [ref=e2613]
+                  - cell "Winter Event 2019 [▼] Winter Event 2021 [▼] Winter Event 2022 [▼] Winter Event 2023 [▼] Winter Event 2024 [▼] Winter Event 2025 [▼] Bundles [▼]" [ref=e2614]:
+                    - list [ref=e2615]:
+                      - listitem [ref=e2616]:
+                        - link "Winter Event 2019" [ref=e2618] [cursor=pointer]:
+                          - /url: /wiki/Winter_Event_2019
+                        - button "[▼]" [ref=e2619] [cursor=pointer]
+                      - listitem [ref=e2620]:
+                        - link "Winter Event 2021" [ref=e2622] [cursor=pointer]:
+                          - /url: /wiki/Winter_Event_2021
+                        - button "[▼]" [ref=e2623] [cursor=pointer]
+                      - listitem [ref=e2624]:
+                        - link "Winter Event 2022" [ref=e2626] [cursor=pointer]:
+                          - /url: /wiki/Winter_Event_2022
+                        - button "[▼]" [ref=e2627] [cursor=pointer]
+                      - listitem [ref=e2628]:
+                        - link "Winter Event 2023" [ref=e2630] [cursor=pointer]:
+                          - /url: /wiki/Winter_Event_2023
+                        - button "[▼]" [ref=e2631] [cursor=pointer]
+                      - listitem [ref=e2632]:
+                        - link "Winter Event 2024" [ref=e2634] [cursor=pointer]:
+                          - /url: /wiki/Winter_Event_2024
+                        - button "[▼]" [ref=e2635] [cursor=pointer]
+                      - listitem [ref=e2636]:
+                        - link "Winter Event 2025" [ref=e2638] [cursor=pointer]:
+                          - /url: /wiki/Winter_Event_2025
+                        - button "[▼]" [ref=e2639] [cursor=pointer]
+                      - listitem [ref=e2640]:
+                        - link "Bundles" [ref=e2642] [cursor=pointer]:
+                          - /url: /wiki/Bundles
+                        - button "[▼]" [ref=e2643] [cursor=pointer]
+                  - cell "Changes a dragon's element to Frostbite." [ref=e2644]:
+                    - text: Changes a dragon's
+                    - link "element" [ref=e2645] [cursor=pointer]:
+                      - /url: /wiki/Elements
+                    - text: to Frostbite.
+                - row "GammaRayPotion Gamma Ray Potion Solstice Event 2023 [▼] Solstice Event 2024 [▼] Solstice Event 2025 [▼] Changes a dragon's element to Gamma Ray." [ref=e2646]:
+                  - columnheader "GammaRayPotion" [ref=e2647]:
+                    - link "GammaRayPotion" [ref=e2649] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/4/49/GammaRayPotion.png/revision/latest?cb=20260131021356
+                      - img "GammaRayPotion" [ref=e2650]
+                  - rowheader "Gamma Ray Potion" [ref=e2651]
+                  - cell "Solstice Event 2023 [▼] Solstice Event 2024 [▼] Solstice Event 2025 [▼]" [ref=e2652]:
+                    - list [ref=e2653]:
+                      - listitem [ref=e2654]:
+                        - link "Solstice Event 2023" [ref=e2656] [cursor=pointer]:
+                          - /url: /wiki/Solstice_Event_2023
+                        - button "[▼]" [ref=e2657] [cursor=pointer]
+                      - listitem [ref=e2658]:
+                        - link "Solstice Event 2024" [ref=e2660] [cursor=pointer]:
+                          - /url: /wiki/Solstice_Event_2024
+                        - button "[▼]" [ref=e2661] [cursor=pointer]
+                      - listitem [ref=e2662]:
+                        - link "Solstice Event 2025" [ref=e2664] [cursor=pointer]:
+                          - /url: /wiki/Solstice_Event_2025
+                        - button "[▼]" [ref=e2665] [cursor=pointer]
+                  - cell "Changes a dragon's element to Gamma Ray." [ref=e2666]:
+                    - text: Changes a dragon's
+                    - link "element" [ref=e2667] [cursor=pointer]:
+                      - /url: /wiki/Elements
+                    - text: to Gamma Ray.
+                - row "Ghost Potion Ghost Potion Halloween Event 2021 [▼] Halloween Event 2022 [▼] Halloween Event 2023 [▼] Halloween Event 2024 [▼] Halloween Event 2025 [▼] Changes a dragon's element to Ghost." [ref=e2668]:
+                  - columnheader "Ghost Potion" [ref=e2669]:
+                    - link "Ghost Potion" [ref=e2671] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/b/ba/Ghost_Potion.png/revision/latest?cb=20260131021351
+                      - img "Ghost Potion" [ref=e2672]
+                  - rowheader "Ghost Potion" [ref=e2673]
+                  - cell "Halloween Event 2021 [▼] Halloween Event 2022 [▼] Halloween Event 2023 [▼] Halloween Event 2024 [▼] Halloween Event 2025 [▼]" [ref=e2674]:
+                    - list [ref=e2675]:
+                      - listitem [ref=e2676]:
+                        - link "Halloween Event 2021" [ref=e2678] [cursor=pointer]:
+                          - /url: /wiki/Halloween_Event_2021
+                        - button "[▼]" [ref=e2679] [cursor=pointer]
+                      - listitem [ref=e2680]:
+                        - link "Halloween Event 2022" [ref=e2682] [cursor=pointer]:
+                          - /url: /wiki/Halloween_Event_2022
+                        - button "[▼]" [ref=e2683] [cursor=pointer]
+                      - listitem [ref=e2684]:
+                        - link "Halloween Event 2023" [ref=e2686] [cursor=pointer]:
+                          - /url: /wiki/Halloween_Event_2023
+                        - button "[▼]" [ref=e2687] [cursor=pointer]
+                      - listitem [ref=e2688]:
+                        - link "Halloween Event 2024" [ref=e2690] [cursor=pointer]:
+                          - /url: /wiki/Halloween_Event_2024
+                        - button "[▼]" [ref=e2691] [cursor=pointer]
+                      - listitem [ref=e2692]:
+                        - link "Halloween Event 2025" [ref=e2694] [cursor=pointer]:
+                          - /url: /wiki/Halloween_Event_2025
+                        - button "[▼]" [ref=e2695] [cursor=pointer]
+                  - cell "Changes a dragon's element to Ghost." [ref=e2696]:
+                    - text: Changes a dragon's
+                    - link "element" [ref=e2697] [cursor=pointer]:
+                      - /url: /wiki/Elements
+                    - text: to Ghost.
+                - row "Gold Potion Icon Gold Potion Solstice Event 2024 [▼] Solstice Event 2025 [▼] Changes a dragon's element to Gold." [ref=e2698]:
+                  - columnheader "Gold Potion Icon" [ref=e2699]:
+                    - link "Gold Potion Icon" [ref=e2701] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f6/Gold_Potion_Icon.png/revision/latest?cb=20260131021353
+                      - img "Gold Potion Icon" [ref=e2702]
+                  - rowheader "Gold Potion" [ref=e2703]
+                  - cell "Solstice Event 2024 [▼] Solstice Event 2025 [▼]" [ref=e2704]:
+                    - list [ref=e2705]:
+                      - listitem [ref=e2706]:
+                        - link "Solstice Event 2024" [ref=e2708] [cursor=pointer]:
+                          - /url: /wiki/Solstice_Event_2024
+                        - button "[▼]" [ref=e2709] [cursor=pointer]
+                      - listitem [ref=e2710]:
+                        - link "Solstice Event 2025" [ref=e2712] [cursor=pointer]:
+                          - /url: /wiki/Solstice_Event_2025
+                        - button "[▼]" [ref=e2713] [cursor=pointer]
+                  - cell "Changes a dragon's element to Gold." [ref=e2714]:
+                    - text: Changes a dragon's
+                    - link "element" [ref=e2715] [cursor=pointer]:
+                      - /url: /wiki/Elements
+                    - text: to Gold.
+                - row "HoneyPotion Honey Potion Easter Event 2024 [▼] Easter Event 2025 [▼] Changes a dragon's element to Honey." [ref=e2716]:
+                  - columnheader "HoneyPotion" [ref=e2717]:
+                    - link "HoneyPotion" [ref=e2719] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/fe/HoneyPotion.png/revision/latest?cb=20260131021349
+                      - img "HoneyPotion" [ref=e2720]
+                  - rowheader "Honey Potion" [ref=e2721]
+                  - cell "Easter Event 2024 [▼] Easter Event 2025 [▼]" [ref=e2722]:
+                    - list [ref=e2723]:
+                      - listitem [ref=e2724]:
+                        - link "Easter Event 2024" [ref=e2726] [cursor=pointer]:
+                          - /url: /wiki/Easter_Event_2024
+                        - button "[▼]" [ref=e2727] [cursor=pointer]
+                      - listitem [ref=e2728]:
+                        - link "Easter Event 2025" [ref=e2730] [cursor=pointer]:
+                          - /url: /wiki/Easter_Event_2025
+                        - button "[▼]" [ref=e2731] [cursor=pointer]
+                  - cell "Changes a dragon's element to Honey." [ref=e2732]:
+                    - text: Changes a dragon's
+                    - link "element" [ref=e2733] [cursor=pointer]:
+                      - /url: /wiki/Elements
+                    - text: to Honey.
+                - row "Icicle Potion Icicle Potion Winter Event 2025 [▼] Changes a dragon's element to Icicle." [ref=e2734]:
+                  - columnheader "Icicle Potion" [ref=e2735]:
+                    - link "Icicle Potion" [ref=e2737] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/fe/Icicle_Potion.png/revision/latest?cb=20251212224216
+                      - img "Icicle Potion" [ref=e2738]
+                  - rowheader "Icicle Potion" [ref=e2739]
+                  - cell "Winter Event 2025 [▼]" [ref=e2740]:
+                    - list [ref=e2741]:
+                      - listitem [ref=e2742]:
+                        - link "Winter Event 2025" [ref=e2744] [cursor=pointer]:
+                          - /url: /wiki/Winter_Event_2025
+                        - button "[▼]" [ref=e2745] [cursor=pointer]
+                  - cell "Changes a dragon's element to Icicle." [ref=e2746]:
+                    - text: Changes a dragon's
+                    - link "element" [ref=e2747] [cursor=pointer]:
+                      - /url: /wiki/Elements
+                    - text: to Icicle.
+                - row "Jelly Bean Potion Jelly Bean Potion Easter Event 2023 [▼] Easter Event 2024 [▼] Easter Event 2025 [▼] Changes a dragon's element to Jelly Bean." [ref=e2748]:
+                  - columnheader "Jelly Bean Potion" [ref=e2749]:
+                    - link "Jelly Bean Potion" [ref=e2751] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/0/09/Jelly_Bean_Potion.png/revision/latest?cb=20260131021347
+                      - img "Jelly Bean Potion" [ref=e2752]
+                  - rowheader "Jelly Bean Potion" [ref=e2753]
+                  - cell "Easter Event 2023 [▼] Easter Event 2024 [▼] Easter Event 2025 [▼]" [ref=e2754]:
+                    - list [ref=e2755]:
+                      - listitem [ref=e2756]:
+                        - link "Easter Event 2023" [ref=e2758] [cursor=pointer]:
+                          - /url: /wiki/Easter_Event_2023
+                        - button "[▼]" [ref=e2759] [cursor=pointer]
+                      - listitem [ref=e2760]:
+                        - link "Easter Event 2024" [ref=e2762] [cursor=pointer]:
+                          - /url: /wiki/Easter_Event_2024
+                        - button "[▼]" [ref=e2763] [cursor=pointer]
+                      - listitem [ref=e2764]:
+                        - link "Easter Event 2025" [ref=e2766] [cursor=pointer]:
+                          - /url: /wiki/Easter_Event_2025
+                        - button "[▼]" [ref=e2767] [cursor=pointer]
+                  - cell "Changes a dragon's element to Jelly Bean." [ref=e2768]:
+                    - text: Changes a dragon's
+                    - link "element" [ref=e2769] [cursor=pointer]:
+                      - /url: /wiki/Elements
+                    - text: to Jelly Bean.
+                - row "Laser Potion Laser Potion Galaxy Event 2023 [▼] Galaxy Event 2024 [▼] Galaxy Event 2025 [▼] Changes a dragon's element to Laser." [ref=e2770]:
+                  - columnheader "Laser Potion" [ref=e2771]:
+                    - link "Laser Potion" [ref=e2773] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/7/72/Laser_Potion.png/revision/latest?cb=20260131021345
+                      - img "Laser Potion" [ref=e2774]
+                  - rowheader "Laser Potion" [ref=e2775]
+                  - cell "Galaxy Event 2023 [▼] Galaxy Event 2024 [▼] Galaxy Event 2025 [▼]" [ref=e2776]:
+                    - list [ref=e2777]:
+                      - listitem [ref=e2778]:
+                        - link "Galaxy Event 2023" [ref=e2780] [cursor=pointer]:
+                          - /url: /wiki/Galaxy_Event_2023
+                        - button "[▼]" [ref=e2781] [cursor=pointer]
+                      - listitem [ref=e2782]:
+                        - link "Galaxy Event 2024" [ref=e2784] [cursor=pointer]:
+                          - /url: /wiki/Galaxy_Event_2024
+                        - button "[▼]" [ref=e2785] [cursor=pointer]
+                      - listitem [ref=e2786]:
+                        - link "Galaxy Event 2025" [ref=e2788] [cursor=pointer]:
+                          - /url: /wiki/Galaxy_Event_2025
+                        - button "[▼]" [ref=e2789] [cursor=pointer]
+                  - cell "Changes a dragon's element to Laser." [ref=e2790]:
+                    - text: Changes a dragon's
+                    - link "element" [ref=e2791] [cursor=pointer]:
+                      - /url: /wiki/Elements
+                    - text: to Laser.
+                - row "Lightning Potion Lightning Potion Season 1 [▼] Changes a dragon's element to Lightning." [ref=e2792]:
+                  - columnheader "Lightning Potion" [ref=e2793]:
+                    - link "Lightning Potion" [ref=e2795] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/3/3e/Lightning_Potion.png/revision/latest?cb=20260110163327
+                      - img "Lightning Potion" [ref=e2796]
+                  - rowheader "Lightning Potion" [ref=e2797]
+                  - cell "Season 1 [▼]" [ref=e2798]:
+                    - list [ref=e2799]:
+                      - listitem [ref=e2800]:
+                        - link "Season 1" [ref=e2802] [cursor=pointer]:
+                          - /url: /wiki/Dragon_Seasons#Season_1
+                        - button "[▼]" [ref=e2803] [cursor=pointer]
+                  - cell "Changes a dragon's element to Lightning." [ref=e2804]:
+                    - text: Changes a dragon's
+                    - link "element" [ref=e2805] [cursor=pointer]:
+                      - /url: /wiki/Elements
+                    - text: to Lightning.
+                - row "Love Potion Love Potion Valentines Event 2022 [▼] Valentines Event 2023 [▼] Valentines Event 2024 [▼] Valentines Event 2025 [▼] Bundles [▼] Changes a dragon's element to Love." [ref=e2806]:
+                  - columnheader "Love Potion" [ref=e2807]:
+                    - link "Love Potion" [ref=e2810] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/3/3b/Love_Potion.png/revision/latest?cb=20250329031622
+                      - img "Love Potion" [ref=e2811]
+                  - rowheader "Love Potion" [ref=e2812]
+                  - cell "Valentines Event 2022 [▼] Valentines Event 2023 [▼] Valentines Event 2024 [▼] Valentines Event 2025 [▼] Bundles [▼]" [ref=e2813]:
+                    - list [ref=e2814]:
+                      - listitem [ref=e2815]:
+                        - link "Valentines Event 2022" [ref=e2817] [cursor=pointer]:
+                          - /url: /wiki/Valentines_Event_2022
+                        - button "[▼]" [ref=e2818] [cursor=pointer]
+                      - listitem [ref=e2819]:
+                        - link "Valentines Event 2023" [ref=e2821] [cursor=pointer]:
+                          - /url: /wiki/Valentines_Event_2023
+                        - button "[▼]" [ref=e2822] [cursor=pointer]
+                      - listitem [ref=e2823]:
+                        - link "Valentines Event 2024" [ref=e2825] [cursor=pointer]:
+                          - /url: /wiki/Valentines_Event_2024
+                        - button "[▼]" [ref=e2826] [cursor=pointer]
+                      - listitem [ref=e2827]:
+                        - link "Valentines Event 2025" [ref=e2829] [cursor=pointer]:
+                          - /url: /wiki/Valentines_Event_2025
+                        - button "[▼]" [ref=e2830] [cursor=pointer]
+                      - listitem [ref=e2831]:
+                        - link "Bundles" [ref=e2833] [cursor=pointer]:
+                          - /url: /wiki/Bundles
+                        - button "[▼]" [ref=e2834] [cursor=pointer]
+                  - cell "Changes a dragon's element to Love." [ref=e2835]:
+                    - text: Changes a dragon's
+                    - link "element" [ref=e2836] [cursor=pointer]:
+                      - /url: /wiki/Elements
+                    - text: to Love.
+                - row "Lunaris Potion Lunaris Potion Solstice Event 2020 [▼] Solstice Event 2021 [▼] Solstice Event 2022 [▼] Solstice Event 2023 [▼] Solstice Event 2024 [▼] Solstice Event 2025 [▼] Changes a dragon's element to Lunaris." [ref=e2837]:
+                  - columnheader "Lunaris Potion" [ref=e2838]:
+                    - link "Lunaris Potion" [ref=e2840] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/d/d7/Lunaris_Potion.png/revision/latest?cb=20260131020911
+                      - img "Lunaris Potion" [ref=e2841]
+                  - rowheader "Lunaris Potion" [ref=e2842]
+                  - cell "Solstice Event 2020 [▼] Solstice Event 2021 [▼] Solstice Event 2022 [▼] Solstice Event 2023 [▼] Solstice Event 2024 [▼] Solstice Event 2025 [▼]" [ref=e2843]:
+                    - list [ref=e2844]:
+                      - listitem [ref=e2845]:
+                        - link "Solstice Event 2020" [ref=e2847] [cursor=pointer]:
+                          - /url: /wiki/Solstice_Event_2020
+                        - button "[▼]" [ref=e2848] [cursor=pointer]
+                      - listitem [ref=e2849]:
+                        - link "Solstice Event 2021" [ref=e2851] [cursor=pointer]:
+                          - /url: /wiki/Solstice_Event_2021
+                        - button "[▼]" [ref=e2852] [cursor=pointer]
+                      - listitem [ref=e2853]:
+                        - link "Solstice Event 2022" [ref=e2855] [cursor=pointer]:
+                          - /url: /wiki/Solstice_Event_2022
+                        - button "[▼]" [ref=e2856] [cursor=pointer]
+                      - listitem [ref=e2857]:
+                        - link "Solstice Event 2023" [ref=e2859] [cursor=pointer]:
+                          - /url: /wiki/Solstice_Event_2023
+                        - button "[▼]" [ref=e2860] [cursor=pointer]
+                      - listitem [ref=e2861]:
+                        - link "Solstice Event 2024" [ref=e2863] [cursor=pointer]:
+                          - /url: /wiki/Solstice_Event_2024
+                        - button "[▼]" [ref=e2864] [cursor=pointer]
+                      - listitem [ref=e2865]:
+                        - link "Solstice Event 2025" [ref=e2867] [cursor=pointer]:
+                          - /url: /wiki/Solstice_Event_2025
+                        - button "[▼]" [ref=e2868] [cursor=pointer]
+                  - cell "Changes a dragon's element to Lunaris." [ref=e2869]:
+                    - text: Changes a dragon's
+                    - link "element" [ref=e2870] [cursor=pointer]:
+                      - /url: /wiki/Elements
+                    - text: to Lunaris.
+                - row "Magister Potion Magister Potion Bundles [▼] Changes a dragon's element to Magister." [ref=e2871]:
+                  - columnheader "Magister Potion" [ref=e2872]:
+                    - link "Magister Potion" [ref=e2874] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/b/b4/Magister_Potion.png/revision/latest?cb=20260131020909
+                      - img "Magister Potion" [ref=e2875]
+                  - rowheader "Magister Potion" [ref=e2876]
+                  - cell "Bundles [▼]" [ref=e2877]:
+                    - list [ref=e2878]:
+                      - listitem [ref=e2879]:
+                        - link "Bundles" [ref=e2881] [cursor=pointer]:
+                          - /url: /wiki/Bundles
+                        - button "[▼]" [ref=e2882] [cursor=pointer]
+                  - cell "Changes a dragon's element to Magister." [ref=e2883]:
+                    - text: Changes a dragon's
+                    - link "element" [ref=e2884] [cursor=pointer]:
+                      - /url: /wiki/Elements
+                    - text: to Magister.
+                - row "Maple Potion Maple Potion Legacy Season 2 [▼] Legacy Season 14 [▼] Legacy Season 26 [▼] Legacy Season 38 [▼] Legacy Season 50 [▼] Bundles [▼] Changes a dragon's element to Maple." [ref=e2885]:
+                  - columnheader "Maple Potion" [ref=e2886]:
+                    - link "Maple Potion" [ref=e2888] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/7/76/Maple_Potion.png/revision/latest?cb=20260131020907
+                      - img "Maple Potion" [ref=e2889]
+                  - rowheader "Maple Potion" [ref=e2890]
+                  - cell "Legacy Season 2 [▼] Legacy Season 14 [▼] Legacy Season 26 [▼] Legacy Season 38 [▼] Legacy Season 50 [▼] Bundles [▼]" [ref=e2891]:
+                    - list [ref=e2892]:
+                      - listitem [ref=e2893]:
+                        - link "Legacy Season 2" [ref=e2895] [cursor=pointer]:
+                          - /url: /wiki/Dragon_Seasons/2021
+                        - button "[▼]" [ref=e2896] [cursor=pointer]
+                      - listitem [ref=e2897]:
+                        - link "Legacy Season 14" [ref=e2899] [cursor=pointer]:
+                          - /url: /wiki/Dragon_Seasons/2022
+                        - button "[▼]" [ref=e2900] [cursor=pointer]
+                      - listitem [ref=e2901]:
+                        - link "Legacy Season 26" [ref=e2903] [cursor=pointer]:
+                          - /url: /wiki/Dragon_Seasons/2023
+                        - button "[▼]" [ref=e2904] [cursor=pointer]
+                      - listitem [ref=e2905]:
+                        - link "Legacy Season 38" [ref=e2907] [cursor=pointer]:
+                          - /url: /wiki/Dragon_Seasons/2024
+                        - button "[▼]" [ref=e2908] [cursor=pointer]
+                      - listitem [ref=e2909]:
+                        - link "Legacy Season 50" [ref=e2911] [cursor=pointer]:
+                          - /url: /wiki/Dragon_Seasons/2025
+                        - button "[▼]" [ref=e2912] [cursor=pointer]
+                      - listitem [ref=e2913]:
+                        - link "Bundles" [ref=e2915] [cursor=pointer]:
+                          - /url: /wiki/Bundles
+                        - button "[▼]" [ref=e2916] [cursor=pointer]
+                  - cell "Changes a dragon's element to Maple." [ref=e2917]:
+                    - text: Changes a dragon's
+                    - link "element" [ref=e2918] [cursor=pointer]:
+                      - /url: /wiki/Elements
+                    - text: to Maple.
+                - row "Melody Potion Melody Potion Bundles [▼] Changes a dragon's element to Melody." [ref=e2919]:
+                  - columnheader "Melody Potion" [ref=e2920]:
+                    - link "Melody Potion" [ref=e2923] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/3/33/Melody_Potion.png/revision/latest?cb=20250329031631
+                      - img "Melody Potion" [ref=e2924]
+                  - rowheader "Melody Potion" [ref=e2925]
+                  - cell "Bundles [▼]" [ref=e2926]:
+                    - list [ref=e2927]:
+                      - listitem [ref=e2928]:
+                        - link "Bundles" [ref=e2930] [cursor=pointer]:
+                          - /url: /wiki/Bundles
+                        - button "[▼]" [ref=e2931] [cursor=pointer]
+                  - cell "Changes a dragon's element to Melody." [ref=e2932]:
+                    - text: Changes a dragon's
+                    - link "element" [ref=e2933] [cursor=pointer]:
+                      - /url: /wiki/Elements
+                    - text: to Melody.
+                - row "Metal Potion Icon Metal Potion Galaxy Event 2024 [▼] Galaxy Event 2025 [▼] Changes a dragon's element to Metal." [ref=e2934]:
+                  - columnheader "Metal Potion Icon" [ref=e2935]:
+                    - link "Metal Potion Icon" [ref=e2937] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/1/1d/Metal_Potion_Icon.png/revision/latest?cb=20260131020904
+                      - img "Metal Potion Icon" [ref=e2938]
+                  - rowheader "Metal Potion" [ref=e2939]
+                  - cell "Galaxy Event 2024 [▼] Galaxy Event 2025 [▼]" [ref=e2940]:
+                    - list [ref=e2941]:
+                      - listitem [ref=e2942]:
+                        - link "Galaxy Event 2024" [ref=e2944] [cursor=pointer]:
+                          - /url: /wiki/Galaxy_Event_2024
+                        - button "[▼]" [ref=e2945] [cursor=pointer]
+                      - listitem [ref=e2946]:
+                        - link "Galaxy Event 2025" [ref=e2948] [cursor=pointer]:
+                          - /url: /wiki/Galaxy_Event_2025
+                        - button "[▼]" [ref=e2949] [cursor=pointer]
+                  - cell "Changes a dragon's element to Metal." [ref=e2950]:
+                    - text: Changes a dragon's
+                    - link "element" [ref=e2951] [cursor=pointer]:
+                      - /url: /wiki/Elements
+                    - text: to Metal.
+                - row "Moonward Potion Icon Moonward Potion Bundles [▼] Changes a dragon's element to Moonward." [ref=e2952]:
+                  - columnheader "Moonward Potion Icon" [ref=e2953]:
+                    - link "Moonward Potion Icon" [ref=e2955] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/c/cb/Moonward_Potion_Icon.png/revision/latest?cb=20260131015940
+                      - img "Moonward Potion Icon" [ref=e2956]
+                  - rowheader "Moonward Potion" [ref=e2957]
+                  - cell "Bundles [▼]" [ref=e2958]:
+                    - list [ref=e2959]:
+                      - listitem [ref=e2960]:
+                        - link "Bundles" [ref=e2962] [cursor=pointer]:
+                          - /url: /wiki/Bundles
+                        - button "[▼]" [ref=e2963] [cursor=pointer]
+                  - cell "Changes a dragon's element to Moonward." [ref=e2964]:
+                    - text: Changes a dragon's
+                    - link "element" [ref=e2965] [cursor=pointer]:
+                      - /url: /wiki/Elements
+                    - text: to Moonward.
+                - row "Moss Potion Icon Moss Potion Easter Event 2024 [▼] Easter Event 2025 [▼] Changes a dragon's element to Moss." [ref=e2966]:
+                  - columnheader "Moss Potion Icon" [ref=e2967]:
+                    - link "Moss Potion Icon" [ref=e2969] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/9/9d/Moss_Potion_Icon.png/revision/latest?cb=20260131020902
+                      - img "Moss Potion Icon" [ref=e2970]
+                  - rowheader "Moss Potion" [ref=e2971]
+                  - cell "Easter Event 2024 [▼] Easter Event 2025 [▼]" [ref=e2972]:
+                    - list [ref=e2973]:
+                      - listitem [ref=e2974]:
+                        - link "Easter Event 2024" [ref=e2976] [cursor=pointer]:
+                          - /url: /wiki/Easter_Event_2024
+                        - button "[▼]" [ref=e2977] [cursor=pointer]
+                      - listitem [ref=e2978]:
+                        - link "Easter Event 2025" [ref=e2980] [cursor=pointer]:
+                          - /url: /wiki/Easter_Event_2025
+                        - button "[▼]" [ref=e2981] [cursor=pointer]
+                  - cell "Changes a dragon's element to Moss." [ref=e2982]:
+                    - text: Changes a dragon's
+                    - link "element" [ref=e2983] [cursor=pointer]:
+                      - /url: /wiki/Elements
+                    - text: to Moss.
+                - row "Nightmare Potion Nightmare Potion Halloween Event 2025 [▼] Changes a dragon's element to Nightmare." [ref=e2984]:
+                  - columnheader "Nightmare Potion" [ref=e2985]:
+                    - link "Nightmare Potion" [ref=e2987] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/0/0e/Nightmare_Potion.png/revision/latest?cb=20251108010109
+                      - img "Nightmare Potion" [ref=e2988]
+                  - rowheader "Nightmare Potion" [ref=e2989]
+                  - cell "Halloween Event 2025 [▼]" [ref=e2990]:
+                    - list [ref=e2991]:
+                      - listitem [ref=e2992]:
+                        - link "Halloween Event 2025" [ref=e2994] [cursor=pointer]:
+                          - /url: /wiki/Halloween_Event_2025
+                        - button "[▼]" [ref=e2995] [cursor=pointer]
+                  - cell "Changes a dragon's element to Nightmare." [ref=e2996]:
+                    - text: Changes a dragon's
+                    - link "element" [ref=e2997] [cursor=pointer]:
+                      - /url: /wiki/Elements
+                    - text: to Nightmare.
+                - row "Obsession Potion blehh Obsession Potion Valentines Event 2026 [▼] Changes a dragon's element to Obsession." [ref=e2998]:
+                  - columnheader "Obsession Potion blehh" [ref=e2999]:
+                    - link "Obsession Potion blehh" [ref=e3001] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/b/be/Obsession_Potion_blehh.png/revision/latest?cb=20260221033721
+                      - img "Obsession Potion blehh" [ref=e3002]
+                  - rowheader "Obsession Potion" [ref=e3003]
+                  - cell "Valentines Event 2026 [▼]" [ref=e3004]:
+                    - list [ref=e3005]:
+                      - listitem [ref=e3006]:
+                        - link "Valentines Event 2026" [ref=e3008] [cursor=pointer]:
+                          - /url: /wiki/Valentines_Event_2026
+                        - button "[▼]" [ref=e3009] [cursor=pointer]
+                  - cell "Changes a dragon's element to Obsession." [ref=e3010]:
+                    - text: Changes a dragon's
+                    - link "element" [ref=e3011] [cursor=pointer]:
+                      - /url: /wiki/Elements
+                    - text: to Obsession.
+                - row "Obsidian Potion Obsidian Potion Legacy Season 8 [▼] Legacy Season 20 [▼] Legacy Season 32 [▼] Legacy Season 44 [▼] Changes a dragon's element to Obsidian." [ref=e3012]:
+                  - columnheader "Obsidian Potion" [ref=e3013]:
+                    - link "Obsidian Potion" [ref=e3015] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/5/58/Obsidian_Potion.png/revision/latest?cb=20260131015943
+                      - img "Obsidian Potion" [ref=e3016]
+                  - rowheader "Obsidian Potion" [ref=e3017]
+                  - cell "Legacy Season 8 [▼] Legacy Season 20 [▼] Legacy Season 32 [▼] Legacy Season 44 [▼]" [ref=e3018]:
+                    - list [ref=e3019]:
+                      - listitem [ref=e3020]:
+                        - link "Legacy Season 8" [ref=e3022] [cursor=pointer]:
+                          - /url: /wiki/Dragon_Seasons/2022
+                        - button "[▼]" [ref=e3023] [cursor=pointer]
+                      - listitem [ref=e3024]:
+                        - link "Legacy Season 20" [ref=e3026] [cursor=pointer]:
+                          - /url: /wiki/Dragon_Seasons/2023
+                        - button "[▼]" [ref=e3027] [cursor=pointer]
+                      - listitem [ref=e3028]:
+                        - link "Legacy Season 32" [ref=e3030] [cursor=pointer]:
+                          - /url: /wiki/Dragon_Seasons/2024
+                        - button "[▼]" [ref=e3031] [cursor=pointer]
+                      - listitem [ref=e3032]:
+                        - link "Legacy Season 44" [ref=e3034] [cursor=pointer]:
+                          - /url: /wiki/Dragon_Seasons/2025
+                        - button "[▼]" [ref=e3035] [cursor=pointer]
+                  - cell "Changes a dragon's element to Obsidian." [ref=e3036]:
+                    - text: Changes a dragon's
+                    - link "element" [ref=e3037] [cursor=pointer]:
+                      - /url: /wiki/Elements
+                    - text: to Obsidian.
+                - row "Opulence Potion Opulence Potion Black Friday 2021 [▼] Black Friday 2022 [▼] Black Friday 2023 [▼] Black Friday 2024 [▼] Black Friday 2025 [▼] Bundles [▼] Changes a dragon's element to Opulence." [ref=e3038]:
+                  - columnheader "Opulence Potion" [ref=e3039]:
+                    - link "Opulence Potion" [ref=e3041] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/c/c8/Opulence_Potion.png/revision/latest?cb=20260131020010
+                      - img "Opulence Potion" [ref=e3042]
+                  - rowheader "Opulence Potion" [ref=e3043]
+                  - cell "Black Friday 2021 [▼] Black Friday 2022 [▼] Black Friday 2023 [▼] Black Friday 2024 [▼] Black Friday 2025 [▼] Bundles [▼]" [ref=e3044]:
+                    - list [ref=e3045]:
+                      - listitem [ref=e3046]:
+                        - link "Black Friday 2021" [ref=e3048] [cursor=pointer]:
+                          - /url: /wiki/Mini-Events#Black_Friday_2021
+                        - button "[▼]" [ref=e3049] [cursor=pointer]
+                      - listitem [ref=e3050]:
+                        - link "Black Friday 2022" [ref=e3052] [cursor=pointer]:
+                          - /url: /wiki/Mini-Events#Black_Friday_2022
+                        - button "[▼]" [ref=e3053] [cursor=pointer]
+                      - listitem [ref=e3054]:
+                        - link "Black Friday 2023" [ref=e3056] [cursor=pointer]:
+                          - /url: /wiki/Mini-Events#Black_Friday_2023
+                        - button "[▼]" [ref=e3057] [cursor=pointer]
+                      - listitem [ref=e3058]:
+                        - link "Black Friday 2024" [ref=e3060] [cursor=pointer]:
+                          - /url: /wiki/Mini-Events#Black_Friday_2024
+                        - button "[▼]" [ref=e3061] [cursor=pointer]
+                      - listitem [ref=e3062]:
+                        - link "Black Friday 2025" [ref=e3064] [cursor=pointer]:
+                          - /url: /wiki/Mini-Events#Black_Friday_2025
+                        - button "[▼]" [ref=e3065] [cursor=pointer]
+                      - listitem [ref=e3066]:
+                        - link "Bundles" [ref=e3068] [cursor=pointer]:
+                          - /url: /wiki/Bundles
+                        - button "[▼]" [ref=e3069] [cursor=pointer]
+                  - cell "Changes a dragon's element to Opulence." [ref=e3070]:
+                    - text: Changes a dragon's
+                    - link "element" [ref=e3071] [cursor=pointer]:
+                      - /url: /wiki/Elements
+                    - text: to Opulence.
+                - row "Orbit Potion Orbit Potion Legacy Season 9 [▼] Legacy Season 21 [▼] Legacy Season 33 [▼] Legacy Season 45 [▼] Changes a dragon's element to Orbit." [ref=e3072]:
+                  - columnheader "Orbit Potion" [ref=e3073]:
+                    - link "Orbit Potion" [ref=e3075] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/7/73/Orbit_Potion.png/revision/latest?cb=20260131020012
+                      - img "Orbit Potion" [ref=e3076]
+                  - rowheader "Orbit Potion" [ref=e3077]
+                  - cell "Legacy Season 9 [▼] Legacy Season 21 [▼] Legacy Season 33 [▼] Legacy Season 45 [▼]" [ref=e3078]:
+                    - list [ref=e3079]:
+                      - listitem [ref=e3080]:
+                        - link "Legacy Season 9" [ref=e3082] [cursor=pointer]:
+                          - /url: /wiki/Dragon_Seasons/2022
+                        - button "[▼]" [ref=e3083] [cursor=pointer]
+                      - listitem [ref=e3084]:
+                        - link "Legacy Season 21" [ref=e3086] [cursor=pointer]:
+                          - /url: /wiki/Dragon_Seasons/2023
+                        - button "[▼]" [ref=e3087] [cursor=pointer]
+                      - listitem [ref=e3088]:
+                        - link "Legacy Season 33" [ref=e3090] [cursor=pointer]:
+                          - /url: /wiki/Dragon_Seasons/2024
+                        - button "[▼]" [ref=e3091] [cursor=pointer]
+                      - listitem [ref=e3092]:
+                        - link "Legacy Season 45" [ref=e3094] [cursor=pointer]:
+                          - /url: /wiki/Dragon_Seasons/2025
+                        - button "[▼]" [ref=e3095] [cursor=pointer]
+                  - cell "Changes a dragon's element to Orbit." [ref=e3096]:
+                    - text: Changes a dragon's
+                    - link "element" [ref=e3097] [cursor=pointer]:
+                      - /url: /wiki/Elements
+                    - text: to Orbit.
+                - row "Paint Potion Paint Potion Role exclusive [▼] Changes a dragon's element to Paint." [ref=e3098]:
+                  - columnheader "Paint Potion" [ref=e3099]:
+                    - link "Paint Potion" [ref=e3101] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/6/6a/Paint_Potion.png/revision/latest?cb=20250315191013
+                      - img "Paint Potion" [ref=e3102]
+                  - rowheader "Paint Potion" [ref=e3103]
+                  - cell "Role exclusive [▼]" [ref=e3104]:
+                    - list [ref=e3105]:
+                      - listitem [ref=e3106]:
+                        - text: Role exclusive
+                        - button "[▼]" [ref=e3107] [cursor=pointer]
+                  - cell "Changes a dragon's element to Paint." [ref=e3108]:
+                    - text: Changes a dragon's
+                    - link "element" [ref=e3109] [cursor=pointer]:
+                      - /url: /wiki/Elements
+                    - text: to Paint.
+                - row "Pan Dulce Potion Pan Dulce Potion Winter Event 2024 [▼] Winter Event 2025 [▼] Changes a dragon's element to Pan Dulce." [ref=e3110]:
+                  - columnheader "Pan Dulce Potion" [ref=e3111]:
+                    - link "Pan Dulce Potion" [ref=e3113] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/8/8a/Pan_Dulce_Potion.png/revision/latest?cb=20260131020901
+                      - img "Pan Dulce Potion" [ref=e3114]
+                  - rowheader "Pan Dulce Potion" [ref=e3115]
+                  - cell "Winter Event 2024 [▼] Winter Event 2025 [▼]" [ref=e3116]:
+                    - list [ref=e3117]:
+                      - listitem [ref=e3118]:
+                        - link "Winter Event 2024" [ref=e3120] [cursor=pointer]:
+                          - /url: /wiki/Winter_Event_2024
+                        - button "[▼]" [ref=e3121] [cursor=pointer]
+                      - listitem [ref=e3122]:
+                        - link "Winter Event 2025" [ref=e3124] [cursor=pointer]:
+                          - /url: /wiki/Winter_Event_2025
+                        - button "[▼]" [ref=e3125] [cursor=pointer]
+                  - cell "Changes a dragon's element to Pan Dulce." [ref=e3126]:
+                    - text: Changes a dragon's
+                    - link "element" [ref=e3127] [cursor=pointer]:
+                      - /url: /wiki/Elements
+                    - text: to Pan Dulce.
+                - row "Peppermint Potion Peppermint Potion Legacy Season 3 [▼] Legacy Season 15 [▼] Legacy Season 27 [▼] Legacy Season 39 [▼] Legacy Season 51 [▼] Bundles [▼] Changes a dragon's element to Peppermint." [ref=e3128]:
+                  - columnheader "Peppermint Potion" [ref=e3129]:
+                    - link "Peppermint Potion" [ref=e3132] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/d/d2/Peppermint_Potion.png/revision/latest?cb=20250329031953
+                      - img "Peppermint Potion" [ref=e3133]
+                  - rowheader "Peppermint Potion" [ref=e3134]
+                  - cell "Legacy Season 3 [▼] Legacy Season 15 [▼] Legacy Season 27 [▼] Legacy Season 39 [▼] Legacy Season 51 [▼] Bundles [▼]" [ref=e3135]:
+                    - list [ref=e3136]:
+                      - listitem [ref=e3137]:
+                        - link "Legacy Season 3" [ref=e3139] [cursor=pointer]:
+                          - /url: /wiki/Dragon_Seasons/2021
+                        - button "[▼]" [ref=e3140] [cursor=pointer]
+                      - listitem [ref=e3141]:
+                        - link "Legacy Season 15" [ref=e3143] [cursor=pointer]:
+                          - /url: /wiki/Dragon_Seasons/2022
+                        - button "[▼]" [ref=e3144] [cursor=pointer]
+                      - listitem [ref=e3145]:
+                        - link "Legacy Season 27" [ref=e3147] [cursor=pointer]:
+                          - /url: /wiki/Dragon_Seasons/2023
+                        - button "[▼]" [ref=e3148] [cursor=pointer]
+                      - listitem [ref=e3149]:
+                        - link "Legacy Season 39" [ref=e3151] [cursor=pointer]:
+                          - /url: /wiki/Dragon_Seasons/2024
+                        - button "[▼]" [ref=e3152] [cursor=pointer]
+                      - listitem [ref=e3153]:
+                        - link "Legacy Season 51" [ref=e3155] [cursor=pointer]:
+                          - /url: /wiki/Dragon_Seasons/2025
+                        - button "[▼]" [ref=e3156] [cursor=pointer]
+                      - listitem [ref=e3157]:
+                        - link "Bundles" [ref=e3159] [cursor=pointer]:
+                          - /url: /wiki/Bundles
+                        - button "[▼]" [ref=e3160] [cursor=pointer]
+                  - cell "Changes a dragon's element to Peppermint." [ref=e3161]:
+                    - text: Changes a dragon's
+                    - link "element" [ref=e3162] [cursor=pointer]:
+                      - /url: /wiki/Elements
+                    - text: to Peppermint.
+                - row "Pulsar Potion Pulsar Potion Galaxy Event 2023 [▼] Galaxy Event 2024 [▼] Galaxy Event 2025 [▼] Changes a dragon's element to Pulsar." [ref=e3163]:
+                  - columnheader "Pulsar Potion" [ref=e3164]:
+                    - link "Pulsar Potion" [ref=e3166] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/2/2c/Pulsar_Potion.png/revision/latest?cb=20260131020859
+                      - img "Pulsar Potion" [ref=e3167]
+                  - rowheader "Pulsar Potion" [ref=e3168]
+                  - cell "Galaxy Event 2023 [▼] Galaxy Event 2024 [▼] Galaxy Event 2025 [▼]" [ref=e3169]:
+                    - list [ref=e3170]:
+                      - listitem [ref=e3171]:
+                        - link "Galaxy Event 2023" [ref=e3173] [cursor=pointer]:
+                          - /url: /wiki/Galaxy_Event_2023
+                        - button "[▼]" [ref=e3174] [cursor=pointer]
+                      - listitem [ref=e3175]:
+                        - link "Galaxy Event 2024" [ref=e3177] [cursor=pointer]:
+                          - /url: /wiki/Galaxy_Event_2024
+                        - button "[▼]" [ref=e3178] [cursor=pointer]
+                      - listitem [ref=e3179]:
+                        - link "Galaxy Event 2025" [ref=e3181] [cursor=pointer]:
+                          - /url: /wiki/Galaxy_Event_2025
+                        - button "[▼]" [ref=e3182] [cursor=pointer]
+                  - cell "Changes a dragon's element to Pulsar." [ref=e3183]:
+                    - text: Changes a dragon's
+                    - link "element" [ref=e3184] [cursor=pointer]:
+                      - /url: /wiki/Elements
+                    - text: to Pulsar.
+                - row "Pumpkin Spice Potion1 Pumpkin Spice Potion Halloween Event 2020 [▼] Halloween Event 2021 [▼] Halloween Event 2022 [▼] Halloween Event 2023 [▼] Halloween Event 2024 [▼] Halloween Event 2025 [▼] Changes a dragon's element to Pumpkin Spice." [ref=e3185]:
+                  - columnheader "Pumpkin Spice Potion1" [ref=e3186]:
+                    - link "Pumpkin Spice Potion1" [ref=e3188] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/7/78/Pumpkin_Spice_Potion1.png/revision/latest?cb=20260131020857
+                      - img "Pumpkin Spice Potion1" [ref=e3189]
+                  - rowheader "Pumpkin Spice Potion" [ref=e3190]
+                  - cell "Halloween Event 2020 [▼] Halloween Event 2021 [▼] Halloween Event 2022 [▼] Halloween Event 2023 [▼] Halloween Event 2024 [▼] Halloween Event 2025 [▼]" [ref=e3191]:
+                    - list [ref=e3192]:
+                      - listitem [ref=e3193]:
+                        - link "Halloween Event 2020" [ref=e3195] [cursor=pointer]:
+                          - /url: /wiki/Halloween_Event_2020
+                        - button "[▼]" [ref=e3196] [cursor=pointer]
+                      - listitem [ref=e3197]:
+                        - link "Halloween Event 2021" [ref=e3199] [cursor=pointer]:
+                          - /url: /wiki/Halloween_Event_2021
+                        - button "[▼]" [ref=e3200] [cursor=pointer]
+                      - listitem [ref=e3201]:
+                        - link "Halloween Event 2022" [ref=e3203] [cursor=pointer]:
+                          - /url: /wiki/Halloween_Event_2022
+                        - button "[▼]" [ref=e3204] [cursor=pointer]
+                      - listitem [ref=e3205]:
+                        - link "Halloween Event 2023" [ref=e3207] [cursor=pointer]:
+                          - /url: /wiki/Halloween_Event_2023
+                        - button "[▼]" [ref=e3208] [cursor=pointer]
+                      - listitem [ref=e3209]:
+                        - link "Halloween Event 2024" [ref=e3211] [cursor=pointer]:
+                          - /url: /wiki/Halloween_Event_2024
+                        - button "[▼]" [ref=e3212] [cursor=pointer]
+                      - listitem [ref=e3213]:
+                        - link "Halloween Event 2025" [ref=e3215] [cursor=pointer]:
+                          - /url: /wiki/Halloween_Event_2025
+                        - button "[▼]" [ref=e3216] [cursor=pointer]
+                  - cell "Changes a dragon's element to Pumpkin Spice." [ref=e3217]:
+                    - text: Changes a dragon's
+                    - link "element" [ref=e3218] [cursor=pointer]:
+                      - /url: /wiki/Elements
+                    - text: to Pumpkin Spice.
+                - row "Rainbow Potion Rainbow Potion Pride Event 2020 [▼] Pride Event 2021 [▼] Pride Event 2022 [▼] Pride Event 2023 [▼] Pride Event 2024 [▼] Pride Event 2025 [▼] Changes a dragon's element to Rainbow." [ref=e3219]:
+                  - columnheader "Rainbow Potion" [ref=e3220]:
+                    - link "Rainbow Potion" [ref=e3222] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/b/bd/Rainbow_Potion.png/revision/latest?cb=20260131020855
+                      - img "Rainbow Potion" [ref=e3223]
+                  - rowheader "Rainbow Potion" [ref=e3224]
+                  - cell "Pride Event 2020 [▼] Pride Event 2021 [▼] Pride Event 2022 [▼] Pride Event 2023 [▼] Pride Event 2024 [▼] Pride Event 2025 [▼]" [ref=e3225]:
+                    - list [ref=e3226]:
+                      - listitem [ref=e3227]:
+                        - link "Pride Event 2020" [ref=e3229] [cursor=pointer]:
+                          - /url: /wiki/Pride_Event_2020
+                        - button "[▼]" [ref=e3230] [cursor=pointer]
+                      - listitem [ref=e3231]:
+                        - link "Pride Event 2021" [ref=e3233] [cursor=pointer]:
+                          - /url: /wiki/Pride_Event_2021
+                        - button "[▼]" [ref=e3234] [cursor=pointer]
+                      - listitem [ref=e3235]:
+                        - link "Pride Event 2022" [ref=e3237] [cursor=pointer]:
+                          - /url: /wiki/Pride_Event_2022
+                        - button "[▼]" [ref=e3238] [cursor=pointer]
+                      - listitem [ref=e3239]:
+                        - link "Pride Event 2023" [ref=e3241] [cursor=pointer]:
+                          - /url: /wiki/Pride_Event_2023
+                        - button "[▼]" [ref=e3242] [cursor=pointer]
+                      - listitem [ref=e3243]:
+                        - link "Pride Event 2024" [ref=e3245] [cursor=pointer]:
+                          - /url: /wiki/Pride_Event_2024
+                        - button "[▼]" [ref=e3246] [cursor=pointer]
+                      - listitem [ref=e3247]:
+                        - link "Pride Event 2025" [ref=e3249] [cursor=pointer]:
+                          - /url: /wiki/Pride_Event_2025
+                        - button "[▼]" [ref=e3250] [cursor=pointer]
+                  - cell "Changes a dragon's element to Rainbow." [ref=e3251]:
+                    - text: Changes a dragon's
+                    - link "element" [ref=e3252] [cursor=pointer]:
+                      - /url: /wiki/Elements
+                    - text: to Rainbow.
+                - row "Ribbon Potion Ribbon Potion Winter Event 2025 [▼] Changes a dragon's element to Ribbon." [ref=e3253]:
+                  - columnheader "Ribbon Potion" [ref=e3254]:
+                    - link "Ribbon Potion" [ref=e3256] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/5/56/Ribbon_Potion.png/revision/latest?cb=20251223235954
+                      - img "Ribbon Potion" [ref=e3257]
+                  - rowheader "Ribbon Potion" [ref=e3258]
+                  - cell "Winter Event 2025 [▼]" [ref=e3259]:
+                    - list [ref=e3260]:
+                      - listitem [ref=e3261]:
+                        - link "Winter Event 2025" [ref=e3263] [cursor=pointer]:
+                          - /url: /wiki/Winter_Event_2025
+                        - button "[▼]" [ref=e3264] [cursor=pointer]
+                  - cell "Changes a dragon's element to Ribbon." [ref=e3265]:
+                    - text: Changes a dragon's
+                    - link "element" [ref=e3266] [cursor=pointer]:
+                      - /url: /wiki/Elements
+                    - text: to Ribbon.
+                - row "Runic Waters Potion Runic Waters Potion Bundles [▼] Changes a dragon's element to Runic Waters." [ref=e3267]:
+                  - columnheader "Runic Waters Potion" [ref=e3268]:
+                    - link "Runic Waters Potion" [ref=e3270] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/6/67/Runic_Waters_Potion.png/revision/latest?cb=20250425202710
+                      - img "Runic Waters Potion" [ref=e3271]
+                  - rowheader "Runic Waters Potion" [ref=e3272]
+                  - cell "Bundles [▼]" [ref=e3273]:
+                    - list [ref=e3274]:
+                      - listitem [ref=e3275]:
+                        - link "Bundles" [ref=e3277] [cursor=pointer]:
+                          - /url: /wiki/Bundles
+                        - button "[▼]" [ref=e3278] [cursor=pointer]
+                  - cell "Changes a dragon's element to Runic Waters." [ref=e3279]:
+                    - text: Changes a dragon's
+                    - link "element" [ref=e3280] [cursor=pointer]:
+                      - /url: /wiki/Elements
+                    - text: to Runic Waters.
+                - row "Sakura Potion Sakura Potion Easter Event 2020 [▼] Easter Event 2021 [▼] Easter Event 2023 [▼] Easter Event 2024 [▼] Easter Event 2025 [▼] Changes a dragon's element to Sakura." [ref=e3281]:
+                  - columnheader "Sakura Potion" [ref=e3282]:
+                    - link "Sakura Potion" [ref=e3284] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/8/86/Sakura_Potion.png/revision/latest?cb=20260131020853
+                      - img "Sakura Potion" [ref=e3285]
+                  - rowheader "Sakura Potion" [ref=e3286]
+                  - cell "Easter Event 2020 [▼] Easter Event 2021 [▼] Easter Event 2023 [▼] Easter Event 2024 [▼] Easter Event 2025 [▼]" [ref=e3287]:
+                    - list [ref=e3288]:
+                      - listitem [ref=e3289]:
+                        - link "Easter Event 2020" [ref=e3291] [cursor=pointer]:
+                          - /url: /wiki/Easter_Event_2020
+                        - button "[▼]" [ref=e3292] [cursor=pointer]
+                      - listitem [ref=e3293]:
+                        - link "Easter Event 2021" [ref=e3295] [cursor=pointer]:
+                          - /url: /wiki/Easter_Event_2021
+                        - button "[▼]" [ref=e3296] [cursor=pointer]
+                      - listitem [ref=e3297]:
+                        - link "Easter Event 2023" [ref=e3299] [cursor=pointer]:
+                          - /url: /wiki/Easter_Event_2023
+                        - button "[▼]" [ref=e3300] [cursor=pointer]
+                      - listitem [ref=e3301]:
+                        - link "Easter Event 2024" [ref=e3303] [cursor=pointer]:
+                          - /url: /wiki/Easter_Event_2024
+                        - button "[▼]" [ref=e3304] [cursor=pointer]
+                      - listitem [ref=e3305]:
+                        - link "Easter Event 2025" [ref=e3307] [cursor=pointer]:
+                          - /url: /wiki/Easter_Event_2025
+                        - button "[▼]" [ref=e3308] [cursor=pointer]
+                  - cell "Changes a dragon's element to Sakura." [ref=e3309]:
+                    - text: Changes a dragon's
+                    - link "element" [ref=e3310] [cursor=pointer]:
+                      - /url: /wiki/Elements
+                    - text: to Sakura.
+                - row "Scythe Potion Scythe Potion Halloween Event 2025 [▼] Changes a dragon's element to Scythe." [ref=e3311]:
+                  - columnheader "Scythe Potion" [ref=e3312]:
+                    - link "Scythe Potion" [ref=e3314] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/9/97/Scythe_Potion.png/revision/latest?cb=20251024210307
+                      - img "Scythe Potion" [ref=e3315]
+                  - rowheader "Scythe Potion" [ref=e3316]
+                  - cell "Halloween Event 2025 [▼]" [ref=e3317]:
+                    - list [ref=e3318]:
+                      - listitem [ref=e3319]:
+                        - link "Halloween Event 2025" [ref=e3321] [cursor=pointer]:
+                          - /url: /wiki/Halloween_Event_2025
+                        - button "[▼]" [ref=e3322] [cursor=pointer]
+                  - cell "Changes a dragon's element to Scythe." [ref=e3323]:
+                    - text: Changes a dragon's
+                    - link "element" [ref=e3324] [cursor=pointer]:
+                      - /url: /wiki/Elements
+                    - text: to Scythe.
+                - row "Seashell Potion Seashell Potion Season 3 [▼] Changes a dragon's element to Seashell." [ref=e3325]:
+                  - columnheader "Seashell Potion" [ref=e3326]:
+                    - link "Seashell Potion" [ref=e3328] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/8/82/Seashell_Potion.png/revision/latest?cb=20260307013700
+                      - img "Seashell Potion" [ref=e3329]
+                  - rowheader "Seashell Potion" [ref=e3330]
+                  - cell "Season 3 [▼]" [ref=e3331]:
+                    - list [ref=e3332]:
+                      - listitem [ref=e3333]:
+                        - link "Season 3" [ref=e3335] [cursor=pointer]:
+                          - /url: /wiki/Dragon_Seasons#Season_3
+                        - button "[▼]" [ref=e3336] [cursor=pointer]
+                  - cell "Changes a dragon's element to Seashell." [ref=e3337]:
+                    - text: Changes a dragon's
+                    - link "element" [ref=e3338] [cursor=pointer]:
+                      - /url: /wiki/Elements
+                    - text: to Seashell.
+                - row "Shockwave Potion Shockwave Potion Bundles [▼] Changes a dragon's element to Shockwave." [ref=e3339]:
+                  - columnheader "Shockwave Potion" [ref=e3340]:
+                    - link "Shockwave Potion" [ref=e3343] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/7/7a/Shockwave_Potion.png/revision/latest?cb=20250413004849
+                      - img "Shockwave Potion" [ref=e3344]
+                  - rowheader "Shockwave Potion" [ref=e3345]
+                  - cell "Bundles [▼]" [ref=e3346]:
+                    - list [ref=e3347]:
+                      - listitem [ref=e3348]:
+                        - link "Bundles" [ref=e3350] [cursor=pointer]:
+                          - /url: /wiki/Bundles
+                        - button "[▼]" [ref=e3351] [cursor=pointer]
+                  - cell "Changes a dragon's element to Shockwave." [ref=e3352]:
+                    - text: Changes a dragon's
+                    - link "element" [ref=e3353] [cursor=pointer]:
+                      - /url: /wiki/Elements
+                    - text: to Shockwave.
+                - row "ShootingStarPotion Shooting Star Potion Winter Event 2023 [▼] Winter Event 2024 [▼] Winter Event 2024 [▼] Winter Event 2025 [▼] Changes a dragon's element to Shooting Star." [ref=e3354]:
+                  - columnheader "ShootingStarPotion" [ref=e3355]:
+                    - link "ShootingStarPotion" [ref=e3357] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/b/b9/ShootingStarPotion.png/revision/latest?cb=20260131020852
+                      - img "ShootingStarPotion" [ref=e3358]
+                  - rowheader "Shooting Star Potion" [ref=e3359]
+                  - cell "Winter Event 2023 [▼] Winter Event 2024 [▼] Winter Event 2024 [▼] Winter Event 2025 [▼]" [ref=e3360]:
+                    - list [ref=e3361]:
+                      - listitem [ref=e3362]:
+                        - link "Winter Event 2023" [ref=e3364] [cursor=pointer]:
+                          - /url: /wiki/Winter_Event_2023
+                        - button "[▼]" [ref=e3365] [cursor=pointer]
+                      - listitem [ref=e3366]:
+                        - link "Winter Event 2024" [ref=e3368] [cursor=pointer]:
+                          - /url: /wiki/Winter_Event_2024
+                        - button "[▼]" [ref=e3369] [cursor=pointer]
+                      - listitem [ref=e3370]:
+                        - link "Winter Event 2024" [ref=e3372] [cursor=pointer]:
+                          - /url: /wiki/Winter_Event_2024
+                        - button "[▼]" [ref=e3373] [cursor=pointer]
+                      - listitem [ref=e3374]:
+                        - link "Winter Event 2025" [ref=e3376] [cursor=pointer]:
+                          - /url: /wiki/Winter_Event_2025
+                        - button "[▼]" [ref=e3377] [cursor=pointer]
+                  - cell "Changes a dragon's element to Shooting Star." [ref=e3378]:
+                    - text: Changes a dragon's
+                    - link "element" [ref=e3379] [cursor=pointer]:
+                      - /url: /wiki/Elements
+                    - text: to Shooting Star.
+                - row "Snowflake Potion Snowflake Potion Winter Event 2021 [▼] Winter Event 2022 [▼] Winter Event 2023 [▼] Winter Event 2024 [▼] Winter Event 2025 [▼] Changes a dragon's element to Snowflake." [ref=e3380]:
+                  - columnheader "Snowflake Potion" [ref=e3381]:
+                    - link "Snowflake Potion" [ref=e3383] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/0/08/Snowflake_Potion.png/revision/latest?cb=20260131020850
+                      - img "Snowflake Potion" [ref=e3384]
+                  - rowheader "Snowflake Potion" [ref=e3385]
+                  - cell "Winter Event 2021 [▼] Winter Event 2022 [▼] Winter Event 2023 [▼] Winter Event 2024 [▼] Winter Event 2025 [▼]" [ref=e3386]:
+                    - list [ref=e3387]:
+                      - listitem [ref=e3388]:
+                        - link "Winter Event 2021" [ref=e3390] [cursor=pointer]:
+                          - /url: /wiki/Winter_Event_2021
+                        - button "[▼]" [ref=e3391] [cursor=pointer]
+                      - listitem [ref=e3392]:
+                        - link "Winter Event 2022" [ref=e3394] [cursor=pointer]:
+                          - /url: /wiki/Winter_Event_2022
+                        - button "[▼]" [ref=e3395] [cursor=pointer]
+                      - listitem [ref=e3396]:
+                        - link "Winter Event 2023" [ref=e3398] [cursor=pointer]:
+                          - /url: /wiki/Winter_Event_2023
+                        - button "[▼]" [ref=e3399] [cursor=pointer]
+                      - listitem [ref=e3400]:
+                        - link "Winter Event 2024" [ref=e3402] [cursor=pointer]:
+                          - /url: /wiki/Winter_Event_2024
+                        - button "[▼]" [ref=e3403] [cursor=pointer]
+                      - listitem [ref=e3404]:
+                        - link "Winter Event 2025" [ref=e3406] [cursor=pointer]:
+                          - /url: /wiki/Winter_Event_2025
+                        - button "[▼]" [ref=e3407] [cursor=pointer]
+                  - cell "Changes a dragon's element to Snowflake." [ref=e3408]:
+                    - text: Changes a dragon's
+                    - link "element" [ref=e3409] [cursor=pointer]:
+                      - /url: /wiki/Elements
+                    - text: to Snowflake.
+                - row "Solar Winds Potion Solar Winds Potion Solstice Event 2023 [▼] Solstice Event 2024 [▼] Solstice Event 2025 [▼] Changes a dragon's element to Solar Winds." [ref=e3410]:
+                  - columnheader "Solar Winds Potion" [ref=e3411]:
+                    - link "Solar Winds Potion" [ref=e3413] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/d/dd/Solar_Winds_Potion.png/revision/latest?cb=20260131020848
+                      - img "Solar Winds Potion" [ref=e3414]
+                  - rowheader "Solar Winds Potion" [ref=e3415]
+                  - cell "Solstice Event 2023 [▼] Solstice Event 2024 [▼] Solstice Event 2025 [▼]" [ref=e3416]:
+                    - list [ref=e3417]:
+                      - listitem [ref=e3418]:
+                        - link "Solstice Event 2023" [ref=e3420] [cursor=pointer]:
+                          - /url: /wiki/Solstice_Event_2023
+                        - button "[▼]" [ref=e3421] [cursor=pointer]
+                      - listitem [ref=e3422]:
+                        - link "Solstice Event 2024" [ref=e3424] [cursor=pointer]:
+                          - /url: /wiki/Solstice_Event_2024
+                        - button "[▼]" [ref=e3425] [cursor=pointer]
+                      - listitem [ref=e3426]:
+                        - link "Solstice Event 2025" [ref=e3428] [cursor=pointer]:
+                          - /url: /wiki/Solstice_Event_2025
+                        - button "[▼]" [ref=e3429] [cursor=pointer]
+                  - cell "Changes a dragon's element to Solar Winds." [ref=e3430]:
+                    - text: Changes a dragon's
+                    - link "element" [ref=e3431] [cursor=pointer]:
+                      - /url: /wiki/Elements
+                    - text: to Solar Winds.
+                - row "Soul Flame Potion Soul Flame Potion Bundles [▼] Changes a dragon's element to Soul Fire." [ref=e3432]:
+                  - columnheader "Soul Flame Potion" [ref=e3433]:
+                    - link "Soul Flame Potion" [ref=e3435] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/4/42/Soul_Flame_Potion.png/revision/latest?cb=20260131020014
+                      - img "Soul Flame Potion" [ref=e3436]
+                  - rowheader "Soul Flame Potion" [ref=e3437]
+                  - cell "Bundles [▼]" [ref=e3438]:
+                    - list [ref=e3439]:
+                      - listitem [ref=e3440]:
+                        - link "Bundles" [ref=e3442] [cursor=pointer]:
+                          - /url: /wiki/Bundles
+                        - button "[▼]" [ref=e3443] [cursor=pointer]
+                  - cell "Changes a dragon's element to Soul Fire." [ref=e3444]:
+                    - text: Changes a dragon's
+                    - link "element" [ref=e3445] [cursor=pointer]:
+                      - /url: /wiki/Elements
+                    - text: to Soul Fire.
+                - row "Starlight Potion Starlight Potion Winter Event 2025 [▼] Changes a dragon's element to Starlight." [ref=e3446]:
+                  - columnheader "Starlight Potion" [ref=e3447]:
+                    - link "Starlight Potion" [ref=e3449] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/d/d7/Starlight_Potion.png/revision/latest?cb=20251212224200
+                      - img "Starlight Potion" [ref=e3450]
+                  - rowheader "Starlight Potion" [ref=e3451]
+                  - cell "Winter Event 2025 [▼]" [ref=e3452]:
+                    - list [ref=e3453]:
+                      - listitem [ref=e3454]:
+                        - link "Winter Event 2025" [ref=e3456] [cursor=pointer]:
+                          - /url: /wiki/Winter_Event_2025
+                        - button "[▼]" [ref=e3457] [cursor=pointer]
+                  - cell "Changes a dragon's element to Starlight." [ref=e3458]:
+                    - text: Changes a dragon's
+                    - link "element" [ref=e3459] [cursor=pointer]:
+                      - /url: /wiki/Elements
+                    - text: to Starlight.
+                - row "Storm Potion Storm Potion Legacy Season 1 [▼] Legacy Season 13 [▼] Legacy Season 25 [▼] Legacy Season 37 [▼] Season 1 [▼] Changes a dragon's element to Storm." [ref=e3460]:
+                  - columnheader "Storm Potion" [ref=e3461]:
+                    - link "Storm Potion" [ref=e3463] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/d/d2/Storm_Potion.png/revision/latest?cb=20260131020847
+                      - img "Storm Potion" [ref=e3464]
+                  - rowheader "Storm Potion" [ref=e3465]
+                  - cell "Legacy Season 1 [▼] Legacy Season 13 [▼] Legacy Season 25 [▼] Legacy Season 37 [▼] Season 1 [▼]" [ref=e3466]:
+                    - list [ref=e3467]:
+                      - listitem [ref=e3468]:
+                        - link "Legacy Season 1" [ref=e3470] [cursor=pointer]:
+                          - /url: /wiki/Dragon_Seasons/2021
+                        - button "[▼]" [ref=e3471] [cursor=pointer]
+                      - listitem [ref=e3472]:
+                        - link "Legacy Season 13" [ref=e3474] [cursor=pointer]:
+                          - /url: /wiki/Dragon_Seasons/2022
+                        - button "[▼]" [ref=e3475] [cursor=pointer]
+                      - listitem [ref=e3476]:
+                        - link "Legacy Season 25" [ref=e3478] [cursor=pointer]:
+                          - /url: /wiki/Dragon_Seasons/2023
+                        - button "[▼]" [ref=e3479] [cursor=pointer]
+                      - listitem [ref=e3480]:
+                        - link "Legacy Season 37" [ref=e3482] [cursor=pointer]:
+                          - /url: /wiki/Dragon_Seasons/2024
+                        - button "[▼]" [ref=e3483] [cursor=pointer]
+                      - listitem [ref=e3484]:
+                        - link "Season 1" [ref=e3486] [cursor=pointer]:
+                          - /url: /wiki/Dragon_Seasons#Season_1
+                        - button "[▼]" [ref=e3487] [cursor=pointer]
+                  - cell "Changes a dragon's element to Storm." [ref=e3488]:
+                    - text: Changes a dragon's
+                    - link "element" [ref=e3489] [cursor=pointer]:
+                      - /url: /wiki/Elements
+                    - text: to Storm.
+                - row "Stygian Potion Icon Stygian Potion Bundles [▼] Changes a dragon's element to Stygian." [ref=e3490]:
+                  - columnheader "Stygian Potion Icon" [ref=e3491]:
+                    - link "Stygian Potion Icon" [ref=e3494] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/b/b5/Stygian_Potion_Icon.png/revision/latest?cb=20250329032751
+                      - img "Stygian Potion Icon" [ref=e3495]
+                  - rowheader "Stygian Potion" [ref=e3496]
+                  - cell "Bundles [▼]" [ref=e3497]:
+                    - list [ref=e3498]:
+                      - listitem [ref=e3499]:
+                        - link "Bundles" [ref=e3501] [cursor=pointer]:
+                          - /url: /wiki/Bundles
+                        - button "[▼]" [ref=e3502] [cursor=pointer]
+                  - cell "Changes a dragon's element to Stygian." [ref=e3503]:
+                    - text: Changes a dragon's
+                    - link "element" [ref=e3504] [cursor=pointer]:
+                      - /url: /wiki/Elements
+                    - text: to Stygian.
+                - row "Subzero Potion Subzero Potion Winter Event 2025 [▼] Changes a dragon's element to Subzero." [ref=e3505]:
+                  - columnheader "Subzero Potion" [ref=e3506]:
+                    - link "Subzero Potion" [ref=e3508] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/9/92/Subzero_Potion.png/revision/latest?cb=20251219210524
+                      - img "Subzero Potion" [ref=e3509]
+                  - rowheader "Subzero Potion" [ref=e3510]
+                  - cell "Winter Event 2025 [▼]" [ref=e3511]:
+                    - list [ref=e3512]:
+                      - listitem [ref=e3513]:
+                        - link "Winter Event 2025" [ref=e3515] [cursor=pointer]:
+                          - /url: /wiki/Winter_Event_2025
+                        - button "[▼]" [ref=e3516] [cursor=pointer]
+                  - cell "Changes a dragon's element to Subzero." [ref=e3517]:
+                    - text: Changes a dragon's
+                    - link "element" [ref=e3518] [cursor=pointer]:
+                      - /url: /wiki/Elements
+                    - text: to Subzero.
+                - row "Sugar Potion Sugar Potion Valentines Event 2023 [▼] Valentines Event 2024 [▼] Valentines Event 2024 [▼] Changes a dragon's element to Sugar." [ref=e3519]:
+                  - columnheader "Sugar Potion" [ref=e3520]:
+                    - link "Sugar Potion" [ref=e3522] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/c/cb/Sugar_Potion.png/revision/latest?cb=20260131020845
+                      - img "Sugar Potion" [ref=e3523]
+                  - rowheader "Sugar Potion" [ref=e3524]
+                  - cell "Valentines Event 2023 [▼] Valentines Event 2024 [▼] Valentines Event 2024 [▼]" [ref=e3525]:
+                    - list [ref=e3526]:
+                      - listitem [ref=e3527]:
+                        - link "Valentines Event 2023" [ref=e3529] [cursor=pointer]:
+                          - /url: /wiki/Valentines_Event_2023
+                        - button "[▼]" [ref=e3530] [cursor=pointer]
+                      - listitem [ref=e3531]:
+                        - link "Valentines Event 2024" [ref=e3533] [cursor=pointer]:
+                          - /url: /wiki/Valentines_Event_2024
+                        - button "[▼]" [ref=e3534] [cursor=pointer]
+                      - listitem [ref=e3535]:
+                        - link "Valentines Event 2024" [ref=e3537] [cursor=pointer]:
+                          - /url: /wiki/Valentines_Event_2024
+                        - button "[▼]" [ref=e3538] [cursor=pointer]
+                  - cell "Changes a dragon's element to Sugar." [ref=e3539]:
+                    - text: Changes a dragon's
+                    - link "element" [ref=e3540] [cursor=pointer]:
+                      - /url: /wiki/Elements
+                    - text: to Sugar.
+                - row "Superheated Potion Icon Superheated Potion Bundles [▼] Changes a dragon's element to Superheated." [ref=e3541]:
+                  - columnheader "Superheated Potion Icon" [ref=e3542]:
+                    - link "Superheated Potion Icon" [ref=e3544] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/0/0b/Superheated_Potion_Icon.png/revision/latest?cb=20260131020844
+                      - img "Superheated Potion Icon" [ref=e3545]
+                  - rowheader "Superheated Potion" [ref=e3546]
+                  - cell "Bundles [▼]" [ref=e3547]:
+                    - list [ref=e3548]:
+                      - listitem [ref=e3549]:
+                        - link "Bundles" [ref=e3551] [cursor=pointer]:
+                          - /url: /wiki/Bundles
+                        - button "[▼]" [ref=e3552] [cursor=pointer]
+                  - cell "Changes a dragon's element to Superheated." [ref=e3553]:
+                    - text: Changes a dragon's
+                    - link "element" [ref=e3554] [cursor=pointer]:
+                      - /url: /wiki/Elements
+                    - text: to Superheated.
+                - row "Targeting System Potion Targeting System Potion Bundles [▼] Changes a dragon's element to Targeting System." [ref=e3555]:
+                  - columnheader "Targeting System Potion" [ref=e3556]:
+                    - link "Targeting System Potion" [ref=e3558] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/a/a6/Targeting_System_Potion.png/revision/latest?cb=20250523210257
+                      - img "Targeting System Potion" [ref=e3559]
+                  - rowheader "Targeting System Potion" [ref=e3560]
+                  - cell "Bundles [▼]" [ref=e3561]:
+                    - list [ref=e3562]:
+                      - listitem [ref=e3563]:
+                        - link "Bundles" [ref=e3565] [cursor=pointer]:
+                          - /url: /wiki/Bundles
+                        - button "[▼]" [ref=e3566] [cursor=pointer]
+                  - cell "Changes a dragon's element to Targeting System." [ref=e3567]:
+                    - text: Changes a dragon's
+                    - link "element" [ref=e3568] [cursor=pointer]:
+                      - /url: /wiki/Elements
+                    - text: to Targeting System.
+                - row "Thorned Apple Potion Thorned Apple Potion Easter Event 2025 [▼] Changes a dragon's element to Thorned Apple." [ref=e3569]:
+                  - columnheader "Thorned Apple Potion" [ref=e3570]:
+                    - link "Thorned Apple Potion" [ref=e3573] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/a/a5/Thorned_Apple_Potion.png/revision/latest?cb=20250430011832
+                      - img "Thorned Apple Potion" [ref=e3574]
+                  - rowheader "Thorned Apple Potion" [ref=e3575]
+                  - cell "Easter Event 2025 [▼]" [ref=e3576]:
+                    - list [ref=e3577]:
+                      - listitem [ref=e3578]:
+                        - link "Easter Event 2025" [ref=e3580] [cursor=pointer]:
+                          - /url: /wiki/Easter_Event_2025
+                        - button "[▼]" [ref=e3581] [cursor=pointer]
+                  - cell "Changes a dragon's element to Thorned Apple." [ref=e3582]:
+                    - text: Changes a dragon's
+                    - link "element" [ref=e3583] [cursor=pointer]:
+                      - /url: /wiki/Elements
+                    - text: to Thorned Apple.
+                - row "Time Potion Time Potion Legacy Season 4 [▼] Legacy Season 16 [▼] Legacy Season 28 [▼] Legacy Season 40 [▼] Season 3 [▼] Changes a dragon's element to Time." [ref=e3584]:
+                  - columnheader "Time Potion" [ref=e3585]:
+                    - link "Time Potion" [ref=e3587] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/1/1c/Time_Potion.png/revision/latest?cb=20260131020027
+                      - img "Time Potion" [ref=e3588]
+                  - rowheader "Time Potion" [ref=e3589]
+                  - cell "Legacy Season 4 [▼] Legacy Season 16 [▼] Legacy Season 28 [▼] Legacy Season 40 [▼] Season 3 [▼]" [ref=e3590]:
+                    - list [ref=e3591]:
+                      - listitem [ref=e3592]:
+                        - link "Legacy Season 4" [ref=e3594] [cursor=pointer]:
+                          - /url: /wiki/Dragon_Seasons/2022
+                        - button "[▼]" [ref=e3595] [cursor=pointer]
+                      - listitem [ref=e3596]:
+                        - link "Legacy Season 16" [ref=e3598] [cursor=pointer]:
+                          - /url: /wiki/Dragon_Seasons/2023
+                        - button "[▼]" [ref=e3599] [cursor=pointer]
+                      - listitem [ref=e3600]:
+                        - link "Legacy Season 28" [ref=e3602] [cursor=pointer]:
+                          - /url: /wiki/Dragon_Seasons/2024
+                        - button "[▼]" [ref=e3603] [cursor=pointer]
+                      - listitem [ref=e3604]:
+                        - link "Legacy Season 40" [ref=e3606] [cursor=pointer]:
+                          - /url: /wiki/Dragon_Seasons/2025
+                        - button "[▼]" [ref=e3607] [cursor=pointer]
+                      - listitem [ref=e3608]:
+                        - link "Season 3" [ref=e3610] [cursor=pointer]:
+                          - /url: /wiki/Dragon_Seasons#Season_3
+                        - button "[▼]" [ref=e3611] [cursor=pointer]
+                  - cell "Changes a dragon's element to Time." [ref=e3612]:
+                    - text: Changes a dragon's
+                    - link "element" [ref=e3613] [cursor=pointer]:
+                      - /url: /wiki/Elements
+                    - text: to Time.
+                - row "Treasurefire Potion Treasurefire Potion Bundles [▼] Changes a dragon's element to Treasurefire." [ref=e3614]:
+                  - columnheader "Treasurefire Potion" [ref=e3615]:
+                    - link "Treasurefire Potion" [ref=e3617] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/9/98/Treasurefire_Potion.png/revision/latest?cb=20260131020024
+                      - img "Treasurefire Potion" [ref=e3618]
+                  - rowheader "Treasurefire Potion" [ref=e3619]
+                  - cell "Bundles [▼]" [ref=e3620]:
+                    - list [ref=e3621]:
+                      - listitem [ref=e3622]:
+                        - link "Bundles" [ref=e3624] [cursor=pointer]:
+                          - /url: /wiki/Bundles
+                        - button "[▼]" [ref=e3625] [cursor=pointer]
+                  - cell "Changes a dragon's element to Treasurefire." [ref=e3626]:
+                    - text: Changes a dragon's
+                    - link "element" [ref=e3627] [cursor=pointer]:
+                      - /url: /wiki/Elements
+                    - text: to Treasurefire.
+                - row "Tungsten Potion Icon Tungsten Potion Bundles [▼] Changes a dragon's element to Tungsten." [ref=e3628]:
+                  - columnheader "Tungsten Potion Icon" [ref=e3629]:
+                    - link "Tungsten Potion Icon" [ref=e3631] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/6/63/Tungsten_Potion_Icon.png/revision/latest?cb=20260131020023
+                      - img "Tungsten Potion Icon" [ref=e3632]
+                  - rowheader "Tungsten Potion" [ref=e3633]
+                  - cell "Bundles [▼]" [ref=e3634]:
+                    - list [ref=e3635]:
+                      - listitem [ref=e3636]:
+                        - link "Bundles" [ref=e3638] [cursor=pointer]:
+                          - /url: /wiki/Bundles
+                        - button "[▼]" [ref=e3639] [cursor=pointer]
+                  - cell "Changes a dragon's element to Tungsten." [ref=e3640]:
+                    - text: Changes a dragon's
+                    - link "element" [ref=e3641] [cursor=pointer]:
+                      - /url: /wiki/Elements
+                    - text: to Tungsten.
+                - row "Vampire Potion Icon Vampire Potion Halloween Event 2022 [▼] Halloween Event 2023 [▼] Halloween Event 2024 [▼] Halloween Event 2025 [▼] Changes a dragon's element to Vampire." [ref=e3642]:
+                  - columnheader "Vampire Potion Icon" [ref=e3643]:
+                    - link "Vampire Potion Icon" [ref=e3645] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/9/9e/Vampire_Potion_Icon.png/revision/latest?cb=20260131020021
+                      - img "Vampire Potion Icon" [ref=e3646]
+                  - rowheader "Vampire Potion" [ref=e3647]
+                  - cell "Halloween Event 2022 [▼] Halloween Event 2023 [▼] Halloween Event 2024 [▼] Halloween Event 2025 [▼]" [ref=e3648]:
+                    - list [ref=e3649]:
+                      - listitem [ref=e3650]:
+                        - link "Halloween Event 2022" [ref=e3652] [cursor=pointer]:
+                          - /url: /wiki/Halloween_Event_2022
+                        - button "[▼]" [ref=e3653] [cursor=pointer]
+                      - listitem [ref=e3654]:
+                        - link "Halloween Event 2023" [ref=e3656] [cursor=pointer]:
+                          - /url: /wiki/Halloween_Event_2023
+                        - button "[▼]" [ref=e3657] [cursor=pointer]
+                      - listitem [ref=e3658]:
+                        - link "Halloween Event 2024" [ref=e3660] [cursor=pointer]:
+                          - /url: /wiki/Halloween_Event_2024
+                        - button "[▼]" [ref=e3661] [cursor=pointer]
+                      - listitem [ref=e3662]:
+                        - link "Halloween Event 2025" [ref=e3664] [cursor=pointer]:
+                          - /url: /wiki/Halloween_Event_2025
+                        - button "[▼]" [ref=e3665] [cursor=pointer]
+                  - cell "Changes a dragon's element to Vampire." [ref=e3666]:
+                    - text: Changes a dragon's
+                    - link "element" [ref=e3667] [cursor=pointer]:
+                      - /url: /wiki/Elements
+                    - text: to Vampire.
+                - row "Verdant Potion Verdant Potion Heroes League [▼] Changes a dragon's element to Verdant." [ref=e3668]:
+                  - columnheader "Verdant Potion" [ref=e3669]:
+                    - link "Verdant Potion" [ref=e3671] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/0/01/Verdant_Potion.png/revision/latest?cb=20250517000536
+                      - img "Verdant Potion" [ref=e3672]
+                  - rowheader "Verdant Potion" [ref=e3673]
+                  - cell "Heroes League [▼]" [ref=e3674]:
+                    - list [ref=e3675]:
+                      - listitem [ref=e3676]:
+                        - link "Heroes League" [ref=e3678] [cursor=pointer]:
+                          - /url: /wiki/Heroes_League
+                        - button "[▼]" [ref=e3679] [cursor=pointer]
+                  - cell "Changes a dragon's element to Verdant." [ref=e3680]:
+                    - text: Changes a dragon's
+                    - link "element" [ref=e3681] [cursor=pointer]:
+                      - /url: /wiki/Elements
+                    - text: to Verdant.
+                - row "Virus Potion Virus Potion Galaxy Event 2025 [▼] Changes a dragon's element to Virus." [ref=e3682]:
+                  - columnheader "Virus Potion" [ref=e3683]:
+                    - link "Virus Potion" [ref=e3686] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/fe/Virus_Potion.png/revision/latest?cb=20250928035106
+                      - img "Virus Potion" [ref=e3687]
+                  - rowheader "Virus Potion" [ref=e3688]
+                  - cell "Galaxy Event 2025 [▼]" [ref=e3689]:
+                    - list [ref=e3690]:
+                      - listitem [ref=e3691]:
+                        - link "Galaxy Event 2025" [ref=e3693] [cursor=pointer]:
+                          - /url: /wiki/Galaxy_Event_2025
+                        - button "[▼]" [ref=e3694] [cursor=pointer]
+                  - cell "Changes a dragon's element to Virus." [ref=e3695]:
+                    - text: Changes a dragon's
+                    - link "element" [ref=e3696] [cursor=pointer]:
+                      - /url: /wiki/Elements
+                    - text: to Virus.
+                - row "War Cry Potion War Cry Potion Heroes League [▼] Changes a dragon's element to War Cry." [ref=e3697]:
+                  - columnheader "War Cry Potion" [ref=e3698]:
+                    - link "War Cry Potion" [ref=e3700] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/9/9d/War_Cry_Potion.png/revision/latest?cb=20250328225105
+                      - img "War Cry Potion" [ref=e3701]
+                  - rowheader "War Cry Potion" [ref=e3702]
+                  - cell "Heroes League [▼]" [ref=e3703]:
+                    - list [ref=e3704]:
+                      - listitem [ref=e3705]:
+                        - link "Heroes League" [ref=e3707] [cursor=pointer]:
+                          - /url: /wiki/Heroes_League
+                        - button "[▼]" [ref=e3708] [cursor=pointer]
+                  - cell "Changes a dragon's element to War Cry." [ref=e3709]:
+                    - text: Changes a dragon's
+                    - link "element" [ref=e3710] [cursor=pointer]:
+                      - /url: /wiki/Elements
+                    - text: to War Cry.
+                - row "Warrior Potion Warrior Potion Bundles [▼] Changes a dragon's element to Warrior." [ref=e3711]:
+                  - columnheader "Warrior Potion" [ref=e3712]:
+                    - link "Warrior Potion" [ref=e3714] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/6/6b/Warrior_Potion.png/revision/latest?cb=20260131020018
+                      - img "Warrior Potion" [ref=e3715]
+                  - rowheader "Warrior Potion" [ref=e3716]
+                  - cell "Bundles [▼]" [ref=e3717]:
+                    - list [ref=e3718]:
+                      - listitem [ref=e3719]:
+                        - link "Bundles" [ref=e3721] [cursor=pointer]:
+                          - /url: /wiki/Bundles
+                        - button "[▼]" [ref=e3722] [cursor=pointer]
+                  - cell "Changes a dragon's element to Warrior." [ref=e3723]:
+                    - text: Changes a dragon's
+                    - link "element" [ref=e3724] [cursor=pointer]:
+                      - /url: /wiki/Elements
+                    - text: to Warrior.
+                - row "WitchBrewPotion Witch Brew Potion Halloween Event 2023 [▼] Halloween Event 2024 [▼] Halloween Event 2025 [▼] Changes a dragon's element to Witch Brew." [ref=e3725]:
+                  - columnheader "WitchBrewPotion" [ref=e3726]:
+                    - link "WitchBrewPotion" [ref=e3728] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/6/6a/WitchBrewPotion.png/revision/latest?cb=20260131020016
+                      - img "WitchBrewPotion" [ref=e3729]
+                  - rowheader "Witch Brew Potion" [ref=e3730]
+                  - cell "Halloween Event 2023 [▼] Halloween Event 2024 [▼] Halloween Event 2025 [▼]" [ref=e3731]:
+                    - list [ref=e3732]:
+                      - listitem [ref=e3733]:
+                        - link "Halloween Event 2023" [ref=e3735] [cursor=pointer]:
+                          - /url: /wiki/Halloween_Event_2023
+                        - button "[▼]" [ref=e3736] [cursor=pointer]
+                      - listitem [ref=e3737]:
+                        - link "Halloween Event 2024" [ref=e3739] [cursor=pointer]:
+                          - /url: /wiki/Halloween_Event_2024
+                        - button "[▼]" [ref=e3740] [cursor=pointer]
+                      - listitem [ref=e3741]:
+                        - link "Halloween Event 2025" [ref=e3743] [cursor=pointer]:
+                          - /url: /wiki/Halloween_Event_2025
+                        - button "[▼]" [ref=e3744] [cursor=pointer]
+                  - cell "Changes a dragon's element to Witch Brew." [ref=e3745]:
+                    - text: Changes a dragon's
+                    - link "element" [ref=e3746] [cursor=pointer]:
+                      - /url: /wiki/Elements
+                    - text: to Witch Brew.
+              - rowgroup
+            - heading "References" [level=2] [ref=e3747]: References
+            - list [ref=e3749]:
+              - listitem [ref=e3750]:
+                - link "Jump up" [ref=e3752] [cursor=pointer]:
+                  - /url: "#cite_ref-1"
+                  - text: ↑
+                - link "https://discord.com/channels/346515443869286410/781580267809800223/1264026697393639484" [ref=e3754] [cursor=pointer]:
+                  - /url: https://discord.com/channels/346515443869286410/781580267809800223/1264026697393639484
+            - generic [ref=e3755]:
+              - paragraph
+              - generic [ref=e3756]: Please refrain from posting your trading offers on this page!
+              - paragraph [ref=e3758]:
+                - text: Instead, post them to our
+                - link "discussions" [ref=e3759] [cursor=pointer]:
+                  - /url: https://dragon-adventures.fandom.com/f
+                - text: section under the correct category.
+                - text: A list of our categories and what they're used for can be found on the
+                - link "Wiki Rules and Guidelines" [ref=e3760] [cursor=pointer]:
+                  - /url: /wiki/Wiki_Rules_and_Guidelines
+                - text: page.
+          - generic [ref=e3761]:
+            - generic "Toggle Categories" [ref=e3762]:
+              - generic [ref=e3763] [cursor=pointer]:
+                - text: Categories
+                - img [ref=e3764]
+            - generic [ref=e3766]:
+              - text: Community content is available under
+              - link "CC-BY-SA" [ref=e3767] [cursor=pointer]:
+                - /url: https://www.fandom.com/licensing
+              - text: unless otherwise noted.
+            - generic [ref=e3768]:
+              - generic [ref=e3769]:
+                - generic [ref=e3770]: More Fandoms
+                - list [ref=e3772]:
+                  - listitem [ref=e3773]:
+                    - link "Fantasy" [ref=e3774] [cursor=pointer]:
+                      - /url: https://www.fandom.com/fancentral/fantasy
+              - generic [ref=e3776]:
+                - paragraph [ref=e3968]: 4920 Comments
+                - generic [ref=e3779]:
+                  - img [ref=e3970]
+                  - heading "Join the conversation" [level=3] [ref=e3972]
+                  - heading "Sign in to read what others are saying and share your thoughts." [level=4] [ref=e3973]
+                  - link "SIGN IN" [ref=e3974] [cursor=pointer]:
+                    - /url: /login?metadata=anonymous-article-comments-login-source&redirect=https%3A%2F%2Fdragon-adventures.fandom.com%2Fwiki%2FPotions%3Fanon-comments-auth-source%3Dlogin%23articleComments
+                  - paragraph [ref=e3975]:
+                    - text: Don't have account?
+                    - link "Register now" [ref=e3976] [cursor=pointer]:
+                      - /url: /register?metadata=anonymous-article-comments-register-source&redirect=https%3A%2F%2Fdragon-adventures.fandom.com%2Fwiki%2FPotions%3Fanon-comments-auth-source%3Dregister%23articleComments
+        - complementary [ref=e3785]:
+          - generic [ref=e3787]:
+            - generic [ref=e3788]:
+              - iframe [ref=e3789]:
+                - generic [ref=f181e1]:
+                  - generic [ref=f181e2]:
+                    - link [ref=f181e3] [cursor=pointer]:
+                      - /url: https://discord.com?utm_source=Discord%20Widget&utm_medium=Logo
+                    - generic [ref=f181e4]:
+                      - strong [ref=f181e5]: "101"
+                      - text: Members Online
+                  - generic [ref=f181e7]:
+                    - generic [ref=f181e8]: Members Online
+                    - generic [ref=f181e9]:
+                      - generic [ref=f181e13]: Activeeeeee
+                      - generic [ref=f181e14]:
+                        - generic [ref=f181e17]: Ak.
+                        - generic [ref=f181e18]: Modrinth
+                      - generic [ref=f181e19]:
+                        - generic [ref=f181e22]: AkDaQa
+                        - generic [ref=f181e23]: Valheim (Game Preview)
+                      - generic [ref=f181e27]: apostle of hate
+                      - generic [ref=f181e31]: Artistical Jenius
+                      - generic [ref=f181e35]: AutoReacter
+                      - generic [ref=f181e39]: BarbwireBats
+                      - generic [ref=f181e43]: Beeboibuzz1200
+                      - generic [ref=f181e47]: bipi
+                      - generic [ref=f181e51]: Bluble1234 [Lvl. 29]
+                      - generic [ref=f181e55]: Chip88898
+                      - generic [ref=f181e59]: CookieDoom
+                      - generic [ref=f181e63]: Cynderrina
+                      - generic [ref=f181e64]:
+                        - generic [ref=f181e67]: DatOneWolfeh
+                        - generic [ref=f181e68]: Roblox
+                      - generic [ref=f181e72]: Dirag
+                      - generic [ref=f181e73]:
+                        - generic [ref=f181e76]: e...
+                        - generic [ref=f181e77]: Roblox
+                      - generic [ref=f181e81]: ELYSIAFAN69
+                      - generic [ref=f181e82]:
+                        - generic [ref=f181e85]: Em
+                        - generic [ref=f181e86]: Roblox
+                      - generic [ref=f181e90]: Embed Generator
+                      - generic [ref=f181e94]: EmiliosZK
+                      - generic [ref=f181e98]: Engauge
+                      - generic [ref=f181e102]: erpggf
+                      - generic [ref=f181e106]: Fibo
+                      - generic [ref=f181e110]: FireIceSale
+                      - generic [ref=f181e111]:
+                        - generic [ref=f181e114]: ghorgh
+                        - generic [ref=f181e115]: Roblox
+                      - generic [ref=f181e119]: GhostBrimstone
+                      - generic [ref=f181e123]: GorePaws
+                      - generic [ref=f181e127]: I am random lolz
+                      - generic [ref=f181e131]: Immortality
+                      - generic [ref=f181e135]: IncandescentDreams
+                      - generic [ref=f181e139]: ItzDaVicky
+                      - generic [ref=f181e143]: ivekret.
+                      - generic [ref=f181e147]: Junaiperrrrr
+                      - generic [ref=f181e151]: KapustaLangusta [Lvl. 2]
+                      - generic [ref=f181e155]: Kenzeren
+                      - generic [ref=f181e159]: Kiarav
+                      - generic [ref=f181e160]:
+                        - generic [ref=f181e163]: Kio
+                        - generic [ref=f181e164]: Roblox
+                      - generic [ref=f181e168]: Kqedeee
+                      - generic [ref=f181e172]: Lommiko
+                      - generic [ref=f181e176]: Looky
+                      - generic [ref=f181e180]: Luuuuuuuup.
+                      - generic [ref=f181e184]: Manow
+                      - generic [ref=f181e188]: MerianTheNighthunter [Lvl. 1]
+                      - generic [ref=f181e189]:
+                        - generic [ref=f181e192]: Miku_kratos
+                        - generic [ref=f181e193]: WWE 2K24
+                      - generic [ref=f181e197]: Minnipanther
+                      - generic [ref=f181e201]: mium
+                      - generic [ref=f181e205]: Mizurrin
+                      - generic [ref=f181e209]: Mizzuchi [Lvl. 1]
+                      - generic [ref=f181e213]: Nabi 🦋
+                      - generic [ref=f181e217]: Nerys
+                      - generic [ref=f181e218]:
+                        - generic [ref=f181e221]: Nettitheyetti14
+                        - generic [ref=f181e222]: Minecraft
+                      - generic [ref=f181e226]: nonchalant mhtsakos
+                      - generic [ref=f181e230]: ObsidianSunset
+                      - generic [ref=f181e234]: OKA ITF VmanSam
+                      - generic [ref=f181e238]: Pharmakon
+                      - generic [ref=f181e242]: PressXToDad
+                      - generic [ref=f181e246]: pretzel
+                      - generic [ref=f181e250]: Reaction Roles
+                      - generic [ref=f181e251]:
+                        - generic [ref=f181e254]: Roblox Verification
+                        - generic [ref=f181e255]: /invite | blox.link
+                      - generic [ref=f181e259]: Rocktzys
+                      - generic [ref=f181e263]: Ryuu581
+                      - generic [ref=f181e267]: Sapphire
+                      - generic [ref=f181e271]: Senfino
+                      - generic [ref=f181e275]: SharkenedSchizo
+                      - generic [ref=f181e279]: Sharknautica
+                      - generic [ref=f181e283]: Shunt
+                      - generic [ref=f181e287]: Simon🍁
+                      - generic [ref=f181e291]: SinisterEternity
+                      - generic [ref=f181e295]: Sodapf
+                      - generic [ref=f181e299]: SoLovelyYes
+                      - generic [ref=f181e303]: Spacify
+                      - generic [ref=f181e307]: spiatf
+                      - generic [ref=f181e311]: sudal
+                      - generic [ref=f181e315]: Tac4y0n
+                      - generic [ref=f181e319]: TheMissusOfA
+                      - generic [ref=f181e320]:
+                        - generic [ref=f181e323]: Tickets
+                        - generic [ref=f181e324]: with 758630 tickets
+                      - generic [ref=f181e328]: Tickets v2
+                      - generic [ref=f181e332]: Toppaleaf [Lvl. 0]
+                      - generic [ref=f181e336]: tsaagen
+                      - generic [ref=f181e340]: Twistee77
+                      - generic [ref=f181e344]: Uheailes
+                      - generic [ref=f181e348]: ViviVesper
+                      - generic [ref=f181e352]: Waifumipha4
+                      - generic [ref=f181e356]: Waize
+                      - generic [ref=f181e360]: Wiki-Bot
+                      - generic [ref=f181e364]: Xarusaur
+                      - generic [ref=f181e368]: Xiwa
+                      - generic [ref=f181e369]:
+                        - generic [ref=f181e372]: XthxGhostedd
+                        - generic [ref=f181e373]: Roblox
+                      - generic [ref=f181e377]: Xuriious
+                      - generic [ref=f181e381]: XXNevaAngelXx
+                      - generic [ref=f181e385]: Yuukie
+                      - generic [ref=f181e389]: ˚₊‧꒰ა 刘枭 ໒꒱ ‧₊˚
+                      - generic [ref=f181e393]: ₊˚🦖 ₊˚DeinoRainboo ₊˚ʚ 🌱
+                      - generic [ref=f181e397]: ⊱ ۫ ׅ ✧ Hailey ✧ ۫ ׅ ۫⊱
+                      - generic [ref=f181e401]: ☆𝓩𝓾𝓻𝓲☆
+                      - generic [ref=f181e405]: ✰•.𝑺𝒉𝒍𝒊𝒕𝒉𝒓.•シ
+                      - generic [ref=f181e409]: 𖥻 ⋮ esyra ⌖ ִֶָꜝꜝ⤸
+                      - generic [ref=f181e410]:
+                        - generic [ref=f181e413]: 𝑨𝒔𝒕𝒓𝒂𝒔💭
+                        - generic [ref=f181e414]: League of Legends
+                      - generic [ref=f181e418]: 𝔐𝔞𝔡𝔞𝔪 ℭ𝔞𝔯𝔡𝔦𝔫𝔞𝔩
+                      - generic [ref=f181e422]: 🐾 Stevie 🐾
+                  - generic [ref=f181e424]: Hangout with people who get it
+              - paragraph [ref=e3790]: By clicking "Join Discord", you are leaving Fandom to access a third-party site (Discord). Fandom is not responsible for any content, conduct, or policies on external platforms. For questions about the Discord service, please refer to Discord's policies and support center.
+            - generic [ref=e3793]:
+              - generic [ref=e3794]:
+                - heading "Recent Images" [level=2] [ref=e3795]
+                - link [ref=e3796] [cursor=pointer]:
+                  - /url: https://www.fandom.com
+                  - img [ref=e3799]
+              - generic [ref=e3804]:
+                - list [ref=e3807]:
+                  - listitem [ref=e3808]:
+                    - generic [ref=e3810]:
+                      - link "FM Glaq 8.png" [ref=e3811] [cursor=pointer]:
+                        - /url: https://dragon-adventures.fandom.com/wiki/Glaquacus
+                        - img "FM Glaq 8.png" [ref=e3813]
+                      - generic [ref=e3814]:
+                        - link "Glaquacus" [ref=e3815] [cursor=pointer]:
+                          - /url: https://dragon-adventures.fandom.com/wiki/Glaquacus
+                          - heading "Glaquacus" [level=3] [ref=e3816]
+                        - time [ref=e3818]: 10 hours ago
+                  - listitem [ref=e3819]:
+                    - generic [ref=e3821]:
+                      - link "FM Glaq 7.png" [ref=e3822] [cursor=pointer]:
+                        - /url: https://dragon-adventures.fandom.com/wiki/Glaquacus
+                        - img "FM Glaq 7.png" [ref=e3824]
+                      - generic [ref=e3825]:
+                        - link "Glaquacus" [ref=e3826] [cursor=pointer]:
+                          - /url: https://dragon-adventures.fandom.com/wiki/Glaquacus
+                          - heading "Glaquacus" [level=3] [ref=e3827]
+                        - time [ref=e3829]: 10 hours ago
+                  - listitem [ref=e3830]:
+                    - generic [ref=e3832]:
+                      - link "FM Glaq 6.png" [ref=e3833] [cursor=pointer]:
+                        - /url: https://dragon-adventures.fandom.com/wiki/Glaquacus
+                        - img "FM Glaq 6.png" [ref=e3835]
+                      - generic [ref=e3836]:
+                        - link "Glaquacus" [ref=e3837] [cursor=pointer]:
+                          - /url: https://dragon-adventures.fandom.com/wiki/Glaquacus
+                          - heading "Glaquacus" [level=3] [ref=e3838]
+                        - time [ref=e3840]: 10 hours ago
+                - button "Go to next slide" [ref=e3841] [cursor=pointer]:
+                  - img [ref=e3842]
+    - contentinfo [ref=e3848]:
+      - generic [ref=e3849]:
+        - generic [ref=e3850]:
+          - heading "Fandom homepage" [level=2] [ref=e3851]:
+            - link "Fandom homepage" [ref=e3852] [cursor=pointer]:
+              - /url: https://www.fandom.com/
+              - img "Fandom logo" [ref=e3853]
+          - generic [ref=e3854]:
+            - heading "Explore properties" [level=3] [ref=e3855]
+            - list [ref=e3856]:
+              - listitem [ref=e3857]:
+                - link "Fandom" [ref=e3858] [cursor=pointer]:
+                  - /url: https://www.fandom.com/
+              - listitem [ref=e3859]:
+                - link "Fanatical" [ref=e3860] [cursor=pointer]:
+                  - /url: https://www.fanatical.com/
+              - listitem [ref=e3861]:
+                - link "GameSpot" [ref=e3862] [cursor=pointer]:
+                  - /url: https://www.gamespot.com/
+              - listitem [ref=e3863]:
+                - link "Metacritic" [ref=e3864] [cursor=pointer]:
+                  - /url: https://www.metacritic.com/
+              - listitem [ref=e3865]:
+                - link "TV Guide" [ref=e3866] [cursor=pointer]:
+                  - /url: https://www.tvguide.com/
+              - listitem [ref=e3867]:
+                - link "Honest Entertainment" [ref=e3868] [cursor=pointer]:
+                  - /url: https://www.youtube.com/user/screenjunkies
+          - generic [ref=e3869]:
+            - heading "Follow Us" [level=3] [ref=e3870]
+            - list [ref=e3871]:
+              - listitem [ref=e3872]:
+                - link "Follow Fandom on Facebook" [ref=e3873] [cursor=pointer]:
+                  - /url: https://www.facebook.com/getfandom
+                  - img [ref=e3874]
+              - listitem [ref=e3876]:
+                - link "Follow Fandom on Twitter" [ref=e3877] [cursor=pointer]:
+                  - /url: https://twitter.com/getfandom
+                  - img [ref=e3878]
+              - listitem [ref=e3880]:
+                - link "Follow Fandom on Youtube" [ref=e3881] [cursor=pointer]:
+                  - /url: https://www.youtube.com/fandomentertainment
+                  - img [ref=e3882]
+              - listitem [ref=e3884]:
+                - link "Follow Fandom on Instagram" [ref=e3885] [cursor=pointer]:
+                  - /url: https://www.instagram.com/getfandom/
+                  - img [ref=e3886]
+              - listitem [ref=e3888]:
+                - link "Follow Fandom on LinkedIn" [ref=e3889] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/157252
+                  - img [ref=e3890]
+        - generic [ref=e3893]:
+          - heading "Overview" [level=3] [ref=e3894]
+          - list [ref=e3895]:
+            - listitem [ref=e3896]:
+              - link "What is Fandom?" [ref=e3897] [cursor=pointer]:
+                - /url: https://www.fandom.com/what-is-fandom
+            - listitem [ref=e3898]:
+              - link "About" [ref=e3899] [cursor=pointer]:
+                - /url: https://www.fandom.com/about
+            - listitem [ref=e3900]:
+              - link "Careers" [ref=e3901] [cursor=pointer]:
+                - /url: https://www.fandom.com/careers
+            - listitem [ref=e3902]:
+              - link "Press" [ref=e3903] [cursor=pointer]:
+                - /url: https://www.fandom.com/press
+            - listitem [ref=e3904]:
+              - link "Contact" [ref=e3905] [cursor=pointer]:
+                - /url: https://www.fandom.com/about#contact
+            - listitem [ref=e3906]:
+              - link "Terms of Use" [ref=e3907] [cursor=pointer]:
+                - /url: https://www.fandom.com/terms-of-use
+            - listitem [ref=e3908]:
+              - link "Privacy Policy" [ref=e3909] [cursor=pointer]:
+                - /url: https://www.fandom.com/privacy-policy
+            - listitem [ref=e3910]:
+              - link "Digital Services Act" [ref=e3911] [cursor=pointer]:
+                - /url: https://www.fandom.com/digital-services-act
+            - listitem [ref=e3912]:
+              - link "Global Sitemap" [ref=e3913] [cursor=pointer]:
+                - /url: //community.fandom.com/Sitemap
+            - listitem [ref=e3914]:
+              - link "Local Sitemap" [ref=e3915] [cursor=pointer]:
+                - /url: /wiki/Local_Sitemap
+            - listitem [ref=e3916]:
+              - button "Cookies Settings" [ref=e3917]
+        - generic [ref=e3918]:
+          - generic [ref=e3919]:
+            - heading "Community" [level=3] [ref=e3920]
+            - list [ref=e3921]:
+              - listitem [ref=e3922]:
+                - link "Community Central" [ref=e3923] [cursor=pointer]:
+                  - /url: //community.fandom.com/wiki/Community_Central
+              - listitem [ref=e3924]:
+                - link "Support" [ref=e3925] [cursor=pointer]:
+                  - /url: https://fandom.zendesk.com/
+              - listitem [ref=e3926]:
+                - link "Help" [ref=e3927] [cursor=pointer]:
+                  - /url: //community.fandom.com/wiki/Help:Contents
+          - generic [ref=e3928]:
+            - heading "Advertise" [level=3] [ref=e3929]
+            - list [ref=e3930]:
+              - listitem [ref=e3931]:
+                - link "Media Kit" [ref=e3932] [cursor=pointer]:
+                  - /url: https://about.fandom.com/mediakit
+              - listitem [ref=e3933]:
+                - link "Contact" [ref=e3934] [cursor=pointer]:
+                  - /url: https://about.fandom.com/mediakit#contact
+        - generic [ref=e3935]:
+          - generic [ref=e3936]:
+            - heading "Fandom Apps" [level=3] [ref=e3937]
+            - text: Take your favorite fandoms with you and never miss a beat.
+          - generic [ref=e3938]:
+            - img "Fandom App logo" [ref=e3939]
+            - list [ref=e3940]:
+              - listitem [ref=e3941]:
+                - link "Fandom's Apple Store" [ref=e3942] [cursor=pointer]:
+                  - /url: https://apps.apple.com/us/app/fandom-videos-news-reviews/id1230063803
+                  - img "Store icon" [ref=e3943]
+              - listitem [ref=e3944]:
+                - link "Fandom's Google Play" [ref=e3945] [cursor=pointer]:
+                  - /url: https://play.google.com/store/apps/details?id=com.fandom.app&referrer=utm_source%3Dwikia%26utm_medium%3Dglobalfooter
+                  - img "Store icon" [ref=e3946]
+      - generic [ref=e3947]:
+        - generic [ref=e3948]: Dragon Adventures Wiki is a Fandom Games Community.
+        - button "View Mobile Site" [ref=e3950]
+  - generic: Cookies Settings
+  - generic [ref=e3955]:
+    - banner [ref=e3956]:
+      - img "FandomLogo" [ref=e3958]
+      - generic [ref=e3959]:
+        - text: Please help us personalize
+        - text: your experience!
+    - generic [ref=e3960]:
+      - generic [ref=e3961]:
+        - img "adult" [ref=e3962]
+        - button "I'm an adult" [ref=e3963] [cursor=pointer]
+      - generic [ref=e3964]:
+        - img "kid" [ref=e3965]
+        - button "I'm a kid" [ref=e3966] [cursor=pointer]

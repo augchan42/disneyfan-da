@@ -1,0 +1,1075 @@
+- generic [active] [ref=e1]:
+  - navigation "Fandom top navigation" [ref=e2]:
+    - link "Fandom homepage" [ref=e3] [cursor=pointer]:
+      - /url: https://www.fandom.com/
+      - img [ref=e4]
+    - generic [ref=e7]:
+      - textbox "Search" [ref=e8]
+      - img [ref=e9]
+    - generic [ref=e11]:
+      - link "Sign In" [ref=e13] [cursor=pointer]:
+        - /url: https://auth.fandom.com/signin?source=mw&redirect=https%3A%2F%2Fdragon-adventures.fandom.com%2Fwiki%2FVeidreki_Live_Event
+      - link "Register" [ref=e15] [cursor=pointer]:
+        - /url: https://auth.fandom.com/register?source=mw&redirect=https%3A%2F%2Fdragon-adventures.fandom.com%2Fwiki%2FVeidreki_Live_Event
+  - generic "Community navigation" [ref=e16]:
+    - link "Fandom homepage" [ref=e18] [cursor=pointer]:
+      - /url: https://www.fandom.com/
+      - img [ref=e19]
+    - link "Dragon Adventures Wiki" [ref=e21] [cursor=pointer]:
+      - /url: https://dragon-adventures.fandom.com/wiki/Dragon_Adventures_Wiki
+      - img "Dragon Adventures Wiki" [ref=e22]
+    - navigation [ref=e23]:
+      - list [ref=e24]:
+        - listitem [ref=e25]:
+          - generic [ref=e26]:
+            - generic [ref=e27] [cursor=pointer]:
+              - img [ref=e28]
+              - generic [ref=e30]: Explore
+            - img "Expand" [ref=e31]
+        - listitem [ref=e33]:
+          - generic [ref=e34]:
+            - generic [ref=e36] [cursor=pointer]: Dragons
+            - img "Expand" [ref=e37]
+        - listitem [ref=e39]:
+          - generic [ref=e40]:
+            - generic [ref=e42] [cursor=pointer]: Worlds and Events
+            - img "Expand" [ref=e43]
+        - listitem [ref=e45]:
+          - generic [ref=e46]:
+            - generic [ref=e48] [cursor=pointer]: Game Information
+            - img "Expand" [ref=e49]
+        - listitem [ref=e51]:
+          - generic [ref=e52]:
+            - generic [ref=e54] [cursor=pointer]: Community Information
+            - img "Expand" [ref=e55]
+    - button "Open searchbar" [ref=e58] [cursor=pointer]:
+      - img [ref=e59]
+    - generic [ref=e61]:
+      - link "Discuss" [ref=e62] [cursor=pointer]:
+        - /url: /f
+        - img
+      - link "Switch to Light Theme" [ref=e63] [cursor=pointer]:
+        - /url: "#"
+        - img
+    - link "Sign In" [ref=e66] [cursor=pointer]:
+      - /url: https://auth.fandom.com/signin?source=mw&redirect=https%3A%2F%2Fdragon-adventures.fandom.com%2Fwiki%2FVeidreki_Live_Event
+      - generic [ref=e67]:
+        - img
+        - text: Sign In
+  - navigation "Fandom navigation" [ref=e70]:
+    - generic [ref=e71]:
+      - button "Menu" [ref=e73] [cursor=pointer]:
+        - generic [ref=e74]:
+          - img [ref=e76]
+          - generic [ref=e78]: Menu
+      - button "Explore" [ref=e80] [cursor=pointer]:
+        - generic [ref=e81]:
+          - img [ref=e83]
+          - generic [ref=e86]: Explore
+    - generic [ref=e88]:
+      - generic [ref=e89]: Recent
+      - generic [ref=e90]:
+        - link [ref=e92]:
+          - /url: https://dragon-adventures.fandom.com/wiki/Currencies
+          - img [ref=e95]
+        - link "Veidreki" [ref=e100] [cursor=pointer]:
+          - /url: https://dragon-adventures.fandom.com/wiki/Veidreki
+          - img "Veidreki" [ref=e101]
+  - generic [ref=e102]:
+    - generic [ref=e106]: Advertisement
+    - generic [ref=e108]:
+      - link "Skip to content" [ref=e109] [cursor=pointer]:
+        - /url: "#page-header"
+      - banner [ref=e111]:
+        - link "Dragon Adventures Wiki" [ref=e112] [cursor=pointer]:
+          - /url: https://dragon-adventures.fandom.com/wiki/Dragon_Adventures_Wiki
+          - img "Dragon Adventures Wiki" [ref=e113]
+        - generic [ref=e114]:
+          - link "Dragon Adventures Wiki" [ref=e116] [cursor=pointer]:
+            - /url: https://dragon-adventures.fandom.com/wiki/Dragon_Adventures_Wiki
+          - generic [ref=e117]:
+            - generic [ref=e118]: "828"
+            - generic [ref=e119]: pages
+          - generic [ref=e120]:
+            - link "Discuss" [ref=e121] [cursor=pointer]:
+              - /url: /f
+              - img
+            - link "Switch to Light Theme" [ref=e122] [cursor=pointer]:
+              - /url: "#"
+              - img
+        - navigation [ref=e123]:
+          - list [ref=e124]:
+            - listitem [ref=e125]:
+              - generic [ref=e126]:
+                - generic [ref=e127] [cursor=pointer]:
+                  - img [ref=e128]
+                  - generic [ref=e130]: Explore
+                - img "Expand" [ref=e131]
+            - listitem [ref=e133]:
+              - generic [ref=e134]:
+                - generic [ref=e136] [cursor=pointer]: Dragons
+                - img "Expand" [ref=e137]
+            - listitem [ref=e139]:
+              - generic [ref=e140]:
+                - generic [ref=e142] [cursor=pointer]: Worlds and Events
+                - img "Expand" [ref=e143]
+            - listitem [ref=e145]:
+              - generic [ref=e146]:
+                - generic [ref=e148] [cursor=pointer]: Game Information
+                - img "Expand" [ref=e149]
+            - listitem [ref=e151]:
+              - generic [ref=e152]:
+                - generic [ref=e154] [cursor=pointer]: Community Information
+                - img "Expand" [ref=e155]
+      - generic [ref=e157]:
+        - main [ref=e158]:
+          - generic [ref=e160]:
+            - generic "Contents" [ref=e161]:
+              - button "Contents" [ref=e162] [cursor=pointer]:
+                - img [ref=e163]
+              - text: . . . . . . . . . . . . . . . . . . . .
+            - link "View source" [ref=e165] [cursor=pointer]:
+              - /url: /wiki/Veidreki_Live_Event?action=edit
+              - img [ref=e166]
+          - generic [ref=e168]:
+            - generic [ref=e171]:
+              - text: "in:"
+              - link "Incomplete Articles" [ref=e172] [cursor=pointer]:
+                - /url: /wiki/Category:Incomplete_Articles
+              - text: ","
+              - link "Events" [ref=e173] [cursor=pointer]:
+                - /url: /wiki/Category:Events
+            - generic [ref=e174]:
+              - heading "Veidreki Live Event" [level=1] [ref=e176]
+              - generic [ref=e177]:
+                - link "Comments" [ref=e178] [cursor=pointer]:
+                  - /url: "#articleComments"
+                  - generic [ref=e179]: "8"
+                  - img
+                - link "View source" [ref=e180] [cursor=pointer]:
+                  - /url: /wiki/Veidreki_Live_Event?action=edit
+                  - img
+                  - text: View source
+                - button "Page Tools" [ref=e182]:
+                  - img
+          - generic [ref=e187]:
+            - table [ref=e188]:
+              - rowgroup [ref=e189]:
+                - row "Hammer MISSING CONTENT!" [ref=e190]:
+                  - cell [ref=e191]
+                  - cell "Hammer MISSING CONTENT!" [ref=e192]:
+                    - generic [ref=e195]:
+                      - img "Hammer" [ref=e198]
+                      - generic [ref=e199]: MISSING CONTENT!
+                - 'row "The following article has been marked as incomplete, you can help out this community by updating it. Issues: Missing details on the Event Pass, Event items (and corresponding weeks), etc." [ref=e200]':
+                  - 'cell "The following article has been marked as incomplete, you can help out this community by updating it. Issues: Missing details on the Event Pass, Event items (and corresponding weeks), etc." [ref=e201]':
+                    - generic [ref=e203]:
+                      - generic [ref=e204]:
+                        - text: The following article has been marked as
+                        - link "incomplete" [ref=e206] [cursor=pointer]:
+                          - /url: /wiki/Category:Incomplete_Articles
+                        - text: ", you can help out this community by updating it."
+                      - generic [ref=e207]: "Issues: Missing details on the Event Pass, Event items (and corresponding weeks), etc."
+            - paragraph [ref=e208]:
+              - text: The Veidreki Live Event is an ongoing
+              - link "event" [ref=e209] [cursor=pointer]:
+                - /url: /wiki/Events
+              - text: that began on March 13th, 2026, at 4:20 PM EST,
+              - superscript [ref=e210]:
+                - link "Reference 1" [ref=e211] [cursor=pointer]:
+                  - /url: "#cite_note-3/12-1"
+                  - text: "[1]"
+              - text: and will end on April 3rd, 2026, at 5:00 PM EST.
+            - paragraph [ref=e212]:
+              - text: On February 27th, at 4:50 PM EST, a two-week countdown to the event was added to
+              - link "Origins" [ref=e213] [cursor=pointer]:
+                - /url: /wiki/Origins
+              - text: alongside the Egg Watch feature.
+              - superscript [ref=e214]:
+                - link "Reference 2" [ref=e215] [cursor=pointer]:
+                  - /url: "#cite_note-2"
+                  - text: "[2]"
+              - superscript [ref=e216]:
+                - link "Reference 3" [ref=e217] [cursor=pointer]:
+                  - /url: "#cite_note-3"
+                  - text: "[3]"
+            - navigation "Contents" [ref=e218]:
+              - button "show" [ref=e219]
+              - generic [ref=e220]:
+                - heading "Contents" [level=2] [ref=e221]:
+                  - img [ref=e222]
+                  - text: Contents
+                - generic [ref=e224]:
+                  - text: "["
+                  - generic "show" [ref=e225] [cursor=pointer]: hide
+                  - text: "]"
+              - list [ref=e226]:
+                - listitem [ref=e227]:
+                  - link "1. Event" [ref=e228] [cursor=pointer]:
+                    - /url: "#Event"
+                    - generic [ref=e229]: "1."
+                    - generic [ref=e230]: Event
+                  - list [ref=e231]:
+                    - listitem [ref=e232]:
+                      - link "1.1. Pre-event" [ref=e233] [cursor=pointer]:
+                        - /url: "#Pre-event"
+                        - generic [ref=e234]: 1.1.
+                        - generic [ref=e235]: Pre-event
+                    - listitem [ref=e236]:
+                      - link "1.2. Week One" [ref=e237] [cursor=pointer]:
+                        - /url: "#Week_One"
+                        - generic [ref=e238]: 1.2.
+                        - generic [ref=e239]: Week One
+                    - listitem [ref=e240]:
+                      - link "1.3. Week Two" [ref=e241] [cursor=pointer]:
+                        - /url: "#Week_Two"
+                        - generic [ref=e242]: 1.3.
+                        - generic [ref=e243]: Week Two
+                    - listitem [ref=e244]:
+                      - link "1.4. Week Three" [ref=e245] [cursor=pointer]:
+                        - /url: "#Week_Three"
+                        - generic [ref=e246]: 1.4.
+                        - generic [ref=e247]: Week Three
+                - listitem [ref=e248]:
+                  - link "2. Archie's Shop" [ref=e249] [cursor=pointer]:
+                    - /url: "#Archie's_Shop"
+                    - generic [ref=e250]: "2."
+                    - generic [ref=e251]: Archie's Shop
+                - listitem [ref=e252]:
+                  - link "3. Event Features" [ref=e253] [cursor=pointer]:
+                    - /url: "#Event_Features"
+                    - generic [ref=e254]: "3."
+                    - generic [ref=e255]: Event Features
+                  - list [ref=e256]:
+                    - listitem [ref=e257]:
+                      - link "3.1. Event Pass" [ref=e258] [cursor=pointer]:
+                        - /url: "#Event_Pass"
+                        - generic [ref=e259]: 3.1.
+                        - generic [ref=e260]: Event Pass
+                    - listitem [ref=e261]:
+                      - link "3.2. Leaderboard" [ref=e262] [cursor=pointer]:
+                        - /url: "#Leaderboard"
+                        - generic [ref=e263]: 3.2.
+                        - generic [ref=e264]: Leaderboard
+                - listitem [ref=e265]:
+                  - link "4. Event Dragons" [ref=e266] [cursor=pointer]:
+                    - /url: "#Event_Dragons"
+                    - generic [ref=e267]: "4."
+                    - generic [ref=e268]: Event Dragons
+                  - list [ref=e269]:
+                    - listitem [ref=e270]:
+                      - link "4.1. Veidreki" [ref=e271] [cursor=pointer]:
+                        - /url: "#Veidreki"
+                        - generic [ref=e272]: 4.1.
+                        - generic [ref=e273]: Veidreki
+                    - listitem [ref=e274]:
+                      - link "4.2. Karukiri" [ref=e275] [cursor=pointer]:
+                        - /url: "#Karukiri"
+                        - generic [ref=e276]: 4.2.
+                        - generic [ref=e277]: Karukiri
+                    - listitem [ref=e278]:
+                      - link "4.3. Khalknirik" [ref=e279] [cursor=pointer]:
+                        - /url: "#Khalknirik"
+                        - generic [ref=e280]: 4.3.
+                        - generic [ref=e281]: Khalknirik
+                    - listitem [ref=e282]:
+                      - link "4.4. Tempiritus" [ref=e283] [cursor=pointer]:
+                        - /url: "#Tempiritus"
+                        - generic [ref=e284]: 4.4.
+                        - generic [ref=e285]: Tempiritus
+                    - listitem [ref=e286]:
+                      - link "4.5. Torneidus" [ref=e287] [cursor=pointer]:
+                        - /url: "#Torneidus"
+                        - generic [ref=e288]: 4.5.
+                        - generic [ref=e289]: Torneidus
+                    - listitem [ref=e290]:
+                      - link "4.6. Vulpiruth" [ref=e291] [cursor=pointer]:
+                        - /url: "#Vulpiruth"
+                        - generic [ref=e292]: 4.6.
+                        - generic [ref=e293]: Vulpiruth
+                - listitem [ref=e294]:
+                  - link "5. Eggs" [ref=e295] [cursor=pointer]:
+                    - /url: "#Eggs"
+                    - generic [ref=e296]: "5."
+                    - generic [ref=e297]: Eggs
+                - listitem [ref=e298]:
+                  - link "6. Gallery" [ref=e299] [cursor=pointer]:
+                    - /url: "#Gallery"
+                    - generic [ref=e300]: "6."
+                    - generic [ref=e301]: Gallery
+                - listitem [ref=e302]:
+                  - link "7. Trivia" [ref=e303] [cursor=pointer]:
+                    - /url: "#Trivia"
+                    - generic [ref=e304]: "7."
+                    - generic [ref=e305]: Trivia
+                - listitem [ref=e306]:
+                  - link "8. References" [ref=e307] [cursor=pointer]:
+                    - /url: "#References"
+                    - generic [ref=e308]: "8."
+                    - generic [ref=e309]: References
+            - heading "Event" [level=2] [ref=e310]: Event
+            - heading "Pre-event" [level=3] [ref=e311]: Pre-event
+            - paragraph [ref=e312]:
+              - text: On February 27th, at 4:50 PM EST, an island with a giant
+              - link "Stormbound Egg" [ref=e313] [cursor=pointer]:
+                - /url: /wiki/Stormbound_Egg
+              - text: atop it was added to
+              - link "Origins" [ref=e314] [cursor=pointer]:
+                - /url: /wiki/Origins
+              - text: alongside the Egg Watch feature. During the Egg Watches, the sky would turn dark and the egg would begin to shake. The first Egg Watch occurred on March 4th at 3:37 PM EST, and a
+              - link "Storm Theme Potion" [ref=e315] [cursor=pointer]:
+                - /url: /wiki/Storm_Theme_Potion
+              - text: was rewarded to players who had participated in the Egg Watch. The second Egg Watch occurred on March 9th at 6:12 PM EST, although a notification for the event was sent out to players in-game at 5:12 PM EST. Players who participated were awarded a
+              - link "Lightning Theme Potion" [ref=e316] [cursor=pointer]:
+                - /url: /wiki/Lightning_Theme_Potion
+              - text: .
+            - heading "Week One" [level=3] [ref=e317]: Week One
+            - paragraph [ref=e318]:
+              - text: Week one began on March 13th, at 4:20 PM EST. At this time, all players who were currently in the game were awarded the Veidreki Warden
+              - link "title" [ref=e319] [cursor=pointer]:
+                - /url: /wiki/Titles
+              - text: and the
+              - 'link "Archie''s Conservation Projects: Veidreki" [ref=e321] [cursor=pointer]':
+                - /url: https://www.roblox.com/badges/1833318298032645/Archies-Conservation-Projects-Veidreki
+              - text: badge. Archie and his shop were added to
+              - link "Origins" [ref=e322] [cursor=pointer]:
+                - /url: /wiki/Origins
+              - text: ", as well as his daily and repeatable quests. Players are able to complete the quests for"
+              - link "Stormbound Eggs" [ref=e323] [cursor=pointer]:
+                - /url: /wiki/Stormbound_Egg
+              - text: and may also exchange Stormbound Eggs for accessories, potions, and buildings via Archie's Shop. The repeatable Stormbound Egg quests reset weekly and have a cooldown of 5 minutes. The daily missions can only be completed once a day, refreshing daily at 4:00 PM EST.
+            - paragraph [ref=e324]:
+              - text: The live aspect of the event began at 4:20 PM EST. During this time, a short cutscene of a baby
+              - link "Veidreki" [ref=e325] [cursor=pointer]:
+                - /url: /wiki/Veidreki
+              - text: emerging from the large Stormbound Egg was played. Not long after, a flurry of adult
+              - link "Veidrekis" [ref=e326] [cursor=pointer]:
+                - /url: /wiki/Veidreki
+              - text: began flying out of the egg and into the world. Players who were in
+              - link "Origins" [ref=e327] [cursor=pointer]:
+                - /url: /wiki/Origins
+              - text: during the live event were rewarded 1
+              - link "Stormbound Egg" [ref=e328] [cursor=pointer]:
+                - /url: /wiki/Stormbound_Egg
+              - text: and the
+              - link "Veidreki Live Event 2026" [ref=e330] [cursor=pointer]:
+                - /url: https://www.roblox.com/badges/3519637663568670/Veidreki-Live-Event-2026
+              - text: badge once the cutscene concluded.
+              - superscript [ref=e331]:
+                - link "Reference 4" [ref=e332] [cursor=pointer]:
+                  - /url: "#cite_note-3/10-4"
+                  - text: "[4]"
+              - text: The live cutscene was rerun at 7:00 PM EST and gave the same rewards.
+            - heading "Week Two" [level=3] [ref=e333]: Week Two
+            - paragraph [ref=e334]: Week two of the event will begin on March 20th, at 4:00 PM EST.
+            - heading "Week Three" [level=3] [ref=e335]: Week Three
+            - paragraph [ref=e336]: Week three of the event will begin on March 27th, at 4:00 PM EST.
+            - heading "Archie's Shop" [level=2] [ref=e337]: Archie's Shop
+            - figure "Archie's Shop" [ref=e338]:
+              - link "Archie's Shop view image" [ref=e339] [cursor=pointer]:
+                - /url: https://static.wikia.nocookie.net/dragon-adventures/images/8/86/Archie%27s_Shop.png/revision/latest?cb=20260313222724
+                - img "Archie's Shop" [ref=e340]
+                - generic "view image" [ref=e343]:
+                  - img [ref=e344]
+              - paragraph [ref=e347]: Archie's Shop
+            - paragraph [ref=e348]:
+              - text: Archie's Shop is located at
+              - link "Origins" [ref=e349] [cursor=pointer]:
+                - /url: /wiki/Origins
+              - text: and is run by Archie. The shop is a small wagon with an orange cover containing
+              - link "Stormbound Eggs" [ref=e350] [cursor=pointer]:
+                - /url: /wiki/Stormbound_Egg
+              - text: . Around the shop are two banners, a table, some crates, and some other equipment.
+            - generic [ref=e351]:
+              - tablist [ref=e353]:
+                - listitem [ref=e354] [cursor=pointer]:
+                  - link "General" [ref=e356]:
+                    - /url: "#"
+                - listitem [ref=e357] [cursor=pointer]:
+                  - link "Buildings" [ref=e359]:
+                    - /url: "#"
+                - listitem [ref=e360] [cursor=pointer]:
+                  - link "Accessories" [ref=e362]:
+                    - /url: "#"
+              - table [ref=e364]:
+                - rowgroup [ref=e365]:
+                  - row "Item Cost (Stormbound Egg Icon) [▲] Extra Notes" [ref=e366]:
+                    - columnheader "Item" [ref=e367] [cursor=pointer]
+                    - columnheader "Cost (Stormbound Egg Icon)" [ref=e368] [cursor=pointer]:
+                      - text: Cost (
+                      - link "Stormbound Egg Icon" [ref=e370]:
+                        - /url: https://static.wikia.nocookie.net/dragon-adventures/images/d/d9/Stormbound_Egg_Icon.png/revision/latest?cb=20260316052455
+                        - img "Stormbound Egg Icon" [ref=e371]
+                      - text: )
+                    - columnheader "[▲] Extra Notes" [ref=e372]:
+                      - button "[▲]" [expanded] [ref=e373] [cursor=pointer]
+                      - text: Extra Notes
+                - rowgroup [ref=e374]:
+                  - row "Voltage Theme Potion 2" [ref=e375]:
+                    - cell "Voltage Theme Potion" [ref=e376]:
+                      - link "Voltage Theme Potion" [ref=e377] [cursor=pointer]:
+                        - /url: /wiki/Voltage_Theme_Potion
+                    - cell "2" [ref=e378]
+                    - cell [ref=e379]
+                  - row "Nesting Site Theme 6 Only purchasable once." [ref=e380]:
+                    - cell "Nesting Site Theme" [ref=e381]
+                    - cell "6" [ref=e382]
+                    - cell "Only purchasable once." [ref=e383]
+                  - row "Voltage Fishing Rod 2 Only purchasable once." [ref=e384]:
+                    - cell "Voltage Fishing Rod" [ref=e385]
+                    - cell "2" [ref=e386]
+                    - cell "Only purchasable once." [ref=e387]
+                - rowgroup
+              - text: "[] []"
+            - heading "Event Features" [level=2] [ref=e388]: Event Features
+            - heading "Event Pass" [level=3] [ref=e389]: Event Pass
+            - paragraph [ref=e390]:
+              - text: The Event Pass is a feature accessible from the right side of the player's screen via the "Archie's Project" icon. The player can earn points by completing Archie's Missions, which are worth 10 points each when completed. Collecting
+              - link "Stormbound Eggs" [ref=e391] [cursor=pointer]:
+                - /url: /wiki/Stormbound_Egg
+              - text: from the Event Pass increases the Veidreki Token meter. Once a total of 36 eggs are collected, the player is given a Veidreki Token.
+            - paragraph [ref=e392]: The Event Pass consists of 10 tiers and resets every day at 7:00 PM EST.
+            - table [ref=e393]:
+              - rowgroup [ref=e394]:
+                - row "Tier Reward Points Required Total Points Required" [ref=e395]:
+                  - columnheader "Tier" [ref=e396]
+                  - columnheader "Reward" [ref=e397]
+                  - columnheader "Points Required" [ref=e398]
+                  - columnheader "Total Points Required" [ref=e399]
+                - row "1 1 Growth Potion 10 10" [ref=e400]:
+                  - rowheader "1" [ref=e401]
+                  - cell "1 Growth Potion" [ref=e402]
+                  - cell "10" [ref=e403]
+                  - cell "10" [ref=e404]
+                - row "2 1 Lucky Chest 10 20" [ref=e405]:
+                  - rowheader "2" [ref=e406]
+                  - cell "1 Lucky Chest" [ref=e407]
+                  - cell "10" [ref=e408]
+                  - cell "20" [ref=e409]
+                - row "3 1 Stormbound Egg 10 30" [ref=e410]:
+                  - rowheader "3" [ref=e411]
+                  - cell "1 Stormbound Egg" [ref=e412]:
+                    - text: "1"
+                    - link "Stormbound Egg" [ref=e413] [cursor=pointer]:
+                      - /url: /wiki/Stormbound_Egg
+                  - cell "10" [ref=e414]
+                  - cell "30" [ref=e415]
+                - row "4 1 Dragon's Bane Egg 10 40" [ref=e416]:
+                  - rowheader "4" [ref=e417]
+                  - cell "1 Dragon's Bane Egg" [ref=e418]:
+                    - text: "1"
+                    - link "Dragon's Bane Egg" [ref=e419] [cursor=pointer]:
+                      - /url: /wiki/Dragon%27s_Bane_Egg
+                  - cell "10" [ref=e420]
+                  - cell "40" [ref=e421]
+                - row "5 1 Delver's Egg 10 50" [ref=e422]:
+                  - rowheader "5" [ref=e423]
+                  - cell "1 Delver's Egg" [ref=e424]:
+                    - text: "1"
+                    - link "Delver's Egg" [ref=e425] [cursor=pointer]:
+                      - /url: /wiki/Delver%27s_Egg
+                  - cell "10" [ref=e426]
+                  - cell "50" [ref=e427]
+                - row "6 1 Stormbound Egg 10 60" [ref=e428]:
+                  - rowheader "6" [ref=e429]
+                  - cell "1 Stormbound Egg" [ref=e430]:
+                    - text: "1"
+                    - link "Stormbound Egg" [ref=e431] [cursor=pointer]:
+                      - /url: /wiki/Stormbound_Egg
+                  - cell "10" [ref=e432]
+                  - cell "60" [ref=e433]
+                - row "7 1 Nature's Boon Egg 10 70" [ref=e434]:
+                  - rowheader "7" [ref=e435]
+                  - cell "1 Nature's Boon Egg" [ref=e436]:
+                    - text: "1"
+                    - link "Nature's Boon Egg" [ref=e437] [cursor=pointer]:
+                      - /url: /wiki/Nature%27s_Boon_Egg
+                  - cell "10" [ref=e438]
+                  - cell "70" [ref=e439]
+                - row "8 1 Voltage Theme Potion 10 80" [ref=e440]:
+                  - rowheader "8" [ref=e441]
+                  - cell "1 Voltage Theme Potion" [ref=e442]:
+                    - text: "1"
+                    - link "Voltage Theme Potion" [ref=e443] [cursor=pointer]:
+                      - /url: /wiki/Voltage_Theme_Potion
+                  - cell "10" [ref=e444]
+                  - cell "80" [ref=e445]
+                - row "9 1 Stormbound Egg 10 90" [ref=e446]:
+                  - rowheader "9" [ref=e447]
+                  - cell "1 Stormbound Egg" [ref=e448]:
+                    - text: "1"
+                    - link "Stormbound Egg" [ref=e449] [cursor=pointer]:
+                      - /url: /wiki/Stormbound_Egg
+                  - cell "10" [ref=e450]
+                  - cell "90" [ref=e451]
+                - row "10 1 Stormbound Egg 10 100" [ref=e452]:
+                  - rowheader "10" [ref=e453]
+                  - cell "1 Stormbound Egg" [ref=e454]:
+                    - text: "1"
+                    - link "Stormbound Egg" [ref=e455] [cursor=pointer]:
+                      - /url: /wiki/Stormbound_Egg
+                  - cell "10" [ref=e456]
+                  - cell "100" [ref=e457]
+            - heading "Leaderboard" [level=3] [ref=e458]: Leaderboard
+            - figure "Leaderboard" [ref=e459]:
+              - link "Leaderboard view image" [ref=e460] [cursor=pointer]:
+                - /url: https://static.wikia.nocookie.net/dragon-adventures/images/b/b2/Veidreki_Live_Event_Leaderboard.jpeg/revision/latest?cb=20260315154612
+                - img "Leaderboard" [ref=e461]
+                - generic "view image" [ref=e464]:
+                  - img [ref=e465]
+              - paragraph [ref=e468]: Leaderboard
+            - paragraph [ref=e469]: The Leaderboard is a feature accessible via the Leaderboard tab from the "Archie's Project" icon located on the right side of the player's screen. The Leaderboard features the top 100 players who have completed the most quests, including both daily and repeatable quests. Players can only be placed on the Leaderboard once throughout the entire event.
+            - paragraph [ref=e470]:
+              - text: The prizes for the top 100 players include the Veidreki Apex
+              - link "title" [ref=e471] [cursor=pointer]:
+                - /url: /wiki/Titles#Event
+              - text: ", as well as a"
+              - link "Veidreki Egg" [ref=e472] [cursor=pointer]:
+                - /url: /wiki/Veidreki_Egg
+              - text: .
+            - heading "Event Dragons" [level=2] [ref=e473]: Event Dragons
+            - paragraph [ref=e474]: "The Veidreki Live Event features the following dragons:"
+            - heading "Veidreki" [level=3] [ref=e475]: Veidreki
+            - figure [ref=e476]:
+              - link "Veidreki Advanced Icon" [ref=e477] [cursor=pointer]:
+                - /url: /wiki/Veidreki
+                - img "Veidreki Advanced Icon" [ref=e478]
+            - paragraph [ref=e480]:
+              - text: "\"Originating from Season 1,"
+              - link "Veidreki" [ref=e481] [cursor=pointer]:
+                - /url: /wiki/Veidreki
+              - text: are one of the scarcest sights to see through out Dragonaria. No one knows their true origin, yet some have speculated that they were born from the most terrible of storms far out at sea. It has been recorded that Veidreki can be spotted during thunderstorms in any world, keeping a significant distance from others. Using their massive wing span and slim figure, they can fly at unimaginable speeds. Many have been said to look up to the Veidreki due to their limited sightings, as well as their remarkable appearance. Exhibiting their sharp frills, gorgeous patterns, and vibrant colors they are able to catch the eyes of many. Attempting to tame this dragon is a difficult task, as they only show themselves to those with the most noble of souls. Once obtaining the trust of a Veidreki, they will stick by your side through anything."
+            - paragraph [ref=e482]: The Veidreki will be released in Week one of the event.
+            - heading "Karukiri" [level=3] [ref=e483]: Karukiri
+            - figure [ref=e484]:
+              - link "Karukiri Icon" [ref=e485] [cursor=pointer]:
+                - /url: /wiki/Karukiri
+                - img "Karukiri Icon" [ref=e486]
+            - paragraph [ref=e488]:
+              - text: "\""
+              - link "Karukiri" [ref=e489] [cursor=pointer]:
+                - /url: /wiki/Karukiri
+              - text: are elegant dragons said to be born from the dense Kiri Fog that flows through the land of Shinrin World. As the fog rolls in and the air grows heavy, adventurers will sometimes catch a glimpse of a faint shimmer within the mist. Karukiri are masters of concealment, with their bodies refracting light in such a way that they vanish completely when surrounded by the fog. Their bodies ripple like mist in the wind, and their breath carries a gentle humidity that nurtures nearby plant life."
+            - paragraph [ref=e490]: The Karukiri was released in Week one of the event.
+            - heading "Khalknirik" [level=3] [ref=e491]: Khalknirik
+            - figure [ref=e492]:
+              - link "Khalknirik Icon" [ref=e493] [cursor=pointer]:
+                - /url: /wiki/Khalknirik
+                - img "Khalknirik Icon" [ref=e494]
+            - paragraph [ref=e496]:
+              - text: "\"Far beneath the sands of the desert, archeologists discovered the remains of an ancient species of dragon, or at least what they thought to be remains. The"
+              - link "Khalknirik" [ref=e497] [cursor=pointer]:
+                - /url: /wiki/Khalknirik
+              - text: are an incredibly old species of dragon, formerly thought to be the product of legend. After hundreds of years, a disturbance finally awoke them from their slumber, releasing them upon the desert realms. If you are unfortunate enough to encounter one of these dragons, you must answer their riddles, but good luck discerning which head is lying and which is truthful."
+            - paragraph [ref=e498]: The Khalknirik was released in Week one of the event.
+            - heading "Tempiritus" [level=3] [ref=e499]: Tempiritus
+            - figure [ref=e500]:
+              - link "Tempiritus Icon" [ref=e501] [cursor=pointer]:
+                - /url: /wiki/Tempiritus
+                - img "Tempiritus Icon" [ref=e502]
+            - paragraph [ref=e504]:
+              - text: "\"Of the various species of dragons in Dragonaria,"
+              - link "Tempiritus" [ref=e505] [cursor=pointer]:
+                - /url: /wiki/Tempiritus
+              - text: is widely regarded as one of the most vicious and feared. Terrible storms with red thunderbolts follow in their wake, earning them the revered title of the Scarlet Thunderbane. The Tempiritus naturally hunts other storm-dwelling dragons, such as Veidreki and Torneidus, and can be partially blamed for their scarcity. Few trainers dare attempt taming such aggressive and powerful beasts, and even less so succeed, but those that do find themselves with a fearsome dragon unafraid to utilize its wicked capabilities for the good of their human companion."
+            - paragraph [ref=e506]: The Tempiritus was released in Week one of the event.
+            - heading "Torneidus" [level=3] [ref=e507]: Torneidus
+            - figure [ref=e508]:
+              - link "Torneidus Icon" [ref=e509] [cursor=pointer]:
+                - /url: /wiki/Torneidus
+                - img "Torneidus Icon" [ref=e510]
+            - paragraph [ref=e512]:
+              - text: "\"The"
+              - link "Torneidus" [ref=e513] [cursor=pointer]:
+                - /url: /wiki/Torneidus
+              - text: ", or the Natural Disaster Dragon is a mysterious beast. First spotted gliding in and out of high category tornadoes at wickedly high speeds. Despite their astonishing agility, these dragons have poor defense and little offensive capabilities. As rare as they may be, Torneidus dragons approach adventurers for companionship and mutual friendship. Finally, these dragons are loud, rivaling thunder and filling the air with intense static as they roar. These majestic dragons were seen long ago as an early warning system for natural disasters, as they appear before or during a large disaster.\""
+            - paragraph [ref=e514]: The Torneidus was released in Week one of the event.
+            - heading "Vulpiruth" [level=3] [ref=e515]: Vulpiruth
+            - figure [ref=e516]:
+              - link "Vulpiruth Icon" [ref=e517] [cursor=pointer]:
+                - /url: /wiki/Vulpiruth
+                - img "Vulpiruth Icon" [ref=e518]
+            - paragraph [ref=e520]:
+              - text: "\"While rather elusive in nature, the"
+              - link "Vulpiruth" [ref=e521] [cursor=pointer]:
+                - /url: /wiki/Vulpiruth
+              - text: "- a seasonal dragon commended for its swiftness- are known to be some of the most curious bunches of dragons throughout Dragonaria. It's not uncommon to spot these dragons exploring anything that catches their attention, whether that be a tortoise flipped on its shell, or a distant crash in the forest. Even so, these dragons are swift on their feet- they usually only appear as a flash of orange through the green foliage. Somehow, without wings, they will take flight during the night while the moonlight seeps through the trees. It is speculated that these dragons have a close connection to the moon, much like their distant cousins the Casirus. They may not be the best when it comes to a fighting companion, but they are quick and nimble footed which makes it easy to get out of scrapes when flying isn't an option. Taming one of these dragons can be a hassle, though rest assured their loyal and playful companionship makes them a lovely dragon to have around.\""
+            - paragraph [ref=e522]: The Vulpiruth was released in Week one of the event.
+            - heading "Eggs" [level=2] [ref=e523]: Eggs
+            - generic [ref=e524]:
+              - tablist [ref=e526]:
+                - listitem [ref=e527] [cursor=pointer]:
+                  - link "Stormbound Egg" [ref=e529]:
+                    - /url: "#"
+                - listitem [ref=e530] [cursor=pointer]:
+                  - link "Veidreki Egg" [ref=e532]:
+                    - /url: "#"
+              - paragraph [ref=e534]:
+                - text: The
+                - link "Stormbound Egg" [ref=e535] [cursor=pointer]:
+                  - /url: /wiki/Stormbound_Egg
+                - text: is obtainable via the event's daily and repeatable quests. The daily quests give one
+                - link "Stormbound Egg" [ref=e536] [cursor=pointer]:
+                  - /url: /wiki/Stormbound_Egg
+                - text: each, while the repeatable quests give 2 per quest. It is also obtainable via the event's daily Event Pass.
+            - heading "Gallery" [level=2] [ref=e537]: Gallery
+            - paragraph [ref=e538]: "A collage of images relating to the Veidreki Live Event are shown below:"
+            - generic [ref=e539]:
+              - generic [ref=e542]:
+                - link "In-game countdown view image" [ref=e543] [cursor=pointer]:
+                  - /url: /wiki/File:Veidreki_Event_Countdown.webp
+                  - img "In-game countdown" [ref=e544]
+                  - generic "view image" [ref=e547]:
+                    - img [ref=e548]
+                - generic [ref=e550]: In-game countdown
+              - generic [ref=e553]:
+                - link "Veidreki Egg Watch Reward 1 view image" [ref=e554] [cursor=pointer]:
+                  - /url: /wiki/File:Veidreki_Egg_Reward_1.webp
+                  - img "Veidreki Egg Watch Reward 1" [ref=e555]
+                  - generic "view image" [ref=e558]:
+                    - img [ref=e559]
+                - generic [ref=e561]: Veidreki Egg Watch Reward 1
+              - generic [ref=e564]:
+                - link "Veidreki Egg Watch Reward 2 view image" [ref=e565] [cursor=pointer]:
+                  - /url: /wiki/File:Veidreki_Egg_Reward_2.webp
+                  - img "Veidreki Egg Watch Reward 2" [ref=e566]
+                  - generic "view image" [ref=e569]:
+                    - img [ref=e570]
+                - generic [ref=e572]: Veidreki Egg Watch Reward 2
+            - heading "Trivia" [level=2] [ref=e573]: Trivia
+            - list [ref=e574]:
+              - listitem [ref=e575]: The Veidreki Live Event is first live event to take place in Dragon Adventures.
+              - listitem [ref=e576]:
+                - text: The event sees the return of the
+                - link "Veidreki" [ref=e577] [cursor=pointer]:
+                  - /url: /wiki/Veidreki
+                - text: ", which was the only"
+                - link "legacy season dragon" [ref=e578] [cursor=pointer]:
+                  - /url: /wiki/Legacy_Season_Dragons
+                - text: to not return via
+                - link "Dragon Seasons" [ref=e579] [cursor=pointer]:
+                  - /url: /wiki/Dragon_Seasons
+                - text: .
+                - list [ref=e580]:
+                  - listitem [ref=e581]:
+                    - text: This is due to wanting to preserve the value and rarity of
+                    - link "Relic" [ref=e582] [cursor=pointer]:
+                      - /url: /wiki/Category:Rarity:_Relic
+                    - text: dragons.
+              - listitem [ref=e583]:
+                - text: The
+                - link "Phocaphan" [ref=e584] [cursor=pointer]:
+                  - /url: /wiki/Phocaphan
+                - text: and
+                - link "Hoarusn" [ref=e585] [cursor=pointer]:
+                  - /url: /wiki/Hoarusn
+                - text: were initially intended to be obtainable in the event's
+                - link "Stormbound Egg" [ref=e586] [cursor=pointer]:
+                  - /url: /wiki/Stormbound_Egg
+                - text: .
+                - superscript [ref=e587]:
+                  - link "Reference 5" [ref=e588] [cursor=pointer]:
+                    - /url: "#cite_note-5"
+                    - text: "[5]"
+                - text: However, following player feedback of the available dragons not matching the event's "storm theme", they were voted out to be replaced with
+                - link "Tempiritus" [ref=e589] [cursor=pointer]:
+                  - /url: /wiki/Tempiritus
+                - text: and
+                - link "Torneidus" [ref=e590] [cursor=pointer]:
+                  - /url: /wiki/Torneidus
+                - text: .
+                - superscript [ref=e591]:
+                  - link "Reference 6" [ref=e592] [cursor=pointer]:
+                    - /url: "#cite_note-6"
+                    - text: "[6]"
+              - listitem [ref=e593]: The developers were unable to shutdown the servers when the event started, causing the event to be bugged. This was fixed not long after.
+              - listitem [ref=e594]:
+                - text: The Live cutscene was rerun two hours after the event started due to the above, and the developers made a code which gave out a
+                - link "Stormbound Egg" [ref=e595] [cursor=pointer]:
+                  - /url: /wiki/Stormbound_Egg
+                - text: as compensation.
+            - heading "References" [level=2] [ref=e596]: References
+            - list [ref=e598]:
+              - listitem [ref=e599]:
+                - link "Jump up" [ref=e601] [cursor=pointer]:
+                  - /url: "#cite_ref-3/12_1-0"
+                  - text: ↑
+                - link "https://discord.com/channels/346515443869286410/434191386137329664/1481752964426367108" [ref=e603] [cursor=pointer]:
+                  - /url: https://discord.com/channels/346515443869286410/434191386137329664/1481752964426367108
+              - listitem [ref=e604]:
+                - link "Jump up" [ref=e606] [cursor=pointer]:
+                  - /url: "#cite_ref-2"
+                  - text: ↑
+                - link "https://discord.com/channels/346515443869286410/434191386137329664/1476705994787655680" [ref=e608] [cursor=pointer]:
+                  - /url: https://discord.com/channels/346515443869286410/434191386137329664/1476705994787655680
+              - listitem [ref=e609]:
+                - link "Jump up" [ref=e611] [cursor=pointer]:
+                  - /url: "#cite_ref-3"
+                  - text: ↑
+                - link "https://discord.com/channels/346515443869286410/410838723027140628/1477061806684901546" [ref=e613] [cursor=pointer]:
+                  - /url: https://discord.com/channels/346515443869286410/410838723027140628/1477061806684901546
+              - listitem [ref=e614]:
+                - link "Jump up" [ref=e616] [cursor=pointer]:
+                  - /url: "#cite_ref-3/10_4-0"
+                  - text: ↑
+                - link "https://discord.com/channels/346515443869286410/434191386137329664/1481030516458262752" [ref=e618] [cursor=pointer]:
+                  - /url: https://discord.com/channels/346515443869286410/434191386137329664/1481030516458262752
+              - listitem [ref=e619]:
+                - link "Jump up" [ref=e621] [cursor=pointer]:
+                  - /url: "#cite_ref-5"
+                  - text: ↑
+                - link "https://discord.com/channels/346515443869286410/434191386137329664/1478784146540199956" [ref=e623] [cursor=pointer]:
+                  - /url: https://discord.com/channels/346515443869286410/434191386137329664/1478784146540199956
+              - listitem [ref=e624]:
+                - link "Jump up" [ref=e626] [cursor=pointer]:
+                  - /url: "#cite_ref-6"
+                  - text: ↑
+                - link "https://discord.com/channels/346515443869286410/434191386137329664/1478906781194387506" [ref=e628] [cursor=pointer]:
+                  - /url: https://discord.com/channels/346515443869286410/434191386137329664/1478906781194387506
+          - generic [ref=e629]:
+            - generic "Toggle Categories" [ref=e630]:
+              - generic [ref=e631] [cursor=pointer]:
+                - text: Categories
+                - img [ref=e632]
+            - generic [ref=e634]:
+              - text: Community content is available under
+              - link "CC-BY-SA" [ref=e635] [cursor=pointer]:
+                - /url: https://www.fandom.com/licensing
+              - text: unless otherwise noted.
+            - generic [ref=e636]:
+              - generic [ref=e637]:
+                - generic [ref=e638]: More Fandoms
+                - list [ref=e640]:
+                  - listitem [ref=e641]:
+                    - link "Fantasy" [ref=e642] [cursor=pointer]:
+                      - /url: https://www.fandom.com/fancentral/fantasy
+              - generic [ref=e644]:
+                - paragraph [ref=e835]: 8 Comments
+                - generic [ref=e647]:
+                  - img [ref=e837]
+                  - heading "Join the conversation" [level=3] [ref=e839]
+                  - heading "Sign in to read what others are saying and share your thoughts." [level=4] [ref=e840]
+                  - link "SIGN IN" [ref=e841] [cursor=pointer]:
+                    - /url: /login?metadata=anonymous-article-comments-login-source&redirect=https%3A%2F%2Fdragon-adventures.fandom.com%2Fwiki%2FVeidreki_Live_Event%3Fanon-comments-auth-source%3Dlogin%23articleComments
+                  - paragraph [ref=e842]:
+                    - text: Don't have account?
+                    - link "Register now" [ref=e843] [cursor=pointer]:
+                      - /url: /register?metadata=anonymous-article-comments-register-source&redirect=https%3A%2F%2Fdragon-adventures.fandom.com%2Fwiki%2FVeidreki_Live_Event%3Fanon-comments-auth-source%3Dregister%23articleComments
+        - complementary [ref=e653]:
+          - generic [ref=e655]:
+            - generic [ref=e656]:
+              - iframe [ref=e657]:
+                - generic [ref=f43e1]:
+                  - generic [ref=f43e2]:
+                    - link [ref=f43e3] [cursor=pointer]:
+                      - /url: https://discord.com?utm_source=Discord%20Widget&utm_medium=Logo
+                    - generic [ref=f43e4]:
+                      - strong [ref=f43e5]: "105"
+                      - text: Members Online
+                  - generic [ref=f43e7]:
+                    - generic [ref=f43e8]: Members Online
+                    - generic [ref=f43e9]:
+                      - generic [ref=f43e10]:
+                        - generic [ref=f43e13]: Ak.
+                        - generic [ref=f43e14]: Modrinth
+                      - generic [ref=f43e15]:
+                        - generic [ref=f43e18]: AkDaQa
+                        - generic [ref=f43e19]: Valheim (Game Preview)
+                      - generic [ref=f43e23]: apostle of hate
+                      - generic [ref=f43e27]: Artistical Jenius
+                      - generic [ref=f43e31]: AutoReacter
+                      - generic [ref=f43e35]: BarbwireBats
+                      - generic [ref=f43e39]: Beeboibuzz1200
+                      - generic [ref=f43e43]: bipi
+                      - generic [ref=f43e47]: Bluble1234 [Lvl. 29]
+                      - generic [ref=f43e51]: Chip88898
+                      - generic [ref=f43e55]: CookieDoom
+                      - generic [ref=f43e59]: Cynderrina
+                      - generic [ref=f43e63]: Darkhistrei
+                      - generic [ref=f43e67]: Dirag
+                      - generic [ref=f43e68]:
+                        - generic [ref=f43e71]: e...
+                        - generic [ref=f43e72]: Roblox
+                      - generic [ref=f43e76]: ELYSIAFAN69
+                      - generic [ref=f43e77]:
+                        - generic [ref=f43e80]: Em
+                        - generic [ref=f43e81]: Roblox
+                      - generic [ref=f43e85]: Embed Generator
+                      - generic [ref=f43e89]: EmiliosZK
+                      - generic [ref=f43e93]: Engauge
+                      - generic [ref=f43e97]: erpggf
+                      - generic [ref=f43e101]: Fibo
+                      - generic [ref=f43e105]: FireIceSale
+                      - generic [ref=f43e106]:
+                        - generic [ref=f43e109]: ghorgh
+                        - generic [ref=f43e110]: Roblox
+                      - generic [ref=f43e114]: GhostBrimstone
+                      - generic [ref=f43e118]: GorePaws
+                      - generic [ref=f43e122]: Havens.trashpit
+                      - generic [ref=f43e126]: I am random lolz
+                      - generic [ref=f43e130]: Immortality
+                      - generic [ref=f43e134]: IncandescentDreams
+                      - generic [ref=f43e138]: ivekret.
+                      - generic [ref=f43e142]: Junaiperrrrr
+                      - generic [ref=f43e146]: KapustaLangusta [Lvl. 2]
+                      - generic [ref=f43e150]: Kenzeren
+                      - generic [ref=f43e151]:
+                        - generic [ref=f43e154]: Kio
+                        - generic [ref=f43e155]: Roblox
+                      - generic [ref=f43e159]: kounnaclover
+                      - generic [ref=f43e163]: Kqedeee
+                      - generic [ref=f43e167]: Lommiko
+                      - generic [ref=f43e171]: Looky
+                      - generic [ref=f43e175]: Luuuuuuuup.
+                      - generic [ref=f43e179]: Manow
+                      - generic [ref=f43e183]: MerianTheNighthunter [Lvl. 1]
+                      - generic [ref=f43e184]:
+                        - generic [ref=f43e187]: Miku_kratos
+                        - generic [ref=f43e188]: WWE 2K24
+                      - generic [ref=f43e192]: Minnipanther
+                      - generic [ref=f43e196]: Mizurrin
+                      - generic [ref=f43e200]: Mizzuchi [Lvl. 1]
+                      - generic [ref=f43e204]: Nabi 🦋
+                      - generic [ref=f43e208]: Nerys
+                      - generic [ref=f43e209]:
+                        - generic [ref=f43e212]: Nettitheyetti14
+                        - generic [ref=f43e213]: Minecraft
+                      - generic [ref=f43e217]: Nonameone404
+                      - generic [ref=f43e221]: nonchalant mhtsakos
+                      - generic [ref=f43e225]: ObsidianSunset
+                      - generic [ref=f43e229]: OKA ITF VmanSam
+                      - generic [ref=f43e233]: Pharmakon
+                      - generic [ref=f43e237]: Reaction Roles
+                      - generic [ref=f43e238]:
+                        - generic [ref=f43e241]: Roblox Verification
+                        - generic [ref=f43e242]: /invite | blox.link
+                      - generic [ref=f43e246]: Rocktzys
+                      - generic [ref=f43e250]: Ryuu581
+                      - generic [ref=f43e254]: Salm010n
+                      - generic [ref=f43e258]: Sapphire
+                      - generic [ref=f43e262]: ScarletReverie
+                      - generic [ref=f43e266]: Senfino
+                      - generic [ref=f43e270]: SharkenedSchizo
+                      - generic [ref=f43e274]: Sharknautica
+                      - generic [ref=f43e278]: Shunt
+                      - generic [ref=f43e282]: Simon🍁
+                      - generic [ref=f43e286]: Sodapf
+                      - generic [ref=f43e290]: SoLovelyYes
+                      - generic [ref=f43e294]: Spacify
+                      - generic [ref=f43e298]: spiatf
+                      - generic [ref=f43e302]: Styrmir3755
+                      - generic [ref=f43e306]: sudal
+                      - generic [ref=f43e310]: Tac4y0n
+                      - generic [ref=f43e314]: Tickets
+                      - generic [ref=f43e318]: Tickets v2
+                      - generic [ref=f43e322]: Toppaleaf [Lvl. 0]
+                      - generic [ref=f43e326]: tsaagen
+                      - generic [ref=f43e330]: Twistee77
+                      - generic [ref=f43e334]: Uheailes
+                      - generic [ref=f43e338]: unstably_
+                      - generic [ref=f43e342]: Waifumipha4
+                      - generic [ref=f43e346]: Waize
+                      - generic [ref=f43e350]: Wanmai96💫
+                      - generic [ref=f43e354]: Wiki-Bot
+                      - generic [ref=f43e358]: Xarusaur
+                      - generic [ref=f43e362]: Xiwa
+                      - generic [ref=f43e363]:
+                        - generic [ref=f43e366]: XthxGhostedd
+                        - generic [ref=f43e367]: Roblox
+                      - generic [ref=f43e371]: Xuriious
+                      - generic [ref=f43e375]: XXNevaAngelXx
+                      - generic [ref=f43e379]: Yuukie
+                      - generic [ref=f43e383]: ღ ₊‧꒰ა. ᴡᴀʀꜱᴛʏᴋ ⼺ ‧₊˚
+                      - generic [ref=f43e387]: ᲼
+                      - generic [ref=f43e391]: ₊˚🦖 ₊˚DeinoRainboo ₊˚ʚ 🌱
+                      - generic [ref=f43e395]: ⊱ ۫ ׅ ✧ Hailey ✧ ۫ ׅ ۫⊱
+                      - generic [ref=f43e399]: ☆𝓩𝓾𝓻𝓲☆
+                      - generic [ref=f43e403]: ✰•.𝑺𝒉𝒍𝒊𝒕𝒉𝒓.•シ
+                      - generic [ref=f43e404]:
+                        - generic [ref=f43e407]: 你吃鍋貼你吃不膩嗎
+                        - generic [ref=f43e408]: Roblox
+                      - generic [ref=f43e412]: 𖥻 ⋮ esyra ⌖ ִֶָꜝꜝ⤸
+                      - generic [ref=f43e416]: 𝑨𝒔𝒕𝒓𝒂𝒔💭
+                      - generic [ref=f43e420]: 𝔐𝔞𝔡𝔞𝔪 ℭ𝔞𝔯𝔡𝔦𝔫𝔞𝔩
+                  - generic [ref=f43e422]: Hangout with people who get it
+              - paragraph [ref=e658]: By clicking "Join Discord", you are leaving Fandom to access a third-party site (Discord). Fandom is not responsible for any content, conduct, or policies on external platforms. For questions about the Discord service, please refer to Discord's policies and support center.
+            - generic [ref=e661]:
+              - generic [ref=e662]:
+                - heading "Recent Images" [level=2] [ref=e663]
+                - link [ref=e664] [cursor=pointer]:
+                  - /url: https://www.fandom.com
+                  - img [ref=e667]
+              - generic [ref=e672]:
+                - list [ref=e675]:
+                  - listitem [ref=e676]:
+                    - generic [ref=e678]:
+                      - link "FM Glaq 8.png" [ref=e679] [cursor=pointer]:
+                        - /url: https://dragon-adventures.fandom.com/wiki/Glaquacus
+                        - img "FM Glaq 8.png" [ref=e681]
+                      - generic [ref=e682]:
+                        - link "Glaquacus" [ref=e683] [cursor=pointer]:
+                          - /url: https://dragon-adventures.fandom.com/wiki/Glaquacus
+                          - heading "Glaquacus" [level=3] [ref=e684]
+                        - time [ref=e686]: 10 hours ago
+                  - listitem [ref=e687]:
+                    - generic [ref=e689]:
+                      - link "FM Glaq 7.png" [ref=e690] [cursor=pointer]:
+                        - /url: https://dragon-adventures.fandom.com/wiki/Glaquacus
+                        - img "FM Glaq 7.png" [ref=e692]
+                      - generic [ref=e693]:
+                        - link "Glaquacus" [ref=e694] [cursor=pointer]:
+                          - /url: https://dragon-adventures.fandom.com/wiki/Glaquacus
+                          - heading "Glaquacus" [level=3] [ref=e695]
+                        - time [ref=e697]: 10 hours ago
+                  - listitem [ref=e698]:
+                    - generic [ref=e700]:
+                      - link "FM Glaq 6.png" [ref=e701] [cursor=pointer]:
+                        - /url: https://dragon-adventures.fandom.com/wiki/Glaquacus
+                        - img "FM Glaq 6.png" [ref=e703]
+                      - generic [ref=e704]:
+                        - link "Glaquacus" [ref=e705] [cursor=pointer]:
+                          - /url: https://dragon-adventures.fandom.com/wiki/Glaquacus
+                          - heading "Glaquacus" [level=3] [ref=e706]
+                        - time [ref=e708]: 10 hours ago
+                - button "Go to next slide" [ref=e709] [cursor=pointer]:
+                  - img [ref=e710]
+    - contentinfo [ref=e716]:
+      - generic [ref=e717]:
+        - generic [ref=e718]:
+          - heading "Fandom homepage" [level=2] [ref=e719]:
+            - link "Fandom homepage" [ref=e720] [cursor=pointer]:
+              - /url: https://www.fandom.com/
+              - img "Fandom logo" [ref=e721]
+          - generic [ref=e722]:
+            - heading "Explore properties" [level=3] [ref=e723]
+            - list [ref=e724]:
+              - listitem [ref=e725]:
+                - link "Fandom" [ref=e726] [cursor=pointer]:
+                  - /url: https://www.fandom.com/
+              - listitem [ref=e727]:
+                - link "Fanatical" [ref=e728] [cursor=pointer]:
+                  - /url: https://www.fanatical.com/
+              - listitem [ref=e729]:
+                - link "GameSpot" [ref=e730] [cursor=pointer]:
+                  - /url: https://www.gamespot.com/
+              - listitem [ref=e731]:
+                - link "Metacritic" [ref=e732] [cursor=pointer]:
+                  - /url: https://www.metacritic.com/
+              - listitem [ref=e733]:
+                - link "TV Guide" [ref=e734] [cursor=pointer]:
+                  - /url: https://www.tvguide.com/
+              - listitem [ref=e735]:
+                - link "Honest Entertainment" [ref=e736] [cursor=pointer]:
+                  - /url: https://www.youtube.com/user/screenjunkies
+          - generic [ref=e737]:
+            - heading "Follow Us" [level=3] [ref=e738]
+            - list [ref=e739]:
+              - listitem [ref=e740]:
+                - link "Follow Fandom on Facebook" [ref=e741] [cursor=pointer]:
+                  - /url: https://www.facebook.com/getfandom
+                  - img [ref=e742]
+              - listitem [ref=e744]:
+                - link "Follow Fandom on Twitter" [ref=e745] [cursor=pointer]:
+                  - /url: https://twitter.com/getfandom
+                  - img [ref=e746]
+              - listitem [ref=e748]:
+                - link "Follow Fandom on Youtube" [ref=e749] [cursor=pointer]:
+                  - /url: https://www.youtube.com/fandomentertainment
+                  - img [ref=e750]
+              - listitem [ref=e752]:
+                - link "Follow Fandom on Instagram" [ref=e753] [cursor=pointer]:
+                  - /url: https://www.instagram.com/getfandom/
+                  - img [ref=e754]
+              - listitem [ref=e756]:
+                - link "Follow Fandom on LinkedIn" [ref=e757] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/157252
+                  - img [ref=e758]
+        - generic [ref=e761]:
+          - heading "Overview" [level=3] [ref=e762]
+          - list [ref=e763]:
+            - listitem [ref=e764]:
+              - link "What is Fandom?" [ref=e765] [cursor=pointer]:
+                - /url: https://www.fandom.com/what-is-fandom
+            - listitem [ref=e766]:
+              - link "About" [ref=e767] [cursor=pointer]:
+                - /url: https://www.fandom.com/about
+            - listitem [ref=e768]:
+              - link "Careers" [ref=e769] [cursor=pointer]:
+                - /url: https://www.fandom.com/careers
+            - listitem [ref=e770]:
+              - link "Press" [ref=e771] [cursor=pointer]:
+                - /url: https://www.fandom.com/press
+            - listitem [ref=e772]:
+              - link "Contact" [ref=e773] [cursor=pointer]:
+                - /url: https://www.fandom.com/about#contact
+            - listitem [ref=e774]:
+              - link "Terms of Use" [ref=e775] [cursor=pointer]:
+                - /url: https://www.fandom.com/terms-of-use
+            - listitem [ref=e776]:
+              - link "Privacy Policy" [ref=e777] [cursor=pointer]:
+                - /url: https://www.fandom.com/privacy-policy
+            - listitem [ref=e778]:
+              - link "Digital Services Act" [ref=e779] [cursor=pointer]:
+                - /url: https://www.fandom.com/digital-services-act
+            - listitem [ref=e780]:
+              - link "Global Sitemap" [ref=e781] [cursor=pointer]:
+                - /url: //community.fandom.com/Sitemap
+            - listitem [ref=e782]:
+              - link "Local Sitemap" [ref=e783] [cursor=pointer]:
+                - /url: /wiki/Local_Sitemap
+            - listitem [ref=e784]:
+              - button "Cookies Settings" [ref=e785]
+        - generic [ref=e786]:
+          - generic [ref=e787]:
+            - heading "Community" [level=3] [ref=e788]
+            - list [ref=e789]:
+              - listitem [ref=e790]:
+                - link "Community Central" [ref=e791] [cursor=pointer]:
+                  - /url: //community.fandom.com/wiki/Community_Central
+              - listitem [ref=e792]:
+                - link "Support" [ref=e793] [cursor=pointer]:
+                  - /url: https://fandom.zendesk.com/
+              - listitem [ref=e794]:
+                - link "Help" [ref=e795] [cursor=pointer]:
+                  - /url: //community.fandom.com/wiki/Help:Contents
+          - generic [ref=e796]:
+            - heading "Advertise" [level=3] [ref=e797]
+            - list [ref=e798]:
+              - listitem [ref=e799]:
+                - link "Media Kit" [ref=e800] [cursor=pointer]:
+                  - /url: https://about.fandom.com/mediakit
+              - listitem [ref=e801]:
+                - link "Contact" [ref=e802] [cursor=pointer]:
+                  - /url: https://about.fandom.com/mediakit#contact
+        - generic [ref=e803]:
+          - generic [ref=e804]:
+            - heading "Fandom Apps" [level=3] [ref=e805]
+            - text: Take your favorite fandoms with you and never miss a beat.
+          - generic [ref=e806]:
+            - img "Fandom App logo" [ref=e807]
+            - list [ref=e808]:
+              - listitem [ref=e809]:
+                - link "Fandom's Apple Store" [ref=e810] [cursor=pointer]:
+                  - /url: https://apps.apple.com/us/app/fandom-videos-news-reviews/id1230063803
+                  - img "Store icon" [ref=e811]
+              - listitem [ref=e812]:
+                - link "Fandom's Google Play" [ref=e813] [cursor=pointer]:
+                  - /url: https://play.google.com/store/apps/details?id=com.fandom.app&referrer=utm_source%3Dwikia%26utm_medium%3Dglobalfooter
+                  - img "Store icon" [ref=e814]
+      - generic [ref=e815]:
+        - generic [ref=e816]: Dragon Adventures Wiki is a Fandom Games Community.
+        - button "View Mobile Site" [ref=e818]
+  - generic: Cookies Settings
+  - generic [ref=e822]:
+    - banner [ref=e823]:
+      - img "FandomLogo" [ref=e825]
+      - generic [ref=e826]:
+        - text: Please help us personalize
+        - text: your experience!
+    - generic [ref=e827]:
+      - generic [ref=e828]:
+        - img "adult" [ref=e829]
+        - button "I'm an adult" [ref=e830] [cursor=pointer]
+      - generic [ref=e831]:
+        - img "kid" [ref=e832]
+        - button "I'm a kid" [ref=e833] [cursor=pointer]

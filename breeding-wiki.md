@@ -1,0 +1,2642 @@
+- generic [active] [ref=e1]:
+  - navigation "Fandom top navigation" [ref=e2]:
+    - link "Fandom homepage" [ref=e3] [cursor=pointer]:
+      - /url: https://www.fandom.com/
+      - img [ref=e4]
+    - generic [ref=e7]:
+      - textbox "Search" [ref=e8]
+      - img [ref=e9]
+    - generic [ref=e11]:
+      - link "Sign In" [ref=e13] [cursor=pointer]:
+        - /url: https://auth.fandom.com/signin?source=mw&redirect=https%3A%2F%2Fdragon-adventures.fandom.com%2Fwiki%2FBreeding
+      - link "Register" [ref=e15] [cursor=pointer]:
+        - /url: https://auth.fandom.com/register?source=mw&redirect=https%3A%2F%2Fdragon-adventures.fandom.com%2Fwiki%2FBreeding
+  - generic "Community navigation" [ref=e16]:
+    - link "Fandom homepage" [ref=e18] [cursor=pointer]:
+      - /url: https://www.fandom.com/
+      - img [ref=e19]
+    - link "Dragon Adventures Wiki" [ref=e21] [cursor=pointer]:
+      - /url: https://dragon-adventures.fandom.com/wiki/Dragon_Adventures_Wiki
+      - img "Dragon Adventures Wiki" [ref=e22]
+    - navigation [ref=e23]:
+      - list [ref=e24]:
+        - listitem [ref=e25]:
+          - generic [ref=e26]:
+            - generic [ref=e27] [cursor=pointer]:
+              - img [ref=e28]
+              - generic [ref=e30]: Explore
+            - img "Expand" [ref=e31]
+        - listitem [ref=e33]:
+          - generic [ref=e34]:
+            - generic [ref=e36] [cursor=pointer]: Dragons
+            - img "Expand" [ref=e37]
+        - listitem [ref=e39]:
+          - generic [ref=e40]:
+            - generic [ref=e42] [cursor=pointer]: Worlds and Events
+            - img "Expand" [ref=e43]
+        - listitem [ref=e45]:
+          - generic [ref=e46]:
+            - generic [ref=e48] [cursor=pointer]: Game Information
+            - img "Expand" [ref=e49]
+        - listitem [ref=e51]:
+          - generic [ref=e52]:
+            - generic [ref=e54] [cursor=pointer]: Community Information
+            - img "Expand" [ref=e55]
+    - button "Open searchbar" [ref=e58] [cursor=pointer]:
+      - img [ref=e59]
+    - generic [ref=e61]:
+      - link "Discuss" [ref=e62] [cursor=pointer]:
+        - /url: /f
+        - img
+      - link "Switch to Light Theme" [ref=e63] [cursor=pointer]:
+        - /url: "#"
+        - img
+    - link "Sign In" [ref=e66] [cursor=pointer]:
+      - /url: https://auth.fandom.com/signin?source=mw&redirect=https%3A%2F%2Fdragon-adventures.fandom.com%2Fwiki%2FBreeding
+      - generic [ref=e67]:
+        - img
+        - text: Sign In
+  - navigation "Fandom navigation" [ref=e70]:
+    - generic [ref=e71]:
+      - button "Menu" [ref=e73] [cursor=pointer]:
+        - generic [ref=e74]:
+          - img [ref=e76]
+          - generic [ref=e78]: Menu
+      - button "Explore" [ref=e80] [cursor=pointer]:
+        - generic [ref=e81]:
+          - img [ref=e83]
+          - generic [ref=e86]: Explore
+    - generic [ref=e88]:
+      - generic [ref=e89]: Recent
+      - generic [ref=e90]:
+        - link [ref=e92]:
+          - /url: https://dragon-adventures.fandom.com/wiki/Coins
+          - img [ref=e95]
+        - link [ref=e99]:
+          - /url: https://dragon-adventures.fandom.com/wiki/Tips_and_Tricks
+          - img [ref=e102]
+        - link "Veidreki Live Event" [ref=e107] [cursor=pointer]:
+          - /url: https://dragon-adventures.fandom.com/wiki/Veidreki_Live_Event
+          - img "Veidreki Live Event" [ref=e108]
+        - link [ref=e110]:
+          - /url: https://dragon-adventures.fandom.com/wiki/Currencies
+          - img [ref=e113]
+        - link "Veidreki" [ref=e118] [cursor=pointer]:
+          - /url: https://dragon-adventures.fandom.com/wiki/Veidreki
+          - img "Veidreki" [ref=e119]
+  - generic [ref=e120]:
+    - generic [ref=e124]: Advertisement
+    - generic [ref=e126]:
+      - link "Skip to content" [ref=e127] [cursor=pointer]:
+        - /url: "#page-header"
+      - banner [ref=e129]:
+        - link "Dragon Adventures Wiki" [ref=e130] [cursor=pointer]:
+          - /url: https://dragon-adventures.fandom.com/wiki/Dragon_Adventures_Wiki
+          - img "Dragon Adventures Wiki" [ref=e131]
+        - generic [ref=e132]:
+          - link "Dragon Adventures Wiki" [ref=e134] [cursor=pointer]:
+            - /url: https://dragon-adventures.fandom.com/wiki/Dragon_Adventures_Wiki
+          - generic [ref=e135]:
+            - generic [ref=e136]: "827"
+            - generic [ref=e137]: pages
+          - generic [ref=e138]:
+            - link "Discuss" [ref=e139] [cursor=pointer]:
+              - /url: /f
+              - img
+            - link "Switch to Light Theme" [ref=e140] [cursor=pointer]:
+              - /url: "#"
+              - img
+        - navigation [ref=e141]:
+          - list [ref=e142]:
+            - listitem [ref=e143]:
+              - generic [ref=e144]:
+                - generic [ref=e145] [cursor=pointer]:
+                  - img [ref=e146]
+                  - generic [ref=e148]: Explore
+                - img "Expand" [ref=e149]
+            - listitem [ref=e151]:
+              - generic [ref=e152]:
+                - generic [ref=e154] [cursor=pointer]: Dragons
+                - img "Expand" [ref=e155]
+            - listitem [ref=e157]:
+              - generic [ref=e158]:
+                - generic [ref=e160] [cursor=pointer]: Worlds and Events
+                - img "Expand" [ref=e161]
+            - listitem [ref=e163]:
+              - generic [ref=e164]:
+                - generic [ref=e166] [cursor=pointer]: Game Information
+                - img "Expand" [ref=e167]
+            - listitem [ref=e169]:
+              - generic [ref=e170]:
+                - generic [ref=e172] [cursor=pointer]: Community Information
+                - img "Expand" [ref=e173]
+      - generic [ref=e175]:
+        - main [ref=e176]:
+          - generic [ref=e178]:
+            - generic "Contents" [ref=e179]:
+              - button "Contents" [ref=e180] [cursor=pointer]:
+                - img [ref=e181]
+              - text: . . . . . . . . . . . . . . . . .
+            - link "View source" [ref=e183] [cursor=pointer]:
+              - /url: /wiki/Breeding?action=edit
+              - img [ref=e184]
+          - generic [ref=e186]:
+            - generic [ref=e189]:
+              - text: "in:"
+              - link "Features" [ref=e190] [cursor=pointer]:
+                - /url: /wiki/Category:Features
+              - text: ","
+              - link "Information" [ref=e191] [cursor=pointer]:
+                - /url: /wiki/Category:Information
+            - generic [ref=e192]:
+              - heading "Breeding" [level=1] [ref=e194]
+              - generic [ref=e195]:
+                - link "Comments" [ref=e196] [cursor=pointer]:
+                  - /url: "#articleComments"
+                  - generic [ref=e197]: "667"
+                  - img
+                - link "View source" [ref=e198] [cursor=pointer]:
+                  - /url: /wiki/Breeding?action=edit
+                  - img
+                  - text: View source
+                - button "Page Tools" [ref=e200]:
+                  - img
+          - generic [ref=e205]:
+            - figure "Breeding icon" [ref=e206]:
+              - link "Breeding icon view image" [ref=e207] [cursor=pointer]:
+                - /url: https://static.wikia.nocookie.net/dragon-adventures/images/6/61/Dragon_Breeding_Heart.png/revision/latest?cb=20211011072302
+                - img "Breeding icon" [ref=e208]
+                - generic "view image" [ref=e211]:
+                  - img [ref=e212]
+              - paragraph [ref=e215]: Breeding icon
+            - paragraph [ref=e216]:
+              - text: "See also:"
+              - link "Co-Hatching" [ref=e217] [cursor=pointer]:
+                - /url: /wiki/Co-Hatching
+            - paragraph [ref=e218]:
+              - text: Breeding is a feature that allows the player to breed any two
+              - link "dragons" [ref=e219] [cursor=pointer]:
+                - /url: /wiki/Official_Dragons
+              - text: together to get one offspring.
+            - navigation "Contents" [ref=e220]:
+              - button "show" [ref=e221]
+              - generic [ref=e222]:
+                - heading "Contents" [level=2] [ref=e223]:
+                  - img [ref=e224]
+                  - text: Contents
+                - generic [ref=e226]:
+                  - text: "["
+                  - generic "show" [ref=e227] [cursor=pointer]: hide
+                  - text: "]"
+              - list [ref=e228]:
+                - listitem [ref=e229]:
+                  - link "1. Mechanics" [ref=e230] [cursor=pointer]:
+                    - /url: "#Mechanics"
+                    - generic [ref=e231]: "1."
+                    - generic [ref=e232]: Mechanics
+                - listitem [ref=e233]:
+                  - link "2. Rules & Requirements" [ref=e234] [cursor=pointer]:
+                    - /url: "#Rules_&_Requirements"
+                    - generic [ref=e235]: "2."
+                    - generic [ref=e236]: Rules & Requirements
+                  - list [ref=e237]:
+                    - listitem [ref=e238]:
+                      - link "2.1. Soul Bound" [ref=e239] [cursor=pointer]:
+                        - /url: "#Soul_Bound"
+                        - generic [ref=e240]: 2.1.
+                        - generic [ref=e241]: Soul Bound
+                    - listitem [ref=e242]:
+                      - link "2.2. Breeding Cooldown" [ref=e243] [cursor=pointer]:
+                        - /url: "#Breeding_Cooldown"
+                        - generic [ref=e244]: 2.2.
+                        - generic [ref=e245]: Breeding Cooldown
+                    - listitem [ref=e246]:
+                      - link "2.3. Unlocking" [ref=e247] [cursor=pointer]:
+                        - /url: "#Unlocking"
+                        - generic [ref=e248]: 2.3.
+                        - generic [ref=e249]: Unlocking
+                - listitem [ref=e250]:
+                  - link "3. Trait Inheritance" [ref=e251] [cursor=pointer]:
+                    - /url: "#Trait_Inheritance"
+                    - generic [ref=e252]: "3."
+                    - generic [ref=e253]: Trait Inheritance
+                  - list [ref=e254]:
+                    - listitem [ref=e255]:
+                      - link "3.1. Colors" [ref=e256] [cursor=pointer]:
+                        - /url: "#Colors"
+                        - generic [ref=e257]: 3.1.
+                        - generic [ref=e258]: Colors
+                    - listitem [ref=e259]:
+                      - link "3.2. Materials" [ref=e260] [cursor=pointer]:
+                        - /url: "#Materials"
+                        - generic [ref=e261]: 3.2.
+                        - generic [ref=e262]: Materials
+                    - listitem [ref=e263]:
+                      - link "3.3. Element" [ref=e264] [cursor=pointer]:
+                        - /url: "#Element"
+                        - generic [ref=e265]: 3.3.
+                        - generic [ref=e266]: Element
+                    - listitem [ref=e267]:
+                      - link "3.4. Pupil" [ref=e268] [cursor=pointer]:
+                        - /url: "#Pupil"
+                        - generic [ref=e269]: 3.4.
+                        - generic [ref=e270]: Pupil
+                    - listitem [ref=e271]:
+                      - link "3.5. Personality" [ref=e272] [cursor=pointer]:
+                        - /url: "#Personality"
+                        - generic [ref=e273]: 3.5.
+                        - generic [ref=e274]: Personality
+                    - listitem [ref=e275]:
+                      - link "3.6. Mutations" [ref=e276] [cursor=pointer]:
+                        - /url: "#Mutations"
+                        - generic [ref=e277]: 3.6.
+                        - generic [ref=e278]: Mutations
+                    - listitem [ref=e279]:
+                      - link "3.7. Traits" [ref=e280] [cursor=pointer]:
+                        - /url: "#Traits"
+                        - generic [ref=e281]: 3.7.
+                        - generic [ref=e282]: Traits
+                - listitem [ref=e283]:
+                  - link "4. Breeding Cost" [ref=e284] [cursor=pointer]:
+                    - /url: "#Breeding_Cost"
+                    - generic [ref=e285]: "4."
+                    - generic [ref=e286]: Breeding Cost
+                - listitem [ref=e287]:
+                  - link "5. List of Breeding Cooldowns" [ref=e288] [cursor=pointer]:
+                    - /url: "#List_of_Breeding_Cooldowns"
+                    - generic [ref=e289]: "5."
+                    - generic [ref=e290]: List of Breeding Cooldowns
+                - listitem [ref=e291]:
+                  - link "6. Trivia" [ref=e292] [cursor=pointer]:
+                    - /url: "#Trivia"
+                    - generic [ref=e293]: "6."
+                    - generic [ref=e294]: Trivia
+                - listitem [ref=e295]:
+                  - link "7. References" [ref=e296] [cursor=pointer]:
+                    - /url: "#References"
+                    - generic [ref=e297]: "7."
+                    - generic [ref=e298]: References
+            - heading "Mechanics" [level=2] [ref=e299]: Mechanics
+            - paragraph [ref=e300]:
+              - text: From the
+              - link "My Dragons" [ref=e301] [cursor=pointer]:
+                - /url: /wiki/My_Dragons
+              - text: menu, the player can choose any dragon and click the "Breed" button.
+            - paragraph [ref=e302]:
+              - text: Clicking the Breed button will cause a menu to open up and the player will be able to select another dragon or change the dragon they originally selected. The two dragons selected must be compatible with one another (see
+              - link "Rules & Requirements" [ref=e303] [cursor=pointer]:
+                - /url: "#Rules_&_Requirements"
+              - text: for more details). If all of these conditions are met, the player will be able to select the "Breed" button.
+            - paragraph [ref=e304]: Once bred, one baby dragon will be created that takes on its parent's traits and it and its parents will enter a breeding cooldown.
+            - heading "Rules & Requirements" [level=2] [ref=e305]: Rules & Requirements
+            - paragraph [ref=e306]:
+              - text: Breeding requires two compatible dragons not on breeding cooldown
+              - link "aged" [ref=e307] [cursor=pointer]:
+                - /url: /wiki/Age
+              - text: adult or older, one male and the other female, and at least one available
+              - link "Lair" [ref=e308] [cursor=pointer]:
+                - /url: /wiki/Lair
+              - text: slot. Breeding two dragons together will also warrant a breeding cost. After breeding, the pair will be unable to be bred again for a duration of time.
+            - paragraph [ref=e309]:
+              - text: The player must have the
+              - link "world" [ref=e310] [cursor=pointer]:
+                - /url: /wiki/Worlds
+              - text: the dragon originates from to breed it. For example, to breed a
+              - link "Zeipera" [ref=e311] [cursor=pointer]:
+                - /url: /wiki/Zeipera
+              - text: ", the player must have the"
+              - link "Fantasy" [ref=e312] [cursor=pointer]:
+                - /url: /wiki/Fantasy
+              - text: world unlocked.
+            - heading "Soul Bound" [level=3] [ref=e313]: Soul Bound
+            - figure "Soul Bound icon" [ref=e314]:
+              - link "Soul Bound icon view image" [ref=e315] [cursor=pointer]:
+                - /url: https://static.wikia.nocookie.net/dragon-adventures/images/6/69/Soul_Bound_Icon.png/revision/latest?cb=20240727220006
+                - img "Soul Bound icon" [ref=e316]
+                - generic "view image" [ref=e319]:
+                  - img [ref=e320]
+              - paragraph [ref=e323]: Soul Bound icon
+            - paragraph [ref=e324]:
+              - text: Non-world dragons including
+              - link "Daily Login" [ref=e325] [cursor=pointer]:
+                - /url: /wiki/Miscellaneous_Dragons#Daily_Login
+              - text: ","
+              - link "Event" [ref=e326] [cursor=pointer]:
+                - /url: /wiki/Event_Dragons
+              - text: ","
+              - link "Guild Wars" [ref=e327] [cursor=pointer]:
+                - /url: /wiki/Guild_Dragons
+              - text: ","
+              - link "Season" [ref=e328] [cursor=pointer]:
+                - /url: /wiki/Season_Dragons
+              - text: ", and"
+              - link "Shadow Altar" [ref=e329] [cursor=pointer]:
+                - /url: /wiki/Miscellaneous_Dragons#Shadow_Altar
+              - text: dragons may only be bred with another of the same species. After being bred, the female parent of the offspring will become Soul Bound and be unable to be
+              - link "auctioned" [ref=e330] [cursor=pointer]:
+                - /url: /wiki/Auction_House#Auctioning
+              - text: ", bred, or"
+              - link "traded" [ref=e331] [cursor=pointer]:
+                - /url: /wiki/Trading
+              - text: .
+              - superscript [ref=e332]:
+                - link "Reference 1" [ref=e333] [cursor=pointer]:
+                  - /url: "#cite_note-1"
+                  - text: "[1]"
+              - text: This also applies to
+              - link "Co-Hatching" [ref=e334] [cursor=pointer]:
+                - /url: /wiki/Co-Hatching
+              - text: ", however both parents will become Soul Bound. The offspring will always be female for dragons that are bred together."
+            - paragraph [ref=e335]: When a player selects to breed a dragon able to become Soul Bound, a message will be brought up informing the player of the consequences of breeding species that can become Soul Bound.
+            - heading "Breeding Cooldown" [level=3] [ref=e336]: Breeding Cooldown
+            - paragraph [ref=e337]:
+              - text: Once a
+              - link "dragon" [ref=e338] [cursor=pointer]:
+                - /url: /wiki/Official_Dragons
+              - text: is bred, it will enter a breeding cooldown. The breeding cooldown varies between dragon species. The breeding cooldown of a dragon can be instantly skipped with a Breeding Cooldown Potion. Each time a dragon
+              - link "levels" [ref=e339] [cursor=pointer]:
+                - /url: /wiki/Dragon_Leveling
+              - text: up, its breeding cooldown time will decrease.
+            - paragraph [ref=e340]:
+              - text: Additionally, a dragon's breeding cooldown can be lowered or raised with either the Beautiful or Ugly
+              - link "genetic traits" [ref=e341] [cursor=pointer]:
+                - /url: /wiki/Genetic_traits
+              - text: ", respectively."
+            - heading "Unlocking" [level=3] [ref=e342]: Unlocking
+            - paragraph [ref=e343]:
+              - text: Currently, only the five
+              - link "Shinrin" [ref=e344] [cursor=pointer]:
+                - /url: /wiki/Shinrin
+              - link "world dragons" [ref=e345] [cursor=pointer]:
+                - /url: /wiki/World_Dragons
+              - text: (
+              - link "Karukiri" [ref=e346] [cursor=pointer]:
+                - /url: /wiki/Karukiri
+              - text: ","
+              - link "Mistrasune" [ref=e347] [cursor=pointer]:
+                - /url: /wiki/Mistrasune
+              - text: ","
+              - link "Onagajin" [ref=e348] [cursor=pointer]:
+                - /url: /wiki/Onagajin
+              - text: ","
+              - link "Suiikipon" [ref=e349] [cursor=pointer]:
+                - /url: /wiki/Suiikipon
+              - text: ", and"
+              - link "Yaruakura" [ref=e350] [cursor=pointer]:
+                - /url: /wiki/Yaruakura
+              - text: ) must have their breeding ability unlocked by the player. For the player to unlock breeding for each species, they must be the original owner to at least one dragon of that specific species that they leveled up to a given
+              - link "level" [ref=e351] [cursor=pointer]:
+                - /url: /wiki/Dragon_Leveling
+              - text: (10 for Suiikipon, 20 for Yaruakura, 25 for Onagajin, and 35 for Karukiri and Mistrasune) to unlock breeding for that entire specific species.
+              - superscript [ref=e352]:
+                - link "Reference 2" [ref=e353] [cursor=pointer]:
+                  - /url: "#cite_note-Shinrin-2"
+                  - text: "[2]"
+            - paragraph [ref=e354]:
+              - text: This feature was implemented to "make the Shinrin dragons feel special and unique as opposed to them feeling like 'just' world dragons", as said by producer Blastii. "The way it has been, world dragons were just throw in-game and then mass bred within the same day.... it's our goal to make these dragons rarer especially since they are 'end/late game' dragons."
+              - superscript [ref=e355]:
+                - link "Reference 2" [ref=e356] [cursor=pointer]:
+                  - /url: "#cite_note-Shinrin-2"
+                  - text: "[2]"
+            - heading "Trait Inheritance" [level=2] [ref=e357]: Trait Inheritance
+            - paragraph [ref=e358]:
+              - text: Baby dragons created both by breeding and
+              - link "Co-Hatching" [ref=e359] [cursor=pointer]:
+                - /url: /wiki/Co-Hatching
+              - text: will inherit traits depending on their parents' traits. This includes the baby's colors, materials, element, pupil, personality, mutations, and traits.
+            - heading "Colors" [level=3] [ref=e360]: Colors
+            - paragraph [ref=e361]:
+              - text: Each color slot on the offspring is taken from the range of colors between both of the parent's colors in that slot. See
+              - link "Colors" [ref=e362] [cursor=pointer]:
+                - /url: /wiki/Colors
+              - text: for more details.
+            - heading "Materials" [level=3] [ref=e363]: Materials
+            - paragraph [ref=e364]:
+              - text: Each
+              - link "material" [ref=e365] [cursor=pointer]:
+                - /url: /wiki/Materials
+              - text: slot on the baby dragon will always be either one of the parents' materials for that slot, chosen at random.
+            - heading "Element" [level=3] [ref=e366]: Element
+            - paragraph [ref=e367]:
+              - generic [ref=e368]:
+                - text: "Main article:"
+                - link "Elements" [ref=e369] [cursor=pointer]:
+                  - /url: /wiki/Elements
+            - paragraph [ref=e370]: Certain elements other than Fire, Water, and Grass can be obtained by breeding two specific elements together or via Elemental Potions. Breeding will have a 33% chance of producing a non-basic element based on what the elements of the two parents have. Otherwise, the baby dragon will inherit the element of either of its parents.
+            - heading "Pupil" [level=3] [ref=e371]: Pupil
+            - paragraph [ref=e372]:
+              - generic [ref=e373]:
+                - text: "Main article:"
+                - link "Pupils" [ref=e374] [cursor=pointer]:
+                  - /url: /wiki/Pupils
+            - paragraph [ref=e375]: The pupil on a baby dragon will take after its parents' pupil type.
+            - heading "Personality" [level=3] [ref=e376]: Personality
+            - paragraph [ref=e377]:
+              - generic [ref=e378]:
+                - text: "Main article:"
+                - link "Personalities" [ref=e379] [cursor=pointer]:
+                  - /url: /wiki/Personalities
+            - heading "Mutations" [level=3] [ref=e380]: Mutations
+            - paragraph [ref=e381]:
+              - generic [ref=e382]:
+                - text: "Main article:"
+                - link "Mutations" [ref=e383] [cursor=pointer]:
+                  - /url: /wiki/Mutations
+            - paragraph [ref=e384]:
+              - text: Breeding mutated
+              - link "dragons" [ref=e385] [cursor=pointer]:
+                - /url: /wiki/Official_Dragons
+              - text: together will yield higher chances of getting a mutated dragon, compared to breeding two non-mutated dragons together. The more mutations the parents have, the more mutations the baby dragon is likely to have. Note it is impossible to get a full 5/5 mutated dragon from breeding, the highest being 4/5.
+            - heading "Traits" [level=3] [ref=e386]: Traits
+            - paragraph [ref=e387]:
+              - generic [ref=e388]:
+                - text: "Main article:"
+                - link "Traits" [ref=e389] [cursor=pointer]:
+                  - /url: /wiki/Traits
+            - heading "Breeding Cost" [level=2] [ref=e390]: Breeding Cost
+            - paragraph [ref=e391]:
+              - text: A breeding cost, also known as a breeding fee, is a fee of coins that is placed when breeding any two dragons together. The breeding cost is dependent on the dragons'
+              - link "rarities" [ref=e392] [cursor=pointer]:
+                - /url: /wiki/Category:Rarity
+              - text: . The dragon with the rarer rarity will always be prioritized over the more common dragon's rarity.
+            - paragraph [ref=e393]:
+              - text: Dragons that are able to become Soul Bound (
+              - link "event" [ref=e394] [cursor=pointer]:
+                - /url: /wiki/Event_Dragons
+              - text: ","
+              - link "season" [ref=e395] [cursor=pointer]:
+                - /url: /wiki/Season_Dragons
+              - text: ","
+              - link "Guild War" [ref=e396] [cursor=pointer]:
+                - /url: /wiki/Guild_Dragons
+              - text: ","
+              - link "Shadow Altar" [ref=e397] [cursor=pointer]:
+                - /url: /wiki/Miscellaneous_Dragons#Shadow_Altar
+              - text: ", and"
+              - link "Daily Login" [ref=e398] [cursor=pointer]:
+                - /url: /wiki/Miscellaneous_Dragons#Daily_Login
+              - text: ) will have a breeding cost that is double the price of a
+              - link "world dragon's" [ref=e399] [cursor=pointer]:
+                - /url: /wiki/World_Dragons
+              - text: breeding cost.
+            - paragraph [ref=e400]: "Notice: Breeding costs written in italics are not yet featured in any obtainable dragons."
+            - table [ref=e401]:
+              - rowgroup [ref=e402]:
+                - row "Rarity Breeding Cost (Coins)" [ref=e403]:
+                  - columnheader "Rarity" [ref=e404]
+                  - columnheader "Breeding Cost (Coins)" [ref=e405]:
+                    - text: Breeding Cost (
+                    - link "Coins" [ref=e407] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e408]
+                    - text: )
+                - row "Non-Soul Bound Soul Bound" [ref=e409]:
+                  - columnheader "Non-Soul Bound" [ref=e410]
+                  - columnheader "Soul Bound" [ref=e411]
+                - row "Common Coins125 Coins250" [ref=e412]:
+                  - cell "Common" [ref=e413]
+                  - cell "Coins125" [ref=e414]:
+                    - link "Coins" [ref=e416] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e417]
+                    - text: "125"
+                  - cell "Coins250" [ref=e418]:
+                    - link "Coins" [ref=e420] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e421]
+                    - text: "250"
+                - row "Uncommon Coins350 Coins700" [ref=e422]:
+                  - cell "Uncommon" [ref=e423]
+                  - cell "Coins350" [ref=e424]:
+                    - link "Coins" [ref=e426] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e427]
+                    - text: "350"
+                  - cell "Coins700" [ref=e428]:
+                    - link "Coins" [ref=e430] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e431]
+                    - text: "700"
+                - row "Rare Coins750 Coins1,500" [ref=e432]:
+                  - cell "Rare" [ref=e433]
+                  - cell "Coins750" [ref=e434]:
+                    - link "Coins" [ref=e436] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e437]
+                    - text: "750"
+                  - cell "Coins1,500" [ref=e438]:
+                    - link "Coins" [ref=e440] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e441]
+                    - text: 1,500
+                - row "Epic Coins12,250 Coins25,000" [ref=e442]:
+                  - cell "Epic" [ref=e443]
+                  - cell "Coins12,250" [ref=e444]:
+                    - link "Coins" [ref=e446] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e447]
+                    - text: 12,250
+                  - cell "Coins25,000" [ref=e448]:
+                    - link "Coins" [ref=e450] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e451]
+                    - text: 25,000
+                - row "Legendary Coins37,000 Coins75,000" [ref=e452]:
+                  - cell "Legendary" [ref=e453]
+                  - cell "Coins37,000" [ref=e454]:
+                    - link "Coins" [ref=e456] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e457]
+                    - text: 37,000
+                  - cell "Coins75,000" [ref=e458]:
+                    - link "Coins" [ref=e460] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e461]
+                    - text: 75,000
+                - row "Relic Coins500,000Reference 3 Coins1,000,000Reference 3" [ref=e462]:
+                  - cell "Relic" [ref=e463]
+                  - cell "Coins500,000Reference 3" [ref=e464]:
+                    - link "Coins" [ref=e466] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e467]
+                    - text: 500,000
+                    - superscript [ref=e468]:
+                      - link "Reference 3" [ref=e469] [cursor=pointer]:
+                        - /url: "#cite_note-1/30_QA-3"
+                        - text: "[3]"
+                  - cell "Coins1,000,000Reference 3" [ref=e470]:
+                    - link "Coins" [ref=e472] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e473]
+                    - text: 1,000,000
+                    - superscript [ref=e474]:
+                      - link "Reference 3" [ref=e475] [cursor=pointer]:
+                        - /url: "#cite_note-1/30_QA-3"
+                        - text: "[3]"
+            - heading "List of Breeding Cooldowns" [level=2] [ref=e476]: List of Breeding Cooldowns
+            - table [ref=e477]:
+              - rowgroup [ref=e478]:
+                - row "Species Cooldown (Level 1) Cooldown (Level 50) Breed Cost [▲] Soul Bound?" [ref=e479]:
+                  - columnheader "Species" [ref=e480] [cursor=pointer]
+                  - columnheader "Cooldown (Level 1)" [ref=e481] [cursor=pointer]
+                  - columnheader "Cooldown (Level 50)" [ref=e482] [cursor=pointer]
+                  - columnheader "Breed Cost" [ref=e483] [cursor=pointer]
+                  - columnheader "[▲] Soul Bound?" [ref=e484] [cursor=pointer]:
+                    - button "[▲]" [expanded] [ref=e485]
+                    - text: Soul Bound?
+              - rowgroup [ref=e486]:
+                - row "Rocirus 00d 00h 07m 26s 00d 00h 04m 30s Coins125 No" [ref=e487]:
+                  - cell "Rocirus" [ref=e488]:
+                    - link "Rocirus" [ref=e489] [cursor=pointer]:
+                      - /url: /wiki/Rocirus
+                  - cell "00d 00h 07m 26s" [ref=e490]
+                  - cell "00d 00h 04m 30s" [ref=e491]
+                  - cell "Coins125" [ref=e492]:
+                    - link "Coins" [ref=e494] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e495]
+                    - text: "125"
+                  - cell "No" [ref=e496]
+                - row "Cocovira 00d 00h 07m 26s 00d 00h 04m 30s Coins125 No" [ref=e497]:
+                  - cell "Cocovira" [ref=e498]:
+                    - link "Cocovira" [ref=e499] [cursor=pointer]:
+                      - /url: /wiki/Cocovira
+                  - cell "00d 00h 07m 26s" [ref=e500]
+                  - cell "00d 00h 04m 30s" [ref=e501]
+                  - cell "Coins125" [ref=e502]:
+                    - link "Coins" [ref=e504] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e505]
+                    - text: "125"
+                  - cell "No" [ref=e506]
+                - row "Atarix 00d 00h 07m 26s 00d 00h 04m 30s Coins125 No" [ref=e507]:
+                  - cell "Atarix" [ref=e508]:
+                    - link "Atarix" [ref=e509] [cursor=pointer]:
+                      - /url: /wiki/Atarix
+                  - cell "00d 00h 07m 26s" [ref=e510]
+                  - cell "00d 00h 04m 30s" [ref=e511]
+                  - cell "Coins125" [ref=e512]:
+                    - link "Coins" [ref=e514] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e515]
+                    - text: "125"
+                  - cell "No" [ref=e516]
+                - row "Saurium 00d 00h 07m 26s 00d 00h 04m 30s Coins125 No" [ref=e517]:
+                  - cell "Saurium" [ref=e518]:
+                    - link "Saurium" [ref=e519] [cursor=pointer]:
+                      - /url: /wiki/Saurium
+                  - cell "00d 00h 07m 26s" [ref=e520]
+                  - cell "00d 00h 04m 30s" [ref=e521]
+                  - cell "Coins125" [ref=e522]:
+                    - link "Coins" [ref=e524] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e525]
+                    - text: "125"
+                  - cell "No" [ref=e526]
+                - row "Tuskaryn 00d 01h 29m 17s 00d 00h 54m 00s Coins350 No" [ref=e527]:
+                  - cell "Tuskaryn" [ref=e528]:
+                    - link "Tuskaryn" [ref=e529] [cursor=pointer]:
+                      - /url: /wiki/Tuskaryn
+                  - cell "00d 01h 29m 17s" [ref=e530]
+                  - cell "00d 00h 54m 00s" [ref=e531]
+                  - cell "Coins350" [ref=e532]:
+                    - link "Coins" [ref=e534] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e535]
+                    - text: "350"
+                  - cell "No" [ref=e536]
+                - row "Tigrilia 00d 00h 59m 31s 00d 00h 36m 00s Coins350 No" [ref=e537]:
+                  - cell "Tigrilia" [ref=e538]:
+                    - link "Tigrilia" [ref=e539] [cursor=pointer]:
+                      - /url: /wiki/Tigrilia
+                  - cell "00d 00h 59m 31s" [ref=e540]
+                  - cell "00d 00h 36m 00s" [ref=e541]
+                  - cell "Coins350" [ref=e542]:
+                    - link "Coins" [ref=e544] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e545]
+                    - text: "350"
+                  - cell "No" [ref=e546]
+                - row "Palus 00d 01h 19m 22s 00d 00h 48m 00s Coins125 No" [ref=e547]:
+                  - cell "Palus" [ref=e548]:
+                    - link "Palus" [ref=e549] [cursor=pointer]:
+                      - /url: /wiki/Palus
+                  - cell "00d 01h 19m 22s" [ref=e550]
+                  - cell "00d 00h 48m 00s" [ref=e551]
+                  - cell "Coins125" [ref=e552]:
+                    - link "Coins" [ref=e554] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e555]
+                    - text: "125"
+                  - cell "No" [ref=e556]
+                - row "Dexyn 00d 01h 06m 58s 00d 00h 40m 30s Coins125 No" [ref=e557]:
+                  - cell "Dexyn" [ref=e558]:
+                    - link "Dexyn" [ref=e559] [cursor=pointer]:
+                      - /url: /wiki/Dexyn
+                  - cell "00d 01h 06m 58s" [ref=e560]
+                  - cell "00d 00h 40m 30s" [ref=e561]
+                  - cell "Coins125" [ref=e562]:
+                    - link "Coins" [ref=e564] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e565]
+                    - text: "125"
+                  - cell "No" [ref=e566]
+                - row "Geliklen 00d 00h 44m 38s 00d 00h 27m 00s Coins125 No" [ref=e567]:
+                  - cell "Geliklen" [ref=e568]:
+                    - link "Geliklen" [ref=e569] [cursor=pointer]:
+                      - /url: /wiki/Geliklen
+                  - cell "00d 00h 44m 38s" [ref=e570]
+                  - cell "00d 00h 27m 00s" [ref=e571]
+                  - cell "Coins125" [ref=e572]:
+                    - link "Coins" [ref=e574] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e575]
+                    - text: "125"
+                  - cell "No" [ref=e576]
+                - row "Numine 00d 01h 29m 17s 00d 00h 54m 00s Coins125 No" [ref=e577]:
+                  - cell "Numine" [ref=e578]:
+                    - link "Numine" [ref=e579] [cursor=pointer]:
+                      - /url: /wiki/Numine
+                  - cell "00d 01h 29m 17s" [ref=e580]
+                  - cell "00d 00h 54m 00s" [ref=e581]
+                  - cell "Coins125" [ref=e582]:
+                    - link "Coins" [ref=e584] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e585]
+                    - text: "125"
+                  - cell "No" [ref=e586]
+                - row "Venu 00d 00h 44m 38s 00d 00h 27m 00s Coins125 No" [ref=e587]:
+                  - cell "Venu" [ref=e588]:
+                    - link "Venu" [ref=e589] [cursor=pointer]:
+                      - /url: /wiki/Venu
+                  - cell "00d 00h 44m 38s" [ref=e590]
+                  - cell "00d 00h 27m 00s" [ref=e591]
+                  - cell "Coins125" [ref=e592]:
+                    - link "Coins" [ref=e594] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e595]
+                    - text: "125"
+                  - cell "No" [ref=e596]
+                - row "Magmip 00d 00h 44m 38s 00d 00h 27m 00s Coins350 No" [ref=e597]:
+                  - cell "Magmip" [ref=e598]:
+                    - link "Magmip" [ref=e599] [cursor=pointer]:
+                      - /url: /wiki/Magmip
+                  - cell "00d 00h 44m 38s" [ref=e600]
+                  - cell "00d 00h 27m 00s" [ref=e601]
+                  - cell "Coins350" [ref=e602]:
+                    - link "Coins" [ref=e604] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e605]
+                    - text: "350"
+                  - cell "No" [ref=e606]
+                - row "Bizaltidath 00d 01h 29m 17s 00d 00h 54m 00s Coins750 No" [ref=e607]:
+                  - cell "Bizaltidath" [ref=e608]:
+                    - link "Bizaltidath" [ref=e609] [cursor=pointer]:
+                      - /url: /wiki/Bizaltidath
+                  - cell "00d 01h 29m 17s" [ref=e610]
+                  - cell "00d 00h 54m 00s" [ref=e611]
+                  - cell "Coins750" [ref=e612]:
+                    - link "Coins" [ref=e614] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e615]
+                    - text: "750"
+                  - cell "No" [ref=e616]
+                - row "Howler 00d 00h 22m 19s 00d 00h 13m 30s Coins125 No" [ref=e617]:
+                  - cell "Howler" [ref=e618]:
+                    - link "Howler" [ref=e619] [cursor=pointer]:
+                      - /url: /wiki/Howler
+                  - cell "00d 00h 22m 19s" [ref=e620]
+                  - cell "00d 00h 13m 30s" [ref=e621]
+                  - cell "Coins125" [ref=e622]:
+                    - link "Coins" [ref=e624] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e625]
+                    - text: "125"
+                  - cell "No" [ref=e626]
+                - row "Sylva 00d 00h 14m 53s 00d 00h 09m 00s Coins350 No" [ref=e627]:
+                  - cell "Sylva" [ref=e628]:
+                    - link "Sylva" [ref=e629] [cursor=pointer]:
+                      - /url: /wiki/Sylva
+                  - cell "00d 00h 14m 53s" [ref=e630]
+                  - cell "00d 00h 09m 00s" [ref=e631]
+                  - cell "Coins350" [ref=e632]:
+                    - link "Coins" [ref=e634] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e635]
+                    - text: "350"
+                  - cell "No" [ref=e636]
+                - row "Alrenoth 00d 01h 29m 17s 00d 00h 54m 00s Coins750 No" [ref=e637]:
+                  - cell "Alrenoth" [ref=e638]:
+                    - link "Alrenoth" [ref=e639] [cursor=pointer]:
+                      - /url: /wiki/Alrenoth
+                  - cell "00d 01h 29m 17s" [ref=e640]
+                  - cell "00d 00h 54m 00s" [ref=e641]
+                  - cell "Coins750" [ref=e642]:
+                    - link "Coins" [ref=e644] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e645]
+                    - text: "750"
+                  - cell "No" [ref=e646]
+                - row "Glacegar 00d 01h 29m 17s 00d 00h 54m 00s Coins750 No" [ref=e647]:
+                  - cell "Glacegar" [ref=e648]:
+                    - link "Glacegar" [ref=e649] [cursor=pointer]:
+                      - /url: /wiki/Glacegar
+                  - cell "00d 01h 29m 17s" [ref=e650]
+                  - cell "00d 00h 54m 00s" [ref=e651]
+                  - cell "Coins750" [ref=e652]:
+                    - link "Coins" [ref=e654] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e655]
+                    - text: "750"
+                  - cell "No" [ref=e656]
+                - row "Amphyll 00d 00h 11m 10s 00d 00h 06m 45s Coins125 No" [ref=e657]:
+                  - cell "Amphyll" [ref=e658]:
+                    - link "Amphyll" [ref=e659] [cursor=pointer]:
+                      - /url: /wiki/Amphyll
+                  - cell "00d 00h 11m 10s" [ref=e660]
+                  - cell "00d 00h 06m 45s" [ref=e661]
+                  - cell "Coins125" [ref=e662]:
+                    - link "Coins" [ref=e664] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e665]
+                    - text: "125"
+                  - cell "No" [ref=e666]
+                - row "Enkylous 00d 00h 29m 46s 00d 00h 18m 00s Coins125 No" [ref=e667]:
+                  - cell "Enkylous" [ref=e668]:
+                    - link "Enkylous" [ref=e669] [cursor=pointer]:
+                      - /url: /wiki/Enkylous
+                  - cell "00d 00h 29m 46s" [ref=e670]
+                  - cell "00d 00h 18m 00s" [ref=e671]
+                  - cell "Coins125" [ref=e672]:
+                    - link "Coins" [ref=e674] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e675]
+                    - text: "125"
+                  - cell "No" [ref=e676]
+                - row "Taraka 00d 00h 59m 31s 00d 00h 36m 00s Coins350 No" [ref=e677]:
+                  - cell "Taraka" [ref=e678]:
+                    - link "Taraka" [ref=e679] [cursor=pointer]:
+                      - /url: /wiki/Taraka
+                  - cell "00d 00h 59m 31s" [ref=e680]
+                  - cell "00d 00h 36m 00s" [ref=e681]
+                  - cell "Coins350" [ref=e682]:
+                    - link "Coins" [ref=e684] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e685]
+                    - text: "350"
+                  - cell "No" [ref=e686]
+                - row "Krekiz 00d 01h 59m 02s 00d 01h 12m 00s Coins750 No" [ref=e687]:
+                  - cell "Krekiz" [ref=e688]:
+                    - link "Krekiz" [ref=e689] [cursor=pointer]:
+                      - /url: /wiki/Krekiz
+                  - cell "00d 01h 59m 02s" [ref=e690]
+                  - cell "00d 01h 12m 00s" [ref=e691]
+                  - cell "Coins750" [ref=e692]:
+                    - link "Coins" [ref=e694] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e695]
+                    - text: "750"
+                  - cell "No" [ref=e696]
+                - row "Coralina 00d 00h 44m 38s 00d 00h 27m 00s Coins750 No" [ref=e697]:
+                  - cell "Coralina" [ref=e698]:
+                    - link "Coralina" [ref=e699] [cursor=pointer]:
+                      - /url: /wiki/Coralina
+                  - cell "00d 00h 44m 38s" [ref=e700]
+                  - cell "00d 00h 27m 00s" [ref=e701]
+                  - cell "Coins750" [ref=e702]:
+                    - link "Coins" [ref=e704] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e705]
+                    - text: "750"
+                  - cell "No" [ref=e706]
+                - row "Agricos 00d 01h 06m 58s 00d 00h 40m 30s Coins125 No" [ref=e707]:
+                  - cell "Agricos" [ref=e708]:
+                    - link "Agricos" [ref=e709] [cursor=pointer]:
+                      - /url: /wiki/Agricos
+                  - cell "00d 01h 06m 58s" [ref=e710]
+                  - cell "00d 00h 40m 30s" [ref=e711]
+                  - cell "Coins125" [ref=e712]:
+                    - link "Coins" [ref=e714] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e715]
+                    - text: "125"
+                  - cell "No" [ref=e716]
+                - row "Khepera 00d 01h 29m 17s 00d 00h 54m 00s Coins125 No" [ref=e717]:
+                  - cell "Khepera" [ref=e718]:
+                    - link "Khepera" [ref=e719] [cursor=pointer]:
+                      - /url: /wiki/Khepera
+                  - cell "00d 01h 29m 17s" [ref=e720]
+                  - cell "00d 00h 54m 00s" [ref=e721]
+                  - cell "Coins125" [ref=e722]:
+                    - link "Coins" [ref=e724] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e725]
+                    - text: "125"
+                  - cell "No" [ref=e726]
+                - row "Dunvolth 00d 02h 08m 58s 00d 01h 18m 00s Coins750 No" [ref=e727]:
+                  - cell "Dunvolth" [ref=e728]:
+                    - link "Dunvolth" [ref=e729] [cursor=pointer]:
+                      - /url: /wiki/Dunvolth
+                  - cell "00d 02h 08m 58s" [ref=e730]
+                  - cell "00d 01h 18m 00s" [ref=e731]
+                  - cell "Coins750" [ref=e732]:
+                    - link "Coins" [ref=e734] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e735]
+                    - text: "750"
+                  - cell "No" [ref=e736]
+                - row "Ferorex 00d 02h 18m 53s 00d 01h 24m 00s Coins750 No" [ref=e737]:
+                  - cell "Ferorex" [ref=e738]:
+                    - link "Ferorex" [ref=e739] [cursor=pointer]:
+                      - /url: /wiki/Ferorex
+                  - cell "00d 02h 18m 53s" [ref=e740]
+                  - cell "00d 01h 24m 00s" [ref=e741]
+                  - cell "Coins750" [ref=e742]:
+                    - link "Coins" [ref=e744] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e745]
+                    - text: "750"
+                  - cell "No" [ref=e746]
+                - row "Taihoa 00d 00h 59m 31s 00d 00h 36m 00s Coins125 No" [ref=e747]:
+                  - cell "Taihoa" [ref=e748]:
+                    - link "Taihoa" [ref=e749] [cursor=pointer]:
+                      - /url: /wiki/Taihoa
+                  - cell "00d 00h 59m 31s" [ref=e750]
+                  - cell "00d 00h 36m 00s" [ref=e751]
+                  - cell "Coins125" [ref=e752]:
+                    - link "Coins" [ref=e754] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e755]
+                    - text: "125"
+                  - cell "No" [ref=e756]
+                - row "Zeipera 00d 02h 06m 29s 00d 01h 16m 30s Coins350 No" [ref=e757]:
+                  - cell "Zeipera" [ref=e758]:
+                    - link "Zeipera" [ref=e759] [cursor=pointer]:
+                      - /url: /wiki/Zeipera
+                  - cell "00d 02h 06m 29s" [ref=e760]
+                  - cell "00d 01h 16m 30s" [ref=e761]
+                  - cell "Coins350" [ref=e762]:
+                    - link "Coins" [ref=e764] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e765]
+                    - text: "350"
+                  - cell "No" [ref=e766]
+                - row "Mother Dragon 01d 11h 42m 43s 00d 21h 35m 50s Coins750 No" [ref=e767]:
+                  - cell "Mother Dragon" [ref=e768]:
+                    - link "Mother Dragon" [ref=e769] [cursor=pointer]:
+                      - /url: /wiki/Mother_Dragon
+                  - cell "01d 11h 42m 43s" [ref=e770]
+                  - cell "00d 21h 35m 50s" [ref=e771]
+                  - cell "Coins750" [ref=e772]:
+                    - link "Coins" [ref=e774] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e775]
+                    - text: "750"
+                  - cell "No" [ref=e776]
+                - row "Bisonture 00d 00h 59m 31s 00d 00h 36m 00s Coins350 No" [ref=e777]:
+                  - cell "Bisonture" [ref=e778]:
+                    - link "Bisonture" [ref=e779] [cursor=pointer]:
+                      - /url: /wiki/Bisonture
+                  - cell "00d 00h 59m 31s" [ref=e780]
+                  - cell "00d 00h 36m 00s" [ref=e781]
+                  - cell "Coins350" [ref=e782]:
+                    - link "Coins" [ref=e784] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e785]
+                    - text: "350"
+                  - cell "No" [ref=e786]
+                - row "Venid 00d 00h 44m 38s 00d 00h 27m 00s Coins350 No" [ref=e787]:
+                  - cell "Venid" [ref=e788]:
+                    - link "Venid" [ref=e789] [cursor=pointer]:
+                      - /url: /wiki/Venid
+                  - cell "00d 00h 44m 38s" [ref=e790]
+                  - cell "00d 00h 27m 00s" [ref=e791]
+                  - cell "Coins350" [ref=e792]:
+                    - link "Coins" [ref=e794] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e795]
+                    - text: "350"
+                  - cell "No" [ref=e796]
+                - row "Neroxide 00d 01h 06m 58s 00d 00h 40m 30s Coins125 No" [ref=e797]:
+                  - cell "Neroxide" [ref=e798]:
+                    - link "Neroxide" [ref=e799] [cursor=pointer]:
+                      - /url: /wiki/Neroxide
+                  - cell "00d 01h 06m 58s" [ref=e800]
+                  - cell "00d 00h 40m 30s" [ref=e801]
+                  - cell "Coins125" [ref=e802]:
+                    - link "Coins" [ref=e804] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e805]
+                    - text: "125"
+                  - cell "No" [ref=e806]
+                - row "Radidon 01d 11h 42m 43s 00d 21h 35m 50s Coins750 No" [ref=e807]:
+                  - cell "Radidon" [ref=e808]:
+                    - link "Radidon" [ref=e809] [cursor=pointer]:
+                      - /url: /wiki/Radidon
+                  - cell "01d 11h 42m 43s" [ref=e810]
+                  - cell "00d 21h 35m 50s" [ref=e811]
+                  - cell "Coins750" [ref=e812]:
+                    - link "Coins" [ref=e814] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e815]
+                    - text: "750"
+                  - cell "No" [ref=e816]
+                - row "Rhyndac 00d 01h 29m 17s 00d 00h 54m 00s Coins125 No" [ref=e817]:
+                  - cell "Rhyndac" [ref=e818]:
+                    - link "Rhyndac" [ref=e819] [cursor=pointer]:
+                      - /url: /wiki/Rhyndac
+                  - cell "00d 01h 29m 17s" [ref=e820]
+                  - cell "00d 00h 54m 00s" [ref=e821]
+                  - cell "Coins125" [ref=e822]:
+                    - link "Coins" [ref=e824] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e825]
+                    - text: "125"
+                  - cell "No" [ref=e826]
+                - row "Soukeyi 00d 02h 08m 58s 00d 01h 18m 00s Coins750 No" [ref=e827]:
+                  - cell "Soukeyi" [ref=e828]:
+                    - link "Soukeyi" [ref=e829] [cursor=pointer]:
+                      - /url: /wiki/Soukeyi
+                  - cell "00d 02h 08m 58s" [ref=e830]
+                  - cell "00d 01h 18m 00s" [ref=e831]
+                  - cell "Coins750" [ref=e832]:
+                    - link "Coins" [ref=e834] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e835]
+                    - text: "750"
+                  - cell "No" [ref=e836]
+                - row "Chronocus 02d 23h 25m 26s 01d 19h 11m 40s Coins350 No" [ref=e837]:
+                  - cell "Chronocus" [ref=e838]:
+                    - link "Chronocus" [ref=e839] [cursor=pointer]:
+                      - /url: /wiki/Chronocus
+                  - cell "02d 23h 25m 26s" [ref=e840]
+                  - cell "01d 19h 11m 40s" [ref=e841]
+                  - cell "Coins350" [ref=e842]:
+                    - link "Coins" [ref=e844] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e845]
+                    - text: "350"
+                  - cell "No" [ref=e846]
+                - row "Zinthros 01d 11h 42m 43s 00d 21h 35m 50s Coins750 No" [ref=e847]:
+                  - cell "Zinthros" [ref=e848]:
+                    - link "Zinthros" [ref=e849] [cursor=pointer]:
+                      - /url: /wiki/Zinthros
+                  - cell "01d 11h 42m 43s" [ref=e850]
+                  - cell "00d 21h 35m 50s" [ref=e851]
+                  - cell "Coins750" [ref=e852]:
+                    - link "Coins" [ref=e854] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e855]
+                    - text: "750"
+                  - cell "No" [ref=e856]
+                - row "Suiikipon 00d 00h 07m 26s 00d 00h 04m 30s Coins125 No" [ref=e857]:
+                  - cell "Suiikipon" [ref=e858]:
+                    - link "Suiikipon" [ref=e859] [cursor=pointer]:
+                      - /url: /wiki/Suiikipon
+                  - cell "00d 00h 07m 26s" [ref=e860]
+                  - cell "00d 00h 04m 30s" [ref=e861]
+                  - cell "Coins125" [ref=e862]:
+                    - link "Coins" [ref=e864] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e865]
+                    - text: "125"
+                  - cell "No" [ref=e866]
+                - row "Yaruakura 00d 00h 56m 33s 00d 00h 36m 00s Coins350 No" [ref=e867]:
+                  - cell "Yaruakura" [ref=e868]:
+                    - link "Yaruakura" [ref=e869] [cursor=pointer]:
+                      - /url: /wiki/Yaruakura
+                  - cell "00d 00h 56m 33s" [ref=e870]
+                  - cell "00d 00h 36m 00s" [ref=e871]
+                  - cell "Coins350" [ref=e872]:
+                    - link "Coins" [ref=e874] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e875]
+                    - text: "350"
+                  - cell "No" [ref=e876]
+                - row "Mistrasune 00d 02h 08m 58s 00d 01h 18m 00s Coins12,500 No" [ref=e877]:
+                  - cell "Mistrasune" [ref=e878]:
+                    - link "Mistrasune" [ref=e879] [cursor=pointer]:
+                      - /url: /wiki/Mistrasune
+                  - cell "00d 02h 08m 58s" [ref=e880]
+                  - cell "00d 01h 18m 00s" [ref=e881]
+                  - cell "Coins12,500" [ref=e882]:
+                    - link "Coins" [ref=e884] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e885]
+                    - text: 12,500
+                  - cell "No" [ref=e886]
+                - row "Karukiri 00d 02h 18m 53s 00d 01h 24m 00s Coins12,500 No" [ref=e887]:
+                  - cell "Karukiri" [ref=e888]:
+                    - link "Karukiri" [ref=e889] [cursor=pointer]:
+                      - /url: /wiki/Karukiri
+                  - cell "00d 02h 18m 53s" [ref=e890]
+                  - cell "00d 01h 24m 00s" [ref=e891]
+                  - cell "Coins12,500" [ref=e892]:
+                    - link "Coins" [ref=e894] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e895]
+                    - text: 12,500
+                  - cell "No" [ref=e896]
+                - row "Onagajin 01d 11h 42m 43s 00d 21h 35m 50s Coins750 No" [ref=e897]:
+                  - cell "Onagajin" [ref=e898]:
+                    - link "Onagajin" [ref=e899] [cursor=pointer]:
+                      - /url: /wiki/Onagajin
+                  - cell "01d 11h 42m 43s" [ref=e900]
+                  - cell "00d 21h 35m 50s" [ref=e901]
+                  - cell "Coins750" [ref=e902]:
+                    - link "Coins" [ref=e904] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e905]
+                    - text: "750"
+                  - cell "No" [ref=e906]
+                - row "Lepilon 00d 08h 55m 41s 00d 05h 24m 10s Coins1,500 Yes" [ref=e907]:
+                  - cell "Lepilon" [ref=e908]:
+                    - link "Lepilon" [ref=e909] [cursor=pointer]:
+                      - /url: /wiki/Lepilon
+                  - cell "00d 08h 55m 41s" [ref=e910]
+                  - cell "00d 05h 24m 10s" [ref=e911]
+                  - cell "Coins1,500" [ref=e912]:
+                    - link "Coins" [ref=e914] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e915]
+                    - text: 1,500
+                  - cell "Yes" [ref=e916]
+                - row "Geoteryx 00d 17h 51m 22s 00d 10h 48m 20s Coins25,000 Yes" [ref=e917]:
+                  - cell "Geoteryx" [ref=e918]:
+                    - link "Geoteryx" [ref=e919] [cursor=pointer]:
+                      - /url: /wiki/Geoteryx
+                  - cell "00d 17h 51m 22s" [ref=e920]
+                  - cell "00d 10h 48m 20s" [ref=e921]
+                  - cell "Coins25,000" [ref=e922]:
+                    - link "Coins" [ref=e924] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e925]
+                    - text: 25,000
+                  - cell "Yes" [ref=e926]
+                - row "Skelltor 00d 01h 29m 17s 00d 00h 54m 00s Coins250 Yes" [ref=e927]:
+                  - cell "Skelltor" [ref=e928]:
+                    - link "Skelltor" [ref=e929] [cursor=pointer]:
+                      - /url: /wiki/Skelltor
+                  - cell "00d 01h 29m 17s" [ref=e930]
+                  - cell "00d 00h 54m 00s" [ref=e931]
+                  - cell "Coins250" [ref=e932]:
+                    - link "Coins" [ref=e934] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e935]
+                    - text: "250"
+                  - cell "Yes" [ref=e936]
+                - row "Paukiki 00d 04h 27m 50s 00d 02h 41m 40s Coins700 Yes" [ref=e937]:
+                  - cell "Paukiki" [ref=e938]:
+                    - link "Paukiki" [ref=e939] [cursor=pointer]:
+                      - /url: /wiki/Paukiki
+                  - cell "00d 04h 27m 50s" [ref=e940]
+                  - cell "00d 02h 41m 40s" [ref=e941]
+                  - cell "Coins700" [ref=e942]:
+                    - link "Coins" [ref=e944] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e945]
+                    - text: "700"
+                  - cell "Yes" [ref=e946]
+                - row "Dysuva 00d 08h 55m 41s 00d 05h 24m 10s Coins1,500 Yes" [ref=e947]:
+                  - cell "Dysuva" [ref=e948]:
+                    - link "Dysuva" [ref=e949] [cursor=pointer]:
+                      - /url: /wiki/Dysuva
+                  - cell "00d 08h 55m 41s" [ref=e950]
+                  - cell "00d 05h 24m 10s" [ref=e951]
+                  - cell "Coins1,500" [ref=e952]:
+                    - link "Coins" [ref=e954] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e955]
+                    - text: 1,500
+                  - cell "Yes" [ref=e956]
+                - row "Scrawei 00d 04h 27m 50s 00d 02h 41m 40s Coins700 Yes" [ref=e957]:
+                  - cell "Scrawei" [ref=e958]:
+                    - link "Scrawei" [ref=e959] [cursor=pointer]:
+                      - /url: /wiki/Scrawei
+                  - cell "00d 04h 27m 50s" [ref=e960]
+                  - cell "00d 02h 41m 40s" [ref=e961]
+                  - cell "Coins700" [ref=e962]:
+                    - link "Coins" [ref=e964] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e965]
+                    - text: "700"
+                  - cell "Yes" [ref=e966]
+                - row "Paranox 00d 08h 55m 41s 00d 05h 24m 10s Coins1,500 Yes" [ref=e967]:
+                  - cell "Paranox" [ref=e968]:
+                    - link "Paranox" [ref=e969] [cursor=pointer]:
+                      - /url: /wiki/Paranox
+                  - cell "00d 08h 55m 41s" [ref=e970]
+                  - cell "00d 05h 24m 10s" [ref=e971]
+                  - cell "Coins1,500" [ref=e972]:
+                    - link "Coins" [ref=e974] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e975]
+                    - text: 1,500
+                  - cell "Yes" [ref=e976]
+                - row "Araneaix 00d 17h 51m 22s 00d 10h 48m 20s Coins25,000 Yes" [ref=e977]:
+                  - cell "Araneaix" [ref=e978]:
+                    - link "Araneaix" [ref=e979] [cursor=pointer]:
+                      - /url: /wiki/Araneaix
+                  - cell "00d 17h 51m 22s" [ref=e980]
+                  - cell "00d 10h 48m 20s" [ref=e981]
+                  - cell "Coins25,000" [ref=e982]:
+                    - link "Coins" [ref=e984] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e985]
+                    - text: 25,000
+                  - cell "Yes" [ref=e986]
+                - row "Goliatomb 00d 17h 51m 22s 00d 10h 48m 20s Coins25,000 Yes" [ref=e987]:
+                  - cell "Goliatomb" [ref=e988]:
+                    - link "Goliatomb" [ref=e989] [cursor=pointer]:
+                      - /url: /wiki/Goliatomb
+                  - cell "00d 17h 51m 22s" [ref=e990]
+                  - cell "00d 10h 48m 20s" [ref=e991]
+                  - cell "Coins25,000" [ref=e992]:
+                    - link "Coins" [ref=e994] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e995]
+                    - text: 25,000
+                  - cell "Yes" [ref=e996]
+                - row "Dratheros 04d 11h 08m 10s 02d 16h 48m 20s Coins75,000 Yes" [ref=e997]:
+                  - cell "Dratheros" [ref=e998]:
+                    - link "Dratheros" [ref=e999] [cursor=pointer]:
+                      - /url: /wiki/Dratheros
+                  - cell "04d 11h 08m 10s" [ref=e1000]
+                  - cell "02d 16h 48m 20s" [ref=e1001]
+                  - cell "Coins75,000" [ref=e1002]:
+                    - link "Coins" [ref=e1004] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e1005]
+                    - text: 75,000
+                  - cell "Yes" [ref=e1006]
+                - row "Nightmare Paranox 00d 17h 51m 22s 00d 10h 48m 20s Coins25,000 Yes" [ref=e1007]:
+                  - cell "Nightmare Paranox" [ref=e1008]:
+                    - link "Nightmare Paranox" [ref=e1009] [cursor=pointer]:
+                      - /url: /wiki/Nightmare_Paranox
+                  - cell "00d 17h 51m 22s" [ref=e1010]
+                  - cell "00d 10h 48m 20s" [ref=e1011]
+                  - cell "Coins25,000" [ref=e1012]:
+                    - link "Coins" [ref=e1014] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e1015]
+                    - text: 25,000
+                  - cell "Yes" [ref=e1016]
+                - row "Tosknir 01d 11h 42m 43s 00d 21h 35m 50s Coins75,000 Yes" [ref=e1017]:
+                  - cell "Tosknir" [ref=e1018]:
+                    - link "Tosknir" [ref=e1019] [cursor=pointer]:
+                      - /url: /wiki/Tosknir
+                  - cell "01d 11h 42m 43s" [ref=e1020]
+                  - cell "00d 21h 35m 50s" [ref=e1021]
+                  - cell "Coins75,000" [ref=e1022]:
+                    - link "Coins" [ref=e1024] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e1025]
+                    - text: 75,000
+                  - cell "Yes" [ref=e1026]
+                - row "Skriffei 00d 01h 29m 17s 00d 00h 54m 00s Coins250 Yes" [ref=e1027]:
+                  - cell "Skriffei" [ref=e1028]:
+                    - link "Skriffei" [ref=e1029] [cursor=pointer]:
+                      - /url: /wiki/Skriffei
+                  - cell "00d 01h 29m 17s" [ref=e1030]
+                  - cell "00d 00h 54m 00s" [ref=e1031]
+                  - cell "Coins250" [ref=e1032]:
+                    - link "Coins" [ref=e1034] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e1035]
+                    - text: "250"
+                  - cell "Yes" [ref=e1036]
+                - row "Yulereinn 00d 08h 55m 41s 00d 05h 24m 10s Coins1,500 Yes" [ref=e1037]:
+                  - cell "Yulereinn" [ref=e1038]:
+                    - link "Yulereinn" [ref=e1039] [cursor=pointer]:
+                      - /url: /wiki/Yulereinn
+                  - cell "00d 08h 55m 41s" [ref=e1040]
+                  - cell "00d 05h 24m 10s" [ref=e1041]
+                  - cell "Coins1,500" [ref=e1042]:
+                    - link "Coins" [ref=e1044] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e1045]
+                    - text: 1,500
+                  - cell "Yes" [ref=e1046]
+                - row "Avefir 00d 04h 27m 50s 00d 02h 41m 40s Coins700 Yes" [ref=e1047]:
+                  - cell "Avefir" [ref=e1048]:
+                    - link "Avefir" [ref=e1049] [cursor=pointer]:
+                      - /url: /wiki/Avefir
+                  - cell "00d 04h 27m 50s" [ref=e1050]
+                  - cell "00d 02h 41m 40s" [ref=e1051]
+                  - cell "Coins700" [ref=e1052]:
+                    - link "Coins" [ref=e1054] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e1055]
+                    - text: "700"
+                  - cell "Yes" [ref=e1056]
+                - row "Nadaler 00d 08h 55m 41s 00d 05h 24m 10s Coins1,500 Yes" [ref=e1057]:
+                  - cell "Nadaler" [ref=e1058]:
+                    - link "Nadaler" [ref=e1059] [cursor=pointer]:
+                      - /url: /wiki/Nadaler
+                  - cell "00d 08h 55m 41s" [ref=e1060]
+                  - cell "00d 05h 24m 10s" [ref=e1061]
+                  - cell "Coins1,500" [ref=e1062]:
+                    - link "Coins" [ref=e1064] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e1065]
+                    - text: 1,500
+                  - cell "Yes" [ref=e1066]
+                - row "Hielochiim 00d 08h 55m 41s 00d 05h 24m 10s Coins1,500 Yes" [ref=e1067]:
+                  - cell "Hielochiim" [ref=e1068]:
+                    - link "Hielochiim" [ref=e1069] [cursor=pointer]:
+                      - /url: /wiki/Hielochiim
+                  - cell "00d 08h 55m 41s" [ref=e1070]
+                  - cell "00d 05h 24m 10s" [ref=e1071]
+                  - cell "Coins1,500" [ref=e1072]:
+                    - link "Coins" [ref=e1074] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e1075]
+                    - text: 1,500
+                  - cell "Yes" [ref=e1076]
+                - row "Firifeller 00d 17h 51m 22s 00d 10h 48m 20s Coins25,000 Yes" [ref=e1077]:
+                  - cell "Firifeller" [ref=e1078]:
+                    - link "Firifeller" [ref=e1079] [cursor=pointer]:
+                      - /url: /wiki/Firifeller
+                  - cell "00d 17h 51m 22s" [ref=e1080]
+                  - cell "00d 10h 48m 20s" [ref=e1081]
+                  - cell "Coins25,000" [ref=e1082]:
+                    - link "Coins" [ref=e1084] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e1085]
+                    - text: 25,000
+                  - cell "Yes" [ref=e1086]
+                - row "Vyreas 02d 05h 34m 05s 01d 08h 24m 10s Coins75,000 Yes" [ref=e1087]:
+                  - cell "Vyreas" [ref=e1088]:
+                    - link "Vyreas" [ref=e1089] [cursor=pointer]:
+                      - /url: /wiki/Vyreas
+                  - cell "02d 05h 34m 05s" [ref=e1090]
+                  - cell "01d 08h 24m 10s" [ref=e1091]
+                  - cell "Coins75,000" [ref=e1092]:
+                    - link "Coins" [ref=e1094] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e1095]
+                    - text: 75,000
+                  - cell "Yes" [ref=e1096]
+                - row "Ancient Skriffei 00d 01h 29m 17s 00d 00h 54m 00s Coins75,000 Yes" [ref=e1097]:
+                  - cell "Ancient Skriffei" [ref=e1098]:
+                    - link "Ancient Skriffei" [ref=e1099] [cursor=pointer]:
+                      - /url: /wiki/Ancient_Skriffei
+                  - cell "00d 01h 29m 17s" [ref=e1100]
+                  - cell "00d 00h 54m 00s" [ref=e1101]
+                  - cell "Coins75,000" [ref=e1102]:
+                    - link "Coins" [ref=e1104] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e1105]
+                    - text: 75,000
+                  - cell "Yes" [ref=e1106]
+                - row "Fayrah 00d 08h 55m 41s 00d 05h 24m 10s Coins1,500 Yes" [ref=e1107]:
+                  - cell "Fayrah" [ref=e1108]:
+                    - link "Fayrah" [ref=e1109] [cursor=pointer]:
+                      - /url: /wiki/Fayrah
+                  - cell "00d 08h 55m 41s" [ref=e1110]
+                  - cell "00d 05h 24m 10s" [ref=e1111]
+                  - cell "Coins1,500" [ref=e1112]:
+                    - link "Coins" [ref=e1114] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e1115]
+                    - text: 1,500
+                  - cell "Yes" [ref=e1116]
+                - row "Tarotta 00d 04h 27m 50s 00d 02h 41m 40s Coins700 Yes" [ref=e1117]:
+                  - cell "Tarotta" [ref=e1118]:
+                    - link "Tarotta" [ref=e1119] [cursor=pointer]:
+                      - /url: /wiki/Tarotta
+                  - cell "00d 04h 27m 50s" [ref=e1120]
+                  - cell "00d 02h 41m 40s" [ref=e1121]
+                  - cell "Coins700" [ref=e1122]:
+                    - link "Coins" [ref=e1124] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e1125]
+                    - text: "700"
+                  - cell "Yes" [ref=e1126]
+                - row "Desygual 00d 17h 51m 22s 00d 10h 48m 20s Coins25,000 Yes" [ref=e1127]:
+                  - cell "Desygual" [ref=e1128]:
+                    - link "Desygual" [ref=e1129] [cursor=pointer]:
+                      - /url: /wiki/Desygual
+                  - cell "00d 17h 51m 22s" [ref=e1130]
+                  - cell "00d 10h 48m 20s" [ref=e1131]
+                  - cell "Coins25,000" [ref=e1132]:
+                    - link "Coins" [ref=e1134] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e1135]
+                    - text: 25,000
+                  - cell "Yes" [ref=e1136]
+                - row "Skyrix 00d 01h 29m 17s 00d 00h 54m 00s Coins250 Yes" [ref=e1137]:
+                  - cell "Skyrix" [ref=e1138]:
+                    - link "Skyrix" [ref=e1139] [cursor=pointer]:
+                      - /url: /wiki/Skyrix
+                  - cell "00d 01h 29m 17s" [ref=e1140]
+                  - cell "00d 00h 54m 00s" [ref=e1141]
+                  - cell "Coins250" [ref=e1142]:
+                    - link "Coins" [ref=e1144] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e1145]
+                    - text: "250"
+                  - cell "Yes" [ref=e1146]
+                - row "Aranga 01d 11h 42m 43s 00d 21h 35m 50s Coins75,000 Yes" [ref=e1147]:
+                  - cell "Aranga" [ref=e1148]:
+                    - link "Aranga" [ref=e1149] [cursor=pointer]:
+                      - /url: /wiki/Aranga
+                  - cell "01d 11h 42m 43s" [ref=e1150]
+                  - cell "00d 21h 35m 50s" [ref=e1151]
+                  - cell "Coins75,000" [ref=e1152]:
+                    - link "Coins" [ref=e1154] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e1155]
+                    - text: 75,000
+                  - cell "Yes" [ref=e1156]
+                - row "Falugeis 00d 17h 51m 22s 00d 10h 48m 20s Coins25,000 Yes" [ref=e1157]:
+                  - cell "Falugeis" [ref=e1158]:
+                    - link "Falugeis" [ref=e1159] [cursor=pointer]:
+                      - /url: /wiki/Falugeis
+                  - cell "00d 17h 51m 22s" [ref=e1160]
+                  - cell "00d 10h 48m 20s" [ref=e1161]
+                  - cell "Coins25,000" [ref=e1162]:
+                    - link "Coins" [ref=e1164] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e1165]
+                    - text: 25,000
+                  - cell "Yes" [ref=e1166]
+                - row "Ayatrice 00d 04h 27m 50s 00d 02h 41m 40s Coins700 Yes" [ref=e1167]:
+                  - cell "Ayatrice" [ref=e1168]:
+                    - link "Ayatrice" [ref=e1169] [cursor=pointer]:
+                      - /url: /wiki/Ayatrice
+                  - cell "00d 04h 27m 50s" [ref=e1170]
+                  - cell "00d 02h 41m 40s" [ref=e1171]
+                  - cell "Coins700" [ref=e1172]:
+                    - link "Coins" [ref=e1174] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e1175]
+                    - text: "700"
+                  - cell "Yes" [ref=e1176]
+                - row "Verscervus 00d 17h 51m 22s 00d 10h 48m 20s Coins25,000 Yes" [ref=e1177]:
+                  - cell "Verscervus" [ref=e1178]:
+                    - link "Verscervus" [ref=e1179] [cursor=pointer]:
+                      - /url: /wiki/Verscervus
+                  - cell "00d 17h 51m 22s" [ref=e1180]
+                  - cell "00d 10h 48m 20s" [ref=e1181]
+                  - cell "Coins25,000" [ref=e1182]:
+                    - link "Coins" [ref=e1184] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e1185]
+                    - text: 25,000
+                  - cell "Yes" [ref=e1186]
+                - row "Mielebee 00d 17h 51m 22s 00d 10h 48m 20s Coins25,000 Yes" [ref=e1187]:
+                  - cell "Mielebee" [ref=e1188]:
+                    - link "Mielebee" [ref=e1189] [cursor=pointer]:
+                      - /url: /wiki/Mielebee
+                  - cell "00d 17h 51m 22s" [ref=e1190]
+                  - cell "00d 10h 48m 20s" [ref=e1191]
+                  - cell "Coins25,000" [ref=e1192]:
+                    - link "Coins" [ref=e1194] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e1195]
+                    - text: 25,000
+                  - cell "Yes" [ref=e1196]
+                - row "Gaulyra 01d 11h 42m 43s 00d 21h 35m 50s Coins75,000 Yes" [ref=e1197]:
+                  - cell "Gaulyra" [ref=e1198]:
+                    - link "Gaulyra" [ref=e1199] [cursor=pointer]:
+                      - /url: /wiki/Gaulyra
+                  - cell "01d 11h 42m 43s" [ref=e1200]
+                  - cell "00d 21h 35m 50s" [ref=e1201]
+                  - cell "Coins75,000" [ref=e1202]:
+                    - link "Coins" [ref=e1204] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e1205]
+                    - text: 75,000
+                  - cell "Yes" [ref=e1206]
+                - row "Ancient Aranga 01d 11h 42m 43s 00d 21h 35m 50s Coins75,000 Yes" [ref=e1207]:
+                  - cell "Ancient Aranga" [ref=e1208]:
+                    - link "Ancient Aranga" [ref=e1209] [cursor=pointer]:
+                      - /url: /wiki/Ancient_Aranga
+                  - cell "01d 11h 42m 43s" [ref=e1210]
+                  - cell "00d 21h 35m 50s" [ref=e1211]
+                  - cell "Coins75,000" [ref=e1212]:
+                    - link "Coins" [ref=e1214] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e1215]
+                    - text: 75,000
+                  - cell "Yes" [ref=e1216]
+                - row "Robodon 00d 17h 51m 22s 00d 10h 48m 20s Coins25,000 Yes" [ref=e1217]:
+                  - cell "Robodon" [ref=e1218]:
+                    - link "Robodon" [ref=e1219] [cursor=pointer]:
+                      - /url: /wiki/Robodon
+                  - cell "00d 17h 51m 22s" [ref=e1220]
+                  - cell "00d 10h 48m 20s" [ref=e1221]
+                  - cell "Coins25,000" [ref=e1222]:
+                    - link "Coins" [ref=e1224] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e1225]
+                    - text: 25,000
+                  - cell "Yes" [ref=e1226]
+                - row "Cybernid 00d 04h 27m 50s 00d 02h 41m 40s Coins700 Yes" [ref=e1227]:
+                  - cell "Cybernid" [ref=e1228]:
+                    - link "Cybernid" [ref=e1229] [cursor=pointer]:
+                      - /url: /wiki/Cybernid
+                  - cell "00d 04h 27m 50s" [ref=e1230]
+                  - cell "00d 02h 41m 40s" [ref=e1231]
+                  - cell "Coins700" [ref=e1232]:
+                    - link "Coins" [ref=e1234] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e1235]
+                    - text: "700"
+                  - cell "Yes" [ref=e1236]
+                - row "Xerthos 00d 08h 55m 41s 00d 05h 24m 10s Coins1,500 Yes" [ref=e1237]:
+                  - cell "Xerthos" [ref=e1238]:
+                    - link "Xerthos" [ref=e1239] [cursor=pointer]:
+                      - /url: /wiki/Xerthos
+                  - cell "00d 08h 55m 41s" [ref=e1240]
+                  - cell "00d 05h 24m 10s" [ref=e1241]
+                  - cell "Coins1,500" [ref=e1242]:
+                    - link "Coins" [ref=e1244] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e1245]
+                    - text: 1,500
+                  - cell "Yes" [ref=e1246]
+                - row "Mechanoxide 00d 04h 27m 50s 00d 02h 41m 40s Coins25,000 Yes" [ref=e1247]:
+                  - cell "Mechanoxide" [ref=e1248]:
+                    - link "Mechanoxide" [ref=e1249] [cursor=pointer]:
+                      - /url: /wiki/Mechanoxide
+                  - cell "00d 04h 27m 50s" [ref=e1250]
+                  - cell "00d 02h 41m 40s" [ref=e1251]
+                  - cell "Coins25,000" [ref=e1252]:
+                    - link "Coins" [ref=e1254] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e1255]
+                    - text: 25,000
+                  - cell "Yes" [ref=e1256]
+                - row "Hexalios 00d 08h 55m 41s 00d 05h 24m 10s Coins1,500 Yes" [ref=e1257]:
+                  - cell "Hexalios" [ref=e1258]:
+                    - link "Hexalios" [ref=e1259] [cursor=pointer]:
+                      - /url: /wiki/Hexalios
+                  - cell "00d 08h 55m 41s" [ref=e1260]
+                  - cell "00d 05h 24m 10s" [ref=e1261]
+                  - cell "Coins1,500" [ref=e1262]:
+                    - link "Coins" [ref=e1264] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e1265]
+                    - text: 1,500
+                  - cell "Yes" [ref=e1266]
+                - row "Solarizon 00d 08h 55m 41s 00d 05h 24m 10s Coins1,500 Yes" [ref=e1267]:
+                  - cell "Solarizon" [ref=e1268]:
+                    - link "Solarizon" [ref=e1269] [cursor=pointer]:
+                      - /url: /wiki/Solarizon
+                  - cell "00d 08h 55m 41s" [ref=e1270]
+                  - cell "00d 05h 24m 10s" [ref=e1271]
+                  - cell "Coins1,500" [ref=e1272]:
+                    - link "Coins" [ref=e1274] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e1275]
+                    - text: 1,500
+                  - cell "Yes" [ref=e1276]
+                - row "Volkumos 00d 17h 51m 22s 00d 10h 48m 20s Coins25,000 Yes" [ref=e1277]:
+                  - cell "Volkumos" [ref=e1278]:
+                    - link "Volkumos" [ref=e1279] [cursor=pointer]:
+                      - /url: /wiki/Volkumos
+                  - cell "00d 17h 51m 22s" [ref=e1280]
+                  - cell "00d 10h 48m 20s" [ref=e1281]
+                  - cell "Coins25,000" [ref=e1282]:
+                    - link "Coins" [ref=e1284] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e1285]
+                    - text: 25,000
+                  - cell "Yes" [ref=e1286]
+                - row "Casirius 00d 17h 51m 22s 00d 10h 48m 20s Coins25,000 Yes" [ref=e1287]:
+                  - cell "Casirius" [ref=e1288]:
+                    - link "Casirius" [ref=e1289] [cursor=pointer]:
+                      - /url: /wiki/Casirius
+                  - cell "00d 17h 51m 22s" [ref=e1290]
+                  - cell "00d 10h 48m 20s" [ref=e1291]
+                  - cell "Coins25,000" [ref=e1292]:
+                    - link "Coins" [ref=e1294] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e1295]
+                    - text: 25,000
+                  - cell "Yes" [ref=e1296]
+                - row "Cosmalisk 01d 11h 42m 43s 00d 21h 35m 50s Coins75,000 Yes" [ref=e1297]:
+                  - cell "Cosmalisk" [ref=e1298]:
+                    - link "Cosmalisk" [ref=e1299] [cursor=pointer]:
+                      - /url: /wiki/Cosmalisk
+                  - cell "01d 11h 42m 43s" [ref=e1300]
+                  - cell "00d 21h 35m 50s" [ref=e1301]
+                  - cell "Coins75,000" [ref=e1302]:
+                    - link "Coins" [ref=e1304] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e1305]
+                    - text: 75,000
+                  - cell "Yes" [ref=e1306]
+                - row "Quahtona 00d 17h 51m 22s 00d 10h 48m 20s Coins25,000 Yes" [ref=e1307]:
+                  - cell "Quahtona" [ref=e1308]:
+                    - link "Quahtona" [ref=e1309] [cursor=pointer]:
+                      - /url: /wiki/Quahtona
+                  - cell "00d 17h 51m 22s" [ref=e1310]
+                  - cell "00d 10h 48m 20s" [ref=e1311]
+                  - cell "Coins25,000" [ref=e1312]:
+                    - link "Coins" [ref=e1314] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e1315]
+                    - text: 25,000
+                  - cell "Yes" [ref=e1316]
+                - row "Viridik 00d 17h 51m 22s 00d 10h 48m 20s Coins25,000 Yes" [ref=e1317]:
+                  - cell "Viridik" [ref=e1318]:
+                    - link "Viridik" [ref=e1319] [cursor=pointer]:
+                      - /url: /wiki/Viridik
+                  - cell "00d 17h 51m 22s" [ref=e1320]
+                  - cell "00d 10h 48m 20s" [ref=e1321]
+                  - cell "Coins25,000" [ref=e1322]:
+                    - link "Coins" [ref=e1324] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e1325]
+                    - text: 25,000
+                  - cell "Yes" [ref=e1326]
+                - row "Stymelisk 00d 17h 51m 22s 00d 10h 48m 20s Coins25,000 Yes" [ref=e1327]:
+                  - cell "Stymelisk" [ref=e1328]:
+                    - link "Stymelisk" [ref=e1329] [cursor=pointer]:
+                      - /url: /wiki/Stymelisk
+                  - cell "00d 17h 51m 22s" [ref=e1330]
+                  - cell "00d 10h 48m 20s" [ref=e1331]
+                  - cell "Coins25,000" [ref=e1332]:
+                    - link "Coins" [ref=e1334] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e1335]
+                    - text: 25,000
+                  - cell "Yes" [ref=e1336]
+                - row "Rozora 00d 17h 51m 22s 00d 10h 48m 20s Coins25,000 Yes" [ref=e1337]:
+                  - cell "Rozora" [ref=e1338]:
+                    - link "Rozora" [ref=e1339] [cursor=pointer]:
+                      - /url: /wiki/Rozora
+                  - cell "00d 17h 51m 22s" [ref=e1340]
+                  - cell "00d 10h 48m 20s" [ref=e1341]
+                  - cell "Coins25,000" [ref=e1342]:
+                    - link "Coins" [ref=e1344] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e1345]
+                    - text: 25,000
+                  - cell "Yes" [ref=e1346]
+                - row "Ovicirus 00d 17h 51m 22s 00d 10h 48m 20s Coins25,000 Yes" [ref=e1347]:
+                  - cell "Ovicirus" [ref=e1348]:
+                    - link "Ovicirus" [ref=e1349] [cursor=pointer]:
+                      - /url: /wiki/Ovicirus
+                  - cell "00d 17h 51m 22s" [ref=e1350]
+                  - cell "00d 10h 48m 20s" [ref=e1351]
+                  - cell "Coins25,000" [ref=e1352]:
+                    - link "Coins" [ref=e1354] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e1355]
+                    - text: 25,000
+                  - cell "Yes" [ref=e1356]
+                - row "Tsukuizan 00d 17h 51m 22s 00d 10h 48m 20s Coins25,000 Yes" [ref=e1357]:
+                  - cell "Tsukuizan" [ref=e1358]:
+                    - link "Tsukuizan" [ref=e1359] [cursor=pointer]:
+                      - /url: /wiki/Tsukuizan
+                  - cell "00d 17h 51m 22s" [ref=e1360]
+                  - cell "00d 10h 48m 20s" [ref=e1361]
+                  - cell "Coins25,000" [ref=e1362]:
+                    - link "Coins" [ref=e1364] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e1365]
+                    - text: 25,000
+                  - cell "Yes" [ref=e1366]
+                - row "Amaris 02d 23h 25m 26s 01d 19h 11m 40s Coins75,000 Yes" [ref=e1367]:
+                  - cell "Amaris" [ref=e1368]:
+                    - link "Amaris" [ref=e1369] [cursor=pointer]:
+                      - /url: /wiki/Amaris
+                  - cell "02d 23h 25m 26s" [ref=e1370]
+                  - cell "01d 19h 11m 40s" [ref=e1371]
+                  - cell "Coins75,000" [ref=e1372]:
+                    - link "Coins" [ref=e1374] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e1375]
+                    - text: 75,000
+                  - cell "Yes" [ref=e1376]
+                - row "Nakahii 00d 17h 51m 22s 00d 10h 48m 20s Coins25,000 Yes" [ref=e1377]:
+                  - cell "Nakahii" [ref=e1378]:
+                    - link "Nakahii" [ref=e1379] [cursor=pointer]:
+                      - /url: /wiki/Nakahii
+                  - cell "00d 17h 51m 22s" [ref=e1380]
+                  - cell "00d 10h 48m 20s" [ref=e1381]
+                  - cell "Coins25,000" [ref=e1382]:
+                    - link "Coins" [ref=e1384] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e1385]
+                    - text: 25,000
+                  - cell "Yes" [ref=e1386]
+                - row "Varana 00d 17h 51m 22s 00d 10h 48m 20s Coins25,000 Yes" [ref=e1387]:
+                  - cell "Varana" [ref=e1388]:
+                    - link "Varana" [ref=e1389] [cursor=pointer]:
+                      - /url: /wiki/Varana
+                  - cell "00d 17h 51m 22s" [ref=e1390]
+                  - cell "00d 10h 48m 20s" [ref=e1391]
+                  - cell "Coins25,000" [ref=e1392]:
+                    - link "Coins" [ref=e1394] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e1395]
+                    - text: 25,000
+                  - cell "Yes" [ref=e1396]
+                - row "Nor'gan 00d 17h 51m 22s 00d 10h 48m 20s Coins25,000 Yes" [ref=e1397]:
+                  - cell "Nor'gan" [ref=e1398]:
+                    - link "Nor'gan" [ref=e1399] [cursor=pointer]:
+                      - /url: /wiki/Nor%27gan
+                  - cell "00d 17h 51m 22s" [ref=e1400]
+                  - cell "00d 10h 48m 20s" [ref=e1401]
+                  - cell "Coins25,000" [ref=e1402]:
+                    - link "Coins" [ref=e1404] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e1405]
+                    - text: 25,000
+                  - cell "Yes" [ref=e1406]
+                - row "Hoarusn 00d 17h 51m 22s 00d 10h 48m 20s Coins25,000 Yes" [ref=e1407]:
+                  - cell "Hoarusn" [ref=e1408]:
+                    - link "Hoarusn" [ref=e1409] [cursor=pointer]:
+                      - /url: /wiki/Hoarusn
+                  - cell "00d 17h 51m 22s" [ref=e1410]
+                  - cell "00d 10h 48m 20s" [ref=e1411]
+                  - cell "Coins25,000" [ref=e1412]:
+                    - link "Coins" [ref=e1414] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e1415]
+                    - text: 25,000
+                  - cell "Yes" [ref=e1416]
+                - row "Woodluma 00d 17h 51m 22s 00d 10h 48m 20s Coins25,000 Yes" [ref=e1417]:
+                  - cell "Woodluma" [ref=e1418]:
+                    - link "Woodluma" [ref=e1419] [cursor=pointer]:
+                      - /url: /wiki/Woodluma
+                  - cell "00d 17h 51m 22s" [ref=e1420]
+                  - cell "00d 10h 48m 20s" [ref=e1421]
+                  - cell "Coins25,000" [ref=e1422]:
+                    - link "Coins" [ref=e1424] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e1425]
+                    - text: 25,000
+                  - cell "Yes" [ref=e1426]
+                - row "Eisendrache 00d 17h 51m 22s 00d 10h 48m 20s Coins25,000 Yes" [ref=e1427]:
+                  - cell "Eisendrache" [ref=e1428]:
+                    - link "Eisendrache" [ref=e1429] [cursor=pointer]:
+                      - /url: /wiki/Eisendrache
+                  - cell "00d 17h 51m 22s" [ref=e1430]
+                  - cell "00d 10h 48m 20s" [ref=e1431]
+                  - cell "Coins25,000" [ref=e1432]:
+                    - link "Coins" [ref=e1434] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e1435]
+                    - text: 25,000
+                  - cell "Yes" [ref=e1436]
+                - row "Aeroseys 00d 17h 51m 22s 00d 10h 48m 20s Coins25,000 Yes" [ref=e1437]:
+                  - cell "Aeroseys" [ref=e1438]:
+                    - link "Aeroseys" [ref=e1439] [cursor=pointer]:
+                      - /url: /wiki/Aeroseys
+                  - cell "00d 17h 51m 22s" [ref=e1440]
+                  - cell "00d 10h 48m 20s" [ref=e1441]
+                  - cell "Coins25,000" [ref=e1442]:
+                    - link "Coins" [ref=e1444] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e1445]
+                    - text: 25,000
+                  - cell "Yes" [ref=e1446]
+                - row "Yueshi 00d 17h 51m 22s 00d 10h 48m 20s Coins25,000 Yes" [ref=e1447]:
+                  - cell "Yueshi" [ref=e1448]:
+                    - link "Yueshi" [ref=e1449] [cursor=pointer]:
+                      - /url: /wiki/Yueshi
+                  - cell "00d 17h 51m 22s" [ref=e1450]
+                  - cell "00d 10h 48m 20s" [ref=e1451]
+                  - cell "Coins25,000" [ref=e1452]:
+                    - link "Coins" [ref=e1454] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e1455]
+                    - text: 25,000
+                  - cell "Yes" [ref=e1456]
+                - row "Fernifex 00d 17h 51m 22s 00d 10h 48m 20s Coins25,000 Yes" [ref=e1457]:
+                  - cell "Fernifex" [ref=e1458]:
+                    - link "Fernifex" [ref=e1459] [cursor=pointer]:
+                      - /url: /wiki/Fernifex
+                  - cell "00d 17h 51m 22s" [ref=e1460]
+                  - cell "00d 10h 48m 20s" [ref=e1461]
+                  - cell "Coins25,000" [ref=e1462]:
+                    - link "Coins" [ref=e1464] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e1465]
+                    - text: 25,000
+                  - cell "Yes" [ref=e1466]
+                - row "Vulpiruth 00d 17h 51m 22s 00d 10h 48m 20s Coins25,000 Yes" [ref=e1467]:
+                  - cell "Vulpiruth" [ref=e1468]:
+                    - link "Vulpiruth" [ref=e1469] [cursor=pointer]:
+                      - /url: /wiki/Vulpiruth
+                  - cell "00d 17h 51m 22s" [ref=e1470]
+                  - cell "00d 10h 48m 20s" [ref=e1471]
+                  - cell "Coins25,000" [ref=e1472]:
+                    - link "Coins" [ref=e1474] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e1475]
+                    - text: 25,000
+                  - cell "Yes" [ref=e1476]
+                - row "Makoura 00d 17h 51m 22s 00d 10h 48m 20s Coins25,000 Yes" [ref=e1477]:
+                  - cell "Makoura" [ref=e1478]:
+                    - link "Makoura" [ref=e1479] [cursor=pointer]:
+                      - /url: /wiki/Makoura
+                  - cell "00d 17h 51m 22s" [ref=e1480]
+                  - cell "00d 10h 48m 20s" [ref=e1481]
+                  - cell "Coins25,000" [ref=e1482]:
+                    - link "Coins" [ref=e1484] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e1485]
+                    - text: 25,000
+                  - cell "Yes" [ref=e1486]
+                - row "Lum Luenh 00d 17h 51m 22s 00d 10h 48m 20s Coins25,000 Yes" [ref=e1487]:
+                  - cell "Lum Luenh" [ref=e1488]:
+                    - link "Lum Luenh" [ref=e1489] [cursor=pointer]:
+                      - /url: /wiki/Lum_Luenh
+                  - cell "00d 17h 51m 22s" [ref=e1490]
+                  - cell "00d 10h 48m 20s" [ref=e1491]
+                  - cell "Coins25,000" [ref=e1492]:
+                    - link "Coins" [ref=e1494] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e1495]
+                    - text: 25,000
+                  - cell "Yes" [ref=e1496]
+                - row "Phocaphan 00d 17h 51m 22s 00d 10h 48m 20s Coins25,000 Yes" [ref=e1497]:
+                  - cell "Phocaphan" [ref=e1498]:
+                    - link "Phocaphan" [ref=e1499] [cursor=pointer]:
+                      - /url: /wiki/Phocaphan
+                  - cell "00d 17h 51m 22s" [ref=e1500]
+                  - cell "00d 10h 48m 20s" [ref=e1501]
+                  - cell "Coins25,000" [ref=e1502]:
+                    - link "Coins" [ref=e1504] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e1505]
+                    - text: 25,000
+                  - cell "Yes" [ref=e1506]
+                - row "Chrysaloom 00d 17h 51m 22s 00d 10h 48m 20s Coins25,000 Yes" [ref=e1507]:
+                  - cell "Chrysaloom" [ref=e1508]:
+                    - link "Chrysaloom" [ref=e1509] [cursor=pointer]:
+                      - /url: /wiki/Chrysaloom
+                  - cell "00d 17h 51m 22s" [ref=e1510]
+                  - cell "00d 10h 48m 20s" [ref=e1511]
+                  - cell "Coins25,000" [ref=e1512]:
+                    - link "Coins" [ref=e1514] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e1515]
+                    - text: 25,000
+                  - cell "Yes" [ref=e1516]
+                - row "Amoonita 00d 17h 51m 22s 00d 10h 48m 20s Coins25,000 Yes" [ref=e1517]:
+                  - cell "Amoonita" [ref=e1518]:
+                    - link "Amoonita" [ref=e1519] [cursor=pointer]:
+                      - /url: /wiki/Amoonita
+                  - cell "00d 17h 51m 22s" [ref=e1520]
+                  - cell "00d 10h 48m 20s" [ref=e1521]
+                  - cell "Coins25,000" [ref=e1522]:
+                    - link "Coins" [ref=e1524] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e1525]
+                    - text: 25,000
+                  - cell "Yes" [ref=e1526]
+                - row "Torneidus 00d 17h 51m 22s 00d 10h 48m 20s Coins25,000 Yes" [ref=e1527]:
+                  - cell "Torneidus" [ref=e1528]:
+                    - link "Torneidus" [ref=e1529] [cursor=pointer]:
+                      - /url: /wiki/Torneidus
+                  - cell "00d 17h 51m 22s" [ref=e1530]
+                  - cell "00d 10h 48m 20s" [ref=e1531]
+                  - cell "Coins25,000" [ref=e1532]:
+                    - link "Coins" [ref=e1534] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e1535]
+                    - text: 25,000
+                  - cell "Yes" [ref=e1536]
+                - row "Harvitius 00d 17h 51m 22s 00d 10h 48m 20s Coins25,000 Yes" [ref=e1537]:
+                  - cell "Harvitius" [ref=e1538]:
+                    - link "Harvitius" [ref=e1539] [cursor=pointer]:
+                      - /url: /wiki/Harvitius
+                  - cell "00d 17h 51m 22s" [ref=e1540]
+                  - cell "00d 10h 48m 20s" [ref=e1541]
+                  - cell "Coins25,000" [ref=e1542]:
+                    - link "Coins" [ref=e1544] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e1545]
+                    - text: 25,000
+                  - cell "Yes" [ref=e1546]
+                - row "Astraeisis 00d 17h 51m 22s 00d 10h 48m 20s Coins25,000 Yes" [ref=e1547]:
+                  - cell "Astraeisis" [ref=e1548]:
+                    - link "Astraeisis" [ref=e1549] [cursor=pointer]:
+                      - /url: /wiki/Astraeisis
+                  - cell "00d 17h 51m 22s" [ref=e1550]
+                  - cell "00d 10h 48m 20s" [ref=e1551]
+                  - cell "Coins25,000" [ref=e1552]:
+                    - link "Coins" [ref=e1554] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e1555]
+                    - text: 25,000
+                  - cell "Yes" [ref=e1556]
+                - row "Thorkonyx 00d 17h 51m 22s 00d 10h 48m 20s Coins25,000 Yes" [ref=e1557]:
+                  - cell "Thorkonyx" [ref=e1558]:
+                    - link "Thorkonyx" [ref=e1559] [cursor=pointer]:
+                      - /url: /wiki/Thorkonyx
+                  - cell "00d 17h 51m 22s" [ref=e1560]
+                  - cell "00d 10h 48m 20s" [ref=e1561]
+                  - cell "Coins25,000" [ref=e1562]:
+                    - link "Coins" [ref=e1564] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e1565]
+                    - text: 25,000
+                  - cell "Yes" [ref=e1566]
+                - row "Hongliang 00d 17h 51m 22s 00d 10h 48m 20s Coins25,000 Yes" [ref=e1567]:
+                  - cell "Hongliang" [ref=e1568]:
+                    - link "Hongliang" [ref=e1569] [cursor=pointer]:
+                      - /url: /wiki/Hongliang
+                  - cell "00d 17h 51m 22s" [ref=e1570]
+                  - cell "00d 10h 48m 20s" [ref=e1571]
+                  - cell "Coins25,000" [ref=e1572]:
+                    - link "Coins" [ref=e1574] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e1575]
+                    - text: 25,000
+                  - cell "Yes" [ref=e1576]
+                - row "Fleurianthus 00d 17h 51m 22s 00d 10h 48m 20s Coins25,000 Yes" [ref=e1577]:
+                  - cell "Fleurianthus" [ref=e1578]:
+                    - link "Fleurianthus" [ref=e1579] [cursor=pointer]:
+                      - /url: /wiki/Fleurianthus
+                  - cell "00d 17h 51m 22s" [ref=e1580]
+                  - cell "00d 10h 48m 20s" [ref=e1581]
+                  - cell "Coins25,000" [ref=e1582]:
+                    - link "Coins" [ref=e1584] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e1585]
+                    - text: 25,000
+                  - cell "Yes" [ref=e1586]
+                - row "Cirquemaar 00d 17h 51m 22s 00d 10h 48m 20s Coins25,000 Yes" [ref=e1587]:
+                  - cell "Cirquemaar" [ref=e1588]:
+                    - link "Cirquemaar" [ref=e1589] [cursor=pointer]:
+                      - /url: /wiki/Cirquemaar
+                  - cell "00d 17h 51m 22s" [ref=e1590]
+                  - cell "00d 10h 48m 20s" [ref=e1591]
+                  - cell "Coins25,000" [ref=e1592]:
+                    - link "Coins" [ref=e1594] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e1595]
+                    - text: 25,000
+                  - cell "Yes" [ref=e1596]
+                - row "Diraixos 00d 17h 51m 22s 00d 10h 48m 20s Coins25,000 Yes" [ref=e1597]:
+                  - cell "Diraixos" [ref=e1598]:
+                    - link "Diraixos" [ref=e1599] [cursor=pointer]:
+                      - /url: /wiki/Diraixos
+                  - cell "00d 17h 51m 22s" [ref=e1600]
+                  - cell "00d 10h 48m 20s" [ref=e1601]
+                  - cell "Coins25,000" [ref=e1602]:
+                    - link "Coins" [ref=e1604] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e1605]
+                    - text: 25,000
+                  - cell "Yes" [ref=e1606]
+                - row "Quasaldrus 00d 17h 51m 22s 00d 10h 48m 20s Coins25,000 Yes" [ref=e1607]:
+                  - cell "Quasaldrus" [ref=e1608]:
+                    - link "Quasaldrus" [ref=e1609] [cursor=pointer]:
+                      - /url: /wiki/Quasaldrus
+                  - cell "00d 17h 51m 22s" [ref=e1610]
+                  - cell "00d 10h 48m 20s" [ref=e1611]
+                  - cell "Coins25,000" [ref=e1612]:
+                    - link "Coins" [ref=e1614] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e1615]
+                    - text: 25,000
+                  - cell "Yes" [ref=e1616]
+                - row "Pagulau 00d 17h 51m 22s 00d 10h 48m 20s Coins25,000 Yes" [ref=e1617]:
+                  - cell "Pagulau" [ref=e1618]:
+                    - link "Pagulau" [ref=e1619] [cursor=pointer]:
+                      - /url: /wiki/Pagulau
+                  - cell "00d 17h 51m 22s" [ref=e1620]
+                  - cell "00d 10h 48m 20s" [ref=e1621]
+                  - cell "Coins25,000" [ref=e1622]:
+                    - link "Coins" [ref=e1624] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e1625]
+                    - text: 25,000
+                  - cell "Yes" [ref=e1626]
+                - row "Iridesia 00d 17h 51m 22s 00d 10h 48m 20s Coins25,000 Yes" [ref=e1627]:
+                  - cell "Iridesia" [ref=e1628]:
+                    - link "Iridesia" [ref=e1629] [cursor=pointer]:
+                      - /url: /wiki/Iridesia
+                  - cell "00d 17h 51m 22s" [ref=e1630]
+                  - cell "00d 10h 48m 20s" [ref=e1631]
+                  - cell "Coins25,000" [ref=e1632]:
+                    - link "Coins" [ref=e1634] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e1635]
+                    - text: 25,000
+                  - cell "Yes" [ref=e1636]
+                - row "Trametos 00d 17h 51m 22s 00d 10h 48m 20s Coins25,000 Yes" [ref=e1637]:
+                  - cell "Trametos" [ref=e1638]:
+                    - link "Trametos" [ref=e1639] [cursor=pointer]:
+                      - /url: /wiki/Trametos
+                  - cell "00d 17h 51m 22s" [ref=e1640]
+                  - cell "00d 10h 48m 20s" [ref=e1641]
+                  - cell "Coins25,000" [ref=e1642]:
+                    - link "Coins" [ref=e1644] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e1645]
+                    - text: 25,000
+                  - cell "Yes" [ref=e1646]
+                - row "Tempiritus 00d 17h 51m 22s 00d 10h 48m 20s Coins25,000 Yes" [ref=e1647]:
+                  - cell "Tempiritus" [ref=e1648]:
+                    - link "Tempiritus" [ref=e1649] [cursor=pointer]:
+                      - /url: /wiki/Tempiritus
+                  - cell "00d 17h 51m 22s" [ref=e1650]
+                  - cell "00d 10h 48m 20s" [ref=e1651]
+                  - cell "Coins25,000" [ref=e1652]:
+                    - link "Coins" [ref=e1654] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e1655]
+                    - text: 25,000
+                  - cell "Yes" [ref=e1656]
+                - row "Mosuraki 00d 17h 51m 22s 00d 10h 48m 20s Coins25,000 Yes" [ref=e1657]:
+                  - cell "Mosuraki" [ref=e1658]:
+                    - link "Mosuraki" [ref=e1659] [cursor=pointer]:
+                      - /url: /wiki/Mosuraki
+                  - cell "00d 17h 51m 22s" [ref=e1660]
+                  - cell "00d 10h 48m 20s" [ref=e1661]
+                  - cell "Coins25,000" [ref=e1662]:
+                    - link "Coins" [ref=e1664] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e1665]
+                    - text: 25,000
+                  - cell "Yes" [ref=e1666]
+                - row "Gyngefared 00d 17h 51m 22s 00d 10h 48m 20s Coins25,000 Yes" [ref=e1667]:
+                  - cell "Gyngefared" [ref=e1668]:
+                    - link "Gyngefared" [ref=e1669] [cursor=pointer]:
+                      - /url: /wiki/Gyngefared
+                  - cell "00d 17h 51m 22s" [ref=e1670]
+                  - cell "00d 10h 48m 20s" [ref=e1671]
+                  - cell "Coins25,000" [ref=e1672]:
+                    - link "Coins" [ref=e1674] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e1675]
+                    - text: 25,000
+                  - cell "Yes" [ref=e1676]
+                - row "Carnealgon 00d 17h 51m 22s 00d 10h 48m 20s Coins25,000 Yes" [ref=e1677]:
+                  - cell "Carnealgon" [ref=e1678]:
+                    - link "Carnealgon" [ref=e1679] [cursor=pointer]:
+                      - /url: /wiki/Carnealgon
+                  - cell "00d 17h 51m 22s" [ref=e1680]
+                  - cell "00d 10h 48m 20s" [ref=e1681]
+                  - cell "Coins25,000" [ref=e1682]:
+                    - link "Coins" [ref=e1684] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e1685]
+                    - text: 25,000
+                  - cell "Yes" [ref=e1686]
+                - row "Caelydris 00d 17h 51m 22s 00d 10h 48m 20s Coins25,000 Yes" [ref=e1687]:
+                  - cell "Caelydris" [ref=e1688]:
+                    - link "Caelydris" [ref=e1689] [cursor=pointer]:
+                      - /url: /wiki/Caelydris
+                  - cell "00d 17h 51m 22s" [ref=e1690]
+                  - cell "00d 10h 48m 20s" [ref=e1691]
+                  - cell "Coins25,000" [ref=e1692]:
+                    - link "Coins" [ref=e1694] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e1695]
+                    - text: 25,000
+                  - cell "Yes" [ref=e1696]
+                - row "Calimaki 00d 17h 51m 22s 00d 10h 48m 20s Coins25,000 Yes" [ref=e1697]:
+                  - cell "Calimaki" [ref=e1698]:
+                    - link "Calimaki" [ref=e1699] [cursor=pointer]:
+                      - /url: /wiki/Calimaki
+                  - cell "00d 17h 51m 22s" [ref=e1700]
+                  - cell "00d 10h 48m 20s" [ref=e1701]
+                  - cell "Coins25,000" [ref=e1702]:
+                    - link "Coins" [ref=e1704] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e1705]
+                    - text: 25,000
+                  - cell "Yes" [ref=e1706]
+                - row "Phyllantis 00d 17h 51m 22s 00d 10h 48m 20s Coins25,000 Yes" [ref=e1707]:
+                  - cell "Phyllantis" [ref=e1708]:
+                    - link "Phyllantis" [ref=e1709] [cursor=pointer]:
+                      - /url: /wiki/Phyllantis
+                  - cell "00d 17h 51m 22s" [ref=e1710]
+                  - cell "00d 10h 48m 20s" [ref=e1711]
+                  - cell "Coins25,000" [ref=e1712]:
+                    - link "Coins" [ref=e1714] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e1715]
+                    - text: 25,000
+                  - cell "Yes" [ref=e1716]
+                - row "Noctorius 00d 17h 51m 22s 00d 10h 48m 20s Coins25,000 Yes" [ref=e1717]:
+                  - cell "Noctorius" [ref=e1718]:
+                    - link "Noctorius" [ref=e1719] [cursor=pointer]:
+                      - /url: /wiki/Noctorius
+                  - cell "00d 17h 51m 22s" [ref=e1720]
+                  - cell "00d 10h 48m 20s" [ref=e1721]
+                  - cell "Coins25,000" [ref=e1722]:
+                    - link "Coins" [ref=e1724] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e1725]
+                    - text: 25,000
+                  - cell "Yes" [ref=e1726]
+                - row "Kostragula 01d 11h 42m 43s 00d 21h 35m 50s Coins75,000 Yes" [ref=e1727]:
+                  - cell "Kostragula" [ref=e1728]:
+                    - link "Kostragula" [ref=e1729] [cursor=pointer]:
+                      - /url: /wiki/Kostragula
+                  - cell "01d 11h 42m 43s" [ref=e1730]
+                  - cell "00d 21h 35m 50s" [ref=e1731]
+                  - cell "Coins75,000" [ref=e1732]:
+                    - link "Coins" [ref=e1734] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e1735]
+                    - text: 75,000
+                  - cell "Yes" [ref=e1736]
+                - row "Ortarouk 01d 11h 42m 43s 00d 21h 35m 50s Coins75,000 Yes" [ref=e1737]:
+                  - cell "Ortarouk" [ref=e1738]:
+                    - link "Ortarouk" [ref=e1739] [cursor=pointer]:
+                      - /url: /wiki/Ortarouk
+                  - cell "01d 11h 42m 43s" [ref=e1740]
+                  - cell "00d 21h 35m 50s" [ref=e1741]
+                  - cell "Coins75,000" [ref=e1742]:
+                    - link "Coins" [ref=e1744] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e1745]
+                    - text: 75,000
+                  - cell "Yes" [ref=e1746]
+                - row "Corrupted Chronocus 02d 23h 25m 26s 01d 19h 11m 40s Coins75,000 Yes" [ref=e1747]:
+                  - cell "Corrupted Chronocus" [ref=e1748]:
+                    - link "Corrupted Chronocus" [ref=e1749] [cursor=pointer]:
+                      - /url: /wiki/Corrupted_Chronocus
+                  - cell "02d 23h 25m 26s" [ref=e1750]
+                  - cell "01d 19h 11m 40s" [ref=e1751]
+                  - cell "Coins75,000" [ref=e1752]:
+                    - link "Coins" [ref=e1754] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e1755]
+                    - text: 75,000
+                  - cell "Yes" [ref=e1756]
+                - row "Impiavolo 01d 11h 42m 43s 00d 21h 35m 50s Coins75,000 Yes" [ref=e1757]:
+                  - cell "Impiavolo" [ref=e1758]:
+                    - link "Impiavolo" [ref=e1759] [cursor=pointer]:
+                      - /url: /wiki/Impiavolo
+                  - cell "01d 11h 42m 43s" [ref=e1760]
+                  - cell "00d 21h 35m 50s" [ref=e1761]
+                  - cell "Coins75,000" [ref=e1762]:
+                    - link "Coins" [ref=e1764] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e1765]
+                    - text: 75,000
+                  - cell "Yes" [ref=e1766]
+                - row "Nyxavoid 00d 17h 51m 22s 00d 10h 48m 20s Coins25,000 Yes" [ref=e1767]:
+                  - cell "Nyxavoid" [ref=e1768]:
+                    - link "Nyxavoid" [ref=e1769] [cursor=pointer]:
+                      - /url: /wiki/Nyxavoid
+                  - cell "00d 17h 51m 22s" [ref=e1770]
+                  - cell "00d 10h 48m 20s" [ref=e1771]
+                  - cell "Coins25,000" [ref=e1772]:
+                    - link "Coins" [ref=e1774] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e1775]
+                    - text: 25,000
+                  - cell "Yes" [ref=e1776]
+                - row "Syliru 00d 08h 55m 41s 00d 05h 24m 10s Coins25,000 Yes" [ref=e1777]:
+                  - cell "Syliru" [ref=e1778]:
+                    - link "Syliru" [ref=e1779] [cursor=pointer]:
+                      - /url: /wiki/Syliru
+                  - cell "00d 08h 55m 41s" [ref=e1780]
+                  - cell "00d 05h 24m 10s" [ref=e1781]
+                  - cell "Coins25,000" [ref=e1782]:
+                    - link "Coins" [ref=e1784] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e1785]
+                    - text: 25,000
+                  - cell "Yes" [ref=e1786]
+                - row "Atravanta 00d 08h 55m 41s 00d 05h 24m 10s Coins25,000 Yes" [ref=e1787]:
+                  - cell "Atravanta" [ref=e1788]:
+                    - link "Atravanta" [ref=e1789] [cursor=pointer]:
+                      - /url: /wiki/Atravanta
+                  - cell "00d 08h 55m 41s" [ref=e1790]
+                  - cell "00d 05h 24m 10s" [ref=e1791]
+                  - cell "Coins25,000" [ref=e1792]:
+                    - link "Coins" [ref=e1794] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e1795]
+                    - text: 25,000
+                  - cell "Yes" [ref=e1796]
+                - row "Aethereus 00d 02h 13m 55s 00d 01h 21m 00s Coins25,000 Yes" [ref=e1797]:
+                  - cell "Aethereus" [ref=e1798]:
+                    - link "Aethereus" [ref=e1799] [cursor=pointer]:
+                      - /url: /wiki/Aethereus
+                  - cell "00d 02h 13m 55s" [ref=e1800]
+                  - cell "00d 01h 21m 00s" [ref=e1801]
+                  - cell "Coins25,000" [ref=e1802]:
+                    - link "Coins" [ref=e1804] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e1805]
+                    - text: 25,000
+                  - cell "Yes" [ref=e1806]
+                - row "Featherfang 00d 08h 55m 41s 00d 05h 24m 10s Coins1,500 Yes" [ref=e1807]:
+                  - cell "Featherfang" [ref=e1808]:
+                    - link "Featherfang" [ref=e1809] [cursor=pointer]:
+                      - /url: /wiki/Featherfang
+                  - cell "00d 08h 55m 41s" [ref=e1810]
+                  - cell "00d 05h 24m 10s" [ref=e1811]
+                  - cell "Coins1,500" [ref=e1812]:
+                    - link "Coins" [ref=e1814] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e1815]
+                    - text: 1,500
+                  - cell "Yes" [ref=e1816]
+                - row "Caudembris 00d 17h 51m 22s 00d 10h 48m 20s Coins25,000 Yes" [ref=e1817]:
+                  - cell "Caudembris" [ref=e1818]:
+                    - link "Caudembris" [ref=e1819] [cursor=pointer]:
+                      - /url: /wiki/Caudembris
+                  - cell "00d 17h 51m 22s" [ref=e1820]
+                  - cell "00d 10h 48m 20s" [ref=e1821]
+                  - cell "Coins25,000" [ref=e1822]:
+                    - link "Coins" [ref=e1824] [cursor=pointer]:
+                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                      - img "Coins" [ref=e1825]
+                    - text: 25,000
+                  - cell "Yes" [ref=e1826]
+              - rowgroup
+            - heading "Trivia" [level=2] [ref=e1827]: Trivia
+            - list [ref=e1828]:
+              - listitem [ref=e1829]: Unbreedable dragons will still show up in the breeding menu.
+              - listitem [ref=e1830]:
+                - text: The
+                - link "Atarix" [ref=e1831] [cursor=pointer]:
+                  - /url: /wiki/Atarix
+                - text: ","
+                - link "Cocovira" [ref=e1832] [cursor=pointer]:
+                  - /url: /wiki/Cocovira
+                - text: ","
+                - link "Rocirus" [ref=e1833] [cursor=pointer]:
+                  - /url: /wiki/Rocirus
+                - text: ","
+                - link "Saurium" [ref=e1834] [cursor=pointer]:
+                  - /url: /wiki/Saurium
+                - text: ", and the"
+                - link "Suiikipon" [ref=e1835] [cursor=pointer]:
+                  - /url: /wiki/Suiikipon
+                - text: have the shortest breeding cooldowns.
+              - listitem [ref=e1836]:
+                - text: The
+                - link "Dratheros" [ref=e1837] [cursor=pointer]:
+                  - /url: /wiki/Dratheros
+                - text: currently has the longest breeding cooldown.
+              - listitem [ref=e1838]: Soul Bound dragons of Legendary rarity currently have the most expensive breeding fee.
+              - listitem [ref=e1839]:
+                - text: Breeding costs and the Soul Bound feature were added on February 2nd, 2024.
+                - superscript [ref=e1840]:
+                  - link "Reference 4" [ref=e1841] [cursor=pointer]:
+                    - /url: "#cite_note-4"
+                    - text: "[4]"
+              - listitem [ref=e1842]:
+                - text: The
+                - link "Mistrasune" [ref=e1843] [cursor=pointer]:
+                  - /url: /wiki/Mistrasune
+                - text: was the first
+                - link "world dragon" [ref=e1844] [cursor=pointer]:
+                  - /url: /wiki/World_Dragons
+                - text: added to have a breeding cost of
+                - link "Coins" [ref=e1846] [cursor=pointer]:
+                  - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
+                  - img "Coins" [ref=e1847]
+                - text: 12,500 coins due to it being of
+                - link "Epic" [ref=e1848] [cursor=pointer]:
+                  - /url: /wiki/Category:Rarity:_Epic
+                - text: rarity.
+            - heading "References" [level=2] [ref=e1849]: References
+            - list [ref=e1851]:
+              - listitem [ref=e1852]:
+                - link "Jump up" [ref=e1854] [cursor=pointer]:
+                  - /url: "#cite_ref-1"
+                  - text: ↑
+                - link "https://discord.com/channels/346515443869286410/434191386137329664/1230525432479088724" [ref=e1856] [cursor=pointer]:
+                  - /url: https://discord.com/channels/346515443869286410/434191386137329664/1230525432479088724
+              - listitem [ref=e1857]:
+                - generic [ref=e1858]:
+                  - text: ↑
+                  - superscript [ref=e1859]:
+                    - 'link "Jump up to: 2.0" [ref=e1860] [cursor=pointer]':
+                      - /url: "#cite_ref-Shinrin_2-0"
+                      - generic [ref=e1861]: "Jump up to:"
+                      - text: "2.0"
+                  - superscript [ref=e1862]:
+                    - link "2.1" [ref=e1863] [cursor=pointer]:
+                      - /url: "#cite_ref-Shinrin_2-1"
+                - link "https://discord.com/channels/346515443869286410/434191386137329664/1421258039717134457" [ref=e1865] [cursor=pointer]:
+                  - /url: https://discord.com/channels/346515443869286410/434191386137329664/1421258039717134457
+              - listitem [ref=e1866]:
+                - generic [ref=e1867]:
+                  - text: ↑
+                  - superscript [ref=e1868]:
+                    - 'link "Jump up to: 3.0" [ref=e1869] [cursor=pointer]':
+                      - /url: "#cite_ref-1/30_QA_3-0"
+                      - generic [ref=e1870]: "Jump up to:"
+                      - text: "3.0"
+                  - superscript [ref=e1871]:
+                    - link "3.1" [ref=e1872] [cursor=pointer]:
+                      - /url: "#cite_ref-1/30_QA_3-1"
+                - link "https://discord.com/channels/346515443869286410/434191386137329664/1201998730857807934" [ref=e1874] [cursor=pointer]:
+                  - /url: https://discord.com/channels/346515443869286410/434191386137329664/1201998730857807934
+              - listitem [ref=e1875]:
+                - link "Jump up" [ref=e1877] [cursor=pointer]:
+                  - /url: "#cite_ref-4"
+                  - text: ↑
+                - link "https://discord.com/channels/346515443869286410/410838723027140628/1203128743212884009" [ref=e1879] [cursor=pointer]:
+                  - /url: https://discord.com/channels/346515443869286410/410838723027140628/1203128743212884009
+            - generic [ref=e1880]:
+              - paragraph
+              - generic [ref=e1881]: Please refrain from posting your trading offers on this page!
+              - paragraph [ref=e1883]:
+                - text: Instead, post them to our
+                - link "discussions" [ref=e1884] [cursor=pointer]:
+                  - /url: https://dragon-adventures.fandom.com/f
+                - text: section under the correct category.
+                - text: A list of our categories and what they're used for can be found on the
+                - link "Wiki Rules and Guidelines" [ref=e1885] [cursor=pointer]:
+                  - /url: /wiki/Wiki_Rules_and_Guidelines
+                - text: page.
+          - generic [ref=e1886]:
+            - generic "Toggle Categories" [ref=e1887]:
+              - generic [ref=e1888] [cursor=pointer]:
+                - text: Categories
+                - img [ref=e1889]
+            - generic [ref=e1891]:
+              - text: Community content is available under
+              - link "CC-BY-SA" [ref=e1892] [cursor=pointer]:
+                - /url: https://www.fandom.com/licensing
+              - text: unless otherwise noted.
+            - generic [ref=e1893]:
+              - generic [ref=e1894]:
+                - generic [ref=e1895]: More Fandoms
+                - list [ref=e1897]:
+                  - listitem [ref=e1898]:
+                    - link "Fantasy" [ref=e1899] [cursor=pointer]:
+                      - /url: https://www.fandom.com/fancentral/fantasy
+              - generic [ref=e1901]:
+                - paragraph [ref=e2093]: 667 Comments
+                - generic [ref=e1904]:
+                  - img [ref=e2095]
+                  - heading "Join the conversation" [level=3] [ref=e2097]
+                  - heading "Sign in to read what others are saying and share your thoughts." [level=4] [ref=e2098]
+                  - link "SIGN IN" [ref=e2099] [cursor=pointer]:
+                    - /url: /login?metadata=anonymous-article-comments-login-source&redirect=https%3A%2F%2Fdragon-adventures.fandom.com%2Fwiki%2FBreeding%3Fanon-comments-auth-source%3Dlogin%23articleComments
+                  - paragraph [ref=e2100]:
+                    - text: Don't have account?
+                    - link "Register now" [ref=e2101] [cursor=pointer]:
+                      - /url: /register?metadata=anonymous-article-comments-register-source&redirect=https%3A%2F%2Fdragon-adventures.fandom.com%2Fwiki%2FBreeding%3Fanon-comments-auth-source%3Dregister%23articleComments
+        - complementary [ref=e1910]:
+          - generic [ref=e1912]:
+            - generic [ref=e1913]:
+              - iframe [ref=e1914]:
+                - generic [ref=f82e1]:
+                  - generic [ref=f82e2]:
+                    - link [ref=f82e3] [cursor=pointer]:
+                      - /url: https://discord.com?utm_source=Discord%20Widget&utm_medium=Logo
+                    - generic [ref=f82e4]:
+                      - strong [ref=f82e5]: "105"
+                      - text: Members Online
+                  - generic [ref=f82e7]:
+                    - generic [ref=f82e8]: Members Online
+                    - generic [ref=f82e9]:
+                      - generic [ref=f82e10]:
+                        - generic [ref=f82e13]: Ak.
+                        - generic [ref=f82e14]: Modrinth
+                      - generic [ref=f82e15]:
+                        - generic [ref=f82e18]: AkDaQa
+                        - generic [ref=f82e19]: Valheim (Game Preview)
+                      - generic [ref=f82e23]: apostle of hate
+                      - generic [ref=f82e27]: Artistical Jenius
+                      - generic [ref=f82e31]: AutoReacter
+                      - generic [ref=f82e35]: BarbwireBats
+                      - generic [ref=f82e39]: Beeboibuzz1200
+                      - generic [ref=f82e43]: bipi
+                      - generic [ref=f82e47]: Bluble1234 [Lvl. 29]
+                      - generic [ref=f82e51]: Chip88898
+                      - generic [ref=f82e55]: CookieDoom
+                      - generic [ref=f82e59]: Cynderrina
+                      - generic [ref=f82e63]: Darkhistrei
+                      - generic [ref=f82e67]: Dirag
+                      - generic [ref=f82e68]:
+                        - generic [ref=f82e71]: e...
+                        - generic [ref=f82e72]: Roblox
+                      - generic [ref=f82e76]: ELYSIAFAN69
+                      - generic [ref=f82e77]:
+                        - generic [ref=f82e80]: Em
+                        - generic [ref=f82e81]: Roblox
+                      - generic [ref=f82e85]: Embed Generator
+                      - generic [ref=f82e89]: EmiliosZK
+                      - generic [ref=f82e93]: Engauge
+                      - generic [ref=f82e97]: erpggf
+                      - generic [ref=f82e101]: Fibo
+                      - generic [ref=f82e105]: FireIceSale
+                      - generic [ref=f82e106]:
+                        - generic [ref=f82e109]: ghorgh
+                        - generic [ref=f82e110]: Roblox
+                      - generic [ref=f82e114]: GhostBrimstone
+                      - generic [ref=f82e118]: GorePaws
+                      - generic [ref=f82e122]: Havens.trashpit
+                      - generic [ref=f82e126]: I am random lolz
+                      - generic [ref=f82e130]: Immortality
+                      - generic [ref=f82e134]: IncandescentDreams
+                      - generic [ref=f82e138]: ivekret.
+                      - generic [ref=f82e142]: Junaiperrrrr
+                      - generic [ref=f82e146]: KapustaLangusta [Lvl. 2]
+                      - generic [ref=f82e150]: Kenzeren
+                      - generic [ref=f82e151]:
+                        - generic [ref=f82e154]: Kio
+                        - generic [ref=f82e155]: Roblox
+                      - generic [ref=f82e159]: kounnaclover
+                      - generic [ref=f82e163]: Kqedeee
+                      - generic [ref=f82e167]: Lommiko
+                      - generic [ref=f82e171]: Looky
+                      - generic [ref=f82e175]: Luuuuuuuup.
+                      - generic [ref=f82e179]: Manow
+                      - generic [ref=f82e183]: MerianTheNighthunter [Lvl. 1]
+                      - generic [ref=f82e184]:
+                        - generic [ref=f82e187]: Miku_kratos
+                        - generic [ref=f82e188]: WWE 2K24
+                      - generic [ref=f82e192]: Minnipanther
+                      - generic [ref=f82e196]: Mizurrin
+                      - generic [ref=f82e200]: Mizzuchi [Lvl. 1]
+                      - generic [ref=f82e204]: Nabi 🦋
+                      - generic [ref=f82e208]: Nerys
+                      - generic [ref=f82e209]:
+                        - generic [ref=f82e212]: Nettitheyetti14
+                        - generic [ref=f82e213]: Minecraft
+                      - generic [ref=f82e217]: Nonameone404
+                      - generic [ref=f82e221]: nonchalant mhtsakos
+                      - generic [ref=f82e225]: ObsidianSunset
+                      - generic [ref=f82e229]: OKA ITF VmanSam
+                      - generic [ref=f82e233]: Pharmakon
+                      - generic [ref=f82e237]: Reaction Roles
+                      - generic [ref=f82e238]:
+                        - generic [ref=f82e241]: Roblox Verification
+                        - generic [ref=f82e242]: /invite | blox.link
+                      - generic [ref=f82e246]: Rocktzys
+                      - generic [ref=f82e250]: Ryuu581
+                      - generic [ref=f82e254]: Salm010n
+                      - generic [ref=f82e258]: Sapphire
+                      - generic [ref=f82e262]: ScarletReverie
+                      - generic [ref=f82e266]: Senfino
+                      - generic [ref=f82e270]: SharkenedSchizo
+                      - generic [ref=f82e274]: Sharknautica
+                      - generic [ref=f82e278]: Shunt
+                      - generic [ref=f82e282]: Simon🍁
+                      - generic [ref=f82e286]: Sodapf
+                      - generic [ref=f82e290]: SoLovelyYes
+                      - generic [ref=f82e294]: Spacify
+                      - generic [ref=f82e298]: spiatf
+                      - generic [ref=f82e302]: Styrmir3755
+                      - generic [ref=f82e306]: sudal
+                      - generic [ref=f82e310]: Tac4y0n
+                      - generic [ref=f82e314]: Tickets
+                      - generic [ref=f82e318]: Tickets v2
+                      - generic [ref=f82e322]: Toppaleaf [Lvl. 0]
+                      - generic [ref=f82e326]: tsaagen
+                      - generic [ref=f82e330]: Twistee77
+                      - generic [ref=f82e334]: Uheailes
+                      - generic [ref=f82e338]: unstably_
+                      - generic [ref=f82e342]: Waifumipha4
+                      - generic [ref=f82e346]: Waize
+                      - generic [ref=f82e350]: Wanmai96💫
+                      - generic [ref=f82e354]: Wiki-Bot
+                      - generic [ref=f82e358]: Xarusaur
+                      - generic [ref=f82e362]: Xiwa
+                      - generic [ref=f82e363]:
+                        - generic [ref=f82e366]: XthxGhostedd
+                        - generic [ref=f82e367]: Roblox
+                      - generic [ref=f82e371]: Xuriious
+                      - generic [ref=f82e375]: XXNevaAngelXx
+                      - generic [ref=f82e379]: Yuukie
+                      - generic [ref=f82e383]: ღ ₊‧꒰ა. ᴡᴀʀꜱᴛʏᴋ ⼺ ‧₊˚
+                      - generic [ref=f82e387]: ᲼
+                      - generic [ref=f82e391]: ₊˚🦖 ₊˚DeinoRainboo ₊˚ʚ 🌱
+                      - generic [ref=f82e395]: ⊱ ۫ ׅ ✧ Hailey ✧ ۫ ׅ ۫⊱
+                      - generic [ref=f82e399]: ☆𝓩𝓾𝓻𝓲☆
+                      - generic [ref=f82e403]: ✰•.𝑺𝒉𝒍𝒊𝒕𝒉𝒓.•シ
+                      - generic [ref=f82e404]:
+                        - generic [ref=f82e407]: 你吃鍋貼你吃不膩嗎
+                        - generic [ref=f82e408]: Roblox
+                      - generic [ref=f82e412]: 𖥻 ⋮ esyra ⌖ ִֶָꜝꜝ⤸
+                      - generic [ref=f82e416]: 𝑨𝒔𝒕𝒓𝒂𝒔💭
+                      - generic [ref=f82e420]: 𝔐𝔞𝔡𝔞𝔪 ℭ𝔞𝔯𝔡𝔦𝔫𝔞𝔩
+                  - generic [ref=f82e422]: Hangout with people who get it
+              - paragraph [ref=e1915]: By clicking "Join Discord", you are leaving Fandom to access a third-party site (Discord). Fandom is not responsible for any content, conduct, or policies on external platforms. For questions about the Discord service, please refer to Discord's policies and support center.
+            - generic [ref=e1918]:
+              - generic [ref=e1919]:
+                - heading "Recent Images" [level=2] [ref=e1920]
+                - link [ref=e1921] [cursor=pointer]:
+                  - /url: https://www.fandom.com
+                  - img [ref=e1924]
+              - generic [ref=e1929]:
+                - list [ref=e1932]:
+                  - listitem [ref=e1933]:
+                    - generic [ref=e1935]:
+                      - link "FM Glaq 8.png" [ref=e1936] [cursor=pointer]:
+                        - /url: https://dragon-adventures.fandom.com/wiki/Glaquacus
+                        - img "FM Glaq 8.png" [ref=e1938]
+                      - generic [ref=e1939]:
+                        - link "Glaquacus" [ref=e1940] [cursor=pointer]:
+                          - /url: https://dragon-adventures.fandom.com/wiki/Glaquacus
+                          - heading "Glaquacus" [level=3] [ref=e1941]
+                        - time [ref=e1943]: 10 hours ago
+                  - listitem [ref=e1944]:
+                    - generic [ref=e1946]:
+                      - link "FM Glaq 7.png" [ref=e1947] [cursor=pointer]:
+                        - /url: https://dragon-adventures.fandom.com/wiki/Glaquacus
+                        - img "FM Glaq 7.png" [ref=e1949]
+                      - generic [ref=e1950]:
+                        - link "Glaquacus" [ref=e1951] [cursor=pointer]:
+                          - /url: https://dragon-adventures.fandom.com/wiki/Glaquacus
+                          - heading "Glaquacus" [level=3] [ref=e1952]
+                        - time [ref=e1954]: 10 hours ago
+                  - listitem [ref=e1955]:
+                    - generic [ref=e1957]:
+                      - link "FM Glaq 6.png" [ref=e1958] [cursor=pointer]:
+                        - /url: https://dragon-adventures.fandom.com/wiki/Glaquacus
+                        - img "FM Glaq 6.png" [ref=e1960]
+                      - generic [ref=e1961]:
+                        - link "Glaquacus" [ref=e1962] [cursor=pointer]:
+                          - /url: https://dragon-adventures.fandom.com/wiki/Glaquacus
+                          - heading "Glaquacus" [level=3] [ref=e1963]
+                        - time [ref=e1965]: 10 hours ago
+                - button "Go to next slide" [ref=e1966] [cursor=pointer]:
+                  - img [ref=e1967]
+    - contentinfo [ref=e1973]:
+      - generic [ref=e1974]:
+        - generic [ref=e1975]:
+          - heading "Fandom homepage" [level=2] [ref=e1976]:
+            - link "Fandom homepage" [ref=e1977] [cursor=pointer]:
+              - /url: https://www.fandom.com/
+              - img "Fandom logo" [ref=e1978]
+          - generic [ref=e1979]:
+            - heading "Explore properties" [level=3] [ref=e1980]
+            - list [ref=e1981]:
+              - listitem [ref=e1982]:
+                - link "Fandom" [ref=e1983] [cursor=pointer]:
+                  - /url: https://www.fandom.com/
+              - listitem [ref=e1984]:
+                - link "Fanatical" [ref=e1985] [cursor=pointer]:
+                  - /url: https://www.fanatical.com/
+              - listitem [ref=e1986]:
+                - link "GameSpot" [ref=e1987] [cursor=pointer]:
+                  - /url: https://www.gamespot.com/
+              - listitem [ref=e1988]:
+                - link "Metacritic" [ref=e1989] [cursor=pointer]:
+                  - /url: https://www.metacritic.com/
+              - listitem [ref=e1990]:
+                - link "TV Guide" [ref=e1991] [cursor=pointer]:
+                  - /url: https://www.tvguide.com/
+              - listitem [ref=e1992]:
+                - link "Honest Entertainment" [ref=e1993] [cursor=pointer]:
+                  - /url: https://www.youtube.com/user/screenjunkies
+          - generic [ref=e1994]:
+            - heading "Follow Us" [level=3] [ref=e1995]
+            - list [ref=e1996]:
+              - listitem [ref=e1997]:
+                - link "Follow Fandom on Facebook" [ref=e1998] [cursor=pointer]:
+                  - /url: https://www.facebook.com/getfandom
+                  - img [ref=e1999]
+              - listitem [ref=e2001]:
+                - link "Follow Fandom on Twitter" [ref=e2002] [cursor=pointer]:
+                  - /url: https://twitter.com/getfandom
+                  - img [ref=e2003]
+              - listitem [ref=e2005]:
+                - link "Follow Fandom on Youtube" [ref=e2006] [cursor=pointer]:
+                  - /url: https://www.youtube.com/fandomentertainment
+                  - img [ref=e2007]
+              - listitem [ref=e2009]:
+                - link "Follow Fandom on Instagram" [ref=e2010] [cursor=pointer]:
+                  - /url: https://www.instagram.com/getfandom/
+                  - img [ref=e2011]
+              - listitem [ref=e2013]:
+                - link "Follow Fandom on LinkedIn" [ref=e2014] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/157252
+                  - img [ref=e2015]
+        - generic [ref=e2018]:
+          - heading "Overview" [level=3] [ref=e2019]
+          - list [ref=e2020]:
+            - listitem [ref=e2021]:
+              - link "What is Fandom?" [ref=e2022] [cursor=pointer]:
+                - /url: https://www.fandom.com/what-is-fandom
+            - listitem [ref=e2023]:
+              - link "About" [ref=e2024] [cursor=pointer]:
+                - /url: https://www.fandom.com/about
+            - listitem [ref=e2025]:
+              - link "Careers" [ref=e2026] [cursor=pointer]:
+                - /url: https://www.fandom.com/careers
+            - listitem [ref=e2027]:
+              - link "Press" [ref=e2028] [cursor=pointer]:
+                - /url: https://www.fandom.com/press
+            - listitem [ref=e2029]:
+              - link "Contact" [ref=e2030] [cursor=pointer]:
+                - /url: https://www.fandom.com/about#contact
+            - listitem [ref=e2031]:
+              - link "Terms of Use" [ref=e2032] [cursor=pointer]:
+                - /url: https://www.fandom.com/terms-of-use
+            - listitem [ref=e2033]:
+              - link "Privacy Policy" [ref=e2034] [cursor=pointer]:
+                - /url: https://www.fandom.com/privacy-policy
+            - listitem [ref=e2035]:
+              - link "Digital Services Act" [ref=e2036] [cursor=pointer]:
+                - /url: https://www.fandom.com/digital-services-act
+            - listitem [ref=e2037]:
+              - link "Global Sitemap" [ref=e2038] [cursor=pointer]:
+                - /url: //community.fandom.com/Sitemap
+            - listitem [ref=e2039]:
+              - link "Local Sitemap" [ref=e2040] [cursor=pointer]:
+                - /url: /wiki/Local_Sitemap
+            - listitem [ref=e2041]:
+              - button "Cookies Settings" [ref=e2042]
+        - generic [ref=e2043]:
+          - generic [ref=e2044]:
+            - heading "Community" [level=3] [ref=e2045]
+            - list [ref=e2046]:
+              - listitem [ref=e2047]:
+                - link "Community Central" [ref=e2048] [cursor=pointer]:
+                  - /url: //community.fandom.com/wiki/Community_Central
+              - listitem [ref=e2049]:
+                - link "Support" [ref=e2050] [cursor=pointer]:
+                  - /url: https://fandom.zendesk.com/
+              - listitem [ref=e2051]:
+                - link "Help" [ref=e2052] [cursor=pointer]:
+                  - /url: //community.fandom.com/wiki/Help:Contents
+          - generic [ref=e2053]:
+            - heading "Advertise" [level=3] [ref=e2054]
+            - list [ref=e2055]:
+              - listitem [ref=e2056]:
+                - link "Media Kit" [ref=e2057] [cursor=pointer]:
+                  - /url: https://about.fandom.com/mediakit
+              - listitem [ref=e2058]:
+                - link "Contact" [ref=e2059] [cursor=pointer]:
+                  - /url: https://about.fandom.com/mediakit#contact
+        - generic [ref=e2060]:
+          - generic [ref=e2061]:
+            - heading "Fandom Apps" [level=3] [ref=e2062]
+            - text: Take your favorite fandoms with you and never miss a beat.
+          - generic [ref=e2063]:
+            - img "Fandom App logo" [ref=e2064]
+            - list [ref=e2065]:
+              - listitem [ref=e2066]:
+                - link "Fandom's Apple Store" [ref=e2067] [cursor=pointer]:
+                  - /url: https://apps.apple.com/us/app/fandom-videos-news-reviews/id1230063803
+                  - img "Store icon" [ref=e2068]
+              - listitem [ref=e2069]:
+                - link "Fandom's Google Play" [ref=e2070] [cursor=pointer]:
+                  - /url: https://play.google.com/store/apps/details?id=com.fandom.app&referrer=utm_source%3Dwikia%26utm_medium%3Dglobalfooter
+                  - img "Store icon" [ref=e2071]
+      - generic [ref=e2072]:
+        - generic [ref=e2073]: Dragon Adventures Wiki is a Fandom Games Community.
+        - button "View Mobile Site" [ref=e2075]
+  - generic: Cookies Settings
+  - generic [ref=e2080]:
+    - banner [ref=e2081]:
+      - img "FandomLogo" [ref=e2083]
+      - generic [ref=e2084]:
+        - text: Please help us personalize
+        - text: your experience!
+    - generic [ref=e2085]:
+      - generic [ref=e2086]:
+        - img "adult" [ref=e2087]
+        - button "I'm an adult" [ref=e2088] [cursor=pointer]
+      - generic [ref=e2089]:
+        - img "kid" [ref=e2090]
+        - button "I'm a kid" [ref=e2091] [cursor=pointer]

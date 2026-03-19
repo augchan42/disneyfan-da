@@ -1,0 +1,821 @@
+- generic [active] [ref=e1]:
+  - navigation "Fandom top navigation" [ref=e2]:
+    - link "Fandom homepage" [ref=e3] [cursor=pointer]:
+      - /url: https://www.fandom.com/
+      - img [ref=e4]
+    - generic [ref=e7]:
+      - textbox "Search" [ref=e8]
+      - img [ref=e9]
+    - generic [ref=e11]:
+      - link "Sign In" [ref=e13] [cursor=pointer]:
+        - /url: https://auth.fandom.com/signin?source=mw&redirect=https%3A%2F%2Fdragon-adventures.fandom.com%2Fwiki%2FTrading
+      - link "Register" [ref=e15] [cursor=pointer]:
+        - /url: https://auth.fandom.com/register?source=mw&redirect=https%3A%2F%2Fdragon-adventures.fandom.com%2Fwiki%2FTrading
+  - generic "Community navigation" [ref=e16]:
+    - link "Fandom homepage" [ref=e18] [cursor=pointer]:
+      - /url: https://www.fandom.com/
+      - img [ref=e19]
+    - link "Dragon Adventures Wiki" [ref=e21] [cursor=pointer]:
+      - /url: https://dragon-adventures.fandom.com/wiki/Dragon_Adventures_Wiki
+      - img "Dragon Adventures Wiki" [ref=e22]
+    - navigation [ref=e23]:
+      - list [ref=e24]:
+        - listitem [ref=e25]:
+          - generic [ref=e26]:
+            - generic [ref=e27] [cursor=pointer]:
+              - img [ref=e28]
+              - generic [ref=e30]: Explore
+            - img "Expand" [ref=e31]
+        - listitem [ref=e33]:
+          - generic [ref=e34]:
+            - generic [ref=e36] [cursor=pointer]: Dragons
+            - img "Expand" [ref=e37]
+        - listitem [ref=e39]:
+          - generic [ref=e40]:
+            - generic [ref=e42] [cursor=pointer]: Worlds and Events
+            - img "Expand" [ref=e43]
+        - listitem [ref=e45]:
+          - generic [ref=e46]:
+            - generic [ref=e48] [cursor=pointer]: Game Information
+            - img "Expand" [ref=e49]
+        - listitem [ref=e51]:
+          - generic [ref=e52]:
+            - generic [ref=e54] [cursor=pointer]: Community Information
+            - img "Expand" [ref=e55]
+    - button "Open searchbar" [ref=e58] [cursor=pointer]:
+      - img [ref=e59]
+    - generic [ref=e61]:
+      - link "Discuss" [ref=e62] [cursor=pointer]:
+        - /url: /f
+        - img
+      - link "Switch to Light Theme" [ref=e63] [cursor=pointer]:
+        - /url: "#"
+        - img
+    - link "Sign In" [ref=e66] [cursor=pointer]:
+      - /url: https://auth.fandom.com/signin?source=mw&redirect=https%3A%2F%2Fdragon-adventures.fandom.com%2Fwiki%2FTrading
+      - generic [ref=e67]:
+        - img
+        - text: Sign In
+  - navigation "Fandom navigation" [ref=e70]:
+    - generic [ref=e71]:
+      - button "Menu" [ref=e73] [cursor=pointer]:
+        - generic [ref=e74]:
+          - img [ref=e76]
+          - generic [ref=e78]: Menu
+      - button "Explore" [ref=e80] [cursor=pointer]:
+        - generic [ref=e81]:
+          - img [ref=e83]
+          - generic [ref=e86]: Explore
+    - generic [ref=e88]:
+      - generic [ref=e89]: Recent
+      - generic [ref=e90]:
+        - link "Alchemy" [ref=e93] [cursor=pointer]:
+          - /url: https://dragon-adventures.fandom.com/wiki/Alchemy
+          - img "Alchemy" [ref=e94]
+        - link "Mutations" [ref=e97] [cursor=pointer]:
+          - /url: https://dragon-adventures.fandom.com/wiki/Mutations
+          - img "Mutations" [ref=e98]
+        - link "Potions" [ref=e101] [cursor=pointer]:
+          - /url: https://dragon-adventures.fandom.com/wiki/Potions
+          - img "Potions" [ref=e102]
+        - link "Stables" [ref=e105] [cursor=pointer]:
+          - /url: https://dragon-adventures.fandom.com/wiki/Stables
+          - img "Stables" [ref=e106]
+        - link "Dragon Seasons" [ref=e109] [cursor=pointer]:
+          - /url: https://dragon-adventures.fandom.com/wiki/Dragon_Seasons
+          - img "Dragon Seasons" [ref=e110]
+    - button "More" [ref=e112] [cursor=pointer]:
+      - generic [ref=e113]:
+        - img [ref=e115]
+        - generic [ref=e117]: More
+  - generic [ref=e118]:
+    - generic [ref=e123]: Advertisement
+    - generic [ref=e125]:
+      - link "Skip to content" [ref=e126] [cursor=pointer]:
+        - /url: "#page-header"
+      - banner [ref=e128]:
+        - link "Dragon Adventures Wiki" [ref=e129] [cursor=pointer]:
+          - /url: https://dragon-adventures.fandom.com/wiki/Dragon_Adventures_Wiki
+          - img "Dragon Adventures Wiki" [ref=e130]
+        - generic [ref=e131]:
+          - link "Dragon Adventures Wiki" [ref=e133] [cursor=pointer]:
+            - /url: https://dragon-adventures.fandom.com/wiki/Dragon_Adventures_Wiki
+          - generic [ref=e134]:
+            - generic [ref=e135]: "828"
+            - generic [ref=e136]: pages
+          - generic [ref=e137]:
+            - link "Discuss" [ref=e138] [cursor=pointer]:
+              - /url: /f
+              - img
+            - link "Switch to Light Theme" [ref=e139] [cursor=pointer]:
+              - /url: "#"
+              - img
+        - navigation [ref=e140]:
+          - list [ref=e141]:
+            - listitem [ref=e142]:
+              - generic [ref=e143]:
+                - generic [ref=e144] [cursor=pointer]:
+                  - img [ref=e145]
+                  - generic [ref=e147]: Explore
+                - img "Expand" [ref=e148]
+            - listitem [ref=e150]:
+              - generic [ref=e151]:
+                - generic [ref=e153] [cursor=pointer]: Dragons
+                - img "Expand" [ref=e154]
+            - listitem [ref=e156]:
+              - generic [ref=e157]:
+                - generic [ref=e159] [cursor=pointer]: Worlds and Events
+                - img "Expand" [ref=e160]
+            - listitem [ref=e162]:
+              - generic [ref=e163]:
+                - generic [ref=e165] [cursor=pointer]: Game Information
+                - img "Expand" [ref=e166]
+            - listitem [ref=e168]:
+              - generic [ref=e169]:
+                - generic [ref=e171] [cursor=pointer]: Community Information
+                - img "Expand" [ref=e172]
+      - generic [ref=e174]:
+        - main [ref=e175]:
+          - generic [ref=e177]:
+            - generic "Contents" [ref=e178]:
+              - button "Contents" [ref=e179] [cursor=pointer]:
+                - img [ref=e180]
+              - text: . . . . . .
+            - link "View source" [ref=e182] [cursor=pointer]:
+              - /url: /wiki/Trading?action=edit
+              - img [ref=e183]
+          - generic [ref=e185]:
+            - generic [ref=e188]:
+              - text: "in:"
+              - link "Features" [ref=e189] [cursor=pointer]:
+                - /url: /wiki/Category:Features
+              - text: ","
+              - link "Information" [ref=e190] [cursor=pointer]:
+                - /url: /wiki/Category:Information
+            - generic [ref=e191]:
+              - heading "Trading" [level=1] [ref=e193]
+              - generic [ref=e194]:
+                - link "Comments" [ref=e195] [cursor=pointer]:
+                  - /url: "#articleComments"
+                  - generic [ref=e196]: "333"
+                  - img
+                - link "View source" [ref=e197] [cursor=pointer]:
+                  - /url: /wiki/Trading?action=edit
+                  - img
+                  - text: View source
+                - button "Page Tools" [ref=e199]:
+                  - img
+          - generic [ref=e204]:
+            - figure "Trading icon" [ref=e205]:
+              - link "Trading icon view image" [ref=e206] [cursor=pointer]:
+                - /url: https://static.wikia.nocookie.net/dragon-adventures/images/b/b3/Trading_Icon.png/revision/latest?cb=20211011072318
+                - img "Trading icon" [ref=e207]
+                - generic "view image" [ref=e210]:
+                  - img [ref=e211]
+              - paragraph [ref=e214]: Trading icon
+            - paragraph [ref=e215]:
+              - text: Trading is a feature that allows one player to exchange items to another player. Players can trade
+              - link "dragons" [ref=e216] [cursor=pointer]:
+                - /url: /wiki/Official_Dragons
+              - text: ","
+              - link "eggs" [ref=e217] [cursor=pointer]:
+                - /url: /wiki/Eggs
+              - text: ","
+              - link "potions" [ref=e218] [cursor=pointer]:
+                - /url: /wiki/Potions
+              - text: ", and items such as"
+              - link "food" [ref=e219] [cursor=pointer]:
+                - /url: /wiki/Food
+              - text: ","
+              - link "resources" [ref=e220] [cursor=pointer]:
+                - /url: /wiki/Resources
+              - text: ","
+              - link "healing items" [ref=e221] [cursor=pointer]:
+                - /url: /wiki/Healing_Items
+              - text: ", and"
+              - link "accessories" [ref=e222] [cursor=pointer]:
+                - /url: /wiki/Accessories
+              - text: .
+            - paragraph [ref=e223]
+            - navigation "Contents" [ref=e224]:
+              - button "show" [ref=e225]
+              - generic [ref=e226]:
+                - heading "Contents" [level=2] [ref=e227]:
+                  - img [ref=e228]
+                  - text: Contents
+                - generic [ref=e230]:
+                  - text: "["
+                  - generic "show" [ref=e231] [cursor=pointer]: hide
+                  - text: "]"
+              - list [ref=e232]:
+                - listitem [ref=e233]:
+                  - link "1. Mechanics" [ref=e234] [cursor=pointer]:
+                    - /url: "#Mechanics"
+                    - generic [ref=e235]: "1."
+                    - generic [ref=e236]: Mechanics
+                  - list [ref=e237]:
+                    - listitem [ref=e238]:
+                      - link "1.1. Trading" [ref=e239] [cursor=pointer]:
+                        - /url: "#Trading"
+                        - generic [ref=e240]: 1.1.
+                        - generic [ref=e241]: Trading
+                      - list [ref=e242]:
+                        - listitem [ref=e243]:
+                          - link "1.1.1. Accepting" [ref=e244] [cursor=pointer]:
+                            - /url: "#Accepting"
+                            - generic [ref=e245]: 1.1.1.
+                            - generic [ref=e246]: Accepting
+                    - listitem [ref=e247]:
+                      - link "1.2. Tradable & Untradable Items" [ref=e248] [cursor=pointer]:
+                        - /url: "#Tradable_&_Untradable_Items"
+                        - generic [ref=e249]: 1.2.
+                        - generic [ref=e250]: Tradable & Untradable Items
+                - listitem [ref=e251]:
+                  - link "2. Trivia" [ref=e252] [cursor=pointer]:
+                    - /url: "#Trivia"
+                    - generic [ref=e253]: "2."
+                    - generic [ref=e254]: Trivia
+                - listitem [ref=e255]:
+                  - link "3. References" [ref=e256] [cursor=pointer]:
+                    - /url: "#References"
+                    - generic [ref=e257]: "3."
+                    - generic [ref=e258]: References
+            - heading "Mechanics" [level=2] [ref=e259]: Mechanics
+            - figure "Trade request" [ref=e260]:
+              - link "Trade request view image" [ref=e261] [cursor=pointer]:
+                - /url: https://static.wikia.nocookie.net/dragon-adventures/images/c/ca/Trade_Request_Example.png/revision/latest?cb=20240922171801
+                - img "Trade request" [ref=e262]
+                - generic "view image" [ref=e265]:
+                  - img [ref=e266]
+              - paragraph [ref=e269]: Trade request
+            - paragraph [ref=e270]: In order for a player to trade with another user, they must first send a trade request to another player from the Social tab or interact with their avatar directly. If the other player accepts, a menu will be brought up showing a separated grid between both users containing nine tiles each, with "Cancel" and "Accept" options below.
+            - paragraph [ref=e271]:
+              - text: Trade requests may be allowed to all players, only to the player's friends, or no one. These toggles may be found under
+              - link "Settings" [ref=e273] [cursor=pointer]:
+                - /url: https://static.wikia.nocookie.net/dragon-adventures/images/9/91/Settings.png/revision/latest?cb=20211011072318
+                - img "Settings" [ref=e274]
+              - text: settings in the
+              - link "Menu" [ref=e276] [cursor=pointer]:
+                - /url: https://static.wikia.nocookie.net/dragon-adventures/images/9/99/Menu.png/revision/latest?cb=20211011072337
+                - img "Menu" [ref=e277]
+              - text: Menu under "Trade Requests."
+            - heading "Trading" [level=3] [ref=e278]: Trading
+            - generic [ref=e280]:
+              - generic [ref=e281]:
+                - generic:
+                  - generic "Previous photo" [ref=e282] [cursor=pointer]:
+                    - img [ref=e283]
+                  - generic "Next photo" [ref=e285] [cursor=pointer]:
+                    - img [ref=e286]
+                - list [ref=e288]:
+                  - listitem [ref=e289]:
+                    - generic "Expand slideshow" [ref=e290]:
+                      - img "Trading interface" [ref=e291] [cursor=pointer]
+                    - generic [ref=e293]: Trading interface
+              - generic [ref=e295]: 1/2
+            - paragraph [ref=e296]:
+              - text: The player can add items to their trade via the plus icon. When selected, "Trade Items" and "Trade Dragons" will be displayed. If the player selects "Trade Items", their
+              - link "inventory" [ref=e297] [cursor=pointer]:
+                - /url: /wiki/Inventory
+              - text: will show up and they will be able to select any applicable
+              - link "item" [ref=e298] [cursor=pointer]:
+                - /url: /wiki/Category:Items
+              - text: and give it a set amount. If the player selects "Trade Dragons", their
+              - link "Lair" [ref=e299] [cursor=pointer]:
+                - /url: /wiki/Lair
+              - text: will show up and the player will be able to select any non-favorited
+              - link "dragon" [ref=e300] [cursor=pointer]:
+                - /url: /wiki/Official_Dragons
+              - text: (s). A player may trade up to nine distinct items and/or dragons. Any dragon put in the trade will display its species name and may be inspected to display any of its information by clicking on it.
+            - paragraph [ref=e301]:
+              - text: Once an item or dragon is added, it cannot be removed from the trade unless the player cancels the trade. Note that items that are not found in the player's inventory or Lair cannot be traded, including currencies such as coins,
+              - link "base" [ref=e302] [cursor=pointer]:
+                - /url: /wiki/Bases
+              - text: buildings or plot themes,
+              - link "UGC" [ref=e303] [cursor=pointer]:
+                - /url: /wiki/UGC
+              - text: accessories, or
+              - link "Premium Shop" [ref=e304] [cursor=pointer]:
+                - /url: /wiki/Premium_Shop
+              - text: content like
+              - link "gamepasses" [ref=e305] [cursor=pointer]:
+                - /url: /wiki/Premium_Shop#Gamepasses
+              - text: or
+              - link "bundles" [ref=e306] [cursor=pointer]:
+                - /url: /wiki/Bundles
+              - text: .
+            - heading "Accepting" [level=4] [ref=e307]: Accepting
+            - paragraph [ref=e308]:
+              - text: When the player is content with what is in their trade, they may click "Accept." A green checkmark
+              - link "Check" [ref=e310] [cursor=pointer]:
+                - /url: https://static.wikia.nocookie.net/dragon-adventures/images/2/2a/Check.png/revision/latest?cb=20211011072345
+                - img "Check" [ref=e311]
+              - text: icon will appear over their side of the trade. To cancel the confirmation, the player may click the Accept option once more. Both players may also click "Cancel" to end the trade entirely at any time.
+            - paragraph [ref=e312]: The trade will only be confirmed for both parties when both players accept. During this 10-second timeframe, either player may click "Accept" again to cancel their confirmation or decline the trade. Each player will be given the other player's item(s) that were put in the trade, if any, after the trade successfully goes through.
+            - paragraph [ref=e313]: If a player receives too many of an item that goes past their dragon or inventory limit, the trade will be declined and both users will be refunded whatever items they put in the trade.
+            - heading "Tradable & Untradable Items" [level=3] [ref=e314]: Tradable & Untradable Items
+            - paragraph [ref=e315]: A majority of items are tradable in Dragon Adventures, however there are a few select items that cannot be traded.
+            - table "Tradable & Untradable Items" [ref=e316]:
+              - caption [ref=e317]: Tradable & Untradable Items
+              - rowgroup [ref=e318]:
+                - row "Tradable Untradable" [ref=e319]:
+                  - columnheader [ref=e320]
+                  - columnheader "Tradable" [ref=e321]
+                  - columnheader "Untradable" [ref=e322]
+                - 'row "Items All non-event food items All event food items, including: [▼]" [ref=e323]':
+                  - rowheader "Items" [ref=e324]
+                  - cell "All non-event food items" [ref=e325]:
+                    - text: All non-event
+                    - link "food" [ref=e326] [cursor=pointer]:
+                      - /url: /wiki/Food
+                    - text: items
+                  - 'cell "All event food items, including: [▼]" [ref=e327]':
+                    - text: "All event food items, including:"
+                    - button "[▼]" [ref=e328] [cursor=pointer]
+                - row "All healing items" [ref=e329]:
+                  - cell "All healing items" [ref=e330]:
+                    - text: All
+                    - link "healing items" [ref=e331] [cursor=pointer]:
+                      - /url: /wiki/Healing_Items
+                  - cell [ref=e332]
+                - 'row "All non-event, non-fertilizer resources All event resource and fertilizer items, including: [▼]" [ref=e333]':
+                  - cell "All non-event, non-fertilizer resources" [ref=e334]:
+                    - text: All non-event, non-fertilizer
+                    - link "resources" [ref=e335] [cursor=pointer]:
+                      - /url: /wiki/Resources
+                  - 'cell "All event resource and fertilizer items, including: [▼]" [ref=e336]':
+                    - text: "All event resource and fertilizer items, including:"
+                    - button "[▼]" [ref=e337] [cursor=pointer]
+                - row "All potions" [ref=e338]:
+                  - cell "All potions" [ref=e339]:
+                    - text: All
+                    - link "potions" [ref=e340] [cursor=pointer]:
+                      - /url: /wiki/Potions
+                  - cell [ref=e341]
+                - row "All Guild Wars and world eggs, most event eggs, Accessory Egg, Shadow Egg, and Spinner Egg Co Hatch Egg, Imbued Fireworks Egg, Mountain Dragon Egg, Shinrin X Lego NINJAGO Dragon's Rising Egg, Stormbound Egg, Tutorial Egg, Veidreki Egg, Whispering Egg, and Wild Egg" [ref=e342]:
+                  - cell "All Guild Wars and world eggs, most event eggs, Accessory Egg, Shadow Egg, and Spinner Egg" [ref=e343]:
+                    - text: All Guild Wars and world
+                    - link "eggs" [ref=e344] [cursor=pointer]:
+                      - /url: /wiki/Eggs
+                    - text: ", most event eggs,"
+                    - link "Accessory Egg" [ref=e345] [cursor=pointer]:
+                      - /url: /wiki/Accessory_Egg
+                    - text: ","
+                    - link "Shadow Egg" [ref=e346] [cursor=pointer]:
+                      - /url: /wiki/Shadow_Egg
+                    - text: ", and"
+                    - link "Spinner Egg" [ref=e347] [cursor=pointer]:
+                      - /url: /wiki/Spinner_Egg
+                  - cell "Co Hatch Egg, Imbued Fireworks Egg, Mountain Dragon Egg, Shinrin X Lego NINJAGO Dragon's Rising Egg, Stormbound Egg, Tutorial Egg, Veidreki Egg, Whispering Egg, and Wild Egg" [ref=e348]:
+                    - link "Co Hatch Egg" [ref=e349] [cursor=pointer]:
+                      - /url: /wiki/Co_Hatch_Egg
+                    - text: ","
+                    - link "Imbued Fireworks Egg" [ref=e350] [cursor=pointer]:
+                      - /url: /wiki/Imbued_Fireworks_Egg
+                    - text: ","
+                    - link "Mountain Dragon Egg" [ref=e351] [cursor=pointer]:
+                      - /url: /wiki/Mountain_Dragon_Egg
+                    - text: ","
+                    - link "Shinrin X Lego NINJAGO Dragon's Rising Egg" [ref=e352] [cursor=pointer]:
+                      - /url: /wiki/Shinrin_X_Lego_NINJAGO_Dragon%27s_Rising_Egg
+                    - text: ","
+                    - link "Stormbound Egg" [ref=e353] [cursor=pointer]:
+                      - /url: /wiki/Stormbound_Egg
+                    - text: ","
+                    - link "Tutorial Egg" [ref=e354] [cursor=pointer]:
+                      - /url: /wiki/Tutorial_Egg
+                    - text: ","
+                    - link "Veidreki Egg" [ref=e355] [cursor=pointer]:
+                      - /url: /wiki/Veidreki_Egg
+                    - text: ","
+                    - link "Whispering Egg" [ref=e356] [cursor=pointer]:
+                      - /url: /wiki/Whispering_Egg
+                    - text: ", and"
+                    - link "Wild Egg" [ref=e357] [cursor=pointer]:
+                      - /url: /wiki/Wild_Egg
+                - row "All accessories" [ref=e358]:
+                  - cell "All accessories" [ref=e359]:
+                    - text: All
+                    - link "accessories" [ref=e360] [cursor=pointer]:
+                      - /url: /wiki/Accessories
+                  - cell [ref=e361]
+                - row "Other inventory items, including all tools, cosmetics, and flairs" [ref=e362]:
+                  - cell [ref=e363]
+                  - cell "Other inventory items, including all tools, cosmetics, and flairs" [ref=e364]:
+                    - text: Other inventory items, including all
+                    - link "tools" [ref=e365] [cursor=pointer]:
+                      - /url: /wiki/Tools
+                    - text: ","
+                    - link "cosmetics" [ref=e366] [cursor=pointer]:
+                      - /url: /wiki/Cosmetics
+                    - text: ", and"
+                    - link "flairs" [ref=e367] [cursor=pointer]:
+                      - /url: /wiki/Flairs
+                - row "Most dragons Riyu, Source Dragon of Motion, and Source Dragon of Energy" [ref=e368]:
+                  - cell "Most dragons" [ref=e369]:
+                    - text: Most
+                    - link "dragons" [ref=e370] [cursor=pointer]:
+                      - /url: /wiki/Official_Dragons
+                  - cell "Riyu, Source Dragon of Motion, and Source Dragon of Energy" [ref=e371]:
+                    - link "Riyu" [ref=e372] [cursor=pointer]:
+                      - /url: /wiki/Riyu
+                    - text: ","
+                    - link "Source Dragon of Motion" [ref=e373] [cursor=pointer]:
+                      - /url: /wiki/Source_Dragon_of_Motion
+                    - text: ", and"
+                    - link "Source Dragon of Energy" [ref=e374] [cursor=pointer]:
+                      - /url: /wiki/Source_Dragon_of_Energy
+            - heading "Trivia" [level=2] [ref=e375]: Trivia
+            - list [ref=e376]:
+              - listitem [ref=e377]:
+                - text: Trading was added alongside
+                - link "Co-Hatching" [ref=e378] [cursor=pointer]:
+                  - /url: /wiki/Co-Hatching
+                - text: on September 29th, 2019, at roughly 8:00 PM EST.
+                - list [ref=e379]:
+                  - listitem [ref=e380]:
+                    - text: Both features were put on a poll hosted on August 24th, 2019, alongside the options' "parties", "
+                    - link "guilds" [ref=e381] [cursor=pointer]:
+                      - /url: /wiki/Guilds
+                    - text: "\", \"more"
+                    - link "potions" [ref=e382] [cursor=pointer]:
+                      - /url: /wiki/Potions
+                    - text: "\", and \"more"
+                    - link "worlds" [ref=e383] [cursor=pointer]:
+                      - /url: /wiki/Worlds
+                    - text: "\". Co-Hatching came out with the most votes with trading not far behind."
+                    - superscript [ref=e384]:
+                      - link "Reference 1" [ref=e385] [cursor=pointer]:
+                        - /url: "#cite_note-1"
+                        - text: "[1]"
+            - heading "References" [level=2] [ref=e386]: References
+            - list [ref=e388]:
+              - listitem [ref=e389]:
+                - link "Jump up" [ref=e391] [cursor=pointer]:
+                  - /url: "#cite_ref-1"
+                  - text: ↑
+                - link "https://discord.com/channels/346515443869286410/434191386137329664/614916843878088723" [ref=e393] [cursor=pointer]:
+                  - /url: https://discord.com/channels/346515443869286410/434191386137329664/614916843878088723
+            - generic [ref=e394]:
+              - paragraph
+              - generic [ref=e395]: Please refrain from posting your trading offers on this page!
+              - paragraph [ref=e397]:
+                - text: Instead, post them to our
+                - link "discussions" [ref=e398] [cursor=pointer]:
+                  - /url: https://dragon-adventures.fandom.com/f
+                - text: section under the correct category.
+                - text: A list of our categories and what they're used for can be found on the
+                - link "Wiki Rules and Guidelines" [ref=e399] [cursor=pointer]:
+                  - /url: /wiki/Wiki_Rules_and_Guidelines
+                - text: page.
+          - generic [ref=e400]:
+            - generic "Toggle Categories" [ref=e401]:
+              - generic [ref=e402] [cursor=pointer]:
+                - text: Categories
+                - img [ref=e403]
+            - generic [ref=e405]:
+              - text: Community content is available under
+              - link "CC-BY-SA" [ref=e406] [cursor=pointer]:
+                - /url: https://www.fandom.com/licensing
+              - text: unless otherwise noted.
+            - generic [ref=e407]:
+              - generic [ref=e408]:
+                - generic [ref=e409]: More Fandoms
+                - list [ref=e411]:
+                  - listitem [ref=e412]:
+                    - link "Fantasy" [ref=e413] [cursor=pointer]:
+                      - /url: https://www.fandom.com/fancentral/fantasy
+              - generic [ref=e415]:
+                - paragraph [ref=e418]: 333 Comments
+                - generic [ref=e419]:
+                  - img [ref=e421]
+                  - heading "Join the conversation" [level=3] [ref=e423]
+                  - heading "Sign in to read what others are saying and share your thoughts." [level=4] [ref=e424]
+                  - link "SIGN IN" [ref=e425] [cursor=pointer]:
+                    - /url: /login?metadata=anonymous-article-comments-login-source&redirect=https%3A%2F%2Fdragon-adventures.fandom.com%2Fwiki%2FTrading%3Fanon-comments-auth-source%3Dlogin%23articleComments
+                  - paragraph [ref=e426]:
+                    - text: Don't have account?
+                    - link "Register now" [ref=e427] [cursor=pointer]:
+                      - /url: /register?metadata=anonymous-article-comments-register-source&redirect=https%3A%2F%2Fdragon-adventures.fandom.com%2Fwiki%2FTrading%3Fanon-comments-auth-source%3Dregister%23articleComments
+        - complementary [ref=e428]:
+          - generic [ref=e432]:
+            - generic [ref=e433]:
+              - iframe [ref=e434]:
+                - generic [ref=f238e1]:
+                  - generic [ref=f238e2]:
+                    - link [ref=f238e3] [cursor=pointer]:
+                      - /url: https://discord.com?utm_source=Discord%20Widget&utm_medium=Logo
+                    - generic [ref=f238e4]:
+                      - strong [ref=f238e5]: "101"
+                      - text: Members Online
+                  - generic [ref=f238e7]:
+                    - generic [ref=f238e8]: Members Online
+                    - generic [ref=f238e9]:
+                      - generic [ref=f238e13]: Activeeeeee
+                      - generic [ref=f238e14]:
+                        - generic [ref=f238e17]: Ak.
+                        - generic [ref=f238e18]: Modrinth
+                      - generic [ref=f238e19]:
+                        - generic [ref=f238e22]: AkDaQa
+                        - generic [ref=f238e23]: Valheim (Game Preview)
+                      - generic [ref=f238e27]: apostle of hate
+                      - generic [ref=f238e31]: Artistical Jenius
+                      - generic [ref=f238e35]: AutoReacter
+                      - generic [ref=f238e39]: BarbwireBats
+                      - generic [ref=f238e43]: Beeboibuzz1200
+                      - generic [ref=f238e47]: bipi
+                      - generic [ref=f238e51]: Bluble1234 [Lvl. 29]
+                      - generic [ref=f238e55]: Chip88898
+                      - generic [ref=f238e59]: CookieDoom
+                      - generic [ref=f238e63]: Cynderrina
+                      - generic [ref=f238e64]:
+                        - generic [ref=f238e67]: DatOneWolfeh
+                        - generic [ref=f238e68]: Roblox
+                      - generic [ref=f238e72]: Dirag
+                      - generic [ref=f238e73]:
+                        - generic [ref=f238e76]: e...
+                        - generic [ref=f238e77]: Roblox
+                      - generic [ref=f238e81]: ELYSIAFAN69
+                      - generic [ref=f238e82]:
+                        - generic [ref=f238e85]: Em
+                        - generic [ref=f238e86]: Roblox
+                      - generic [ref=f238e90]: Embed Generator
+                      - generic [ref=f238e94]: EmiliosZK
+                      - generic [ref=f238e98]: Engauge
+                      - generic [ref=f238e102]: erpggf
+                      - generic [ref=f238e106]: Fibo
+                      - generic [ref=f238e110]: FireIceSale
+                      - generic [ref=f238e111]:
+                        - generic [ref=f238e114]: ghorgh
+                        - generic [ref=f238e115]: Roblox
+                      - generic [ref=f238e119]: GhostBrimstone
+                      - generic [ref=f238e123]: GorePaws
+                      - generic [ref=f238e127]: I am random lolz
+                      - generic [ref=f238e131]: Immortality
+                      - generic [ref=f238e135]: IncandescentDreams
+                      - generic [ref=f238e139]: ItzDaVicky
+                      - generic [ref=f238e143]: ivekret.
+                      - generic [ref=f238e147]: Junaiperrrrr
+                      - generic [ref=f238e151]: KapustaLangusta [Lvl. 2]
+                      - generic [ref=f238e155]: Kenzeren
+                      - generic [ref=f238e159]: Kiarav
+                      - generic [ref=f238e160]:
+                        - generic [ref=f238e163]: Kio
+                        - generic [ref=f238e164]: Roblox
+                      - generic [ref=f238e168]: Kqedeee
+                      - generic [ref=f238e172]: Lommiko
+                      - generic [ref=f238e176]: Looky
+                      - generic [ref=f238e180]: Luuuuuuuup.
+                      - generic [ref=f238e184]: Manow
+                      - generic [ref=f238e188]: MerianTheNighthunter [Lvl. 1]
+                      - generic [ref=f238e189]:
+                        - generic [ref=f238e192]: Miku_kratos
+                        - generic [ref=f238e193]: WWE 2K24
+                      - generic [ref=f238e197]: Minnipanther
+                      - generic [ref=f238e201]: mium
+                      - generic [ref=f238e205]: Mizurrin
+                      - generic [ref=f238e209]: Mizzuchi [Lvl. 1]
+                      - generic [ref=f238e213]: Nabi 🦋
+                      - generic [ref=f238e217]: Nerys
+                      - generic [ref=f238e218]:
+                        - generic [ref=f238e221]: Nettitheyetti14
+                        - generic [ref=f238e222]: Minecraft
+                      - generic [ref=f238e226]: nonchalant mhtsakos
+                      - generic [ref=f238e230]: ObsidianSunset
+                      - generic [ref=f238e234]: OKA ITF VmanSam
+                      - generic [ref=f238e238]: Pharmakon
+                      - generic [ref=f238e242]: PressXToDad
+                      - generic [ref=f238e246]: pretzel
+                      - generic [ref=f238e250]: Reaction Roles
+                      - generic [ref=f238e251]:
+                        - generic [ref=f238e254]: Roblox Verification
+                        - generic [ref=f238e255]: /invite | blox.link
+                      - generic [ref=f238e259]: Rocktzys
+                      - generic [ref=f238e263]: Ryuu581
+                      - generic [ref=f238e267]: Sapphire
+                      - generic [ref=f238e271]: Senfino
+                      - generic [ref=f238e275]: SharkenedSchizo
+                      - generic [ref=f238e279]: Sharknautica
+                      - generic [ref=f238e283]: Shunt
+                      - generic [ref=f238e287]: Simon🍁
+                      - generic [ref=f238e291]: SinisterEternity
+                      - generic [ref=f238e295]: Sodapf
+                      - generic [ref=f238e299]: SoLovelyYes
+                      - generic [ref=f238e303]: Spacify
+                      - generic [ref=f238e307]: spiatf
+                      - generic [ref=f238e311]: sudal
+                      - generic [ref=f238e315]: Tac4y0n
+                      - generic [ref=f238e319]: TheMissusOfA
+                      - generic [ref=f238e320]:
+                        - generic [ref=f238e323]: Tickets
+                        - generic [ref=f238e324]: with 758630 tickets
+                      - generic [ref=f238e328]: Tickets v2
+                      - generic [ref=f238e332]: Toppaleaf [Lvl. 0]
+                      - generic [ref=f238e336]: tsaagen
+                      - generic [ref=f238e340]: Twistee77
+                      - generic [ref=f238e344]: Uheailes
+                      - generic [ref=f238e348]: ViviVesper
+                      - generic [ref=f238e352]: Waifumipha4
+                      - generic [ref=f238e356]: Waize
+                      - generic [ref=f238e360]: Wiki-Bot
+                      - generic [ref=f238e364]: Xarusaur
+                      - generic [ref=f238e368]: Xiwa
+                      - generic [ref=f238e369]:
+                        - generic [ref=f238e372]: XthxGhostedd
+                        - generic [ref=f238e373]: Roblox
+                      - generic [ref=f238e377]: Xuriious
+                      - generic [ref=f238e381]: XXNevaAngelXx
+                      - generic [ref=f238e385]: Yuukie
+                      - generic [ref=f238e389]: ˚₊‧꒰ა 刘枭 ໒꒱ ‧₊˚
+                      - generic [ref=f238e393]: ₊˚🦖 ₊˚DeinoRainboo ₊˚ʚ 🌱
+                      - generic [ref=f238e397]: ⊱ ۫ ׅ ✧ Hailey ✧ ۫ ׅ ۫⊱
+                      - generic [ref=f238e401]: ☆𝓩𝓾𝓻𝓲☆
+                      - generic [ref=f238e405]: ✰•.𝑺𝒉𝒍𝒊𝒕𝒉𝒓.•シ
+                      - generic [ref=f238e409]: 𖥻 ⋮ esyra ⌖ ִֶָꜝꜝ⤸
+                      - generic [ref=f238e410]:
+                        - generic [ref=f238e413]: 𝑨𝒔𝒕𝒓𝒂𝒔💭
+                        - generic [ref=f238e414]: League of Legends
+                      - generic [ref=f238e418]: 𝔐𝔞𝔡𝔞𝔪 ℭ𝔞𝔯𝔡𝔦𝔫𝔞𝔩
+                      - generic [ref=f238e422]: 🐾 Stevie 🐾
+                  - generic [ref=f238e424]: Hangout with people who get it
+              - paragraph [ref=e435]: By clicking "Join Discord", you are leaving Fandom to access a third-party site (Discord). Fandom is not responsible for any content, conduct, or policies on external platforms. For questions about the Discord service, please refer to Discord's policies and support center.
+            - generic [ref=e438]:
+              - generic [ref=e439]:
+                - heading "Recent Images" [level=2] [ref=e440]
+                - link [ref=e441] [cursor=pointer]:
+                  - /url: https://www.fandom.com
+                  - img [ref=e444]
+              - generic [ref=e449]:
+                - list [ref=e452]:
+                  - listitem [ref=e453]:
+                    - generic [ref=e455]:
+                      - link "FM Glaq 8.png" [ref=e456] [cursor=pointer]:
+                        - /url: https://dragon-adventures.fandom.com/wiki/Glaquacus
+                        - img "FM Glaq 8.png" [ref=e458]
+                      - generic [ref=e459]:
+                        - link "Glaquacus" [ref=e460] [cursor=pointer]:
+                          - /url: https://dragon-adventures.fandom.com/wiki/Glaquacus
+                          - heading "Glaquacus" [level=3] [ref=e461]
+                        - time [ref=e463]: 10 hours ago
+                  - listitem [ref=e464]:
+                    - generic [ref=e466]:
+                      - link "FM Glaq 7.png" [ref=e467] [cursor=pointer]:
+                        - /url: https://dragon-adventures.fandom.com/wiki/Glaquacus
+                        - img "FM Glaq 7.png" [ref=e469]
+                      - generic [ref=e470]:
+                        - link "Glaquacus" [ref=e471] [cursor=pointer]:
+                          - /url: https://dragon-adventures.fandom.com/wiki/Glaquacus
+                          - heading "Glaquacus" [level=3] [ref=e472]
+                        - time [ref=e474]: 10 hours ago
+                  - listitem [ref=e475]:
+                    - generic [ref=e477]:
+                      - link "FM Glaq 6.png" [ref=e478] [cursor=pointer]:
+                        - /url: https://dragon-adventures.fandom.com/wiki/Glaquacus
+                        - img "FM Glaq 6.png" [ref=e480]
+                      - generic [ref=e481]:
+                        - link "Glaquacus" [ref=e482] [cursor=pointer]:
+                          - /url: https://dragon-adventures.fandom.com/wiki/Glaquacus
+                          - heading "Glaquacus" [level=3] [ref=e483]
+                        - time [ref=e485]: 10 hours ago
+                - button "Go to next slide" [ref=e486] [cursor=pointer]:
+                  - img [ref=e487]
+    - contentinfo [ref=e494]:
+      - generic [ref=e495]:
+        - generic [ref=e496]:
+          - heading "Fandom homepage" [level=2] [ref=e497]:
+            - link "Fandom homepage" [ref=e498] [cursor=pointer]:
+              - /url: https://www.fandom.com/
+              - img "Fandom logo" [ref=e499]
+          - generic [ref=e500]:
+            - heading "Explore properties" [level=3] [ref=e501]
+            - list [ref=e502]:
+              - listitem [ref=e503]:
+                - link "Fandom" [ref=e504] [cursor=pointer]:
+                  - /url: https://www.fandom.com/
+              - listitem [ref=e505]:
+                - link "Fanatical" [ref=e506] [cursor=pointer]:
+                  - /url: https://www.fanatical.com/
+              - listitem [ref=e507]:
+                - link "GameSpot" [ref=e508] [cursor=pointer]:
+                  - /url: https://www.gamespot.com/
+              - listitem [ref=e509]:
+                - link "Metacritic" [ref=e510] [cursor=pointer]:
+                  - /url: https://www.metacritic.com/
+              - listitem [ref=e511]:
+                - link "TV Guide" [ref=e512] [cursor=pointer]:
+                  - /url: https://www.tvguide.com/
+              - listitem [ref=e513]:
+                - link "Honest Entertainment" [ref=e514] [cursor=pointer]:
+                  - /url: https://www.youtube.com/user/screenjunkies
+          - generic [ref=e515]:
+            - heading "Follow Us" [level=3] [ref=e516]
+            - list [ref=e517]:
+              - listitem [ref=e518]:
+                - link "Follow Fandom on Facebook" [ref=e519] [cursor=pointer]:
+                  - /url: https://www.facebook.com/getfandom
+                  - img [ref=e520]
+              - listitem [ref=e522]:
+                - link "Follow Fandom on Twitter" [ref=e523] [cursor=pointer]:
+                  - /url: https://twitter.com/getfandom
+                  - img [ref=e524]
+              - listitem [ref=e526]:
+                - link "Follow Fandom on Youtube" [ref=e527] [cursor=pointer]:
+                  - /url: https://www.youtube.com/fandomentertainment
+                  - img [ref=e528]
+              - listitem [ref=e530]:
+                - link "Follow Fandom on Instagram" [ref=e531] [cursor=pointer]:
+                  - /url: https://www.instagram.com/getfandom/
+                  - img [ref=e532]
+              - listitem [ref=e534]:
+                - link "Follow Fandom on LinkedIn" [ref=e535] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/157252
+                  - img [ref=e536]
+        - generic [ref=e539]:
+          - heading "Overview" [level=3] [ref=e540]
+          - list [ref=e541]:
+            - listitem [ref=e542]:
+              - link "What is Fandom?" [ref=e543] [cursor=pointer]:
+                - /url: https://www.fandom.com/what-is-fandom
+            - listitem [ref=e544]:
+              - link "About" [ref=e545] [cursor=pointer]:
+                - /url: https://www.fandom.com/about
+            - listitem [ref=e546]:
+              - link "Careers" [ref=e547] [cursor=pointer]:
+                - /url: https://www.fandom.com/careers
+            - listitem [ref=e548]:
+              - link "Press" [ref=e549] [cursor=pointer]:
+                - /url: https://www.fandom.com/press
+            - listitem [ref=e550]:
+              - link "Contact" [ref=e551] [cursor=pointer]:
+                - /url: https://www.fandom.com/about#contact
+            - listitem [ref=e552]:
+              - link "Terms of Use" [ref=e553] [cursor=pointer]:
+                - /url: https://www.fandom.com/terms-of-use
+            - listitem [ref=e554]:
+              - link "Privacy Policy" [ref=e555] [cursor=pointer]:
+                - /url: https://www.fandom.com/privacy-policy
+            - listitem [ref=e556]:
+              - link "Digital Services Act" [ref=e557] [cursor=pointer]:
+                - /url: https://www.fandom.com/digital-services-act
+            - listitem [ref=e558]:
+              - link "Global Sitemap" [ref=e559] [cursor=pointer]:
+                - /url: //community.fandom.com/Sitemap
+            - listitem [ref=e560]:
+              - link "Local Sitemap" [ref=e561] [cursor=pointer]:
+                - /url: /wiki/Local_Sitemap
+            - listitem [ref=e562]:
+              - button "Cookies Settings" [ref=e563]
+        - generic [ref=e564]:
+          - generic [ref=e565]:
+            - heading "Community" [level=3] [ref=e566]
+            - list [ref=e567]:
+              - listitem [ref=e568]:
+                - link "Community Central" [ref=e569] [cursor=pointer]:
+                  - /url: //community.fandom.com/wiki/Community_Central
+              - listitem [ref=e570]:
+                - link "Support" [ref=e571] [cursor=pointer]:
+                  - /url: https://fandom.zendesk.com/
+              - listitem [ref=e572]:
+                - link "Help" [ref=e573] [cursor=pointer]:
+                  - /url: //community.fandom.com/wiki/Help:Contents
+          - generic [ref=e574]:
+            - heading "Advertise" [level=3] [ref=e575]
+            - list [ref=e576]:
+              - listitem [ref=e577]:
+                - link "Media Kit" [ref=e578] [cursor=pointer]:
+                  - /url: https://about.fandom.com/mediakit
+              - listitem [ref=e579]:
+                - link "Contact" [ref=e580] [cursor=pointer]:
+                  - /url: https://about.fandom.com/mediakit#contact
+        - generic [ref=e581]:
+          - generic [ref=e582]:
+            - heading "Fandom Apps" [level=3] [ref=e583]
+            - text: Take your favorite fandoms with you and never miss a beat.
+          - generic [ref=e584]:
+            - img "Fandom App logo" [ref=e585]
+            - list [ref=e586]:
+              - listitem [ref=e587]:
+                - link "Fandom's Apple Store" [ref=e588] [cursor=pointer]:
+                  - /url: https://apps.apple.com/us/app/fandom-videos-news-reviews/id1230063803
+                  - img "Store icon" [ref=e589]
+              - listitem [ref=e590]:
+                - link "Fandom's Google Play" [ref=e591] [cursor=pointer]:
+                  - /url: https://play.google.com/store/apps/details?id=com.fandom.app&referrer=utm_source%3Dwikia%26utm_medium%3Dglobalfooter
+                  - img "Store icon" [ref=e592]
+      - generic [ref=e593]:
+        - generic [ref=e594]: Dragon Adventures Wiki is a Fandom Games Community.
+        - button "View Mobile Site" [ref=e596]
+  - generic: Cookies Settings
+  - generic [ref=e603]:
+    - banner [ref=e604]:
+      - img "FandomLogo" [ref=e606]
+      - generic [ref=e607]:
+        - text: Please help us personalize
+        - text: your experience!
+    - generic [ref=e608]:
+      - generic [ref=e609]:
+        - img "adult" [ref=e610]
+        - button "I'm an adult" [ref=e611] [cursor=pointer]
+      - generic [ref=e612]:
+        - img "kid" [ref=e613]
+        - button "I'm a kid" [ref=e614] [cursor=pointer]
