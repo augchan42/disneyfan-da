@@ -2,6 +2,10 @@
 
 A collection of game knowledge and reference materials for [Dragon Adventures](https://www.roblox.com/games/3475397644/Dragon-Adventures) on Roblox. Focused on helping trade for a Veidreki.
 
+## Veidreki Plan
+
+- **[veidreki-plan.md](veidreki-plan.md)** — Step-by-step plan to get a Veidreki (F2P). 4/6 Legacy Tokens collected, Veidreki Token still needed (event ends April 3). ETA: ~June 2026.
+
 ## Curated Knowledge Base
 
 - **[dragon-adventures-kb.md](dragon-adventures-kb.md)** — Comprehensive knowledge base covering lair slots, upgrade costs, dragons, elements, breeding, worlds, and game mechanics.
