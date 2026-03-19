@@ -8,8 +8,9 @@
 
 | Item | Have | Need | Total Required |
 |------|------|------|----------------|
-| Veidreki Token | 0 | **1** | 1 (from 36 Stormbound Eggs) |
+| Veidreki Token | 0 | **1** | 1 (from 36 Event Pass Stormbound Eggs) |
 | Legacy Tokens | **4** (3 old + Season 3) | **2 more** | 6 |
+| | +1 incoming (Day 11 login reward!) | **1 more after that** | |
 
 **1 Veidreki Token + 6 Legacy Tokens = 1 Veidreki**
 
@@ -38,30 +39,36 @@ Collect **36 Stormbound Eggs from the Event Pass** → fills the Veidreki Token 
 - Need **29 more**
 - **Gone for 7 days** → only **8 days available** before event ends April 3rd
 
-### ⚠️ She MUST complete the FULL Event Pass every day she plays
+### ⚠️ WEEK 2 UPDATE (March 20th) — MUCH EASIER NOW!
 
-| Eggs/day | × 8 days | + 7 she has | Enough? |
-|----------|----------|-------------|---------|
-| 2 (tier 6) | 16 | 23/36 | **NO** |
-| 3 (tier 9) | 24 | 31/36 | **NO** |
-| **4 (tier 10)** | **32** | **39/36** | **YES ✅ (3 buffer)** |
+**Big changes from the devs:**
+- **Daily missions now give x2 Stormbound Eggs** (was x1) → 3 dailies = **6 eggs** from missions
+- **Repeatables NO LONGER require mob-grinding or specific dragon breeding!** (easier missions)
+- **Day 11 login reward = 1 Legacy Token!** (That's Legacy Token #5 for free!)
 
-There is no lighter option. She needs **4 eggs/day for all 8 available days**.
+### Revised daily egg math (Week 2+)
 
-### Daily routine (~40 min, non-negotiable)
+| Source | Eggs | Time | Notes |
+|--------|------|------|-------|
+| 3 Daily missions | **6** | Quick | **2 eggs each now!** |
+| Repeatables (to fill pass) | varies | ~15-35 min | Easier missions, no mob grinding |
+| Event Pass tiers 3, 6, 9, 10 | 4 | Free | From completing 10 missions |
+| **Daily total (tier 6 only)** | **~10** | **~20 min** | Just dailies + 3 repeatables |
+| **Daily total (full pass)** | **~18+** | **~40 min** | Dailies + 7 repeatables |
 
-1. Log in, do 3 daily missions (~10 min)
-2. Do 7 repeatable missions (~35 min, 5 min cooldown each)
-3. This completes all 10 Event Pass tiers → collect **4 Stormbound Eggs**
-4. Done for the day
+### Recalculated timeline (8 available days)
 
-### Can she miss a day?
+| Effort level | Eggs/day | × 8 days | + 7 she has | Enough? |
+|-------------|----------|----------|-------------|---------|
+| **Dailies + tier 6** | ~10 | 80 | 87/36 | **YES ✅✅✅** |
+| **Dailies only** | 6 | 48 | 55/36 | **YES ✅✅** |
+| **Full pass** | ~18 | 144 | 151/36 | **YES (massive surplus)** |
 
-Barely. At 4 eggs/day she gets 3 eggs of buffer (39 vs 36 needed). So she could miss **almost 1 day** — but that's it. Safer to treat it as 8 days, no misses.
+**She can now get the Veidreki Token just by doing dailies!** No repeatables needed. ~10 min/day.
 
 ### Backup: Stormbound Egg hatch (0.3% Veidreki chance)
 
-She has ~30 extra Stormbound Eggs from missions. Each has a **0.3% chance** of hatching a Veidreki directly (0.5% with Lucky Egg gamepass). Long shot, but worth hatching them — nothing to lose.
+Her extra Stormbound Eggs from missions each have a **0.3% chance** of hatching a Veidreki directly (0.5% with Lucky Egg gamepass). Long shot, but worth hatching — nothing to lose.
 
 ### What about the extra ~30 Stormbound Eggs from missions?
 
@@ -113,23 +120,23 @@ After the Veidreki event ends (April 3), she just needs to:
 
 ## Summary
 
-1. **Veidreki Token** — Complete FULL Event Pass (all 10 tiers) every day for 8 available days (~40 min/day, almost no buffer)
+1. **Veidreki Token** — Just do 3 daily missions each day (~10 min). Week 2 gives x2 eggs per daily!
 2. ~~**Season 3 Legacy Token** — DONE! ✅~~
-3. **Season 4** (~May): Play Season normally, hit tier 48 for Legacy Token #5
-4. **Season 5** (~June): Play Season normally, hit tier 48 for Legacy Token #6
+3. **Legacy Token 5** — Day 11 event login reward (FREE, just log in!)
+4. **Legacy Token 6** — Season 4 (~May), hit tier 48
 5. **Redeem!** 1 Veidreki Token + 6 Legacy Tokens → **VEIDREKI!**
 
-Get the Veidreki Token before April 3rd, then casual Season missions for 2 more months. No Robux needed.
+Veidreki Token is now easy. Only 1 more Legacy Token needed after the Day 11 freebie. **ETA: ~May 2026!**
 
 ---
 
 ## Progress Tracker
 
-- [ ] Veidreki Token (7/36 Event Pass eggs — MUST do full pass 4 eggs/day × 8 available days)
+- [ ] Veidreki Token (7/36 Event Pass eggs — just dailies needed now! ~10 min/day)
 - [x] Legacy Token 1 ✅
 - [x] Legacy Token 2 ✅
 - [x] Legacy Token 3 ✅
 - [x] Legacy Token 4 (Season 3) ✅
-- [ ] Legacy Token 5 (Season 4 — ~May 2026)
-- [ ] Legacy Token 6 (Season 5 — ~June 2026)
+- [ ] Legacy Token 5 (Event Day 11 login reward — FREE, just log in!)
+- [ ] Legacy Token 6 (Season 4 — ~May 2026)
 - [ ] **REDEEM: 1 Veidreki Token + 6 Legacy Tokens → VEIDREKI!**
