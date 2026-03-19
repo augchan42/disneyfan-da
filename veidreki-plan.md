@@ -33,11 +33,32 @@ Collect **36 Stormbound Eggs from the Event Pass** → fills the Veidreki Token 
 - Tiers 3, 6, 9, and 10 each give 1 Stormbound Egg = **4 Event Pass eggs/day**
 - Other tiers give non-egg rewards (Growth Potion, Lucky Chest, other eggs, potions)
 
-### Current progress
+### Current progress (as of March 19)
 
 - **7/36** Event Pass Stormbound Eggs collected
-- Need **29 more**
-- **Gone for 7 days** → only **8 days available** before event ends April 3rd
+- **Login streak: Day 7** (logged in every day since event start March 13)
+- Gone Mon 3/24 – Sun 3/30 (7 days away)
+
+### Schedule (Hong Kong Time)
+
+> **Time zone note:** Game runs on US Eastern (EST). HKT = EST + 13 hours.
+> - Daily missions reset at 4:00 PM EST = **5:00 AM HKT next day**
+> - Event Pass resets at 7:00 PM EST = **8:00 AM HKT next day**
+> - Week 2 starts Fri 3/20 4:00 PM EST = **Sat 3/21 5:00 AM HKT**
+
+| Date (HKT) | What | Action |
+|-------------|------|--------|
+| Thu 3/20 | today | Do dailies (Week 1 rates) |
+| Fri 3/21 | | Do dailies (Week 1 rates) |
+| **Sat 3/22** | **Week 2 kicks in** | **Do dailies — x2 eggs now! (after 5 AM HKT)** |
+| Sun 3/23 | | Do dailies |
+| **Mon 3/24 morning** | **Day 11** | **⚠️ LOG IN BEFORE LEAVING — collect Legacy Token #5!** (resets ~5 AM HKT) |
+| Mon 3/24 – Sun 3/30 | away | Gone |
+| Mon 3/31 | back | Do dailies |
+| Tue 4/1 | | Do dailies |
+| Wed 4/2 | | Do dailies |
+| Thu 4/3 | | Do dailies |
+| **Fri 4/4 before 6 AM HKT** | **last chance** | Event ends 4/3 5:00 PM EST = **4/4 6:00 AM HKT** |
 
 ### ⚠️ WEEK 2 UPDATE (March 20th) — MUCH EASIER NOW!
 
