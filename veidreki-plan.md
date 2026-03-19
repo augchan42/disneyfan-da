@@ -35,19 +35,33 @@ Collect **36 Stormbound Eggs from the Event Pass** → fills the Veidreki Token 
 ### Current progress
 
 - **7/36** Event Pass Stormbound Eggs collected
-- Need **29 more** = **~8 more days** of completing the full Event Pass
-- Event ends April 3rd — she has 15 days, so **7 days of buffer**
+- Need **29 more**
+- **Gone for 7 days** → only **8 days available** before event ends April 3rd
 
-### Daily routine (~40 min)
+### ⚠️ She MUST complete the FULL Event Pass every day she plays
+
+| Eggs/day | × 8 days | + 7 she has | Enough? |
+|----------|----------|-------------|---------|
+| 2 (tier 6) | 16 | 23/36 | **NO** |
+| 3 (tier 9) | 24 | 31/36 | **NO** |
+| **4 (tier 10)** | **32** | **39/36** | **YES ✅ (3 buffer)** |
+
+There is no lighter option. She needs **4 eggs/day for all 8 available days**.
+
+### Daily routine (~40 min, non-negotiable)
 
 1. Log in, do 3 daily missions (~10 min)
 2. Do 7 repeatable missions (~35 min, 5 min cooldown each)
-3. This completes all 10 Event Pass tiers → collect the 4 Stormbound Eggs
+3. This completes all 10 Event Pass tiers → collect **4 Stormbound Eggs**
 4. Done for the day
 
-### If homework is heavy
+### Can she miss a day?
 
-She can skip a day or two — she has 7 days of buffer. But she needs to complete the **full 10-tier pass** each day she plays to get all 4 eggs. Partial completion (e.g., only 7 tiers) means only 2 eggs that day (tiers 3 and 6).
+Barely. At 4 eggs/day she gets 3 eggs of buffer (39 vs 36 needed). So she could miss **almost 1 day** — but that's it. Safer to treat it as 8 days, no misses.
+
+### Backup: Stormbound Egg hatch (0.3% Veidreki chance)
+
+She has ~30 extra Stormbound Eggs from missions. Each has a **0.3% chance** of hatching a Veidreki directly (0.5% with Lucky Egg gamepass). Long shot, but worth hatching them — nothing to lose.
 
 ### What about the extra ~30 Stormbound Eggs from missions?
 
@@ -99,7 +113,7 @@ After the Veidreki event ends (April 3), she just needs to:
 
 ## Summary
 
-1. **Veidreki Token** — Complete full Event Pass daily for ~8 more days (~40 min/day, 7 days buffer)
+1. **Veidreki Token** — Complete FULL Event Pass (all 10 tiers) every day for 8 available days (~40 min/day, almost no buffer)
 2. ~~**Season 3 Legacy Token** — DONE! ✅~~
 3. **Season 4** (~May): Play Season normally, hit tier 48 for Legacy Token #5
 4. **Season 5** (~June): Play Season normally, hit tier 48 for Legacy Token #6
@@ -111,7 +125,7 @@ Get the Veidreki Token before April 3rd, then casual Season missions for 2 more 
 
 ## Progress Tracker
 
-- [ ] Veidreki Token (7/36 Event Pass eggs — need ~8 more days, event ends April 3rd)
+- [ ] Veidreki Token (7/36 Event Pass eggs — MUST do full pass 4 eggs/day × 8 available days)
 - [x] Legacy Token 1 ✅
 - [x] Legacy Token 2 ✅
 - [x] Legacy Token 3 ✅
