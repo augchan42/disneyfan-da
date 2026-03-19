@@ -1,1172 +1,212 @@
-- generic [active] [ref=e1]:
-  - navigation "Fandom top navigation" [ref=e2]:
-    - link "Fandom homepage" [ref=e3] [cursor=pointer]:
-      - /url: https://www.fandom.com/
-      - img [ref=e4]
-    - generic [ref=e7]:
-      - link "Sign In" [ref=e9] [cursor=pointer]:
-        - /url: https://auth.fandom.com/signin?source=mw&redirect=https%3A%2F%2Fdragon-adventures.fandom.com%2Fwiki%2FLair
-      - link "Register" [ref=e11] [cursor=pointer]:
-        - /url: https://auth.fandom.com/register?source=mw&redirect=https%3A%2F%2Fdragon-adventures.fandom.com%2Fwiki%2FLair
-  - generic "Community navigation" [ref=e12]:
-    - link "Fandom homepage" [ref=e14] [cursor=pointer]:
-      - /url: https://www.fandom.com/
-      - img [ref=e15]
-    - link "Dragon Adventures Wiki" [ref=e17] [cursor=pointer]:
-      - /url: https://dragon-adventures.fandom.com/wiki/Dragon_Adventures_Wiki
-      - img "Dragon Adventures Wiki" [ref=e18]
-    - navigation [ref=e19]:
-      - list [ref=e20]:
-        - listitem [ref=e21]:
-          - generic [ref=e22]:
-            - generic [ref=e23] [cursor=pointer]:
-              - img [ref=e24]
-              - generic [ref=e26]: Explore
-            - img "Expand" [ref=e27]
-        - listitem [ref=e29]:
-          - generic [ref=e30]:
-            - generic [ref=e32] [cursor=pointer]: Dragons
-            - img "Expand" [ref=e33]
-        - listitem [ref=e35]:
-          - generic [ref=e36]:
-            - generic [ref=e38] [cursor=pointer]: Worlds and Events
-            - img "Expand" [ref=e39]
-        - listitem [ref=e41]:
-          - generic [ref=e42]:
-            - generic [ref=e44] [cursor=pointer]: Game Information
-            - img "Expand" [ref=e45]
-        - listitem [ref=e47]:
-          - generic [ref=e48]:
-            - generic [ref=e50] [cursor=pointer]: Community Information
-            - img "Expand" [ref=e51]
-    - generic [ref=e54]:
-      - link "Discuss" [ref=e55] [cursor=pointer]:
-        - /url: /f
-        - img
-      - link "Switch to Light Theme" [ref=e56] [cursor=pointer]:
-        - /url: "#"
-        - img
-    - link "Sign In" [ref=e59] [cursor=pointer]:
-      - /url: https://auth.fandom.com/signin?source=mw&redirect=https%3A%2F%2Fdragon-adventures.fandom.com%2Fwiki%2FLair
-      - generic [ref=e60]:
-        - img
-        - text: Sign In
-  - navigation "Fandom navigation" [ref=e63]:
-    - generic [ref=e64]:
-      - button "Menu" [ref=e66] [cursor=pointer]:
-        - generic [ref=e67]:
-          - img [ref=e69]
-          - generic [ref=e71]: Menu
-      - button "Explore" [ref=e73] [cursor=pointer]:
-        - generic [ref=e74]:
-          - img [ref=e76]
-          - generic [ref=e79]: Explore
-  - generic [ref=e80]:
-    - generic [ref=e84]: Advertisement
-    - generic [ref=e86]:
-      - link "Skip to content" [ref=e87] [cursor=pointer]:
-        - /url: "#page-header"
-      - banner [ref=e89]:
-        - link "Dragon Adventures Wiki" [ref=e90] [cursor=pointer]:
-          - /url: https://dragon-adventures.fandom.com/wiki/Dragon_Adventures_Wiki
-          - img "Dragon Adventures Wiki" [ref=e91]
-        - generic [ref=e92]:
-          - link "Dragon Adventures Wiki" [ref=e94] [cursor=pointer]:
-            - /url: https://dragon-adventures.fandom.com/wiki/Dragon_Adventures_Wiki
-          - generic [ref=e95]:
-            - generic [ref=e96]: "828"
-            - generic [ref=e97]: pages
-          - generic [ref=e98]:
-            - link "Discuss" [ref=e99] [cursor=pointer]:
-              - /url: /f
-              - img
-            - link "Switch to Light Theme" [ref=e100] [cursor=pointer]:
-              - /url: "#"
-              - img
-        - navigation [ref=e101]:
-          - list [ref=e102]:
-            - listitem [ref=e103]:
-              - generic [ref=e104]:
-                - generic [ref=e105] [cursor=pointer]:
-                  - img [ref=e106]
-                  - generic [ref=e108]: Explore
-                - img "Expand" [ref=e109]
-            - listitem [ref=e111]:
-              - generic [ref=e112]:
-                - generic [ref=e114] [cursor=pointer]: Dragons
-                - img "Expand" [ref=e115]
-            - listitem [ref=e117]:
-              - generic [ref=e118]:
-                - generic [ref=e120] [cursor=pointer]: Worlds and Events
-                - img "Expand" [ref=e121]
-            - listitem [ref=e123]:
-              - generic [ref=e124]:
-                - generic [ref=e126] [cursor=pointer]: Game Information
-                - img "Expand" [ref=e127]
-            - listitem [ref=e129]:
-              - generic [ref=e130]:
-                - generic [ref=e132] [cursor=pointer]: Community Information
-                - img "Expand" [ref=e133]
-      - generic [ref=e135]:
-        - main [ref=e136]:
-          - link "View source" [ref=e139] [cursor=pointer]:
-            - /url: /wiki/Lair?action=edit
-            - img [ref=e140]
-          - generic [ref=e142]:
-            - generic [ref=e145]:
-              - text: "in:"
-              - link "Features" [ref=e146] [cursor=pointer]:
-                - /url: /wiki/Category:Features
-              - text: ","
-              - link "Information" [ref=e147] [cursor=pointer]:
-                - /url: /wiki/Category:Information
-            - generic [ref=e148]:
-              - heading "Lair" [level=1] [ref=e150]
-              - generic [ref=e151]:
-                - link "Comments" [ref=e152] [cursor=pointer]:
-                  - /url: "#articleComments"
-                  - img
-                - link "View source" [ref=e154] [cursor=pointer]:
-                  - /url: /wiki/Lair?action=edit
-                  - img
-                  - text: View source
-                - button "Page Tools" [ref=e156]:
-                  - img
-          - generic [ref=e161]:
-            - figure "My Dragons icon" [ref=e162]:
-              - link "My Dragons icon" [ref=e163] [cursor=pointer]:
-                - /url: https://static.wikia.nocookie.net/dragon-adventures/images/b/b6/Dragon_Head.png/revision/latest?cb=20211011072300
-                - img "My Dragons icon" [ref=e164]
-              - paragraph [ref=e166]: My Dragons icon
-            - paragraph [ref=e167]:
-              - text: The Lair, also known as My Dragons, is a feature that acts as an inventory that holds all of the player's
-              - link "dragons" [ref=e168] [cursor=pointer]:
-                - /url: /wiki/Official_Dragons
-              - text: .
-            - paragraph [ref=e169]:
-              - text: The My Dragons tab can be found on the right of the player's screen on PC and below the
-              - link "minimap" [ref=e170] [cursor=pointer]:
-                - /url: /wiki/Minimap
-              - text: on mobile. On PC, users can also access it via the 1 hotkey.
-            - navigation "Contents" [ref=e171]:
-              - button "hide" [ref=e172]
-              - generic [ref=e173]:
-                - heading "Contents" [level=2] [ref=e174]
-                - generic [ref=e175]:
-                  - text: "["
-                  - generic [ref=e176] [cursor=pointer]: hide
-                  - text: "]"
-              - list [ref=e177]:
-                - listitem [ref=e178]:
-                  - link "1. Dragon Selection" [ref=e179] [cursor=pointer]:
-                    - /url: "#Dragon_Selection"
-                    - generic [ref=e180]: "1."
-                    - generic [ref=e181]: Dragon Selection
-                  - list [ref=e182]:
-                    - listitem [ref=e183]:
-                      - link "1.1. Main" [ref=e184] [cursor=pointer]:
-                        - /url: "#Main"
-                        - generic [ref=e185]: 1.1.
-                        - generic [ref=e186]: Main
-                      - list [ref=e187]:
-                        - listitem [ref=e188]:
-                          - link "1.1.1. Equipping" [ref=e189] [cursor=pointer]:
-                            - /url: "#Equipping"
-                            - generic [ref=e190]: 1.1.1.
-                            - generic [ref=e191]: Equipping
-                    - listitem [ref=e192]:
-                      - link "1.2. Statistics" [ref=e193] [cursor=pointer]:
-                        - /url: "#Statistics"
-                        - generic [ref=e194]: 1.2.
-                        - generic [ref=e195]: Statistics
-                      - list [ref=e196]:
-                        - listitem [ref=e197]:
-                          - link "1.2.1. Information" [ref=e198] [cursor=pointer]:
-                            - /url: "#Information"
-                            - generic [ref=e199]: 1.2.1.
-                            - generic [ref=e200]: Information
-                        - listitem [ref=e201]:
-                          - link "1.2.2. Appearance" [ref=e202] [cursor=pointer]:
-                            - /url: "#Appearance"
-                            - generic [ref=e203]: 1.2.2.
-                            - generic [ref=e204]: Appearance
-                        - listitem [ref=e205]:
-                          - link "1.2.3. Breeding" [ref=e206] [cursor=pointer]:
-                            - /url: "#Breeding"
-                            - generic [ref=e207]: 1.2.3.
-                            - generic [ref=e208]: Breeding
-                        - listitem [ref=e209]:
-                          - link "1.2.4. Stats" [ref=e210] [cursor=pointer]:
-                            - /url: "#Stats"
-                            - generic [ref=e211]: 1.2.4.
-                            - generic [ref=e212]: Stats
-                        - listitem [ref=e213]:
-                          - link "1.2.5. Miscellaneous" [ref=e214] [cursor=pointer]:
-                            - /url: "#Miscellaneous"
-                            - generic [ref=e215]: 1.2.5.
-                            - generic [ref=e216]: Miscellaneous
-                    - listitem [ref=e217]:
-                      - link "1.3. Traits" [ref=e218] [cursor=pointer]:
-                        - /url: "#Traits"
-                        - generic [ref=e219]: 1.3.
-                        - generic [ref=e220]: Traits
-                    - listitem [ref=e221]:
-                      - link "1.4. Appearance" [ref=e222] [cursor=pointer]:
-                        - /url: "#Appearance_2"
-                        - generic [ref=e223]: 1.4.
-                        - generic [ref=e224]: Appearance
-                - listitem [ref=e225]:
-                  - link "2. Controls" [ref=e226] [cursor=pointer]:
-                    - /url: "#Controls"
-                    - generic [ref=e227]: "2."
-                    - generic [ref=e228]: Controls
-                  - list [ref=e229]:
-                    - listitem [ref=e230]:
-                      - link "2.1. Favoriting" [ref=e231] [cursor=pointer]:
-                        - /url: "#Favoriting"
-                        - generic [ref=e232]: 2.1.
-                        - generic [ref=e233]: Favoriting
-                    - listitem [ref=e234]:
-                      - link "2.2. Deleting" [ref=e235] [cursor=pointer]:
-                        - /url: "#Deleting"
-                        - generic [ref=e236]: 2.2.
-                        - generic [ref=e237]: Deleting
-                    - listitem [ref=e238]:
-                      - link "2.3. Searching" [ref=e239] [cursor=pointer]:
-                        - /url: "#Searching"
-                        - generic [ref=e240]: 2.3.
-                        - generic [ref=e241]: Searching
-                    - listitem [ref=e242]:
-                      - link "2.4. Sorting" [ref=e243] [cursor=pointer]:
-                        - /url: "#Sorting"
-                        - generic [ref=e244]: 2.4.
-                        - generic [ref=e245]: Sorting
-                - listitem [ref=e246]:
-                  - link "3. Lair Capacity" [ref=e247] [cursor=pointer]:
-                    - /url: "#Lair_Capacity"
-                    - generic [ref=e248]: "3."
-                    - generic [ref=e249]: Lair Capacity
-                  - list [ref=e250]:
-                    - listitem [ref=e251]:
-                      - link "3.1. Loyalty Perks" [ref=e252] [cursor=pointer]:
-                        - /url: "#Loyalty_Perks"
-                        - generic [ref=e253]: 3.1.
-                        - generic [ref=e254]: Loyalty Perks
-                - listitem [ref=e255]:
-                  - link "4. Gallery" [ref=e256] [cursor=pointer]:
-                    - /url: "#Gallery"
-                    - generic [ref=e257]: "4."
-                    - generic [ref=e258]: Gallery
-                - listitem [ref=e259]:
-                  - link "5. Trivia" [ref=e260] [cursor=pointer]:
-                    - /url: "#Trivia"
-                    - generic [ref=e261]: "5."
-                    - generic [ref=e262]: Trivia
-                - listitem [ref=e263]:
-                  - link "6. References" [ref=e264] [cursor=pointer]:
-                    - /url: "#References"
-                    - generic [ref=e265]: "6."
-                    - generic [ref=e266]: References
-            - heading "Dragon Selection" [level=2] [ref=e267]: Dragon Selection
-            - figure "An example of the Lair" [ref=e268]:
-              - link "An example of the Lair" [ref=e269] [cursor=pointer]:
-                - /url: https://static.wikia.nocookie.net/dragon-adventures/images/5/5e/Lair.png/revision/latest?cb=20250628183609
-                - img "An example of the Lair" [ref=e270]
-              - paragraph [ref=e272]: An example of the Lair
-            - paragraph [ref=e273]:
-              - text: Upon clicking My Dragons, the player will be brought to their Lair, which will display all of their currently owned
-              - link "dragons" [ref=e274] [cursor=pointer]:
-                - /url: /wiki/Official_Dragons
-              - text: and a few of their respective traits in a three-column grid. Dragons stored in the
-              - link "Stables" [ref=e275] [cursor=pointer]:
-                - /url: /wiki/Stables
-              - text: will not show up in the user's lair.
-            - paragraph [ref=e276]: On the left, all of the player's dragons will be displayed. On the right, an empty box with text reading "Select a dragon!" will be displayed. This message will only show up if the player has not yet selected a dragon.
-            - paragraph [ref=e277]:
-              - text: When a dragon is clicked on, all of its info will be displayed on one of four tabs. Each tab will show a mugshot of the dragon, its
-              - link "name" [ref=e278] [cursor=pointer]:
-                - /url: /wiki/Names
-              - text: ", and its species."
-            - heading "Main" [level=3] [ref=e279]: Main
-            - figure "Main tab" [ref=e280]:
-              - link "Main tab" [ref=e281] [cursor=pointer]:
-                - /url: https://static.wikia.nocookie.net/dragon-adventures/images/c/cc/Lair_Selection_Main.png/revision/latest?cb=20250710191829
-                - img "Main tab" [ref=e282]
-              - paragraph [ref=e284]: Main tab
-            - paragraph [ref=e285]:
-              - text: The main tab (
-              - link "Dragon Head" [ref=e287] [cursor=pointer]:
-                - /url: https://static.wikia.nocookie.net/dragon-adventures/images/b/b6/Dragon_Head.png/revision/latest?cb=20211011072300
-                - img "Dragon Head" [ref=e288]
-              - text: ) will display the basic stats,
-              - link "sub-skills" [ref=e289] [cursor=pointer]:
-                - /url: /wiki/Sub-Skills
-              - text: ", and traits of the selected dragon. In the upper left, its"
-              - link "name" [ref=e290] [cursor=pointer]:
-                - /url: /wiki/Names
-              - text: and mugshot will be displayed. In the upper right, its
-              - link "species" [ref=e291] [cursor=pointer]:
-                - /url: /wiki/Official_Dragons
-              - text: ","
-              - link "Hunger Icon" [ref=e293] [cursor=pointer]:
-                - /url: https://static.wikia.nocookie.net/dragon-adventures/images/c/c5/Hunger_Icon.png/revision/latest?cb=20250626221922
-                - img "Hunger Icon" [ref=e294]
-              - text: hunger,
-              - link "Heart" [ref=e296] [cursor=pointer]:
-                - /url: https://static.wikia.nocookie.net/dragon-adventures/images/d/d9/Heart.png/revision/latest?cb=20211011072306
-                - img "Heart" [ref=e297]
-              - text: health, and
-              - link "age" [ref=e298] [cursor=pointer]:
-                - /url: /wiki/Growing_Your_Dragons
-              - text: will be displayed.
-            - paragraph [ref=e299]:
-              - text: Underneath its age bar is a small
-              - link "Appearance" [ref=e301] [cursor=pointer]:
-                - /url: https://static.wikia.nocookie.net/dragon-adventures/images/0/00/Appearance.png/revision/latest?cb=20250710185352
-                - img "Appearance" [ref=e302]
-              - text: appearance section, displaying its Primary, Secondary, and Tertiary
-              - link "colors" [ref=e303] [cursor=pointer]:
-                - /url: /wiki/Colors
-              - text: and
-              - link "materials" [ref=e304] [cursor=pointer]:
-                - /url: /wiki/Materials
-              - text: . If the dragon has Legendary color, the corresponding color slot will show the color shift instead.
-            - paragraph [ref=e305]:
-              - text: The ability to
-              - link "Gold Star" [ref=e307] [cursor=pointer]:
-                - /url: https://static.wikia.nocookie.net/dragon-adventures/images/a/a0/Gold_Star.png/revision/latest?cb=20211011072306
-                - img "Gold Star" [ref=e308]
-              - text: favorite or un-favorite the dragon will be displayed on the top right of its mugshot. If the player hovers over the dragon's mugshot, the concept creator(s) of the dragon will be listed.
-            - paragraph [ref=e309]:
-              - text: Below the mugshot and appearance section is the dragon's
-              - link "level" [ref=e310] [cursor=pointer]:
-                - /url: /wiki/Dragon_Leveling
-              - text: and sub-skills. Sub-skills will become fuller as they earn more EXP. At the bottom of the card are an additional four options that will each bring up a menu.
-            - list [ref=e311]:
-              - listitem [ref=e312]:
-                - link "Mount" [ref=e314] [cursor=pointer]:
-                  - /url: https://static.wikia.nocookie.net/dragon-adventures/images/1/1c/Mount.png/revision/latest?cb=20211011072307
-                  - img "Mount" [ref=e315]
-                - text: Equip or
-                - link "Dismount" [ref=e317] [cursor=pointer]:
-                  - /url: https://static.wikia.nocookie.net/dragon-adventures/images/a/af/Dismount.png/revision/latest?cb=20211011072247
-                  - img "Dismount" [ref=e318]
-                - text: Unequip
-              - listitem [ref=e319]:
-                - link "Food Item" [ref=e321] [cursor=pointer]:
-                  - /url: https://static.wikia.nocookie.net/dragon-adventures/images/a/ae/Food_Item.png/revision/latest?cb=20211011072313
-                  - img "Food Item" [ref=e322]
-                - link "Feed" [ref=e323] [cursor=pointer]:
-                  - /url: /wiki/Food#Feeding
-                - text: or
-                - link "Broken Heart" [ref=e325] [cursor=pointer]:
-                  - /url: https://static.wikia.nocookie.net/dragon-adventures/images/5/56/Broken_Heart.png/revision/latest?cb=20211011072345
-                  - img "Broken Heart" [ref=e326]
-                - link "Revive" [ref=e327] [cursor=pointer]:
-                  - /url: /wiki/Healing_Items#Healing_&_Reviving
-                - text: (only if the dragon has fainted)
-              - listitem [ref=e328]:
-                - link "Dragon Breeding Heart" [ref=e330] [cursor=pointer]:
-                  - /url: https://static.wikia.nocookie.net/dragon-adventures/images/6/61/Dragon_Breeding_Heart.png/revision/latest?cb=20211011072302
-                  - img "Dragon Breeding Heart" [ref=e331]
-                - link "Breed" [ref=e332] [cursor=pointer]:
-                  - /url: /wiki/Breeding
-              - listitem [ref=e333]:
-                - link "Accessories" [ref=e335] [cursor=pointer]:
-                  - /url: https://static.wikia.nocookie.net/dragon-adventures/images/a/a8/Accessories.png/revision/latest?cb=20211011072340
-                  - img "Accessories" [ref=e336]
-                - link "Customize" [ref=e337] [cursor=pointer]:
-                  - /url: /wiki/Accessories
-                - text: (only selectable if the dragon is equipped, otherwise it will be greyed out)
-            - heading "Equipping" [level=4] [ref=e338]: Equipping
-            - paragraph [ref=e339]:
-              - text: The player can also unequip their dragon by selecting the
-              - link "Dismount" [ref=e341] [cursor=pointer]:
-                - /url: https://static.wikia.nocookie.net/dragon-adventures/images/a/af/Dismount.png/revision/latest?cb=20211011072247
-                - img "Dismount" [ref=e342]
-              - text: Unequip button that comes up when the player interacts with a dragon on PC or mobile. Additionally, dragons that are equipped will have a
-              - link "Equipped Icon" [ref=e344] [cursor=pointer]:
-                - /url: https://static.wikia.nocookie.net/dragon-adventures/images/c/c6/Equipped_Icon.png/revision/latest?cb=20250522174230
-                - img "Equipped Icon" [ref=e345]
-              - text: icon on the top right of their mugshot in the selection menu.
-            - paragraph [ref=e346]:
-              - text: A player may only equip one dragon at a time. If the user owns the
-              - link "VIP gampass" [ref=e347] [cursor=pointer]:
-                - /url: /wiki/Premium_Shop#Gamepasses
-              - text: ", they will be able to equip up to three dragons. If the player is an owner of a Roblox private server, they can equip up to five dragons in that server."
-            - heading "Statistics" [level=3] [ref=e348]: Statistics
-            - figure "Statistics tab" [ref=e349]:
-              - link "Statistics tab" [ref=e350] [cursor=pointer]:
-                - /url: https://static.wikia.nocookie.net/dragon-adventures/images/5/54/Lair_Selection_Statistics.png/revision/latest?cb=20250710191849
-                - img "Statistics tab" [ref=e351]
-              - paragraph [ref=e353]: Statistics tab
-            - paragraph [ref=e354]:
-              - text: The statistics tab (
-              - link "Statistics Icon" [ref=e356] [cursor=pointer]:
-                - /url: https://static.wikia.nocookie.net/dragon-adventures/images/b/b6/Statistics_Icon.png/revision/latest?cb=20250522174249
-                - img "Statistics Icon" [ref=e357]
-              - text: ) is made up of four, toggleable sections that display the dragon's statistics and other information. At the top, the dragon's mugshot, name, species, and rarity will be shown.
-            - heading "Information" [level=4] [ref=e358]: Information
-            - paragraph [ref=e359]: "The Information section displays the following information, from top to bottom:"
-            - generic [ref=e360]:
-              - text: "[Collapse]"
-              - list [ref=e361]:
-                - listitem [ref=e362]: Origin
-                - listitem [ref=e363]:
-                  - link "Male Icon" [ref=e365] [cursor=pointer]:
-                    - /url: https://static.wikia.nocookie.net/dragon-adventures/images/b/b7/Male_Icon.png/revision/latest?cb=20211011072311
-                    - img "Male Icon" [ref=e366]
-                  - text: /
-                  - link "Female Icon" [ref=e368] [cursor=pointer]:
-                    - /url: https://static.wikia.nocookie.net/dragon-adventures/images/7/71/Female_Icon.png/revision/latest?cb=20211011072302
-                    - img "Female Icon" [ref=e369]
-                  - text: Gender
-                - listitem [ref=e370]:
-                  - link "Age" [ref=e372] [cursor=pointer]:
-                    - /url: https://static.wikia.nocookie.net/dragon-adventures/images/2/2d/Age.png/revision/latest?cb=20211011072341
-                    - img "Age" [ref=e373]
-                  - link "Age" [ref=e374] [cursor=pointer]:
-                    - /url: /wiki/Age
-                - listitem [ref=e375]:
-                  - link "Happy Icon" [ref=e377] [cursor=pointer]:
-                    - /url: https://static.wikia.nocookie.net/dragon-adventures/images/4/4d/Happy_Icon.png/revision/latest?cb=20240209213700
-                    - img "Happy Icon" [ref=e378]
-                  - link "Personality" [ref=e379] [cursor=pointer]:
-                    - /url: /wiki/Personalities
-            - heading "Appearance" [level=4] [ref=e380]: Appearance
-            - paragraph [ref=e381]: "The Appearance section displays the following information, from top to bottom:"
-            - generic [ref=e382]:
-              - text: "[Collapse]"
-              - list [ref=e383]:
-                - listitem [ref=e384]: Primary Coat (includes primary color and material)
-                - listitem [ref=e385]: Secondary Coat (includes secondary color and material)
-                - listitem [ref=e386]: Tertiary Coat (includes tertiary color and material)
-                - listitem [ref=e387]:
-                  - link "Mutations" [ref=e389] [cursor=pointer]:
-                    - /url: https://static.wikia.nocookie.net/dragon-adventures/images/e/ec/Mutations.png/revision/latest?cb=20211011072750
-                    - img "Mutations" [ref=e390]
-                  - link "Mutations" [ref=e391] [cursor=pointer]:
-                    - /url: /wiki/Mutations
-                - listitem [ref=e392]:
-                  - link "Traits" [ref=e394] [cursor=pointer]:
-                    - /url: https://static.wikia.nocookie.net/dragon-adventures/images/7/7a/Traits.png/revision/latest?cb=20250522191352
-                    - img "Traits" [ref=e395]
-                  - link "Cosmetic Trait" [ref=e396] [cursor=pointer]:
-                    - /url: /wiki/Cosmetic_traits
-                - listitem [ref=e397]:
-                  - link "Teleport" [ref=e399] [cursor=pointer]:
-                    - /url: https://static.wikia.nocookie.net/dragon-adventures/images/e/e8/Teleport.png/revision/latest?cb=20211011072326
-                    - img "Teleport" [ref=e400]
-                  - link "Element" [ref=e401] [cursor=pointer]:
-                    - /url: /wiki/Elements
-                - listitem [ref=e402]:
-                  - link "Pupil" [ref=e403] [cursor=pointer]:
-                    - /url: /wiki/Pupils
-                - listitem [ref=e404]:
-                  - link "Generation" [ref=e405] [cursor=pointer]:
-                    - /url: /wiki/Generations
-            - heading "Breeding" [level=4] [ref=e406]: Breeding
-            - paragraph [ref=e407]: "The Breeding section displays the following information, from top to bottom:"
-            - generic [ref=e408]:
-              - text: "[Collapse]"
-              - list [ref=e409]:
-                - listitem [ref=e410]:
-                  - link "Dragon Breeding Heart" [ref=e412] [cursor=pointer]:
-                    - /url: https://static.wikia.nocookie.net/dragon-adventures/images/6/61/Dragon_Breeding_Heart.png/revision/latest?cb=20211011072302
-                    - img "Dragon Breeding Heart" [ref=e413]
-                  - link "Breedable" [ref=e414] [cursor=pointer]:
-                    - /url: /wiki/Breeding
-                  - list [ref=e415]:
-                    - listitem [ref=e416]:
-                      - text: If the dragon is a
-                      - link "Soul Bound" [ref=e417] [cursor=pointer]:
-                        - /url: /wiki/Breeding#Soul_Bound
-                      - text: species, it will show the Soul Bound icon instead.
-                - listitem [ref=e418]:
-                  - link "Age" [ref=e420] [cursor=pointer]:
-                    - /url: https://static.wikia.nocookie.net/dragon-adventures/images/2/2d/Age.png/revision/latest?cb=20211011072341
-                    - img "Age" [ref=e421]
-                  - link "Breeding Time" [ref=e422] [cursor=pointer]:
-                    - /url: /wiki/Breeding#Breeding_Cooldown
-                - listitem [ref=e423]:
-                  - link "Coins" [ref=e425] [cursor=pointer]:
-                    - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
-                    - img "Coins" [ref=e426]
-                  - link "Breed Cost" [ref=e427] [cursor=pointer]:
-                    - /url: /wiki/Breeding#Breeding_Cost
-                - listitem [ref=e428]: Soulbindable (only if the dragon is a Soul Bound species)
-              - paragraph [ref=e429]:
-                - text: If the dragon is an unbreedable species, only the Breedable line will be shown, and it will have a
-                - link "Lock" [ref=e431] [cursor=pointer]:
-                  - /url: https://static.wikia.nocookie.net/dragon-adventures/images/9/96/Lock.png/revision/latest?cb=20211011072306
-                  - img "Lock" [ref=e432]
-                - text: lock icon and be listed as "No."
-            - heading "Stats" [level=4] [ref=e433]: Stats
-            - paragraph [ref=e434]: "The Stats section displays the following information, from top to bottom:"
-            - generic [ref=e435]:
-              - text: "[Collapse]"
-              - list [ref=e436]:
-                - listitem [ref=e437]:
-                  - link "Heart" [ref=e439] [cursor=pointer]:
-                    - /url: https://static.wikia.nocookie.net/dragon-adventures/images/d/d9/Heart.png/revision/latest?cb=20211011072306
-                    - img "Heart" [ref=e440]
-                  - text: Health
-                - listitem [ref=e441]:
-                  - link "Heal Rate" [ref=e443] [cursor=pointer]:
-                    - /url: https://static.wikia.nocookie.net/dragon-adventures/images/e/e4/Heal_Rate.png/revision/latest?cb=20250628195017
-                    - img "Heal Rate" [ref=e444]
-                  - text: Heal Rate
-                - listitem [ref=e445]:
-                  - link "Bite Damage" [ref=e447] [cursor=pointer]:
-                    - /url: https://static.wikia.nocookie.net/dragon-adventures/images/1/1f/Bite_Damage.png/revision/latest?cb=20250616213834
-                    - img "Bite Damage" [ref=e448]
-                  - text: Bite Damage
-                - listitem [ref=e449]:
-                  - link "Breath Damage" [ref=e451] [cursor=pointer]:
-                    - /url: https://static.wikia.nocookie.net/dragon-adventures/images/d/d3/Breath_Damage.png/revision/latest?cb=20250616213654
-                    - img "Breath Damage" [ref=e452]
-                  - text: Breath Damage
-                - listitem [ref=e453]:
-                  - link "Breath Cooldown" [ref=e455] [cursor=pointer]:
-                    - /url: https://static.wikia.nocookie.net/dragon-adventures/images/8/8a/Breath_Cooldown.png/revision/latest?cb=20250616213824
-                    - img "Breath Cooldown" [ref=e456]
-                  - text: Breath Duration
-                - listitem [ref=e457]:
-                  - link "Breath Cooldown" [ref=e459] [cursor=pointer]:
-                    - /url: https://static.wikia.nocookie.net/dragon-adventures/images/8/8a/Breath_Cooldown.png/revision/latest?cb=20250616213824
-                    - img "Breath Cooldown" [ref=e460]
-                  - text: Breath Cooldown
-                - listitem [ref=e461]:
-                  - link "Tracking" [ref=e463] [cursor=pointer]:
-                    - /url: https://static.wikia.nocookie.net/dragon-adventures/images/5/5f/Tracking.png/revision/latest?cb=20250628195039
-                    - img "Tracking" [ref=e464]
-                  - text: Sense Range
-                - listitem [ref=e465]:
-                  - link "Flying Type" [ref=e467] [cursor=pointer]:
-                    - /url: https://static.wikia.nocookie.net/dragon-adventures/images/e/ec/Flying_Type.png/revision/latest?cb=20250305234204
-                    - img "Flying Type" [ref=e468]
-                  - text: Fly Speed
-                - listitem [ref=e469]:
-                  - link "Walk Speed" [ref=e471] [cursor=pointer]:
-                    - /url: https://static.wikia.nocookie.net/dragon-adventures/images/7/76/Walk_Speed.png/revision/latest?cb=20250628191606
-                    - img "Walk Speed" [ref=e472]
-                  - text: Walk Speed
-                - listitem [ref=e473]:
-                  - link "Dash Cooldown" [ref=e475] [cursor=pointer]:
-                    - /url: https://static.wikia.nocookie.net/dragon-adventures/images/7/7d/Dash_Cooldown.png/revision/latest?cb=20250616214006
-                    - img "Dash Cooldown" [ref=e476]
-                  - text: Dash Cooldown
-                - listitem [ref=e477]:
-                  - link "Dash Force" [ref=e479] [cursor=pointer]:
-                    - /url: https://static.wikia.nocookie.net/dragon-adventures/images/e/e2/Dash_Force.png/revision/latest?cb=20250616213954
-                    - img "Dash Force" [ref=e480]
-                  - text: Dash Force
-                - listitem [ref=e481]:
-                  - link "Hunger Icon" [ref=e483] [cursor=pointer]:
-                    - /url: https://static.wikia.nocookie.net/dragon-adventures/images/c/c5/Hunger_Icon.png/revision/latest?cb=20250626221922
-                    - img "Hunger Icon" [ref=e484]
-                  - text: Hunger Loss
-                - listitem [ref=e485]:
-                  - link "Experience" [ref=e487] [cursor=pointer]:
-                    - /url: https://static.wikia.nocookie.net/dragon-adventures/images/e/e1/Experience.png/revision/latest?cb=20250628195007
-                    - img "Experience" [ref=e488]
-                  - text: EXP. Boost
-                - listitem [ref=e489]:
-                  - link "Age" [ref=e491] [cursor=pointer]:
-                    - /url: https://static.wikia.nocookie.net/dragon-adventures/images/2/2d/Age.png/revision/latest?cb=20211011072341
-                    - img "Age" [ref=e492]
-                  - text: Growth Time
-            - heading "Miscellaneous" [level=4] [ref=e493]: Miscellaneous
-            - paragraph [ref=e494]: "The Miscellaneous section displays the following information, from top to bottom:"
-            - generic [ref=e495]:
-              - text: "[Collapse]"
-              - list [ref=e496]:
-                - listitem [ref=e497]: Birthday
-                - listitem [ref=e498]: Original Owner
-                - listitem [ref=e499]: Concept Artist (if the dragon's concept artist is "aelures" or "Sonar Studios", it will not show)
-                - listitem [ref=e500]:
-                  - text: Legacy Model (only if the dragon is a
-                  - link "Legacy" [ref=e501] [cursor=pointer]:
-                    - /url: /wiki/Legacy_Potion
-                  - text: variant)
-            - heading "Traits" [level=3] [ref=e502]: Traits
-            - figure "Traits tab" [ref=e503]:
-              - link "Traits tab" [ref=e504] [cursor=pointer]:
-                - /url: https://static.wikia.nocookie.net/dragon-adventures/images/c/c5/Lair_Selection_Traits.png/revision/latest?cb=20250710191904
-                - img "Traits tab" [ref=e505]
-              - paragraph [ref=e507]: Traits tab
-            - paragraph [ref=e508]:
-              - text: The traits tab (
-              - link "Traits" [ref=e510] [cursor=pointer]:
-                - /url: https://static.wikia.nocookie.net/dragon-adventures/images/7/7a/Traits.png/revision/latest?cb=20250522191352
-                - img "Traits" [ref=e511]
-              - text: ) displays the dragon's mugshot, name, and species at the top right. Below the species text will be the dragon's
-              - link "cosmetic trait" [ref=e512] [cursor=pointer]:
-                - /url: /wiki/Cosmetic_traits
-              - text: ", if any. Cosmetic traits cannot currently be removed once a dragon attains one."
-            - paragraph [ref=e513]: Below the cosmetic trait section lies two rows listing the dragon's positive genetic traits on the left and negative genetic traits on the right. A dragon can have up to four positive traits and two negative traits, and each trait can go up to tier 10. If the player hovers over any traits listed, a short tip will be displayed.
-            - heading "Appearance" [level=3] [ref=e514]: Appearance
-            - figure "Appearance tab" [ref=e515]:
-              - link "Appearance tab" [ref=e516] [cursor=pointer]:
-                - /url: https://static.wikia.nocookie.net/dragon-adventures/images/0/05/Lair_Selection_Appearance.png/revision/latest?cb=20250710191939
-                - img "Appearance tab" [ref=e517]
-              - paragraph [ref=e519]: Appearance tab
-            - paragraph [ref=e520]:
-              - text: The appearance tab (
-              - link "Appearance" [ref=e522] [cursor=pointer]:
-                - /url: https://static.wikia.nocookie.net/dragon-adventures/images/0/00/Appearance.png/revision/latest?cb=20250710185352
-                - img "Appearance" [ref=e523]
-              - text: ) is similar to the main tab. To the right of the dragon's mugshot are its colors and materials. Below the mugshot is a small tab for a closeup of the dragon's element and pupil information. From top left to bottom right, the dragon's number of
-              - link "mutations" [ref=e524] [cursor=pointer]:
-                - /url: /wiki/Mutations
-              - text: ", its"
-              - link "generation" [ref=e525] [cursor=pointer]:
-                - /url: /wiki/Generations
-              - text: ", cosmetic trait, birthday, breeding traits, and original owner will be displayed."
-            - paragraph [ref=e526]: If the dragon has 2/3 of the same colors, it will gain a yellow "Partial Pure" flair above its colors and materials tab. If it has 3/3 of the same colors, it will gain a blue "Pure" flair.
-            - heading "Controls" [level=2] [ref=e527]: Controls
-            - paragraph [ref=e528]: "In addition to being able to select dragons and view their relevant information, the Lair has a few other controls:"
-            - heading "Favoriting" [level=3] [ref=e529]: Favoriting
-            - paragraph [ref=e530]:
-              - text: The player can
-              - link "Gold Star" [ref=e532] [cursor=pointer]:
-                - /url: https://static.wikia.nocookie.net/dragon-adventures/images/a/a0/Gold_Star.png/revision/latest?cb=20211011072306
-                - img "Gold Star" [ref=e533]
-              - text: favorite or un-favorite a dragon by clicking on the
-              - link "Gold Star" [ref=e535] [cursor=pointer]:
-                - /url: https://static.wikia.nocookie.net/dragon-adventures/images/a/a0/Gold_Star.png/revision/latest?cb=20211011072306
-                - img "Gold Star" [ref=e536]
-              - text: gold star icon on the dragon's mugshot.
-            - paragraph [ref=e537]:
-              - text: If a dragon is favorited, it will always be shown at the top left of the Lair and will be unable to be
-              - link "auctioned" [ref=e538] [cursor=pointer]:
-                - /url: /wiki/Auction_House
-              - text: ", deleted, or"
-              - link "Traded" [ref=e539] [cursor=pointer]:
-                - /url: /wiki/Trading
-              - text: . There is no limit on how many dragons the player can favorite.
-            - heading "Deleting" [level=3] [ref=e540]: Deleting
-            - paragraph [ref=e541]:
-              - text: The player can delete any non-favorited
-              - link "dragon" [ref=e542] [cursor=pointer]:
-                - /url: /wiki/Official_Dragons
-              - text: in their Lair by selecting a dragon and then by clicking the
-              - link "Delete Icon" [ref=e544] [cursor=pointer]:
-                - /url: https://static.wikia.nocookie.net/dragon-adventures/images/b/b1/Delete_Icon.png/revision/latest?cb=20250522200509
-                - img "Delete Icon" [ref=e545]
-              - text: Trash Dragons button. When this button is selected, a notice will be displayed reading "Release Mode is currently enabled!", and the player will be able to select any dragon they wish to delete. The player may exit out of Release Mode at any time by clicking the Turn off Release Mode button.
-            - paragraph [ref=e546]:
-              - text: Dragons selected for deletion will have darkened cards with
-              - link "Decline" [ref=e548] [cursor=pointer]:
-                - /url: https://static.wikia.nocookie.net/dragon-adventures/images/6/6e/Decline.png/revision/latest?cb=20211011072346
-                - img "Decline" [ref=e549]
-              - text: X marks on them. Once their selected dragon(s) have been chosen, the player can select the
-              - link "Delete Icon" [ref=e551] [cursor=pointer]:
-                - /url: https://static.wikia.nocookie.net/dragon-adventures/images/b/b1/Delete_Icon.png/revision/latest?cb=20250522200509
-                - img "Delete Icon" [ref=e552]
-              - text: "Release # selected dragons button to confirm the deletion. Once a dragon is deleted, it will not be able to be retrieved."
-            - heading "Searching" [level=3] [ref=e553]: Searching
-            - paragraph [ref=e554]:
-              - text: The player can search for any of their dragons by using the search bar that reads "Enter keyword." This feature will only search for dragons by their
-              - link "name" [ref=e555] [cursor=pointer]:
-                - /url: /wiki/Names
-              - text: or
-              - link "species" [ref=e556] [cursor=pointer]:
-                - /url: /wiki/Official_Dragons
-              - text: .
-            - heading "Sorting" [level=3] [ref=e557]: Sorting
-            - paragraph [ref=e558]:
-              - text: The player is able to sort through their
-              - link "dragons" [ref=e559] [cursor=pointer]:
-                - /url: /wiki/Official_Dragons
-              - text: "by any of the four filters: Name, gender, level, or species."
-            - list [ref=e560]:
-              - listitem [ref=e561]:
-                - text: The
-                - link "Sort Name Icon" [ref=e563] [cursor=pointer]:
-                  - /url: https://static.wikia.nocookie.net/dragon-adventures/images/9/9a/Sort_Name_Icon.png/revision/latest?cb=20250522174305
-                  - img "Sort Name Icon" [ref=e564]
-                - text: name filter is selected by default, and it will display all of the player's dragons'
-                - link "names" [ref=e565] [cursor=pointer]:
-                  - /url: /wiki/Names
-                - text: from A-Z.
-              - listitem [ref=e566]:
-                - text: The
-                - link "Sort Gender Icon" [ref=e568] [cursor=pointer]:
-                  - /url: https://static.wikia.nocookie.net/dragon-adventures/images/3/3d/Sort_Gender_Icon.png/revision/latest?cb=20250522174354
-                  - img "Sort Gender Icon" [ref=e569]
-                - text: gender filter will display all
-                - link "Male Icon" [ref=e571] [cursor=pointer]:
-                  - /url: https://static.wikia.nocookie.net/dragon-adventures/images/b/b7/Male_Icon.png/revision/latest?cb=20211011072311
-                  - img "Male Icon" [ref=e572]
-                - text: male dragons before
-                - link "Female Icon" [ref=e574] [cursor=pointer]:
-                  - /url: https://static.wikia.nocookie.net/dragon-adventures/images/7/71/Female_Icon.png/revision/latest?cb=20211011072302
-                  - img "Female Icon" [ref=e575]
-                - text: female dragons.
-              - listitem [ref=e576]:
-                - text: The
-                - link "Sort Level Icon" [ref=e578] [cursor=pointer]:
-                  - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f4/Sort_Level_Icon.png/revision/latest?cb=20250522174416
-                  - img "Sort Level Icon" [ref=e579]
-                - text: level filter will display all of the player's dragons from highest to lowest (level 20-level 1).
-              - listitem [ref=e580]:
-                - text: The
-                - link "Sort Species Icon" [ref=e582] [cursor=pointer]:
-                  - /url: https://static.wikia.nocookie.net/dragon-adventures/images/7/70/Sort_Species_Icon.png/revision/latest?cb=20250522174429
-                  - img "Sort Species Icon" [ref=e583]
-                - text: species filter will display all of the player's dragons' species names from A-Z.
-            - paragraph [ref=e584]: Favorited dragons will always be displayed at the top left of the Lair, regardless of the filter.
-            - heading "Lair Capacity" [level=2] [ref=e585]: Lair Capacity
-            - figure "Lair capacity upgrade pop-up" [ref=e586]:
-              - link "Lair capacity upgrade pop-up" [ref=e587] [cursor=pointer]:
-                - /url: https://static.wikia.nocookie.net/dragon-adventures/images/c/c2/Slot_Upgrade.png/revision/latest?cb=20220711093913
-                - img "Lair capacity upgrade pop-up" [ref=e588]
-              - paragraph [ref=e590]: Lair capacity upgrade pop-up
-            - paragraph [ref=e591]:
-              - text: Each player is able to have a max of 5 dragons when they first begin playing. The player can upgrade their dragon capacity by five slots using
-              - link "Coins" [ref=e593] [cursor=pointer]:
-                - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
-                - img "Coins" [ref=e594]
-              - text: coins. Lair upgrades cost more each time they are purchased.
-            - paragraph [ref=e595]: The player is able to see how many dragons they have at the top of their Lair menu and may hold up to 200 dragons in their lair at a time.
-            - table "Lair Capacity Upgrade Costs [Collapse]" [ref=e596]:
-              - caption [ref=e597]: Lair Capacity Upgrade Costs [Collapse]
-              - rowgroup [ref=e598]:
-                - row "Upgrade Capacity Cost (Coins)" [ref=e599]:
-                  - columnheader "Upgrade" [ref=e600]
-                  - columnheader "Capacity" [ref=e601]
-                  - columnheader "Cost (Coins)" [ref=e602]:
-                    - text: Cost (
-                    - link "Coins" [ref=e604] [cursor=pointer]:
-                      - /url: https://static.wikia.nocookie.net/dragon-adventures/images/f/f0/Coins.png/revision/latest?cb=20211011072313
-                      - img "Coins" [ref=e605]
-                    - text: )
-                - row "1 5 Free" [ref=e606]:
-                  - rowheader "1" [ref=e607]
-                  - cell "5" [ref=e608]
-                  - cell "Free" [ref=e609]
-                - row "2 10 1,000" [ref=e610]:
-                  - rowheader "2" [ref=e611]
-                  - cell "10" [ref=e612]
-                  - cell "1,000" [ref=e613]
-                - row "3 15 1,000" [ref=e614]:
-                  - rowheader "3" [ref=e615]
-                  - cell "15" [ref=e616]
-                  - cell "1,000" [ref=e617]
-                - row "4 20 5,000" [ref=e618]:
-                  - rowheader "4" [ref=e619]
-                  - cell "20" [ref=e620]
-                  - cell "5,000" [ref=e621]
-                - row "5 25 11,000" [ref=e622]:
-                  - rowheader "5" [ref=e623]
-                  - cell "25" [ref=e624]
-                  - cell "11,000" [ref=e625]
-                - row "6 30 21,000" [ref=e626]:
-                  - rowheader "6" [ref=e627]
-                  - cell "30" [ref=e628]
-                  - cell "21,000" [ref=e629]
-                - row "7 35 36,000" [ref=e630]:
-                  - rowheader "7" [ref=e631]
-                  - cell "35" [ref=e632]
-                  - cell "36,000" [ref=e633]
-                - row "8 40 58,000" [ref=e634]:
-                  - rowheader "8" [ref=e635]
-                  - cell "40" [ref=e636]
-                  - cell "58,000" [ref=e637]
-                - row "9 45 86,000" [ref=e638]:
-                  - rowheader "9" [ref=e639]
-                  - cell "45" [ref=e640]
-                  - cell "86,000" [ref=e641]
-                - row "10 50 123,000" [ref=e642]:
-                  - rowheader "10" [ref=e643]
-                  - cell "50" [ref=e644]
-                  - cell "123,000" [ref=e645]
-                - row "11 55 169,000" [ref=e646]:
-                  - rowheader "11" [ref=e647]
-                  - cell "55" [ref=e648]
-                  - cell "169,000" [ref=e649]
-                - row "12 60 224,000" [ref=e650]:
-                  - rowheader "12" [ref=e651]
-                  - cell "60" [ref=e652]
-                  - cell "224,000" [ref=e653]
-                - row "13 65 291,000" [ref=e654]:
-                  - rowheader "13" [ref=e655]
-                  - cell "65" [ref=e656]
-                  - cell "291,000" [ref=e657]
-                - row "14 70 371,000" [ref=e658]:
-                  - rowheader "14" [ref=e659]
-                  - cell "70" [ref=e660]
-                  - cell "371,000" [ref=e661]
-                - row "15 75 463,000" [ref=e662]:
-                  - rowheader "15" [ref=e663]
-                  - cell "75" [ref=e664]
-                  - cell "463,000" [ref=e665]
-                - row "16 80 569,000" [ref=e666]:
-                  - rowheader "16" [ref=e667]
-                  - cell "80" [ref=e668]
-                  - cell "569,000" [ref=e669]
-                - row "17 85 691,000" [ref=e670]:
-                  - rowheader "17" [ref=e671]
-                  - cell "85" [ref=e672]
-                  - cell "691,000" [ref=e673]
-                - row "18 90 829,000" [ref=e674]:
-                  - rowheader "18" [ref=e675]
-                  - cell "90" [ref=e676]
-                  - cell "829,000" [ref=e677]
-                - row "19 95 984,000" [ref=e678]:
-                  - rowheader "19" [ref=e679]
-                  - cell "95" [ref=e680]
-                  - cell "984,000" [ref=e681]
-                - row "20 100 1,157,000" [ref=e682]:
-                  - rowheader "20" [ref=e683]
-                  - cell "100" [ref=e684]
-                  - cell "1,157,000" [ref=e685]
-                - row "21 105 1,349,000" [ref=e686]:
-                  - rowheader "21" [ref=e687]
-                  - cell "105" [ref=e688]
-                  - cell "1,349,000" [ref=e689]
-                - row "22 110 1,562,000" [ref=e690]:
-                  - rowheader "22" [ref=e691]
-                  - cell "110" [ref=e692]
-                  - cell "1,562,000" [ref=e693]
-                - row "23 115 1,796,000" [ref=e694]:
-                  - rowheader "23" [ref=e695]
-                  - cell "115" [ref=e696]
-                  - cell "1,796,000" [ref=e697]
-                - row "24 120 2,052,000" [ref=e698]:
-                  - rowheader "24" [ref=e699]
-                  - cell "120" [ref=e700]
-                  - cell "2,052,000" [ref=e701]
-                - row "25 125 2,331,000" [ref=e702]:
-                  - rowheader "25" [ref=e703]
-                  - cell "125" [ref=e704]
-                  - cell "2,331,000" [ref=e705]
-                - row "26 130 2,635,000" [ref=e706]:
-                  - rowheader "26" [ref=e707]
-                  - cell "130" [ref=e708]
-                  - cell "2,635,000" [ref=e709]
-                - row "27 135 2,964,000" [ref=e710]:
-                  - rowheader "27" [ref=e711]
-                  - cell "135" [ref=e712]
-                  - cell "2,964,000" [ref=e713]
-                - row "28 140 3,320,000" [ref=e714]:
-                  - rowheader "28" [ref=e715]
-                  - cell "140" [ref=e716]
-                  - cell "3,320,000" [ref=e717]
-                - row "29 145 3,702,000" [ref=e718]:
-                  - rowheader "29" [ref=e719]
-                  - cell "145" [ref=e720]
-                  - cell "3,702,000" [ref=e721]
-                - row "30 150 4,113,000" [ref=e722]:
-                  - rowheader "30" [ref=e723]
-                  - cell "150" [ref=e724]
-                  - cell "4,113,000" [ref=e725]
-                - row "31 155 4,554,000" [ref=e726]:
-                  - rowheader "31" [ref=e727]
-                  - cell "155" [ref=e728]
-                  - cell "4,554,000" [ref=e729]
-                - row "32 160 5,024,000" [ref=e730]:
-                  - rowheader "32" [ref=e731]
-                  - cell "160" [ref=e732]
-                  - cell "5,024,000" [ref=e733]
-                - row "33 165 5,526,000" [ref=e734]:
-                  - rowheader "33" [ref=e735]
-                  - cell "165" [ref=e736]
-                  - cell "5,526,000" [ref=e737]
-                - row "34 170 6,061,000" [ref=e738]:
-                  - rowheader "34" [ref=e739]
-                  - cell "170" [ref=e740]
-                  - cell "6,061,000" [ref=e741]
-                - row "35 175 6,629,000" [ref=e742]:
-                  - rowheader "35" [ref=e743]
-                  - cell "175" [ref=e744]
-                  - cell "6,629,000" [ref=e745]
-                - row "36 180 7,231,000" [ref=e746]:
-                  - rowheader "36" [ref=e747]
-                  - cell "180" [ref=e748]
-                  - cell "7,231,000" [ref=e749]
-                - row "37 185 7,869,000" [ref=e750]:
-                  - rowheader "37" [ref=e751]
-                  - cell "185" [ref=e752]
-                  - cell "7,869,000" [ref=e753]
-                - row "38 190 8,543,000" [ref=e754]:
-                  - rowheader "38" [ref=e755]
-                  - cell "190" [ref=e756]
-                  - cell "8,543,000" [ref=e757]
-                - row "39 195 9,254,000" [ref=e758]:
-                  - rowheader "39" [ref=e759]
-                  - cell "195" [ref=e760]
-                  - cell "9,254,000" [ref=e761]
-                - row "40 200 10,004,000" [ref=e762]:
-                  - rowheader "40" [ref=e763]
-                  - cell "200" [ref=e764]
-                  - cell "10,004,000" [ref=e765]
-                - row "Total 200 102,609,000" [ref=e766]:
-                  - columnheader "Total" [ref=e767]
-                  - columnheader "200" [ref=e768]
-                  - columnheader "102,609,000" [ref=e769]
-            - heading "Loyalty Perks" [level=3] [ref=e770]: Loyalty Perks
-            - paragraph [ref=e771]: On January 12th, 2024, Loyalty Perks were introduced as a permanent feature. If the player is in the Sonar Studios Roblox group and has Dragon Adventures favorited on the Roblox site, they will be able to claim 5 additional lair slots, letting the player have a total of 205 lair slots.
-            - heading "Gallery" [level=2] [ref=e772]: Gallery
-            - paragraph [ref=e773]: "A collage of images relating to the Lair are shown below:"
-            - generic [ref=e774]:
-              - list [ref=e776]:
-                - listitem [ref=e777] [cursor=pointer]:
-                  - link "Development" [ref=e779]:
-                    - /url: "#"
-                - listitem [ref=e780] [cursor=pointer]:
-                  - link "History" [ref=e782]:
-                    - /url: "#"
-              - generic [ref=e784]:
-                - generic [ref=e787]:
-                  - link "Appearance tab teaser" [ref=e788] [cursor=pointer]:
-                    - /url: /wiki/File:Appearance_Lair_Tab_Teaser.png
-                    - img "Appearance tab teaser" [ref=e789]
-                  - generic [ref=e790]: Appearance tab teaser
-                - generic [ref=e793]:
-                  - link "Partial Pure flair teaser" [ref=e794] [cursor=pointer]:
-                    - /url: /wiki/File:Partial_Pure_Flair_Teaser.png
-                    - img "Partial Pure flair teaser" [ref=e795]
-                  - generic [ref=e796]: Partial Pure flair teaser
-                - generic [ref=e799]:
-                  - link "Lair V6 teaser" [ref=e800] [cursor=pointer]:
-                    - /url: /wiki/File:Lair_V6_Teaser.gif
-                    - img "Lair V6 teaser" [ref=e801]
-                  - generic [ref=e802]: Lair V6 teaser
-            - heading "Trivia" [level=2] [ref=e803]: Trivia
-            - list [ref=e804]:
-              - listitem [ref=e805]: The Lair interface has been revamped five times.
-              - listitem [ref=e806]:
-                - text: On February 5th, 2022, favoriting was added.
-                - superscript [ref=e807]:
-                  - link "[1]" [ref=e808] [cursor=pointer]:
-                    - /url: "#cite_note-1"
-              - listitem [ref=e809]:
-                - text: On May 11th, 2022, the concept artist tooltip was added.
-                - superscript [ref=e810]:
-                  - link "[2]" [ref=e811] [cursor=pointer]:
-                    - /url: "#cite_note-2"
-              - listitem [ref=e812]:
-                - text: Dragons obtained before May 2023 may not have an accurate hatch date because the system recording hatch dates was not implemented until later.
-                - superscript [ref=e813]:
-                  - link "[3]" [ref=e814] [cursor=pointer]:
-                    - /url: "#cite_note-3"
-              - listitem [ref=e815]: The heritage menu will be unviewable if the dragon's original owner has had their Roblox account terminated.
-              - listitem [ref=e816]:
-                - text: On February 2nd, 2024, the cost of lair upgrades was reduced, and the lair capacity was doubled.
-                - superscript [ref=e817]:
-                  - link "[4]" [ref=e818] [cursor=pointer]:
-                    - /url: "#cite_note-4"
-              - listitem [ref=e819]:
-                - text: On June 25th, 2025, the Lair's dragon selection interface and tabs were redone.
-                - superscript [ref=e820]:
-                  - link "[5]" [ref=e821] [cursor=pointer]:
-                    - /url: "#cite_note-5"
-              - listitem [ref=e822]:
-                - text: On July 4th, 2025, the appearance tab was added.
-                - superscript [ref=e823]:
-                  - link "[6]" [ref=e824] [cursor=pointer]:
-                    - /url: "#cite_note-6"
-              - listitem [ref=e825]:
-                - text: On November 14th, 2025, the delete button was revamped to allow players to select multiple dragons at a time.
-                - superscript [ref=e826]:
-                  - link "[7]" [ref=e827] [cursor=pointer]:
-                    - /url: "#cite_note-7"
-                - list [ref=e828]:
-                  - listitem [ref=e829]:
-                    - text: On November 21st, some adjustments to the feature were made, including fixing the Release Mode warning text from cutting off on mobile devices, automatically de-selecting the player's selected dragon when the Trash Dragons button is clicked to prevent accidental deletions, and adjusting the Release Mode text for clarification.
-                    - superscript [ref=e830]:
-                      - link "[8]" [ref=e831] [cursor=pointer]:
-                        - /url: "#cite_note-8"
-            - heading "References" [level=2] [ref=e832]: References
-            - list [ref=e834]:
-              - listitem [ref=e835]:
-                - link "↑" [ref=e837] [cursor=pointer]:
-                  - /url: "#cite_ref-1"
-                - link "https://discord.com/channels/346515443869286410/410838723027140628/928378035768537089" [ref=e839] [cursor=pointer]:
-                  - /url: https://discord.com/channels/346515443869286410/410838723027140628/928378035768537089
-              - listitem [ref=e840]:
-                - link "↑" [ref=e842] [cursor=pointer]:
-                  - /url: "#cite_ref-2"
-                - link "https://discord.com/channels/346515443869286410/434191386137329664/974018252416110693" [ref=e844] [cursor=pointer]:
-                  - /url: https://discord.com/channels/346515443869286410/434191386137329664/974018252416110693
-              - listitem [ref=e845]:
-                - link "↑" [ref=e847] [cursor=pointer]:
-                  - /url: "#cite_ref-3"
-                - generic [ref=e848]:
-                  - link "https://discord.com/channels/346515443869286410/434191386137329664/1199034166273130677" [ref=e849] [cursor=pointer]:
-                    - /url: https://discord.com/channels/346515443869286410/434191386137329664/1199034166273130677
-                  - text: "]"
-              - listitem [ref=e850]:
-                - link "↑" [ref=e852] [cursor=pointer]:
-                  - /url: "#cite_ref-4"
-                - link "https://discord.com/channels/346515443869286410/434191386137329664/1202746867016929340" [ref=e854] [cursor=pointer]:
-                  - /url: https://discord.com/channels/346515443869286410/434191386137329664/1202746867016929340
-              - listitem [ref=e855]:
-                - link "↑" [ref=e857] [cursor=pointer]:
-                  - /url: "#cite_ref-5"
-                - link "https://discord.com/channels/346515443869286410/434191386137329664/1387565803276079225" [ref=e859] [cursor=pointer]:
-                  - /url: https://discord.com/channels/346515443869286410/434191386137329664/1387565803276079225
-              - listitem [ref=e860]:
-                - link "↑" [ref=e862] [cursor=pointer]:
-                  - /url: "#cite_ref-6"
-                - link "https://discord.com/channels/346515443869286410/434191386137329664/1390777346784628888" [ref=e864] [cursor=pointer]:
-                  - /url: https://discord.com/channels/346515443869286410/434191386137329664/1390777346784628888
-              - listitem [ref=e865]:
-                - link "↑" [ref=e867] [cursor=pointer]:
-                  - /url: "#cite_ref-7"
-                - link "https://discord.com/channels/346515443869286410/410838723027140628/1439035645421944904" [ref=e869] [cursor=pointer]:
-                  - /url: https://discord.com/channels/346515443869286410/410838723027140628/1439035645421944904
-              - listitem [ref=e870]:
-                - link "↑" [ref=e872] [cursor=pointer]:
-                  - /url: "#cite_ref-8"
-                - link "https://discord.com/channels/346515443869286410/410838723027140628/1441535867347796110" [ref=e874] [cursor=pointer]:
-                  - /url: https://discord.com/channels/346515443869286410/410838723027140628/1441535867347796110
-          - generic [ref=e875]:
-            - generic "Toggle Categories" [ref=e876]:
-              - generic [ref=e877] [cursor=pointer]:
-                - text: Categories
-                - img [ref=e878]
-            - generic [ref=e880]:
-              - text: Community content is available under
-              - link "CC-BY-SA" [ref=e881] [cursor=pointer]:
-                - /url: https://www.fandom.com/licensing
-              - text: unless otherwise noted.
-            - generic [ref=e883]:
-              - generic [ref=e884]: More Fandoms
-              - list [ref=e886]:
-                - listitem [ref=e887]:
-                  - link "Fantasy" [ref=e888] [cursor=pointer]:
-                    - /url: https://www.fandom.com/fancentral/fantasy
-        - complementary [ref=e889]
-    - contentinfo [ref=e893]:
-      - generic [ref=e894]:
-        - generic [ref=e895]:
-          - heading "Fandom homepage" [level=2] [ref=e896]:
-            - link "Fandom homepage" [ref=e897] [cursor=pointer]:
-              - /url: https://www.fandom.com/
-              - img "Fandom logo" [ref=e898]
-          - generic [ref=e899]:
-            - heading "Explore properties" [level=3] [ref=e900]
-            - list [ref=e901]:
-              - listitem [ref=e902]:
-                - link "Fandom" [ref=e903] [cursor=pointer]:
-                  - /url: https://www.fandom.com/
-              - listitem [ref=e904]:
-                - link "Fanatical" [ref=e905] [cursor=pointer]:
-                  - /url: https://www.fanatical.com/
-              - listitem [ref=e906]:
-                - link "GameSpot" [ref=e907] [cursor=pointer]:
-                  - /url: https://www.gamespot.com/
-              - listitem [ref=e908]:
-                - link "Metacritic" [ref=e909] [cursor=pointer]:
-                  - /url: https://www.metacritic.com/
-              - listitem [ref=e910]:
-                - link "TV Guide" [ref=e911] [cursor=pointer]:
-                  - /url: https://www.tvguide.com/
-              - listitem [ref=e912]:
-                - link "Honest Entertainment" [ref=e913] [cursor=pointer]:
-                  - /url: https://www.youtube.com/user/screenjunkies
-          - generic [ref=e914]:
-            - heading "Follow Us" [level=3] [ref=e915]
-            - list [ref=e916]:
-              - listitem [ref=e917]:
-                - link "Follow Fandom on Facebook" [ref=e918] [cursor=pointer]:
-                  - /url: https://www.facebook.com/getfandom
-                  - img [ref=e919]
-              - listitem [ref=e921]:
-                - link "Follow Fandom on Twitter" [ref=e922] [cursor=pointer]:
-                  - /url: https://twitter.com/getfandom
-                  - img [ref=e923]
-              - listitem [ref=e925]:
-                - link "Follow Fandom on Youtube" [ref=e926] [cursor=pointer]:
-                  - /url: https://www.youtube.com/fandomentertainment
-                  - img [ref=e927]
-              - listitem [ref=e929]:
-                - link "Follow Fandom on Instagram" [ref=e930] [cursor=pointer]:
-                  - /url: https://www.instagram.com/getfandom/
-                  - img [ref=e931]
-              - listitem [ref=e933]:
-                - link "Follow Fandom on LinkedIn" [ref=e934] [cursor=pointer]:
-                  - /url: https://www.linkedin.com/company/157252
-                  - img [ref=e935]
-        - generic [ref=e938]:
-          - heading "Overview" [level=3] [ref=e939]
-          - list [ref=e940]:
-            - listitem [ref=e941]:
-              - link "What is Fandom?" [ref=e942] [cursor=pointer]:
-                - /url: https://www.fandom.com/what-is-fandom
-            - listitem [ref=e943]:
-              - link "Essentials" [ref=e944] [cursor=pointer]:
-                - /url: https://www.fandom.com/essentials
-            - listitem [ref=e945]:
-              - link "About" [ref=e946] [cursor=pointer]:
-                - /url: https://www.fandom.com/about
-            - listitem [ref=e947]:
-              - link "Careers" [ref=e948] [cursor=pointer]:
-                - /url: https://www.fandom.com/careers
-            - listitem [ref=e949]:
-              - link "Press" [ref=e950] [cursor=pointer]:
-                - /url: https://www.fandom.com/press
-            - listitem [ref=e951]:
-              - link "Contact" [ref=e952] [cursor=pointer]:
-                - /url: https://www.fandom.com/about#contact
-            - listitem [ref=e953]:
-              - link "Terms of Use" [ref=e954] [cursor=pointer]:
-                - /url: https://www.fandom.com/terms-of-use
-            - listitem [ref=e955]:
-              - link "Privacy Policy" [ref=e956] [cursor=pointer]:
-                - /url: https://www.fandom.com/privacy-policy
-            - listitem [ref=e957]:
-              - link "Digital Services Act" [ref=e958] [cursor=pointer]:
-                - /url: https://www.fandom.com/digital-services-act
-            - listitem [ref=e959]:
-              - link "Global Sitemap" [ref=e960] [cursor=pointer]:
-                - /url: //community.fandom.com/Sitemap
-            - listitem [ref=e961]:
-              - link "Local Sitemap" [ref=e962] [cursor=pointer]:
-                - /url: /wiki/Local_Sitemap
-            - listitem [ref=e963]:
-              - button "Cookies Settings" [ref=e998]
-        - generic [ref=e964]:
-          - generic [ref=e965]:
-            - heading "Community" [level=3] [ref=e966]
-            - list [ref=e967]:
-              - listitem [ref=e968]:
-                - link "Community Central" [ref=e969] [cursor=pointer]:
-                  - /url: //community.fandom.com/wiki/Community_Central
-              - listitem [ref=e970]:
-                - link "Support" [ref=e971] [cursor=pointer]:
-                  - /url: https://fandom.zendesk.com/
-              - listitem [ref=e972]:
-                - link "Help" [ref=e973] [cursor=pointer]:
-                  - /url: //community.fandom.com/wiki/Help:Contents
-          - generic [ref=e974]:
-            - heading "Advertise" [level=3] [ref=e975]
-            - list [ref=e976]:
-              - listitem [ref=e977]:
-                - link "Media Kit" [ref=e978] [cursor=pointer]:
-                  - /url: https://about.fandom.com/mediakit
-              - listitem [ref=e979]:
-                - link "Contact" [ref=e980] [cursor=pointer]:
-                  - /url: https://about.fandom.com/mediakit#contact
-        - generic [ref=e981]:
-          - generic [ref=e982]:
-            - heading "Fandom Apps" [level=3] [ref=e983]
-            - text: Take your favorite fandoms with you and never miss a beat.
-          - generic [ref=e984]:
-            - img "Fandom App logo" [ref=e985]
-            - list [ref=e986]:
-              - listitem [ref=e987]:
-                - link "Fandom's Apple Store" [ref=e988] [cursor=pointer]:
-                  - /url: https://apps.apple.com/us/app/fandom-videos-news-reviews/id1230063803
-                  - img "Store icon" [ref=e989]
-              - listitem [ref=e990]:
-                - link "Fandom's Google Play" [ref=e991] [cursor=pointer]:
-                  - /url: https://play.google.com/store/apps/details?id=com.fandom.app&referrer=utm_source%3Dwikia%26utm_medium%3Dglobalfooter
-                  - img "Store icon" [ref=e992]
-      - generic [ref=e993]:
-        - generic [ref=e994]: Dragon Adventures Wiki is a Fandom Games Community.
-        - button "View Mobile Site" [ref=e996]
-  - generic: Cookies Settings
+# Lair
+
+The Lair, also known as My Dragons, is a feature that acts as an inventory that holds all of the player's dragons.
+
+The My Dragons tab can be found on the right of the player's screen on PC and below the minimap on mobile. On PC, users can also access it via the 1 hotkey.
+
+## Dragon Selection
+
+Upon clicking My Dragons, the player will be brought to their Lair, which will display all of their currently owned dragons and a few of their respective traits in a three-column grid. Dragons stored in the Stables will not show up in the user's lair.
+
+On the left, all of the player's dragons will be displayed. On the right, an empty box with text reading "Select a dragon!" will be displayed. This message will only show up if the player has not yet selected a dragon.
+
+When a dragon is clicked on, all of its info will be displayed on one of four tabs. Each tab will show a mugshot of the dragon, its name, and its species.
+
+### Main
+
+The main tab will display the basic stats, sub-skills, and traits of the selected dragon. In the upper left, its name and mugshot will be displayed. In the upper right, its species, hunger, health, and age will be displayed.
+
+Underneath its age bar is a small appearance section, displaying its Primary, Secondary, and Tertiary colors and materials. If the dragon has Legendary color, the corresponding color slot will show the color shift instead.
+
+The ability to favorite or un-favorite the dragon will be displayed on the top right of its mugshot. If the player hovers over the dragon's mugshot, the concept creator(s) of the dragon will be listed.
+
+Below the mugshot and appearance section is the dragon's level and sub-skills. Sub-skills will become fuller as they earn more EXP. At the bottom of the card are an additional four options that will each bring up a menu:
+
+- **Equip** or **Unequip**
+- **Feed** or **Revive** (only if the dragon has fainted)
+- **Breed**
+- **Customize** (only selectable if the dragon is equipped, otherwise it will be greyed out)
+
+#### Equipping
+
+The player can also unequip their dragon by selecting the Unequip button that comes up when the player interacts with a dragon on PC or mobile. Additionally, dragons that are equipped will have an equipped icon on the top right of their mugshot in the selection menu.
+
+A player may only equip one dragon at a time. If the user owns the VIP gamepass, they will be able to equip up to three dragons. If the player is an owner of a Roblox private server, they can equip up to five dragons in that server.
+
+### Statistics
+
+The statistics tab is made up of four, toggleable sections that display the dragon's statistics and other information. At the top, the dragon's mugshot, name, species, and rarity will be shown.
+
+#### Information
+
+The Information section displays the following information, from top to bottom:
+
+- Origin
+- Gender (Male/Female)
+- Age
+- Personality
+
+#### Appearance
+
+The Appearance section displays the following information, from top to bottom:
+
+- Primary Coat (includes primary color and material)
+- Secondary Coat (includes secondary color and material)
+- Tertiary Coat (includes tertiary color and material)
+- Mutations
+- Cosmetic Trait
+- Element
+- Pupil
+- Generation
+
+#### Breeding
+
+The Breeding section displays the following information, from top to bottom:
+
+- Breedable
+  - If the dragon is a Soul Bound species, it will show the Soul Bound icon instead.
+- Breeding Time
+- Breed Cost
+- Soulbindable (only if the dragon is a Soul Bound species)
+
+If the dragon is an unbreedable species, only the Breedable line will be shown, and it will have a lock icon and be listed as "No."
+
+#### Stats
+
+The Stats section displays the following information, from top to bottom:
+
+- Health
+- Heal Rate
+- Bite Damage
+- Breath Damage
+- Breath Duration
+- Breath Cooldown
+- Sense Range
+- Fly Speed
+- Walk Speed
+- Dash Cooldown
+- Dash Force
+- Hunger Loss
+- EXP. Boost
+- Growth Time
+
+#### Miscellaneous
+
+The Miscellaneous section displays the following information, from top to bottom:
+
+- Birthday
+- Original Owner
+- Concept Artist (if the dragon's concept artist is "aelures" or "Sonar Studios", it will not show)
+- Legacy Model (only if the dragon is a Legacy variant)
+
+### Traits
+
+The traits tab displays the dragon's mugshot, name, and species at the top right. Below the species text will be the dragon's cosmetic trait, if any. Cosmetic traits cannot currently be removed once a dragon attains one.
+
+Below the cosmetic trait section lies two rows listing the dragon's positive genetic traits on the left and negative genetic traits on the right. A dragon can have up to four positive traits and two negative traits, and each trait can go up to tier 10. If the player hovers over any traits listed, a short tip will be displayed.
+
+### Appearance
+
+The appearance tab is similar to the main tab. To the right of the dragon's mugshot are its colors and materials. Below the mugshot is a small tab for a closeup of the dragon's element and pupil information. From top left to bottom right, the dragon's number of mutations, its generation, cosmetic trait, birthday, breeding traits, and original owner will be displayed.
+
+If the dragon has 2/3 of the same colors, it will gain a yellow "Partial Pure" flair above its colors and materials tab. If it has 3/3 of the same colors, it will gain a blue "Pure" flair.
+
+## Controls
+
+In addition to being able to select dragons and view their relevant information, the Lair has a few other controls:
+
+### Favoriting
+
+The player can favorite or un-favorite a dragon by clicking on the gold star icon on the dragon's mugshot.
+
+If a dragon is favorited, it will always be shown at the top left of the Lair and will be unable to be auctioned, deleted, or traded. There is no limit on how many dragons the player can favorite.
+
+### Deleting
+
+The player can delete any non-favorited dragon in their Lair by selecting a dragon and then by clicking the Trash Dragons button. When this button is selected, a notice will be displayed reading "Release Mode is currently enabled!", and the player will be able to select any dragon they wish to delete. The player may exit out of Release Mode at any time by clicking the Turn off Release Mode button.
+
+Dragons selected for deletion will have darkened cards with X marks on them. Once their selected dragon(s) have been chosen, the player can select the "Release # selected dragons" button to confirm the deletion. Once a dragon is deleted, it will not be able to be retrieved.
+
+### Searching
+
+The player can search for any of their dragons by using the search bar that reads "Enter keyword." This feature will only search for dragons by their name or species.
+
+### Sorting
+
+The player is able to sort through their dragons by any of the four filters: Name, gender, level, or species.
+
+- The **Name** filter is selected by default, and it will display all of the player's dragons' names from A-Z.
+- The **Gender** filter will display all male dragons before female dragons.
+- The **Level** filter will display all of the player's dragons from highest to lowest (level 20 to level 1).
+- The **Species** filter will display all of the player's dragons' species names from A-Z.
+
+Favorited dragons will always be displayed at the top left of the Lair, regardless of the filter.
+
+## Lair Capacity
+
+Each player is able to have a max of 5 dragons when they first begin playing. The player can upgrade their dragon capacity by five slots using coins. Lair upgrades cost more each time they are purchased.
+
+The player is able to see how many dragons they have at the top of their Lair menu and may hold up to 200 dragons in their lair at a time.
+
+### Lair Capacity Upgrade Costs
+
+| Upgrade | Capacity | Cost (Coins) |
+|---------|----------|--------------|
+| 1 | 5 | Free |
+| 2 | 10 | 1,000 |
+| 3 | 15 | 1,000 |
+| 4 | 20 | 5,000 |
+| 5 | 25 | 11,000 |
+| 6 | 30 | 21,000 |
+| 7 | 35 | 36,000 |
+| 8 | 40 | 58,000 |
+| 9 | 45 | 86,000 |
+| 10 | 50 | 123,000 |
+| 11 | 55 | 169,000 |
+| 12 | 60 | 224,000 |
+| 13 | 65 | 291,000 |
+| 14 | 70 | 371,000 |
+| 15 | 75 | 463,000 |
+| 16 | 80 | 569,000 |
+| 17 | 85 | 691,000 |
+| 18 | 90 | 829,000 |
+| 19 | 95 | 984,000 |
+| 20 | 100 | 1,157,000 |
+| 21 | 105 | 1,349,000 |
+| 22 | 110 | 1,562,000 |
+| 23 | 115 | 1,796,000 |
+| 24 | 120 | 2,052,000 |
+| 25 | 125 | 2,331,000 |
+| 26 | 130 | 2,635,000 |
+| 27 | 135 | 2,964,000 |
+| 28 | 140 | 3,320,000 |
+| 29 | 145 | 3,702,000 |
+| 30 | 150 | 4,113,000 |
+| 31 | 155 | 4,554,000 |
+| 32 | 160 | 5,024,000 |
+| 33 | 165 | 5,526,000 |
+| 34 | 170 | 6,061,000 |
+| 35 | 175 | 6,629,000 |
+| 36 | 180 | 7,231,000 |
+| 37 | 185 | 7,869,000 |
+| 38 | 190 | 8,543,000 |
+| 39 | 195 | 9,254,000 |
+| 40 | 200 | 10,004,000 |
+| **Total** | **200** | **102,609,000** |
+
+### Loyalty Perks
+
+On January 12th, 2024, Loyalty Perks were introduced as a permanent feature. If the player is in the Sonar Studios Roblox group and has Dragon Adventures favorited on the Roblox site, they will be able to claim 5 additional lair slots, letting the player have a total of 205 lair slots.
+
+## Trivia
+
+- The Lair interface has been revamped five times.
+- On February 5th, 2022, favoriting was added.
+- On May 11th, 2022, the concept artist tooltip was added.
+- Dragons obtained before May 2023 may not have an accurate hatch date because the system recording hatch dates was not implemented until later.
+- The heritage menu will be unviewable if the dragon's original owner has had their Roblox account terminated.
+- On February 2nd, 2024, the cost of lair upgrades was reduced, and the lair capacity was doubled.
+- On June 25th, 2025, the Lair's dragon selection interface and tabs were redone.
+- On July 4th, 2025, the appearance tab was added.
+- On November 14th, 2025, the delete button was revamped to allow players to select multiple dragons at a time.
+  - On November 21st, some adjustments to the feature were made, including fixing the Release Mode warning text from cutting off on mobile devices, automatically de-selecting the player's selected dragon when the Trash Dragons button is clicked to prevent accidental deletions, and adjusting the Release Mode text for clarification.
