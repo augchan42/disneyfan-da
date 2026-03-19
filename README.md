@@ -24,3 +24,22 @@ A collection of game knowledge and reference materials for [Dragon Adventures](h
 - **[official-dragons-wiki.md](official-dragons-wiki.md)** — Complete list of all dragons
 - **[dragon-seasons-wiki.md](dragon-seasons-wiki.md)** — Dragon Seasons rewards and timelines
 - **[worlds-wiki.md](worlds-wiki.md)** — All worlds and their resources
+
+## Scraper Tool
+
+**[scrape.mjs](scrape.mjs)** — Automated wiki scraper that fetches Dragon Adventures Fandom pages and outputs clean markdown.
+
+```bash
+# Install dependencies (first time only)
+npm install && npx playwright install chromium
+
+# Scrape a single page
+node scrape.mjs Stables                    # -> stables-wiki.md
+node scrape.mjs Veidreki_Live_Event        # -> veidreki-live-event-wiki.md
+node scrape.mjs Potions potions-wiki.md    # custom output name
+
+# Scrape multiple pages at once
+node scrape.mjs --batch Stables Bank Eggs Elements VIP_Servers
+```
+
+Uses Playwright + Readability to bypass Fandom's bot blocking, extract article content, strip navigation/ads/chrome, and convert to clean markdown with proper tables and links.
