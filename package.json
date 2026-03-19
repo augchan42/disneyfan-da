@@ -1,0 +1,25 @@
+{
+  "name": "disneyfan-da",
+  "version": "1.0.0",
+  "description": "A collection of game knowledge and reference materials for [Dragon Adventures](https://www.roblox.com/games/3475397644/Dragon-Adventures) on Roblox. Focused on helping trade for a Veidreki.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/augchan42/disneyfan-da.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/augchan42/disneyfan-da/issues"
+  },
+  "homepage": "https://github.com/augchan42/disneyfan-da#readme",
+  "dependencies": {
+    "@mozilla/readability": "^0.6.0",
+    "jsdom": "^29.0.0",
+    "playwright": "^1.58.2"
+  }
+}
